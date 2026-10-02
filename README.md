@@ -1,6 +1,14 @@
 # Animation Agent
 
-Type what a rigged 3D character should do, in plain English, and get a video of it doing that.
+**An autonomous animator agent for any rigged 3D character.** Give it a one-line goal like "do a happy dance". The agent then works through a closed loop of perceive → plan → act → verify → remember:
+
+- **Perceive.** It works out which way the character faces and what each bone is.
+- **Plan.** It choreographs the keyframes.
+- **Act.** It uses tools: pose previews, an IK solver, and mirroring.
+- **Verify.** It checks its own renders, plus measured collisions and balance, against the goal, and keeps revising until every action passes.
+- **Remember.** It saves the poses and lessons it learned for the next command.
+
+The result is a rendered video plus a skinned animation (glb/fbx) ready for Blender, Unreal, or Unity.
 
 ```
 [panda] command > do a happy dance: sway side to side and wave both arms above its head
