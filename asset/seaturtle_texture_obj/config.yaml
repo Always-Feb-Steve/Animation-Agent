@@ -1,0 +1,109 @@
+# Default configuration for video rigging optimization
+
+# General
+frame_num: 120
+random_seed: 0
+device: "cuda:0"
+image_size: 512
+output_dir: "./output"
+log_dir: "./logs"
+checkpoint_path: "./checkpoints"  # Absolute or relative path to save/load models and checkpoints
+
+# Checkpoint settings
+checkpoint_interval: 100  # Save checkpoints every N iterations during phase 2
+
+# Visualization settings
+visualize_skeleton: True  # Whether to visualize skeleton on rendered images
+skeleton_blend_factor: 0.8  # Blend factor for skeleton visualization (0.0-1.0)
+
+# Renderer settings
+camera:
+  dist: 1.25
+  elev: 45
+  azim: -75
+lights:
+  location: [0.0, 0.0, 2.0]
+  ambient_color: [0.95, 0.95, 0.95]
+  diffuse_color: [0.05, 0.05, 0.05]
+  specular_color: [0.0, 0.0, 0.0]
+background_color: [1.0, 1.0, 1.0]
+
+# Phase 1 settings
+phase1:
+  iterations: 50
+  optimizer:
+    name: "Adam"
+    lr: 0.001
+    betas: [0.9, 0.999]
+    eps: 1.0e-8
+    weight_decay: 1.0e-4
+  scheduler:
+    patience: 20
+    factor: 0.5
+  losses:
+    mask_loss_weight: 1.0
+    rgb_loss_weight: 0.5
+    tracking_loss_weight: 3.0
+    rotation_reg:
+      weight: 1.0
+      threshold: 1.0 # 0.31415926  # PI/10
+    translation_reg:
+      weight: 100.0
+      threshold: 0.0  # Same as Phase 2
+    smooth:
+      weight_first: 0.3
+      weight_second: 1.0
+    depth_loss_weight: 0.3
+  gradient_clip_norm: 1.0
+
+# Phase 2 settings
+phase2:
+  iterations: 200
+  optimizer:
+    name: "Adam"
+    lr: 0.001
+    betas: [0.9, 0.999]
+    eps: 1.0e-8
+    weight_decay: 1.0e-4
+  scheduler:
+    patience: 20
+    factor: 0.5
+  losses:
+    mask_loss_weight: 1.0
+    rgb_loss_weight: 0.5
+    tracking_loss_weight: 3.0
+    rotation_reg:
+      weight: 1.0
+      threshold: 0.31415926  # PI/10
+    translation_reg:
+      weight: 100.0
+      threshold: 0.0  # 5cm if units are in meters
+    smooth:
+      weight_first: 0.3
+      weight_second: 1.0
+    depth_loss_weight: 0.3
+  gradient_clip_norm: 1.0
+
+# Video output settings
+video:
+  fps: 30
+
+# Physics simulation settings
+physics:
+  # Optimization parameters
+  num_iterations: 300
+  sim_time: 1.2  # Total simulation time in seconds
+  sim_steps: 120  # Number of simulation steps
+  save_interval: 2  # Save checkpoint every N iterations
+  num_clusters: 100  # Number of clusters for material parameter optimization
+  min_E: 1e3  # Minimum Young's modulus value
+  max_E: 1e8  # Maximum Young's modulus value
+
+  losses:
+    mask_loss_weight: 1.0
+    rgb_loss_weight: 0.5
+    tracking_loss_weight: 3.0
+    smooth:
+      weight_first: 0.0
+      weight_second: 0.0
+    depth_loss_weight: 0.1

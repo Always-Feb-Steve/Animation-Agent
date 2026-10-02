@@ -1,0 +1,18 @@
+# secrets
+.env
+.env.*
+*.pem
+*.key
+
+# python
+__pycache__/
+*.pyc
+
+# large checkpoints (download with download_ckpts.ps1)
+asset/sam_vit_h_4b8939.pth
+*.pth
+*.ckpt
+
+# run outputs
+agent_output*/
+output*/

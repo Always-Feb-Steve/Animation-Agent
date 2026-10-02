@@ -1,0 +1,3257 @@
+joints bone_0 0.01953125 0.33203116 -0.18359375
+joints bone_1 -0.30078119 0.38671863 0.10546872
+joints bone_2 -0.54296881 0.50390619 0.31640619
+joints bone_3 -0.75390637 0.61328125 0.55859387
+joints bone_4 -0.88671875 0.37109402 0.89453113
+joints bone_5 -0.38671875 0.26171869 0.44921869
+joints bone_6 -0.34765631 -0.13671890 0.37109369
+joints bone_7 -0.41015625 -0.58984387 0.40234375
+joints bone_8 -0.48046875 -0.73046899 0.48828134
+joints bone_9 -0.55078119 -0.76171893 0.57421887
+joints bone_10 -0.66796887 0.25390616 0.11328118
+joints bone_11 -0.56640631 -0.12890655 0.05859368
+joints bone_12 -0.55859369 -0.58203161 0.08984366
+joints bone_13 -0.62890637 -0.72265679 0.15234369
+joints bone_14 -0.73828119 -0.76953167 0.20703118
+joints bone_15 0.12890624 0.34765613 -0.24609372
+joints bone_16 0.46484375 0.32421854 -0.57421875
+joints bone_17 0.64453107 0.01171848 -0.75390601
+joints bone_18 0.86328101 -0.42578173 -0.83203095
+joints bone_19 0.44140631 0.19140606 -0.29296875
+joints bone_20 0.42578125 -0.23828132 -0.23046882
+joints bone_21 0.63671887 -0.51953125 -0.41796893
+joints bone_22 0.62890637 -0.78515649 -0.41015643
+joints bone_23 0.55859393 -0.85546911 -0.33984390
+joints bone_24 0.20703119 0.21484351 -0.56640613
+joints bone_25 0.13671875 -0.23046878 -0.58203125
+joints bone_26 0.35546869 -0.52734411 -0.74609375
+joints bone_27 0.30859366 -0.79296923 -0.72265595
+joints bone_28 0.19921863 -0.86328173 -0.68359363
+root bone_0
+skin 0 bone_1 0.0529 bone_2 0.8976 bone_3 0.0495
+skin 1 bone_1 0.0706 bone_2 0.8943 bone_3 0.0350
+skin 2 bone_1 0.0597 bone_2 0.8704 bone_3 0.0698
+skin 3 bone_2 0.0510 bone_3 0.8789 bone_4 0.0701
+skin 4 bone_2 0.0392 bone_3 0.8510 bone_4 0.1098
+skin 5 bone_2 0.0387 bone_3 0.8605 bone_4 0.1008
+skin 6 bone_18 1.0000
+skin 7 bone_18 1.0000
+skin 8 bone_18 1.0000
+skin 9 bone_1 0.5136 bone_2 0.4420 bone_10 0.0444
+skin 10 bone_1 0.4435 bone_2 0.4424 bone_3 0.0755 bone_10 0.0386
+skin 11 bone_1 0.3840 bone_2 0.6160
+skin 12 bone_26 1.0000
+skin 13 bone_26 1.0000
+skin 14 bone_26 1.0000
+skin 15 bone_3 0.9024 bone_4 0.0976
+skin 16 bone_3 1.0000
+skin 17 bone_3 1.0000
+skin 18 bone_19 0.8993 bone_20 0.1007
+skin 19 bone_19 0.9278 bone_20 0.0722
+skin 20 bone_19 0.9543 bone_20 0.0457
+skin 21 bone_16 0.7815 bone_19 0.2185
+skin 22 bone_16 0.8171 bone_19 0.1829
+skin 23 bone_16 0.9053 bone_19 0.0947
+skin 24 bone_16 0.8221 bone_24 0.1779
+skin 25 bone_16 1.0000
+skin 26 bone_16 0.9551 bone_24 0.0449
+skin 27 bone_3 1.0000
+skin 28 bone_3 1.0000
+skin 29 bone_3 1.0000
+skin 30 bone_27 1.0000
+skin 31 bone_27 0.9419 bone_28 0.0581
+skin 32 bone_27 0.9625 bone_28 0.0375
+skin 33 bone_6 1.0000
+skin 34 bone_6 1.0000
+skin 35 bone_6 1.0000
+skin 36 bone_19 0.0463 bone_24 0.9224 bone_25 0.0313
+skin 37 bone_24 0.6967 bone_25 0.3033
+skin 38 bone_19 0.1522 bone_20 0.0308 bone_24 0.7486 bone_25 0.0685
+skin 39 bone_22 0.9190 bone_23 0.0810
+skin 40 bone_22 0.6752 bone_23 0.3248
+skin 41 bone_22 0.7788 bone_23 0.2212
+skin 42 bone_16 1.0000
+skin 43 bone_15 0.1441 bone_16 0.3151 bone_19 0.2499 bone_24 0.2909
+skin 44 bone_16 0.5961 bone_19 0.3473 bone_24 0.0566
+skin 45 bone_19 0.2347 bone_24 0.7208 bone_25 0.0446
+skin 46 bone_17 0.9618 bone_18 0.0382
+skin 47 bone_17 0.6545 bone_18 0.3455
+skin 48 bone_17 0.7653 bone_18 0.2347
+skin 49 bone_1 0.4750 bone_2 0.1941 bone_3 0.2104 bone_10 0.1205
+skin 50 bone_1 0.5187 bone_2 0.3621 bone_3 0.0396 bone_10 0.0796
+skin 51 bone_12 1.0000
+skin 52 bone_12 1.0000
+skin 53 bone_12 1.0000
+skin 54 bone_7 0.9575 bone_8 0.0425
+skin 55 bone_7 1.0000
+skin 56 bone_7 1.0000
+skin 57 bone_3 0.9031 bone_4 0.0969
+skin 58 bone_3 0.8229 bone_4 0.1771
+skin 59 bone_3 0.8229 bone_4 0.1771
+skin 60 bone_3 1.0000
+skin 61 bone_3 1.0000
+skin 62 bone_3 1.0000
+skin 63 bone_20 0.7542 bone_21 0.2458
+skin 64 bone_20 0.3599 bone_21 0.6401
+skin 65 bone_20 0.1640 bone_21 0.8360
+skin 66 bone_6 1.0000
+skin 67 bone_6 0.9559 bone_7 0.0441
+skin 68 bone_6 1.0000
+skin 69 bone_3 1.0000
+skin 70 bone_3 1.0000
+skin 71 bone_3 1.0000
+skin 72 bone_1 0.0633 bone_3 0.0317 bone_5 0.1019 bone_10 0.8031
+skin 73 bone_1 0.0403 bone_5 0.1985 bone_10 0.7612
+skin 74 bone_1 0.0454 bone_5 0.2940 bone_10 0.6606
+skin 75 bone_0 0.1802 bone_1 0.5996 bone_5 0.1014 bone_15 0.1187
+skin 76 bone_0 0.2560 bone_1 0.3380 bone_5 0.1190 bone_15 0.2870
+skin 77 bone_0 0.4068 bone_1 0.1838 bone_5 0.0724 bone_15 0.3370
+skin 78 bone_1 0.0433 bone_5 0.9567
+skin 79 bone_5 0.6279 bone_6 0.3721
+skin 80 bone_1 0.0310 bone_5 0.8932 bone_6 0.0759
+skin 81 bone_3 0.7323 bone_4 0.2677
+skin 82 bone_3 0.5976 bone_4 0.4024
+skin 83 bone_3 0.4395 bone_4 0.5605
+skin 84 bone_3 1.0000
+skin 85 bone_3 1.0000
+skin 86 bone_3 1.0000
+skin 87 bone_11 1.0000
+skin 88 bone_11 1.0000
+skin 89 bone_11 0.9206 bone_12 0.0794
+skin 90 bone_17 1.0000
+skin 91 bone_17 1.0000
+skin 92 bone_17 1.0000
+skin 93 bone_10 0.9143 bone_11 0.0857
+skin 94 bone_10 0.7048 bone_11 0.2952
+skin 95 bone_10 0.4852 bone_11 0.5148
+skin 96 bone_3 1.0000
+skin 97 bone_3 1.0000
+skin 98 bone_3 1.0000
+skin 99 bone_5 0.0403 bone_15 0.5636 bone_19 0.3962
+skin 100 bone_5 0.0940 bone_15 0.4191 bone_19 0.4869
+skin 101 bone_1 0.0552 bone_5 0.6314 bone_15 0.2174 bone_19 0.0960
+skin 102 bone_5 0.4143 bone_6 0.5857
+skin 103 bone_5 0.1485 bone_6 0.8515
+skin 104 bone_5 0.1088 bone_6 0.8912
+skin 105 bone_6 0.0621 bone_7 0.9379
+skin 106 bone_6 0.4681 bone_7 0.5319
+skin 107 bone_6 0.0454 bone_7 0.9546
+skin 108 bone_25 0.7611 bone_26 0.2389
+skin 109 bone_25 0.6082 bone_26 0.3918
+skin 110 bone_25 0.1406 bone_26 0.8594
+skin 111 bone_21 1.0000
+skin 112 bone_21 1.0000
+skin 113 bone_21 1.0000
+skin 114 bone_5 0.4177 bone_6 0.5823
+skin 115 bone_5 0.3723 bone_6 0.6277
+skin 116 bone_1 0.0372 bone_5 0.7380 bone_6 0.2247
+skin 117 bone_18 1.0000
+skin 118 bone_18 1.0000
+skin 119 bone_18 1.0000
+skin 120 bone_3 1.0000
+skin 121 bone_3 1.0000
+skin 122 bone_3 1.0000
+skin 123 bone_1 0.5056 bone_5 0.4944
+skin 124 bone_1 0.3930 bone_5 0.6070
+skin 125 bone_1 0.4804 bone_5 0.5196
+skin 126 bone_3 1.0000
+skin 127 bone_3 1.0000
+skin 128 bone_3 1.0000
+skin 129 bone_3 1.0000
+skin 130 bone_3 1.0000
+skin 131 bone_3 1.0000
+skin 132 bone_22 0.6455 bone_23 0.3545
+skin 133 bone_22 0.6811 bone_23 0.3189
+skin 134 bone_22 0.8284 bone_23 0.1716
+skin 135 bone_8 0.8759 bone_9 0.1241
+skin 136 bone_8 0.5942 bone_9 0.4058
+skin 137 bone_7 0.0390 bone_8 0.7217 bone_9 0.2393
+skin 138 bone_0 0.0490 bone_15 0.6707 bone_19 0.1477 bone_24 0.1327
+skin 139 bone_0 0.2267 bone_15 0.7733
+skin 140 bone_0 0.0661 bone_15 0.6435 bone_19 0.1954 bone_24 0.0949
+skin 141 bone_24 0.0363 bone_25 0.9637
+skin 142 bone_24 0.4273 bone_25 0.5727
+skin 143 bone_24 0.1412 bone_25 0.8588
+skin 144 bone_9 1.0000
+skin 145 bone_9 1.0000
+skin 146 bone_9 1.0000
+skin 147 bone_3 0.8835 bone_4 0.1165
+skin 148 bone_0 0.0860 bone_15 0.6899 bone_19 0.0371 bone_24 0.1870
+skin 149 bone_0 0.0417 bone_15 0.6842 bone_24 0.2741
+skin 150 bone_0 0.0485 bone_15 0.5796 bone_19 0.0437 bone_24 0.3281
+skin 151 bone_1 0.0396 bone_5 0.4661 bone_15 0.2949 bone_19 0.1994
+skin 152 bone_1 0.0479 bone_5 0.8708 bone_6 0.0474 bone_15 0.0339
+skin 153 bone_16 1.0000
+skin 154 bone_16 1.0000
+skin 155 bone_16 1.0000
+skin 156 bone_3 0.9118 bone_4 0.0882
+skin 157 bone_3 0.8393 bone_4 0.1607
+skin 158 bone_3 1.0000
+skin 159 bone_2 0.2872 bone_3 0.7128
+skin 160 bone_2 0.5487 bone_3 0.4513
+skin 161 bone_2 0.5691 bone_3 0.4309
+skin 162 bone_5 0.3557 bone_6 0.0345 bone_10 0.6098
+skin 163 bone_1 0.1038 bone_5 0.2639 bone_6 0.0633 bone_10 0.5690
+skin 164 bone_5 0.5593 bone_6 0.1418 bone_10 0.2989
+skin 165 bone_11 1.0000
+skin 166 bone_11 1.0000
+skin 167 bone_11 1.0000
+skin 168 bone_3 0.9426 bone_10 0.0574
+skin 169 bone_3 0.8083 bone_10 0.1917
+skin 170 bone_1 0.0748 bone_3 0.7336 bone_10 0.1916
+skin 171 bone_21 1.0000
+skin 172 bone_21 1.0000
+skin 173 bone_21 1.0000
+skin 174 bone_1 0.6570 bone_2 0.1722 bone_10 0.1708
+skin 175 bone_1 0.5219 bone_2 0.4057 bone_10 0.0724
+skin 176 bone_22 0.6284 bone_23 0.3716
+skin 177 bone_22 0.7873 bone_23 0.2127
+skin 178 bone_22 0.7934 bone_23 0.2066
+skin 179 bone_3 1.0000
+skin 180 bone_3 0.8008 bone_4 0.1992
+skin 181 bone_3 1.0000
+skin 182 bone_24 0.7022 bone_25 0.2978
+skin 183 bone_24 0.4331 bone_25 0.5669
+skin 184 bone_24 1.0000
+skin 185 bone_1 0.0382 bone_2 0.9071 bone_3 0.0547
+skin 186 bone_5 0.0622 bone_6 0.9378
+skin 187 bone_5 0.0372 bone_6 0.9628
+skin 188 bone_15 0.4880 bone_19 0.4454 bone_24 0.0665
+skin 189 bone_15 0.3508 bone_19 0.5572 bone_24 0.0919
+skin 190 bone_15 0.2600 bone_19 0.6756 bone_24 0.0644
+skin 191 bone_2 0.2741 bone_3 0.7259
+skin 192 bone_2 0.4723 bone_3 0.5277
+skin 193 bone_1 0.0357 bone_2 0.4100 bone_3 0.5542
+skin 194 bone_1 0.4112 bone_2 0.0803 bone_3 0.1179 bone_10 0.3905
+skin 195 bone_1 0.3291 bone_2 0.1499 bone_3 0.2826 bone_10 0.2384
+skin 196 bone_1 0.3782 bone_2 0.1029 bone_3 0.1192 bone_10 0.3997
+skin 197 bone_3 1.0000
+skin 198 bone_3 1.0000
+skin 199 bone_3 1.0000
+skin 200 bone_1 0.0839 bone_10 0.9161
+skin 201 bone_1 0.0801 bone_10 0.9199
+skin 202 bone_1 0.0845 bone_10 0.9155
+skin 203 bone_19 0.3968 bone_20 0.6032
+skin 204 bone_19 0.0703 bone_20 0.9297
+skin 205 bone_19 0.1868 bone_20 0.8132
+skin 206 bone_16 0.0613 bone_19 0.0337 bone_24 0.4400 bone_25 0.4650
+skin 207 bone_16 0.1329 bone_20 0.0391 bone_24 0.1874 bone_25 0.6405
+skin 208 bone_16 0.0792 bone_19 0.1661 bone_24 0.4721 bone_25 0.2826
+skin 209 bone_1 0.0609 bone_10 0.9391
+skin 210 bone_1 0.2945 bone_10 0.7055
+skin 211 bone_1 0.1874 bone_10 0.8126
+skin 212 bone_17 0.1294 bone_18 0.8706
+skin 213 bone_17 0.0920 bone_18 0.9080
+skin 214 bone_17 0.0455 bone_18 0.9545
+skin 215 bone_19 1.0000
+skin 216 bone_15 0.0506 bone_19 0.9077 bone_24 0.0416
+skin 217 bone_19 1.0000
+skin 218 bone_1 0.1706 bone_5 0.2093 bone_10 0.2772 bone_15 0.3429
+skin 219 bone_0 0.1224 bone_1 0.1365 bone_10 0.2138 bone_15 0.5273
+skin 220 bone_1 0.1099 bone_5 0.1612 bone_10 0.1202 bone_15 0.6087
+skin 221 bone_27 0.6311 bone_28 0.3689
+skin 222 bone_27 0.7301 bone_28 0.2699
+skin 223 bone_27 0.7980 bone_28 0.2020
+skin 224 bone_6 1.0000
+skin 225 bone_6 0.6893 bone_7 0.3107
+skin 226 bone_19 1.0000
+skin 227 bone_19 1.0000
+skin 228 bone_19 1.0000
+skin 229 bone_0 0.0507 bone_15 0.8865 bone_24 0.0628
+skin 230 bone_15 0.5366 bone_24 0.4634
+skin 231 bone_0 0.0329 bone_15 0.6902 bone_24 0.2769
+skin 232 bone_19 1.0000
+skin 233 bone_19 1.0000
+skin 234 bone_19 1.0000
+skin 235 bone_3 1.0000
+skin 236 bone_3 1.0000
+skin 237 bone_3 1.0000
+skin 238 bone_18 1.0000
+skin 239 bone_18 1.0000
+skin 240 bone_18 1.0000
+skin 241 bone_16 0.5668 bone_19 0.4332
+skin 242 bone_16 0.5562 bone_19 0.4438
+skin 243 bone_16 0.4402 bone_19 0.5598
+skin 244 bone_19 1.0000
+skin 245 bone_19 0.0663 bone_20 0.9337
+skin 246 bone_19 0.1499 bone_20 0.8501
+skin 247 bone_20 0.9167 bone_21 0.0833
+skin 248 bone_3 1.0000
+skin 249 bone_3 1.0000
+skin 250 bone_3 1.0000
+skin 251 bone_14 1.0000
+skin 252 bone_13 0.1158 bone_14 0.8842
+skin 253 bone_13 0.6407 bone_14 0.3593
+skin 254 bone_1 0.1038 bone_2 0.2938 bone_3 0.6024
+skin 255 bone_1 0.0791 bone_2 0.4461 bone_3 0.4747
+skin 256 bone_1 0.2270 bone_2 0.4165 bone_3 0.3565
+skin 257 bone_3 1.0000
+skin 258 bone_3 1.0000
+skin 259 bone_3 1.0000
+skin 260 bone_16 0.0419 bone_19 0.6421 bone_20 0.2500 bone_24 0.0660
+skin 261 bone_16 0.1575 bone_19 0.3828 bone_20 0.4173 bone_24 0.0424
+skin 262 bone_19 0.3277 bone_20 0.6723
+skin 263 bone_5 0.0690 bone_6 0.1480 bone_10 0.1877 bone_11 0.5953
+skin 264 bone_6 0.1004 bone_10 0.0942 bone_11 0.8054
+skin 265 bone_5 0.0411 bone_6 0.1201 bone_10 0.1869 bone_11 0.6519
+skin 266 bone_18 1.0000
+skin 267 bone_18 1.0000
+skin 268 bone_18 1.0000
+skin 269 bone_1 0.2404 bone_5 0.0530 bone_10 0.3028 bone_15 0.4037
+skin 270 bone_0 0.0741 bone_1 0.2024 bone_10 0.1788 bone_15 0.5447
+skin 271 bone_1 0.0886 bone_10 0.1216 bone_15 0.7006 bone_24 0.0892
+skin 272 bone_16 0.1839 bone_24 0.8161
+skin 273 bone_16 0.0788 bone_24 0.0971 bone_25 0.8241
+skin 274 bone_24 0.2787 bone_25 0.7213
+skin 275 bone_26 0.8094 bone_27 0.1906
+skin 276 bone_26 1.0000
+skin 277 bone_26 0.9291 bone_27 0.0709
+skin 278 bone_0 0.4694 bone_15 0.5306
+skin 279 bone_0 0.5945 bone_15 0.4055
+skin 280 bone_0 0.3493 bone_15 0.6193 bone_19 0.0314
+skin 281 bone_3 1.0000
+skin 282 bone_3 1.0000
+skin 283 bone_3 1.0000
+skin 284 bone_16 1.0000
+skin 285 bone_16 1.0000
+skin 286 bone_16 1.0000
+skin 287 bone_16 0.7480 bone_19 0.2520
+skin 288 bone_16 0.3879 bone_19 0.6121
+skin 289 bone_16 0.6496 bone_19 0.3504
+skin 290 bone_17 1.0000
+skin 291 bone_17 1.0000
+skin 292 bone_17 1.0000
+skin 293 bone_3 1.0000
+skin 294 bone_3 0.9596 bone_4 0.0404
+skin 295 bone_3 1.0000
+skin 296 bone_3 0.9691 bone_4 0.0309
+skin 297 bone_3 0.9521 bone_4 0.0479
+skin 298 bone_3 1.0000
+skin 299 bone_24 1.0000
+skin 300 bone_24 0.0602 bone_25 0.9398
+skin 301 bone_24 0.0943 bone_25 0.9057
+skin 302 bone_24 0.0669 bone_25 0.9331
+skin 303 bone_1 0.0863 bone_5 0.1957 bone_10 0.7180
+skin 304 bone_2 0.0316 bone_3 0.9684
+skin 305 bone_3 1.0000
+skin 306 bone_3 1.0000
+skin 307 bone_2 0.0564 bone_3 0.9436
+skin 308 bone_2 0.1810 bone_3 0.7156 bone_5 0.1034
+skin 309 bone_2 0.2995 bone_3 0.7005
+skin 310 bone_2 0.0493 bone_3 0.9113 bone_4 0.0394
+skin 311 bone_2 0.0494 bone_3 0.9130 bone_4 0.0376
+skin 312 bone_3 1.0000
+skin 313 bone_18 1.0000
+skin 314 bone_18 1.0000
+skin 315 bone_18 1.0000
+skin 316 bone_5 0.8785 bone_6 0.1215
+skin 317 bone_5 0.9314 bone_6 0.0686
+skin 318 bone_3 0.8975 bone_4 0.1025
+skin 319 bone_3 1.0000
+skin 320 bone_16 0.9323 bone_19 0.0677
+skin 321 bone_16 0.4741 bone_19 0.5259
+skin 322 bone_1 0.3410 bone_5 0.6590
+skin 323 bone_1 0.2806 bone_5 0.7194
+skin 324 bone_1 0.2559 bone_5 0.7441
+skin 325 bone_2 0.0335 bone_3 0.8385 bone_4 0.1280
+skin 326 bone_2 0.0387 bone_3 0.8430 bone_4 0.1183
+skin 327 bone_3 0.8695 bone_4 0.1305
+skin 328 bone_16 1.0000
+skin 329 bone_16 1.0000
+skin 330 bone_26 0.7517 bone_27 0.2483
+skin 331 bone_26 1.0000
+skin 332 bone_26 0.9507 bone_27 0.0493
+skin 333 bone_7 1.0000
+skin 334 bone_7 1.0000
+skin 335 bone_7 1.0000
+skin 336 bone_18 1.0000
+skin 337 bone_17 0.0502 bone_18 0.9498
+skin 338 bone_18 1.0000
+skin 339 bone_2 0.9410 bone_3 0.0590
+skin 340 bone_2 0.9222 bone_3 0.0370 bone_5 0.0407
+skin 341 bone_2 0.9271 bone_3 0.0309 bone_5 0.0419
+skin 342 bone_19 0.0325 bone_20 0.9675
+skin 343 bone_20 1.0000
+skin 344 bone_20 1.0000
+skin 345 bone_6 1.0000
+skin 346 bone_6 1.0000
+skin 347 bone_6 1.0000
+skin 348 bone_11 0.9070 bone_12 0.0930
+skin 349 bone_11 0.4687 bone_12 0.5313
+skin 350 bone_11 0.9239 bone_12 0.0761
+skin 351 bone_1 0.1436 bone_5 0.3193 bone_10 0.1057 bone_15 0.4315
+skin 352 bone_3 1.0000
+skin 353 bone_3 1.0000
+skin 354 bone_3 1.0000
+skin 355 bone_5 0.0532 bone_6 0.9468
+skin 356 bone_5 0.0729 bone_6 0.9271
+skin 357 bone_6 1.0000
+skin 358 bone_0 0.0529 bone_1 0.8203 bone_10 0.1268
+skin 359 bone_1 0.7104 bone_10 0.2896
+skin 360 bone_0 0.0328 bone_1 0.9672
+skin 361 bone_5 0.2045 bone_10 0.3237 bone_11 0.2253 bone_15 0.2465
+skin 362 bone_1 0.2143 bone_5 0.2512 bone_10 0.2888 bone_15 0.2457
+skin 363 bone_25 1.0000
+skin 364 bone_25 1.0000
+skin 365 bone_25 0.9194 bone_26 0.0806
+skin 366 bone_2 0.8085 bone_3 0.1915
+skin 367 bone_2 0.8857 bone_3 0.1143
+skin 368 bone_2 0.8088 bone_3 0.1912
+skin 369 bone_0 0.2653 bone_15 0.7347
+skin 370 bone_0 0.3373 bone_15 0.6627
+skin 371 bone_0 0.2371 bone_15 0.7629
+skin 372 bone_6 0.7816 bone_7 0.2184
+skin 373 bone_6 0.9648 bone_7 0.0352
+skin 374 bone_6 0.1497 bone_7 0.8503
+skin 375 bone_3 1.0000
+skin 376 bone_3 1.0000
+skin 377 bone_2 0.1029 bone_3 0.8971
+skin 378 bone_24 1.0000
+skin 379 bone_24 1.0000
+skin 380 bone_24 1.0000
+skin 381 bone_1 0.1885 bone_2 0.1330 bone_5 0.6785
+skin 382 bone_1 0.3219 bone_2 0.0367 bone_5 0.6415
+skin 383 bone_1 0.3381 bone_2 0.0654 bone_5 0.5965
+skin 384 bone_27 0.8921 bone_28 0.1079
+skin 385 bone_27 0.9098 bone_28 0.0902
+skin 386 bone_27 0.9495 bone_28 0.0505
+skin 387 bone_27 0.8274 bone_28 0.1726
+skin 388 bone_1 0.3159 bone_5 0.6841
+skin 389 bone_1 0.2445 bone_5 0.7555
+skin 390 bone_1 0.3161 bone_5 0.6839
+skin 391 bone_16 0.1901 bone_17 0.8099
+skin 392 bone_16 0.0681 bone_17 0.9319
+skin 393 bone_16 0.0317 bone_17 0.9683
+skin 394 bone_3 0.5657 bone_5 0.3288 bone_10 0.1055
+skin 395 bone_1 0.0753 bone_3 0.4105 bone_5 0.2645 bone_10 0.2498
+skin 396 bone_1 0.1692 bone_3 0.1643 bone_5 0.3917 bone_10 0.2748
+skin 397 bone_16 1.0000
+skin 398 bone_16 1.0000
+skin 399 bone_16 1.0000
+skin 400 bone_13 0.4162 bone_14 0.5838
+skin 401 bone_13 0.7429 bone_14 0.2571
+skin 402 bone_13 0.8754 bone_14 0.1246
+skin 403 bone_0 0.0709 bone_15 0.8073 bone_24 0.1218
+skin 404 bone_15 0.8813 bone_24 0.1187
+skin 405 bone_15 0.8165 bone_24 0.1835
+skin 406 bone_12 1.0000
+skin 407 bone_12 1.0000
+skin 408 bone_12 1.0000
+skin 409 bone_3 1.0000
+skin 410 bone_3 1.0000
+skin 411 bone_3 1.0000
+skin 412 bone_1 0.0355 bone_5 0.9645
+skin 413 bone_1 0.0305 bone_5 0.9695
+skin 414 bone_1 0.0357 bone_5 0.9643
+skin 415 bone_19 1.0000
+skin 416 bone_19 0.9012 bone_20 0.0988
+skin 417 bone_19 0.9448 bone_20 0.0552
+skin 418 bone_0 0.2093 bone_1 0.5978 bone_15 0.1928
+skin 419 bone_0 0.3675 bone_1 0.4167 bone_15 0.2159
+skin 420 bone_0 0.2568 bone_1 0.6686 bone_15 0.0746
+skin 421 bone_27 1.0000
+skin 422 bone_27 1.0000
+skin 423 bone_26 0.6546 bone_27 0.3454
+skin 424 bone_6 1.0000
+skin 425 bone_6 1.0000
+skin 426 bone_2 0.0373 bone_3 0.8500 bone_4 0.1127
+skin 427 bone_19 1.0000
+skin 428 bone_1 0.1581 bone_2 0.0816 bone_3 0.0936 bone_5 0.6668
+skin 429 bone_2 0.1344 bone_3 0.5012 bone_5 0.3644
+skin 430 bone_2 0.0823 bone_3 0.5285 bone_5 0.3892
+skin 431 bone_16 0.8693 bone_17 0.1307
+skin 432 bone_16 0.8041 bone_17 0.1959
+skin 433 bone_16 0.8232 bone_17 0.1768
+skin 434 bone_5 0.1296 bone_6 0.4219 bone_10 0.1171 bone_11 0.3315
+skin 435 bone_5 0.0336 bone_6 0.1316 bone_10 0.1697 bone_11 0.6652
+skin 436 bone_5 0.0635 bone_6 0.5143 bone_10 0.0427 bone_11 0.3795
+skin 437 bone_16 0.9371 bone_17 0.0629
+skin 438 bone_16 0.9371 bone_17 0.0629
+skin 439 bone_16 0.9033 bone_17 0.0967
+skin 440 bone_11 0.8167 bone_12 0.1833
+skin 441 bone_1 0.0644 bone_3 0.6853 bone_5 0.2503
+skin 442 bone_3 0.8977 bone_5 0.1023
+skin 443 bone_3 0.9136 bone_5 0.0864
+skin 444 bone_18 1.0000
+skin 445 bone_18 1.0000
+skin 446 bone_18 1.0000
+skin 447 bone_3 1.0000
+skin 448 bone_3 1.0000
+skin 449 bone_3 1.0000
+skin 450 bone_10 1.0000
+skin 451 bone_10 1.0000
+skin 452 bone_10 0.8994 bone_11 0.1006
+skin 453 bone_9 1.0000
+skin 454 bone_9 1.0000
+skin 455 bone_9 1.0000
+skin 456 bone_11 0.0333 bone_12 0.9667
+skin 457 bone_12 1.0000
+skin 458 bone_12 1.0000
+skin 459 bone_5 0.0745 bone_6 0.9255
+skin 460 bone_6 1.0000
+skin 461 bone_5 0.0594 bone_6 0.9406
+skin 462 bone_11 1.0000
+skin 463 bone_11 1.0000
+skin 464 bone_2 0.0454 bone_3 0.9546
+skin 465 bone_2 0.0490 bone_3 0.9510
+skin 466 bone_3 1.0000
+skin 467 bone_16 0.0364 bone_17 0.9636
+skin 468 bone_17 1.0000
+skin 469 bone_17 1.0000
+skin 470 bone_10 0.0510 bone_11 0.9490
+skin 471 bone_6 0.0546 bone_11 0.9454
+skin 472 bone_6 0.0844 bone_10 0.2181 bone_11 0.6976
+skin 473 bone_26 0.4382 bone_27 0.5618
+skin 474 bone_2 0.1769 bone_3 0.8231
+skin 475 bone_2 0.2327 bone_3 0.7673
+skin 476 bone_2 0.3817 bone_3 0.6183
+skin 477 bone_0 0.2243 bone_1 0.4535 bone_10 0.1082 bone_15 0.2141
+skin 478 bone_0 0.1573 bone_1 0.3225 bone_10 0.3344 bone_15 0.1857
+skin 479 bone_0 0.0679 bone_1 0.6385 bone_10 0.2936
+skin 480 bone_1 0.1024 bone_5 0.8976
+skin 481 bone_1 0.0845 bone_5 0.6217 bone_6 0.2526 bone_10 0.0412
+skin 482 bone_1 0.1031 bone_5 0.5731 bone_6 0.1727 bone_15 0.1511
+skin 483 bone_1 0.1100 bone_5 0.6666 bone_6 0.0819 bone_15 0.1415
+skin 484 bone_16 0.7107 bone_17 0.2893
+skin 485 bone_16 0.1645 bone_17 0.8355
+skin 486 bone_1 0.9536 bone_2 0.0464
+skin 487 bone_0 0.0886 bone_1 0.9114
+skin 488 bone_0 0.1649 bone_1 0.8351
+skin 489 bone_16 0.5801 bone_17 0.4199
+skin 490 bone_16 0.1551 bone_17 0.8449
+skin 491 bone_17 1.0000
+skin 492 bone_26 1.0000
+skin 493 bone_26 1.0000
+skin 494 bone_26 1.0000
+skin 495 bone_5 0.0330 bone_10 0.8072 bone_11 0.1598
+skin 496 bone_10 0.8796 bone_11 0.1204
+skin 497 bone_10 0.7299 bone_11 0.2701
+skin 498 bone_1 0.1068 bone_3 0.0742 bone_5 0.3982 bone_10 0.4208
+skin 499 bone_1 0.0564 bone_5 0.4825 bone_6 0.0848 bone_10 0.3763
+skin 500 bone_1 0.2489 bone_5 0.4837 bone_6 0.0473 bone_10 0.2202
+skin 501 bone_3 1.0000
+skin 502 bone_3 1.0000
+skin 503 bone_1 0.2758 bone_10 0.4318 bone_11 0.1469 bone_15 0.1455
+skin 504 bone_1 0.2116 bone_10 0.5334 bone_11 0.1977 bone_15 0.0572
+skin 505 bone_1 0.2804 bone_10 0.4580 bone_11 0.0843 bone_15 0.1773
+skin 506 bone_10 1.0000
+skin 507 bone_10 1.0000
+skin 508 bone_10 1.0000
+skin 509 bone_16 0.1324 bone_19 0.8676
+skin 510 bone_16 0.2318 bone_19 0.7682
+skin 511 bone_0 0.1580 bone_15 0.8074 bone_24 0.0346
+skin 512 bone_0 0.1038 bone_15 0.8409 bone_24 0.0553
+skin 513 bone_0 0.0666 bone_15 0.8949 bone_24 0.0385
+skin 514 bone_17 1.0000
+skin 515 bone_17 1.0000
+skin 516 bone_17 1.0000
+skin 517 bone_24 1.0000
+skin 518 bone_19 0.0316 bone_24 0.9684
+skin 519 bone_12 0.8653 bone_13 0.1347
+skin 520 bone_12 0.9112 bone_13 0.0888
+skin 521 bone_12 1.0000
+skin 522 bone_5 0.1309 bone_6 0.8691
+skin 523 bone_5 0.1351 bone_6 0.8649
+skin 524 bone_5 0.1924 bone_6 0.8076
+skin 525 bone_18 1.0000
+skin 526 bone_18 1.0000
+skin 527 bone_17 0.0974 bone_18 0.9026
+skin 528 bone_18 1.0000
+skin 529 bone_18 1.0000
+skin 530 bone_2 0.8085 bone_3 0.1915
+skin 531 bone_2 0.8626 bone_3 0.1374
+skin 532 bone_16 0.5432 bone_17 0.4568
+skin 533 bone_16 0.5893 bone_17 0.4107
+skin 534 bone_16 0.4067 bone_17 0.5933
+skin 535 bone_1 0.1827 bone_10 0.8173
+skin 536 bone_1 0.0420 bone_10 0.9580
+skin 537 bone_1 0.1817 bone_10 0.8183
+skin 538 bone_1 0.2654 bone_5 0.7346
+skin 539 bone_1 0.1306 bone_5 0.8694
+skin 540 bone_1 0.1917 bone_5 0.8083
+skin 541 bone_9 1.0000
+skin 542 bone_8 0.0456 bone_9 0.9544
+skin 543 bone_22 0.8102 bone_23 0.1898
+skin 544 bone_22 0.8914 bone_23 0.1086
+skin 545 bone_22 0.8521 bone_23 0.1479
+skin 546 bone_24 1.0000
+skin 547 bone_24 1.0000
+skin 548 bone_20 0.5162 bone_21 0.4838
+skin 549 bone_20 0.5232 bone_21 0.4768
+skin 550 bone_24 1.0000
+skin 551 bone_16 0.0399 bone_24 0.9601
+skin 552 bone_24 1.0000
+skin 553 bone_16 1.0000
+skin 554 bone_2 0.0818 bone_3 0.9182
+skin 555 bone_2 0.0595 bone_3 0.9405
+skin 556 bone_2 0.1069 bone_3 0.8931
+skin 557 bone_7 0.0321 bone_8 0.4802 bone_9 0.4877
+skin 558 bone_8 0.1185 bone_9 0.8815
+skin 559 bone_7 0.0547 bone_8 0.8534 bone_9 0.0918
+skin 560 bone_16 1.0000
+skin 561 bone_16 1.0000
+skin 562 bone_1 0.0764 bone_5 0.2738 bone_15 0.5080 bone_19 0.1418
+skin 563 bone_5 0.1507 bone_15 0.5584 bone_19 0.2501 bone_24 0.0408
+skin 564 bone_5 0.1258 bone_15 0.5914 bone_19 0.2508 bone_24 0.0320
+skin 565 bone_3 1.0000
+skin 566 bone_3 1.0000
+skin 567 bone_10 0.0918 bone_11 0.9082
+skin 568 bone_11 1.0000
+skin 569 bone_6 0.0369 bone_10 0.2946 bone_11 0.6685
+skin 570 bone_1 0.6408 bone_5 0.3592
+skin 571 bone_1 0.7174 bone_5 0.2826
+skin 572 bone_1 0.5940 bone_2 0.0602 bone_5 0.3458
+skin 573 bone_22 0.6877 bone_23 0.3123
+skin 574 bone_22 0.5621 bone_23 0.4379
+skin 575 bone_22 0.5644 bone_23 0.4356
+skin 576 bone_24 0.0344 bone_25 0.9656
+skin 577 bone_24 0.0441 bone_25 0.9559
+skin 578 bone_25 1.0000
+skin 579 bone_17 1.0000
+skin 580 bone_17 1.0000
+skin 581 bone_16 0.9223 bone_17 0.0777
+skin 582 bone_16 0.9371 bone_17 0.0629
+skin 583 bone_16 0.8822 bone_17 0.1178
+skin 584 bone_17 1.0000
+skin 585 bone_17 0.9655 bone_18 0.0345
+skin 586 bone_17 0.9531 bone_18 0.0469
+skin 587 bone_10 0.6011 bone_11 0.3989
+skin 588 bone_10 0.3567 bone_11 0.6433
+skin 589 bone_5 0.9273 bone_6 0.0727
+skin 590 bone_5 0.8875 bone_6 0.1125
+skin 591 bone_5 0.7545 bone_6 0.2455
+skin 592 bone_2 0.1215 bone_3 0.8785
+skin 593 bone_2 0.2356 bone_3 0.7644
+skin 594 bone_1 0.0489 bone_2 0.3745 bone_3 0.5766
+skin 595 bone_3 1.0000
+skin 596 bone_3 1.0000
+skin 597 bone_3 1.0000
+skin 598 bone_3 0.7118 bone_5 0.0574 bone_10 0.2308
+skin 599 bone_3 0.6616 bone_5 0.1063 bone_10 0.2322
+skin 600 bone_3 1.0000
+skin 601 bone_7 0.9527 bone_8 0.0473
+skin 602 bone_6 0.0881 bone_7 0.9119
+skin 603 bone_1 0.1449 bone_2 0.1811 bone_3 0.0306 bone_5 0.6434
+skin 604 bone_1 0.3436 bone_2 0.1001 bone_5 0.5564
+skin 605 bone_0 0.3074 bone_1 0.6256 bone_15 0.0669
+skin 606 bone_0 0.5352 bone_1 0.0395 bone_15 0.4252
+skin 607 bone_10 0.1855 bone_11 0.8145
+skin 608 bone_10 0.8062 bone_11 0.1938
+skin 609 bone_10 0.2894 bone_11 0.7106
+skin 610 bone_7 0.4368 bone_8 0.5632
+skin 611 bone_7 0.0773 bone_8 0.8423 bone_9 0.0804
+skin 612 bone_7 0.5140 bone_8 0.4860
+skin 613 bone_2 0.0624 bone_3 0.8754 bone_4 0.0622
+skin 614 bone_2 0.0576 bone_3 0.9042 bone_4 0.0381
+skin 615 bone_2 0.0389 bone_3 0.9611
+skin 616 bone_0 0.0893 bone_1 0.7548 bone_5 0.1560
+skin 617 bone_0 0.1698 bone_1 0.6940 bone_5 0.0806 bone_15 0.0557
+skin 618 bone_0 0.1518 bone_1 0.7576 bone_5 0.0516 bone_15 0.0390
+skin 619 bone_3 1.0000
+skin 620 bone_0 0.0842 bone_1 0.8014 bone_5 0.1144
+skin 621 bone_0 0.0412 bone_1 0.7379 bone_5 0.2210
+skin 622 bone_0 0.0526 bone_1 0.7437 bone_5 0.2038
+skin 623 bone_24 1.0000
+skin 624 bone_24 1.0000
+skin 625 bone_24 0.1072 bone_25 0.8928
+skin 626 bone_24 0.0750 bone_25 0.9250
+skin 627 bone_24 0.1547 bone_25 0.8453
+skin 628 bone_15 0.0568 bone_16 0.2884 bone_19 0.6142 bone_24 0.0406
+skin 629 bone_16 0.1906 bone_19 0.8094
+skin 630 bone_26 1.0000
+skin 631 bone_21 0.0362 bone_22 0.9638
+skin 632 bone_22 0.9447 bone_23 0.0553
+skin 633 bone_22 0.9124 bone_23 0.0876
+skin 634 bone_25 1.0000
+skin 635 bone_0 0.4396 bone_1 0.4780 bone_15 0.0824
+skin 636 bone_0 0.6618 bone_1 0.0730 bone_15 0.2652
+skin 637 bone_0 0.6589 bone_1 0.0739 bone_15 0.2672
+skin 638 bone_0 0.5775 bone_1 0.2157 bone_15 0.2068
+skin 639 bone_3 0.5125 bone_4 0.4875
+skin 640 bone_3 0.1673 bone_4 0.8327
+skin 641 bone_3 0.3954 bone_4 0.6046
+skin 642 bone_18 1.0000
+skin 643 bone_18 1.0000
+skin 644 bone_18 1.0000
+skin 645 bone_1 0.0368 bone_2 0.1390 bone_3 0.8243
+skin 646 bone_1 0.1142 bone_2 0.2507 bone_3 0.6351
+skin 647 bone_1 0.0365 bone_2 0.0774 bone_3 0.8860
+skin 648 bone_21 0.6193 bone_22 0.3807
+skin 649 bone_21 0.1738 bone_22 0.8262
+skin 650 bone_21 0.5023 bone_22 0.4977
+skin 651 bone_16 1.0000
+skin 652 bone_16 1.0000
+skin 653 bone_16 1.0000
+skin 654 bone_25 0.9578 bone_26 0.0422
+skin 655 bone_25 1.0000
+skin 656 bone_25 0.8005 bone_26 0.1995
+skin 657 bone_3 1.0000
+skin 658 bone_3 1.0000
+skin 659 bone_3 1.0000
+skin 660 bone_3 0.5976 bone_4 0.4024
+skin 661 bone_3 0.8668 bone_4 0.1332
+skin 662 bone_3 0.5560 bone_4 0.4440
+skin 663 bone_10 1.0000
+skin 664 bone_10 0.8883 bone_11 0.1117
+skin 665 bone_10 0.8272 bone_11 0.1728
+skin 666 bone_19 0.0932 bone_20 0.9068
+skin 667 bone_26 1.0000
+skin 668 bone_26 1.0000
+skin 669 bone_26 1.0000
+skin 670 bone_1 0.1539 bone_6 0.0647 bone_10 0.3948 bone_11 0.3866
+skin 671 bone_1 0.1588 bone_6 0.0836 bone_10 0.3037 bone_11 0.4539
+skin 672 bone_1 0.3125 bone_10 0.6415 bone_15 0.0461
+skin 673 bone_0 0.0398 bone_1 0.4208 bone_10 0.5394
+skin 674 bone_3 1.0000
+skin 675 bone_13 0.9565 bone_14 0.0435
+skin 676 bone_12 0.0915 bone_13 0.9085
+skin 677 bone_12 0.0824 bone_13 0.9176
+skin 678 bone_18 1.0000
+skin 679 bone_18 1.0000
+skin 680 bone_18 1.0000
+skin 681 bone_3 0.9333 bone_4 0.0667
+skin 682 bone_3 0.9022 bone_4 0.0978
+skin 683 bone_3 1.0000
+skin 684 bone_3 0.1919 bone_4 0.8081
+skin 685 bone_3 0.3896 bone_4 0.6104
+skin 686 bone_3 0.2548 bone_4 0.7452
+skin 687 bone_3 0.9080 bone_4 0.0920
+skin 688 bone_3 0.9071 bone_4 0.0929
+skin 689 bone_12 1.0000
+skin 690 bone_2 0.9312 bone_5 0.0688
+skin 691 bone_2 0.9556 bone_5 0.0444
+skin 692 bone_2 0.9032 bone_5 0.0968
+skin 693 bone_26 1.0000
+skin 694 bone_26 1.0000
+skin 695 bone_26 1.0000
+skin 696 bone_24 0.0360 bone_25 0.9640
+skin 697 bone_24 0.0967 bone_25 0.9033
+skin 698 bone_24 0.1743 bone_25 0.8257
+skin 699 bone_6 0.6173 bone_7 0.3827
+skin 700 bone_3 0.8020 bone_4 0.1980
+skin 701 bone_3 0.8968 bone_4 0.1032
+skin 702 bone_3 0.6872 bone_4 0.3128
+skin 703 bone_1 0.9542 bone_10 0.0458
+skin 704 bone_1 0.8124 bone_2 0.0686 bone_10 0.1190
+skin 705 bone_1 0.9329 bone_10 0.0671
+skin 706 bone_3 1.0000
+skin 707 bone_3 1.0000
+skin 708 bone_3 1.0000
+skin 709 bone_2 0.0308 bone_3 0.9692
+skin 710 bone_2 0.0365 bone_3 0.9635
+skin 711 bone_21 0.7960 bone_22 0.2040
+skin 712 bone_21 0.0971 bone_22 0.9029
+skin 713 bone_21 0.3646 bone_22 0.6354
+skin 714 bone_15 0.5377 bone_16 0.1381 bone_24 0.3242
+skin 715 bone_15 0.6463 bone_16 0.0809 bone_24 0.2728
+skin 716 bone_15 0.5924 bone_16 0.1488 bone_24 0.2588
+skin 717 bone_26 1.0000
+skin 718 bone_26 0.6215 bone_27 0.3785
+skin 719 bone_26 0.3924 bone_27 0.6076
+skin 720 bone_24 0.0492 bone_25 0.9508
+skin 721 bone_24 0.0376 bone_25 0.9624
+skin 722 bone_24 0.0511 bone_25 0.9489
+skin 723 bone_20 1.0000
+skin 724 bone_20 1.0000
+skin 725 bone_15 0.1255 bone_16 0.1168 bone_19 0.3060 bone_24 0.4517
+skin 726 bone_15 0.5547 bone_16 0.0440 bone_19 0.1977 bone_24 0.2036
+skin 727 bone_15 0.2179 bone_16 0.0411 bone_19 0.4599 bone_24 0.2811
+skin 728 bone_2 0.9051 bone_3 0.0949
+skin 729 bone_2 0.7028 bone_3 0.2532 bone_5 0.0440
+skin 730 bone_2 0.7793 bone_3 0.0840 bone_5 0.1367
+skin 731 bone_10 1.0000
+skin 732 bone_10 0.8617 bone_11 0.1383
+skin 733 bone_10 0.7429 bone_11 0.2571
+skin 734 bone_1 0.1214 bone_2 0.3509 bone_5 0.5277
+skin 735 bone_2 0.5349 bone_3 0.0436 bone_5 0.4215
+skin 736 bone_0 0.0397 bone_15 0.7561 bone_19 0.2042
+skin 737 bone_0 0.1869 bone_15 0.7415 bone_19 0.0716
+skin 738 bone_0 0.0527 bone_15 0.8317 bone_19 0.1156
+skin 739 bone_16 0.8216 bone_24 0.1784
+skin 740 bone_16 0.7025 bone_19 0.1432 bone_24 0.1542
+skin 741 bone_16 0.6008 bone_24 0.1776 bone_25 0.2217
+skin 742 bone_9 1.0000
+skin 743 bone_8 0.3474 bone_9 0.6526
+skin 744 bone_8 0.1472 bone_9 0.8528
+skin 745 bone_0 0.1230 bone_1 0.1125 bone_10 0.1245 bone_15 0.6401
+skin 746 bone_0 0.0693 bone_1 0.0475 bone_15 0.7686 bone_24 0.1145
+skin 747 bone_16 0.9000 bone_17 0.1000
+skin 748 bone_16 0.9103 bone_17 0.0897
+skin 749 bone_26 0.2342 bone_27 0.7658
+skin 750 bone_26 0.2042 bone_27 0.7958
+skin 751 bone_0 0.5003 bone_15 0.4997
+skin 752 bone_0 0.2339 bone_15 0.7170 bone_19 0.0491
+skin 753 bone_17 1.0000
+skin 754 bone_17 1.0000
+skin 755 bone_17 1.0000
+skin 756 bone_26 0.2420 bone_27 0.7580
+skin 757 bone_26 0.2594 bone_27 0.7406
+skin 758 bone_19 0.0434 bone_20 0.9566
+skin 759 bone_20 0.9291 bone_21 0.0709
+skin 760 bone_19 0.1331 bone_20 0.8669
+skin 761 bone_2 0.0924 bone_3 0.9076
+skin 762 bone_2 0.1033 bone_3 0.8967
+skin 763 bone_2 0.1159 bone_3 0.8841
+skin 764 bone_3 1.0000
+skin 765 bone_3 1.0000
+skin 766 bone_3 1.0000
+skin 767 bone_12 1.0000
+skin 768 bone_11 0.1845 bone_12 0.8155
+skin 769 bone_12 1.0000
+skin 770 bone_10 1.0000
+skin 771 bone_10 1.0000
+skin 772 bone_10 0.9690 bone_11 0.0310
+skin 773 bone_3 0.2887 bone_4 0.7113
+skin 774 bone_3 0.2217 bone_4 0.7783
+skin 775 bone_3 0.2852 bone_4 0.7148
+skin 776 bone_5 0.1454 bone_6 0.2595 bone_10 0.3190 bone_11 0.2760
+skin 777 bone_21 1.0000
+skin 778 bone_21 0.9674 bone_22 0.0326
+skin 779 bone_21 1.0000
+skin 780 bone_6 0.5391 bone_7 0.4609
+skin 781 bone_6 0.5391 bone_7 0.4609
+skin 782 bone_6 0.0904 bone_7 0.9096
+skin 783 bone_27 0.6908 bone_28 0.3092
+skin 784 bone_27 0.8243 bone_28 0.1757
+skin 785 bone_27 0.6448 bone_28 0.3552
+skin 786 bone_27 0.8381 bone_28 0.1619
+skin 787 bone_26 0.0588 bone_27 0.8610 bone_28 0.0802
+skin 788 bone_27 0.8267 bone_28 0.1733
+skin 789 bone_19 1.0000
+skin 790 bone_19 1.0000
+skin 791 bone_19 1.0000
+skin 792 bone_3 0.9168 bone_4 0.0832
+skin 793 bone_3 1.0000
+skin 794 bone_3 0.9513 bone_4 0.0487
+skin 795 bone_3 0.9650 bone_4 0.0350
+skin 796 bone_3 0.9514 bone_4 0.0486
+skin 797 bone_6 1.0000
+skin 798 bone_6 1.0000
+skin 799 bone_6 1.0000
+skin 800 bone_16 1.0000
+skin 801 bone_16 1.0000
+skin 802 bone_16 1.0000
+skin 803 bone_19 0.4032 bone_20 0.5968
+skin 804 bone_19 0.1084 bone_20 0.8916
+skin 805 bone_19 0.3283 bone_20 0.6717
+skin 806 bone_16 0.1827 bone_17 0.8173
+skin 807 bone_16 0.1830 bone_17 0.8170
+skin 808 bone_16 0.0528 bone_17 0.9472
+skin 809 bone_17 1.0000
+skin 810 bone_16 1.0000
+skin 811 bone_16 1.0000
+skin 812 bone_16 1.0000
+skin 813 bone_2 0.2997 bone_3 0.5015 bone_5 0.1988
+skin 814 bone_2 0.2191 bone_3 0.4957 bone_5 0.2853
+skin 815 bone_2 0.3000 bone_3 0.1523 bone_5 0.5477
+skin 816 bone_17 0.1428 bone_18 0.8572
+skin 817 bone_17 0.0397 bone_18 0.9603
+skin 818 bone_17 0.0562 bone_18 0.9438
+skin 819 bone_17 0.4490 bone_18 0.5510
+skin 820 bone_17 0.0622 bone_18 0.9378
+skin 821 bone_17 0.1580 bone_18 0.8420
+skin 822 bone_3 0.9553 bone_4 0.0447
+skin 823 bone_3 0.8287 bone_4 0.1713
+skin 824 bone_3 0.9022 bone_4 0.0978
+skin 825 bone_1 0.0736 bone_10 0.9264
+skin 826 bone_1 0.0694 bone_10 0.9306
+skin 827 bone_1 0.1654 bone_3 0.1828 bone_10 0.6519
+skin 828 bone_2 0.1732 bone_3 0.7436 bone_5 0.0831
+skin 829 bone_1 0.0326 bone_2 0.1072 bone_3 0.7594 bone_5 0.1008
+skin 830 bone_2 0.1160 bone_3 0.6523 bone_5 0.2317
+skin 831 bone_3 0.4330 bone_4 0.5670
+skin 832 bone_3 0.2121 bone_4 0.7879
+skin 833 bone_3 0.2353 bone_4 0.7647
+skin 834 bone_1 0.0758 bone_2 0.0720 bone_3 0.6759 bone_10 0.1764
+skin 835 bone_1 0.0920 bone_2 0.0892 bone_3 0.6981 bone_10 0.1206
+skin 836 bone_1 0.3134 bone_2 0.1540 bone_3 0.3791 bone_10 0.1535
+skin 837 bone_25 0.0449 bone_26 0.9551
+skin 838 bone_11 1.0000
+skin 839 bone_11 1.0000
+skin 840 bone_11 1.0000
+skin 841 bone_1 0.6135 bone_2 0.2826 bone_5 0.1039
+skin 842 bone_1 0.7644 bone_2 0.1377 bone_5 0.0979
+skin 843 bone_1 0.8817 bone_2 0.0718 bone_5 0.0465
+skin 844 bone_14 1.0000
+skin 845 bone_13 0.0345 bone_14 0.9655
+skin 846 bone_14 1.0000
+skin 847 bone_3 0.9542 bone_4 0.0458
+skin 848 bone_3 0.8710 bone_4 0.1290
+skin 849 bone_3 1.0000
+skin 850 bone_3 1.0000
+skin 851 bone_17 1.0000
+skin 852 bone_17 1.0000
+skin 853 bone_6 0.2654 bone_10 0.0713 bone_11 0.6632
+skin 854 bone_6 0.1524 bone_10 0.1151 bone_11 0.7325
+skin 855 bone_5 0.0313 bone_6 0.4796 bone_10 0.0320 bone_11 0.4571
+skin 856 bone_17 1.0000
+skin 857 bone_17 1.0000
+skin 858 bone_17 1.0000
+skin 859 bone_24 1.0000
+skin 860 bone_24 1.0000
+skin 861 bone_24 1.0000
+skin 862 bone_6 0.1645 bone_10 0.1552 bone_11 0.6803
+skin 863 bone_6 0.0835 bone_10 0.1902 bone_11 0.7263
+skin 864 bone_22 0.6922 bone_23 0.3078
+skin 865 bone_19 0.0580 bone_20 0.9420
+skin 866 bone_19 0.0355 bone_20 0.9645
+skin 867 bone_3 0.8693 bone_4 0.1307
+skin 868 bone_3 0.8189 bone_4 0.1811
+skin 869 bone_2 0.0342 bone_3 0.7061 bone_4 0.2598
+skin 870 bone_3 1.0000
+skin 871 bone_3 1.0000
+skin 872 bone_17 0.4042 bone_18 0.5958
+skin 873 bone_17 0.6824 bone_18 0.3176
+skin 874 bone_17 0.8587 bone_18 0.1413
+skin 875 bone_15 0.0607 bone_19 0.8428 bone_24 0.0965
+skin 876 bone_15 0.0522 bone_19 0.8903 bone_24 0.0575
+skin 877 bone_15 0.1221 bone_19 0.8016 bone_24 0.0762
+skin 878 bone_17 0.6995 bone_18 0.3005
+skin 879 bone_17 0.2255 bone_18 0.7745
+skin 880 bone_3 1.0000
+skin 881 bone_11 1.0000
+skin 882 bone_11 0.9484 bone_12 0.0516
+skin 883 bone_11 1.0000
+skin 884 bone_2 0.1204 bone_3 0.8796
+skin 885 bone_18 1.0000
+skin 886 bone_18 1.0000
+skin 887 bone_18 1.0000
+skin 888 bone_3 1.0000
+skin 889 bone_1 0.6380 bone_5 0.3620
+skin 890 bone_27 0.8414 bone_28 0.1586
+skin 891 bone_27 0.8669 bone_28 0.1331
+skin 892 bone_3 0.4241 bone_4 0.5759
+skin 893 bone_3 0.2685 bone_4 0.7315
+skin 894 bone_17 0.1836 bone_18 0.8164
+skin 895 bone_16 0.9447 bone_17 0.0553
+skin 896 bone_16 0.7615 bone_17 0.2385
+skin 897 bone_16 0.8367 bone_17 0.1633
+skin 898 bone_18 1.0000
+skin 899 bone_18 1.0000
+skin 900 bone_18 1.0000
+skin 901 bone_9 1.0000
+skin 902 bone_16 0.3458 bone_17 0.6542
+skin 903 bone_16 0.7627 bone_17 0.2373
+skin 904 bone_16 0.5480 bone_17 0.4520
+skin 905 bone_14 1.0000
+skin 906 bone_14 1.0000
+skin 907 bone_14 1.0000
+skin 908 bone_1 0.1143 bone_2 0.1623 bone_3 0.0477 bone_5 0.6757
+skin 909 bone_1 0.2633 bone_2 0.0752 bone_5 0.6616
+skin 910 bone_10 0.7891 bone_11 0.2109
+skin 911 bone_1 0.6629 bone_2 0.2459 bone_5 0.0911
+skin 912 bone_1 0.7863 bone_2 0.1485 bone_5 0.0652
+skin 913 bone_1 0.9224 bone_2 0.0776
+skin 914 bone_27 0.6360 bone_28 0.3640
+skin 915 bone_27 0.6234 bone_28 0.3766
+skin 916 bone_20 0.9548 bone_21 0.0452
+skin 917 bone_5 0.4702 bone_6 0.3811 bone_10 0.1487
+skin 918 bone_5 0.3770 bone_6 0.5127 bone_10 0.1103
+skin 919 bone_5 0.5333 bone_6 0.4667
+skin 920 bone_3 1.0000
+skin 921 bone_5 0.5422 bone_6 0.4578
+skin 922 bone_5 0.4675 bone_6 0.5325
+skin 923 bone_5 0.1941 bone_6 0.8059
+skin 924 bone_12 1.0000
+skin 925 bone_18 1.0000
+skin 926 bone_3 1.0000
+skin 927 bone_3 1.0000
+skin 928 bone_3 1.0000
+skin 929 bone_7 0.0691 bone_8 0.8051 bone_9 0.1258
+skin 930 bone_8 0.8093 bone_9 0.1907
+skin 931 bone_7 0.2016 bone_8 0.7485 bone_9 0.0500
+skin 932 bone_0 0.6795 bone_15 0.3205
+skin 933 bone_0 0.5130 bone_15 0.4870
+skin 934 bone_0 0.5178 bone_15 0.4822
+skin 935 bone_1 0.0425 bone_2 0.2894 bone_3 0.6681
+skin 936 bone_1 0.0421 bone_2 0.9201 bone_3 0.0378
+skin 937 bone_1 0.0528 bone_2 0.9472
+skin 938 bone_10 0.5093 bone_11 0.4907
+skin 939 bone_10 0.2343 bone_11 0.7657
+skin 940 bone_18 1.0000
+skin 941 bone_18 1.0000
+skin 942 bone_18 1.0000
+skin 943 bone_1 0.2712 bone_2 0.6435 bone_5 0.0853
+skin 944 bone_1 0.2948 bone_2 0.5453 bone_5 0.1599
+skin 945 bone_1 0.5275 bone_2 0.3277 bone_5 0.1449
+skin 946 bone_1 0.1928 bone_2 0.7181 bone_5 0.0891
+skin 947 bone_20 0.3198 bone_21 0.6802
+skin 948 bone_20 0.8599 bone_21 0.1401
+skin 949 bone_18 1.0000
+skin 950 bone_18 1.0000
+skin 951 bone_18 1.0000
+skin 952 bone_3 1.0000
+skin 953 bone_13 0.0599 bone_14 0.9401
+skin 954 bone_11 1.0000
+skin 955 bone_11 1.0000
+skin 956 bone_1 0.8381 bone_2 0.0668 bone_5 0.0951
+skin 957 bone_1 0.9430 bone_5 0.0570
+skin 958 bone_3 0.8595 bone_4 0.1405
+skin 959 bone_1 0.3481 bone_5 0.6519
+skin 960 bone_1 0.2699 bone_5 0.7301
+skin 961 bone_19 1.0000
+skin 962 bone_3 0.1905 bone_4 0.8095
+skin 963 bone_12 1.0000
+skin 964 bone_12 0.9070 bone_13 0.0930
+skin 965 bone_12 0.4300 bone_13 0.5700
+skin 966 bone_25 1.0000
+skin 967 bone_22 1.0000
+skin 968 bone_22 0.9507 bone_23 0.0493
+skin 969 bone_22 0.9644 bone_23 0.0356
+skin 970 bone_11 0.0386 bone_12 0.9614
+skin 971 bone_12 1.0000
+skin 972 bone_12 1.0000
+skin 973 bone_18 1.0000
+skin 974 bone_18 1.0000
+skin 975 bone_5 0.0997 bone_6 0.0371 bone_10 0.7524 bone_11 0.1108
+skin 976 bone_5 0.0371 bone_10 0.5021 bone_11 0.4608
+skin 977 bone_15 0.0856 bone_19 0.9144
+skin 978 bone_19 1.0000
+skin 979 bone_15 0.0454 bone_16 0.0371 bone_19 0.9175
+skin 980 bone_17 1.0000
+skin 981 bone_17 0.7181 bone_18 0.2819
+skin 982 bone_15 0.1982 bone_16 0.0664 bone_24 0.7354
+skin 983 bone_15 0.4057 bone_16 0.1197 bone_24 0.4746
+skin 984 bone_15 0.1119 bone_16 0.0419 bone_24 0.8462
+skin 985 bone_16 0.3036 bone_17 0.6964
+skin 986 bone_0 0.0983 bone_15 0.8523 bone_24 0.0494
+skin 987 bone_15 0.8573 bone_24 0.1427
+skin 988 bone_1 0.8751 bone_2 0.0463 bone_5 0.0786
+skin 989 bone_1 0.8521 bone_2 0.0465 bone_5 0.1013
+skin 990 bone_1 0.8253 bone_2 0.0306 bone_5 0.1441
+skin 991 bone_12 0.4024 bone_13 0.5520 bone_14 0.0456
+skin 992 bone_12 0.1330 bone_13 0.7643 bone_14 0.1027
+skin 993 bone_12 0.0746 bone_13 0.7037 bone_14 0.2217
+skin 994 bone_18 1.0000
+skin 995 bone_18 1.0000
+skin 996 bone_18 1.0000
+skin 997 bone_17 0.1526 bone_18 0.8474
+skin 998 bone_16 0.3408 bone_17 0.6592
+skin 999 bone_3 1.0000
+skin 1000 bone_3 1.0000
+skin 1001 bone_3 1.0000
+skin 1002 bone_19 0.8999 bone_20 0.1001
+skin 1003 bone_19 0.9037 bone_20 0.0963
+skin 1004 bone_19 1.0000
+skin 1005 bone_1 0.1416 bone_6 0.1657 bone_10 0.2725 bone_11 0.4202
+skin 1006 bone_5 0.0633 bone_6 0.1702 bone_10 0.2242 bone_11 0.5423
+skin 1007 bone_18 1.0000
+skin 1008 bone_18 1.0000
+skin 1009 bone_16 0.8297 bone_17 0.1703
+skin 1010 bone_16 0.6729 bone_17 0.3271
+skin 1011 bone_11 0.6042 bone_12 0.3958
+skin 1012 bone_11 0.9035 bone_12 0.0965
+skin 1013 bone_22 0.5480 bone_23 0.4520
+skin 1014 bone_22 0.5480 bone_23 0.4520
+skin 1015 bone_22 0.5003 bone_23 0.4997
+skin 1016 bone_5 0.2535 bone_6 0.7465
+skin 1017 bone_27 0.7582 bone_28 0.2418
+skin 1018 bone_27 0.7279 bone_28 0.2721
+skin 1019 bone_27 0.7396 bone_28 0.2604
+skin 1020 bone_5 0.2461 bone_6 0.7539
+skin 1021 bone_5 0.4301 bone_6 0.5699
+skin 1022 bone_25 0.2125 bone_26 0.7875
+skin 1023 bone_25 0.3869 bone_26 0.6131
+skin 1024 bone_15 0.1340 bone_19 0.8660
+skin 1025 bone_15 0.0599 bone_19 0.9401
+skin 1026 bone_15 0.0306 bone_19 0.9694
+skin 1027 bone_16 1.0000
+skin 1028 bone_16 0.9660 bone_19 0.0340
+skin 1029 bone_16 1.0000
+skin 1030 bone_14 1.0000
+skin 1031 bone_14 1.0000
+skin 1032 bone_14 1.0000
+skin 1033 bone_18 1.0000
+skin 1034 bone_3 1.0000
+skin 1035 bone_3 1.0000
+skin 1036 bone_3 1.0000
+skin 1037 bone_3 1.0000
+skin 1038 bone_3 1.0000
+skin 1039 bone_2 0.0482 bone_3 0.9518
+skin 1040 bone_6 0.8404 bone_7 0.1596
+skin 1041 bone_6 0.7585 bone_7 0.2415
+skin 1042 bone_3 1.0000
+skin 1043 bone_20 0.2125 bone_21 0.7875
+skin 1044 bone_20 0.0825 bone_21 0.9175
+skin 1045 bone_21 1.0000
+skin 1046 bone_24 0.1363 bone_25 0.8637
+skin 1047 bone_9 1.0000
+skin 1048 bone_9 1.0000
+skin 1049 bone_9 1.0000
+skin 1050 bone_0 0.0857 bone_1 0.9143
+skin 1051 bone_7 0.1608 bone_8 0.7517 bone_9 0.0874
+skin 1052 bone_7 0.1854 bone_8 0.7390 bone_9 0.0757
+skin 1053 bone_7 0.8320 bone_8 0.1680
+skin 1054 bone_7 0.8386 bone_8 0.1614
+skin 1055 bone_7 0.2053 bone_8 0.7312 bone_9 0.0635
+skin 1056 bone_1 0.0722 bone_5 0.7174 bone_6 0.1770 bone_15 0.0334
+skin 1057 bone_15 0.8907 bone_24 0.1093
+skin 1058 bone_15 0.7538 bone_24 0.2462
+skin 1059 bone_15 0.9025 bone_24 0.0975
+skin 1060 bone_17 0.6595 bone_18 0.3405
+skin 1061 bone_3 1.0000
+skin 1062 bone_3 1.0000
+skin 1063 bone_3 1.0000
+skin 1064 bone_18 1.0000
+skin 1065 bone_18 1.0000
+skin 1066 bone_18 1.0000
+skin 1067 bone_24 0.0522 bone_25 0.9478
+skin 1068 bone_25 1.0000
+skin 1069 bone_3 1.0000
+skin 1070 bone_3 1.0000
+skin 1071 bone_3 1.0000
+skin 1072 bone_6 1.0000
+skin 1073 bone_0 0.0507 bone_1 0.9493
+skin 1074 bone_1 1.0000
+skin 1075 bone_0 0.0311 bone_1 0.9689
+skin 1076 bone_10 0.6019 bone_11 0.3981
+skin 1077 bone_10 0.4535 bone_11 0.5465
+skin 1078 bone_10 0.7296 bone_11 0.2704
+skin 1079 bone_11 1.0000
+skin 1080 bone_11 1.0000
+skin 1081 bone_11 0.9620 bone_12 0.0380
+skin 1082 bone_16 1.0000
+skin 1083 bone_16 0.9285 bone_17 0.0715
+skin 1084 bone_16 0.9289 bone_17 0.0711
+skin 1085 bone_3 0.9372 bone_4 0.0628
+skin 1086 bone_12 0.9524 bone_13 0.0476
+skin 1087 bone_12 0.4093 bone_13 0.5397 bone_14 0.0510
+skin 1088 bone_27 0.9017 bone_28 0.0983
+skin 1089 bone_27 0.9421 bone_28 0.0579
+skin 1090 bone_27 0.9674 bone_28 0.0326
+skin 1091 bone_0 0.1826 bone_1 0.7521 bone_15 0.0653
+skin 1092 bone_0 0.1819 bone_1 0.5312 bone_15 0.2869
+skin 1093 bone_0 0.2354 bone_1 0.6325 bone_15 0.1320
+skin 1094 bone_16 1.0000
+skin 1095 bone_16 1.0000
+skin 1096 bone_11 0.8647 bone_12 0.1353
+skin 1097 bone_11 1.0000
+skin 1098 bone_11 1.0000
+skin 1099 bone_16 0.8560 bone_17 0.1440
+skin 1100 bone_1 0.3144 bone_5 0.6856
+skin 1101 bone_1 0.4202 bone_5 0.5798
+skin 1102 bone_1 0.4393 bone_5 0.5607
+skin 1103 bone_1 0.0831 bone_5 0.5591 bone_6 0.2697 bone_10 0.0881
+skin 1104 bone_21 1.0000
+skin 1105 bone_21 0.1704 bone_22 0.8296
+skin 1106 bone_17 0.8668 bone_18 0.1332
+skin 1107 bone_17 1.0000
+skin 1108 bone_2 0.0343 bone_3 0.8580 bone_4 0.1077
+skin 1109 bone_5 0.3379 bone_6 0.1994 bone_10 0.4137 bone_11 0.0490
+skin 1110 bone_5 0.3658 bone_6 0.2800 bone_10 0.2190 bone_11 0.1352
+skin 1111 bone_16 0.5254 bone_17 0.4746
+skin 1112 bone_16 0.6952 bone_17 0.3048
+skin 1113 bone_16 0.4037 bone_17 0.5963
+skin 1114 bone_18 1.0000
+skin 1115 bone_18 1.0000
+skin 1116 bone_17 0.9418 bone_18 0.0582
+skin 1117 bone_17 0.8863 bone_18 0.1137
+skin 1118 bone_17 0.9671 bone_18 0.0329
+skin 1119 bone_5 0.6468 bone_6 0.2164 bone_10 0.1368
+skin 1120 bone_2 0.0410 bone_3 0.8844 bone_4 0.0747
+skin 1121 bone_2 0.0515 bone_3 0.8525 bone_4 0.0960
+skin 1122 bone_15 0.7489 bone_24 0.2511
+skin 1123 bone_15 0.8462 bone_24 0.1538
+skin 1124 bone_3 1.0000
+skin 1125 bone_2 0.1851 bone_3 0.5799 bone_5 0.2350
+skin 1126 bone_1 0.0426 bone_2 0.1907 bone_3 0.1567 bone_5 0.6101
+skin 1127 bone_3 1.0000
+skin 1128 bone_3 1.0000
+skin 1129 bone_11 1.0000
+skin 1130 bone_10 0.0639 bone_11 0.9361
+skin 1131 bone_16 0.8276 bone_17 0.1724
+skin 1132 bone_16 0.5899 bone_17 0.4101
+skin 1133 bone_21 1.0000
+skin 1134 bone_15 0.1943 bone_24 0.8057
+skin 1135 bone_15 0.1275 bone_24 0.8725
+skin 1136 bone_15 0.3768 bone_24 0.6232
+skin 1137 bone_13 0.1759 bone_14 0.8241
+skin 1138 bone_13 0.6181 bone_14 0.3819
+skin 1139 bone_13 0.6591 bone_14 0.3409
+skin 1140 bone_17 0.4019 bone_18 0.5981
+skin 1141 bone_17 0.1548 bone_18 0.8452
+skin 1142 bone_17 0.1427 bone_18 0.8573
+skin 1143 bone_1 0.0375 bone_10 0.9625
+skin 1144 bone_10 1.0000
+skin 1145 bone_10 1.0000
+skin 1146 bone_11 1.0000
+skin 1147 bone_27 0.5158 bone_28 0.4842
+skin 1148 bone_27 0.4314 bone_28 0.5686
+skin 1149 bone_27 0.4810 bone_28 0.5190
+skin 1150 bone_17 1.0000
+skin 1151 bone_17 1.0000
+skin 1152 bone_17 0.9200 bone_18 0.0800
+skin 1153 bone_24 0.0323 bone_25 0.9677
+skin 1154 bone_2 0.9268 bone_5 0.0732
+skin 1155 bone_22 0.9067 bone_23 0.0933
+skin 1156 bone_22 0.9336 bone_23 0.0664
+skin 1157 bone_24 0.1136 bone_25 0.8864
+skin 1158 bone_15 0.1026 bone_19 0.7306 bone_24 0.1668
+skin 1159 bone_19 0.7838 bone_20 0.0684 bone_24 0.1478
+skin 1160 bone_15 0.0591 bone_19 0.8866 bone_24 0.0543
+skin 1161 bone_3 1.0000
+skin 1162 bone_3 1.0000
+skin 1163 bone_24 0.1713 bone_25 0.8287
+skin 1164 bone_24 0.2007 bone_25 0.7993
+skin 1165 bone_15 0.4748 bone_19 0.3212 bone_24 0.2040
+skin 1166 bone_15 0.4863 bone_19 0.2534 bone_24 0.2603
+skin 1167 bone_15 0.3164 bone_19 0.4370 bone_24 0.2467
+skin 1168 bone_19 1.0000
+skin 1169 bone_5 0.0421 bone_6 0.6575 bone_11 0.3004
+skin 1170 bone_5 0.0549 bone_6 0.7093 bone_11 0.2358
+skin 1171 bone_1 0.3551 bone_5 0.6449
+skin 1172 bone_1 0.4361 bone_5 0.5639
+skin 1173 bone_15 0.7700 bone_16 0.0326 bone_19 0.0624 bone_24 0.1350
+skin 1174 bone_3 0.9497 bone_4 0.0503
+skin 1175 bone_3 0.9664 bone_4 0.0336
+skin 1176 bone_15 0.1330 bone_16 0.1216 bone_19 0.4222 bone_24 0.3232
+skin 1177 bone_16 0.7083 bone_24 0.2917
+skin 1178 bone_16 0.3298 bone_24 0.6702
+skin 1179 bone_16 0.8208 bone_24 0.1792
+skin 1180 bone_11 1.0000
+skin 1181 bone_11 1.0000
+skin 1182 bone_11 1.0000
+skin 1183 bone_10 0.9629 bone_11 0.0371
+skin 1184 bone_21 0.9339 bone_22 0.0661
+skin 1185 bone_21 0.4931 bone_22 0.5069
+skin 1186 bone_21 0.8981 bone_22 0.1019
+skin 1187 bone_3 1.0000
+skin 1188 bone_3 1.0000
+skin 1189 bone_3 1.0000
+skin 1190 bone_3 1.0000
+skin 1191 bone_3 1.0000
+skin 1192 bone_5 0.1436 bone_6 0.8564
+skin 1193 bone_5 0.2684 bone_6 0.7316
+skin 1194 bone_5 0.1733 bone_6 0.8267
+skin 1195 bone_15 0.3349 bone_24 0.6651
+skin 1196 bone_15 0.0368 bone_24 0.9632
+skin 1197 bone_15 0.1912 bone_24 0.8088
+skin 1198 bone_24 1.0000
+skin 1199 bone_24 1.0000
+skin 1200 bone_24 1.0000
+skin 1201 bone_21 1.0000
+skin 1202 bone_21 0.3916 bone_22 0.6084
+skin 1203 bone_21 1.0000
+skin 1204 bone_15 0.0652 bone_19 0.6706 bone_20 0.0569 bone_24 0.2072
+skin 1205 bone_3 0.9357 bone_4 0.0643
+skin 1206 bone_3 0.7889 bone_4 0.2111
+skin 1207 bone_19 1.0000
+skin 1208 bone_6 1.0000
+skin 1209 bone_6 1.0000
+skin 1210 bone_16 0.9443 bone_17 0.0557
+skin 1211 bone_3 1.0000
+skin 1212 bone_3 1.0000
+skin 1213 bone_3 1.0000
+skin 1214 bone_21 1.0000
+skin 1215 bone_21 1.0000
+skin 1216 bone_13 0.3389 bone_14 0.6611
+skin 1217 bone_14 1.0000
+skin 1218 bone_3 1.0000
+skin 1219 bone_1 0.1593 bone_5 0.8407
+skin 1220 bone_1 0.0471 bone_5 0.9529
+skin 1221 bone_1 0.0722 bone_5 0.9278
+skin 1222 bone_3 0.2029 bone_4 0.7971
+skin 1223 bone_3 0.1121 bone_4 0.8879
+skin 1224 bone_3 0.1348 bone_4 0.8652
+skin 1225 bone_26 1.0000
+skin 1226 bone_25 0.2658 bone_26 0.7342
+skin 1227 bone_26 1.0000
+skin 1228 bone_1 0.1428 bone_2 0.6687 bone_3 0.1884
+skin 1229 bone_3 1.0000
+skin 1230 bone_3 1.0000
+skin 1231 bone_3 0.9653 bone_10 0.0347
+skin 1232 bone_3 0.9223 bone_10 0.0777
+skin 1233 bone_3 0.9259 bone_10 0.0741
+skin 1234 bone_6 0.0565 bone_7 0.9435
+skin 1235 bone_6 0.2698 bone_7 0.7302
+skin 1236 bone_6 0.2094 bone_7 0.7906
+skin 1237 bone_9 1.0000
+skin 1238 bone_9 1.0000
+skin 1239 bone_7 1.0000
+skin 1240 bone_7 1.0000
+skin 1241 bone_7 1.0000
+skin 1242 bone_1 0.0380 bone_10 0.9620
+skin 1243 bone_1 0.3711 bone_10 0.6289
+skin 1244 bone_1 0.0649 bone_10 0.9351
+skin 1245 bone_8 0.1509 bone_9 0.8491
+skin 1246 bone_9 1.0000
+skin 1247 bone_8 0.0479 bone_9 0.9521
+skin 1248 bone_3 1.0000
+skin 1249 bone_0 0.0407 bone_1 0.9593
+skin 1250 bone_0 0.0803 bone_1 0.9197
+skin 1251 bone_24 0.0366 bone_25 0.9634
+skin 1252 bone_17 0.1005 bone_18 0.8995
+skin 1253 bone_17 0.1850 bone_18 0.8150
+skin 1254 bone_16 0.0543 bone_19 0.9457
+skin 1255 bone_16 0.3638 bone_19 0.4352 bone_20 0.2010
+skin 1256 bone_16 0.1877 bone_17 0.8123
+skin 1257 bone_16 0.0735 bone_17 0.9265
+skin 1258 bone_17 1.0000
+skin 1259 bone_19 0.1999 bone_20 0.8001
+skin 1260 bone_19 0.1390 bone_20 0.8610
+skin 1261 bone_20 1.0000
+skin 1262 bone_16 0.3921 bone_17 0.6079
+skin 1263 bone_16 0.4974 bone_17 0.5026
+skin 1264 bone_16 0.3342 bone_17 0.6658
+skin 1265 bone_3 1.0000
+skin 1266 bone_1 0.8076 bone_2 0.1070 bone_10 0.0854
+skin 1267 bone_1 0.5748 bone_2 0.3717 bone_10 0.0535
+skin 1268 bone_1 0.9332 bone_2 0.0668
+skin 1269 bone_16 0.0726 bone_17 0.9274
+skin 1270 bone_16 0.0611 bone_17 0.9389
+skin 1271 bone_16 0.0352 bone_17 0.9648
+skin 1272 bone_3 1.0000
+skin 1273 bone_3 1.0000
+skin 1274 bone_3 0.7332 bone_4 0.2668
+skin 1275 bone_1 0.7466 bone_5 0.2534
+skin 1276 bone_1 0.7723 bone_5 0.2277
+skin 1277 bone_0 0.0481 bone_1 0.8220 bone_5 0.1299
+skin 1278 bone_0 0.4389 bone_1 0.3635 bone_15 0.1976
+skin 1279 bone_3 0.3972 bone_10 0.6028
+skin 1280 bone_1 0.0828 bone_10 0.9172
+skin 1281 bone_1 0.0769 bone_3 0.0388 bone_10 0.8843
+skin 1282 bone_1 0.0320 bone_2 0.5947 bone_3 0.3733
+skin 1283 bone_2 0.4723 bone_3 0.5277
+skin 1284 bone_2 0.6707 bone_3 0.3293
+skin 1285 bone_7 0.7544 bone_8 0.2456
+skin 1286 bone_6 0.0323 bone_7 0.9677
+skin 1287 bone_1 0.6209 bone_2 0.3272 bone_5 0.0519
+skin 1288 bone_1 0.3993 bone_2 0.5098 bone_5 0.0909
+skin 1289 bone_17 0.0398 bone_18 0.9602
+skin 1290 bone_17 0.0494 bone_18 0.9506
+skin 1291 bone_18 1.0000
+skin 1292 bone_6 1.0000
+skin 1293 bone_14 1.0000
+skin 1294 bone_14 1.0000
+skin 1295 bone_14 1.0000
+skin 1296 bone_3 1.0000
+skin 1297 bone_3 1.0000
+skin 1298 bone_3 1.0000
+skin 1299 bone_16 1.0000
+skin 1300 bone_16 0.9667 bone_17 0.0333
+skin 1301 bone_10 0.0352 bone_11 0.9648
+skin 1302 bone_11 1.0000
+skin 1303 bone_15 0.5384 bone_16 0.0534 bone_24 0.4082
+skin 1304 bone_16 0.2348 bone_17 0.7652
+skin 1305 bone_16 0.3748 bone_17 0.6252
+skin 1306 bone_16 0.2157 bone_17 0.7843
+skin 1307 bone_2 0.0335 bone_3 0.9257 bone_10 0.0408
+skin 1308 bone_11 0.3858 bone_12 0.6142
+skin 1309 bone_11 0.5784 bone_12 0.4216
+skin 1310 bone_3 1.0000
+skin 1311 bone_3 0.8393 bone_4 0.1607
+skin 1312 bone_3 0.9224 bone_4 0.0776
+skin 1313 bone_3 0.8393 bone_4 0.1607
+skin 1314 bone_5 0.2462 bone_6 0.3586 bone_10 0.1805 bone_11 0.2148
+skin 1315 bone_5 0.1530 bone_6 0.7196 bone_10 0.0346 bone_11 0.0928
+skin 1316 bone_19 0.0976 bone_20 0.9024
+skin 1317 bone_19 0.2507 bone_20 0.7493
+skin 1318 bone_18 1.0000
+skin 1319 bone_1 0.0749 bone_5 0.4850 bone_15 0.3465 bone_19 0.0936
+skin 1320 bone_1 0.0507 bone_5 0.1949 bone_15 0.5615 bone_19 0.1929
+skin 1321 bone_18 1.0000
+skin 1322 bone_25 0.6326 bone_26 0.3674
+skin 1323 bone_25 0.1038 bone_26 0.8962
+skin 1324 bone_1 0.3964 bone_2 0.3273 bone_5 0.2763
+skin 1325 bone_2 0.0356 bone_3 0.9343 bone_4 0.0300
+skin 1326 bone_17 0.5780 bone_18 0.4220
+skin 1327 bone_17 0.2519 bone_18 0.7481
+skin 1328 bone_17 0.1616 bone_18 0.8384
+skin 1329 bone_5 0.1446 bone_6 0.0616 bone_10 0.6484 bone_11 0.1454
+skin 1330 bone_5 0.1743 bone_6 0.1115 bone_10 0.5266 bone_11 0.1876
+skin 1331 bone_7 0.2640 bone_8 0.6659 bone_9 0.0701
+skin 1332 bone_7 0.8304 bone_8 0.1696
+skin 1333 bone_20 0.3380 bone_21 0.6620
+skin 1334 bone_21 1.0000
+skin 1335 bone_21 1.0000
+skin 1336 bone_19 0.0960 bone_20 0.9040
+skin 1337 bone_20 1.0000
+skin 1338 bone_20 1.0000
+skin 1339 bone_19 0.0621 bone_20 0.9379
+skin 1340 bone_19 0.0838 bone_20 0.9162
+skin 1341 bone_19 0.0453 bone_20 0.9547
+skin 1342 bone_16 0.0587 bone_17 0.9413
+skin 1343 bone_17 1.0000
+skin 1344 bone_1 0.0613 bone_10 0.9387
+skin 1345 bone_1 0.0531 bone_10 0.9469
+skin 1346 bone_1 0.5367 bone_10 0.4633
+skin 1347 bone_17 1.0000
+skin 1348 bone_17 1.0000
+skin 1349 bone_17 1.0000
+skin 1350 bone_3 1.0000
+skin 1351 bone_3 0.7297 bone_4 0.2703
+skin 1352 bone_3 0.6337 bone_4 0.3663
+skin 1353 bone_3 0.3215 bone_4 0.6785
+skin 1354 bone_3 1.0000
+skin 1355 bone_3 1.0000
+skin 1356 bone_3 1.0000
+skin 1357 bone_1 0.4289 bone_5 0.4700 bone_10 0.1011
+skin 1358 bone_1 0.2961 bone_3 0.0504 bone_5 0.4531 bone_10 0.2005
+skin 1359 bone_1 0.4115 bone_5 0.5111 bone_10 0.0774
+skin 1360 bone_26 1.0000
+skin 1361 bone_26 1.0000
+skin 1362 bone_17 1.0000
+skin 1363 bone_16 0.1459 bone_24 0.8541
+skin 1364 bone_16 0.4229 bone_24 0.5771
+skin 1365 bone_17 1.0000
+skin 1366 bone_13 0.0663 bone_14 0.9337
+skin 1367 bone_18 1.0000
+skin 1368 bone_17 0.0399 bone_18 0.9601
+skin 1369 bone_17 0.0517 bone_18 0.9483
+skin 1370 bone_1 0.1420 bone_3 0.1789 bone_5 0.0398 bone_10 0.6392
+skin 1371 bone_1 0.0379 bone_3 0.0924 bone_10 0.8697
+skin 1372 bone_1 0.0472 bone_3 0.1294 bone_5 0.0363 bone_10 0.7871
+skin 1373 bone_6 0.0734 bone_7 0.9266
+skin 1374 bone_6 0.0574 bone_7 0.9426
+skin 1375 bone_2 0.0301 bone_3 0.9699
+skin 1376 bone_3 1.0000
+skin 1377 bone_3 1.0000
+skin 1378 bone_3 1.0000
+skin 1379 bone_3 1.0000
+skin 1380 bone_10 1.0000
+skin 1381 bone_10 1.0000
+skin 1382 bone_0 0.0434 bone_1 0.9260 bone_5 0.0306
+skin 1383 bone_3 1.0000
+skin 1384 bone_3 1.0000
+skin 1385 bone_19 0.8823 bone_20 0.1177
+skin 1386 bone_19 0.6967 bone_20 0.3033
+skin 1387 bone_16 0.8360 bone_24 0.1640
+skin 1388 bone_16 0.4831 bone_19 0.0511 bone_24 0.4658
+skin 1389 bone_16 0.6783 bone_19 0.0705 bone_24 0.2512
+skin 1390 bone_3 1.0000
+skin 1391 bone_3 1.0000
+skin 1392 bone_3 1.0000
+skin 1393 bone_12 0.7024 bone_13 0.2976
+skin 1394 bone_0 0.0848 bone_15 0.8543 bone_19 0.0609
+skin 1395 bone_15 0.4254 bone_19 0.4160 bone_24 0.1586
+skin 1396 bone_1 0.0619 bone_5 0.7093 bone_6 0.1827 bone_10 0.0461
+skin 1397 bone_1 0.0554 bone_10 0.9446
+skin 1398 bone_3 1.0000
+skin 1399 bone_3 1.0000
+skin 1400 bone_18 1.0000
+skin 1401 bone_18 1.0000
+skin 1402 bone_16 1.0000
+skin 1403 bone_16 1.0000
+skin 1404 bone_16 0.9620 bone_17 0.0380
+skin 1405 bone_5 0.6799 bone_6 0.3201
+skin 1406 bone_1 0.4941 bone_2 0.5059
+skin 1407 bone_15 0.1886 bone_16 0.1252 bone_19 0.5275 bone_24 0.1587
+skin 1408 bone_15 0.1279 bone_16 0.2196 bone_19 0.5308 bone_24 0.1217
+skin 1409 bone_19 0.1043 bone_20 0.8957
+skin 1410 bone_20 0.5196 bone_21 0.4804
+skin 1411 bone_20 0.6999 bone_21 0.3001
+skin 1412 bone_3 1.0000
+skin 1413 bone_3 1.0000
+skin 1414 bone_2 0.0314 bone_3 0.9686
+skin 1415 bone_17 1.0000
+skin 1416 bone_17 1.0000
+skin 1417 bone_17 1.0000
+skin 1418 bone_5 0.3843 bone_6 0.6157
+skin 1419 bone_13 0.6449 bone_14 0.3551
+skin 1420 bone_13 0.3939 bone_14 0.6061
+skin 1421 bone_17 0.0450 bone_18 0.9550
+skin 1422 bone_18 1.0000
+skin 1423 bone_18 1.0000
+skin 1424 bone_2 0.1443 bone_3 0.8557
+skin 1425 bone_2 0.1841 bone_3 0.8159
+skin 1426 bone_2 0.1927 bone_3 0.8073
+skin 1427 bone_3 1.0000
+skin 1428 bone_7 0.7203 bone_8 0.2797
+skin 1429 bone_3 1.0000
+skin 1430 bone_18 1.0000
+skin 1431 bone_18 1.0000
+skin 1432 bone_18 1.0000
+skin 1433 bone_3 0.8679 bone_10 0.1321
+skin 1434 bone_3 0.4248 bone_10 0.5752
+skin 1435 bone_3 0.4898 bone_10 0.5102
+skin 1436 bone_16 0.6952 bone_17 0.3048
+skin 1437 bone_16 0.3777 bone_17 0.6223
+skin 1438 bone_5 0.8765 bone_6 0.1235
+skin 1439 bone_5 0.4654 bone_6 0.5346
+skin 1440 bone_1 0.3743 bone_5 0.6257
+skin 1441 bone_1 0.3546 bone_5 0.6454
+skin 1442 bone_1 0.3201 bone_5 0.6799
+skin 1443 bone_20 1.0000
+skin 1444 bone_19 0.8445 bone_20 0.1555
+skin 1445 bone_12 0.1103 bone_13 0.8483 bone_14 0.0414
+skin 1446 bone_3 0.8708 bone_4 0.1292
+skin 1447 bone_16 0.1125 bone_24 0.8875
+skin 1448 bone_24 1.0000
+skin 1449 bone_16 0.9484 bone_17 0.0516
+skin 1450 bone_17 1.0000
+skin 1451 bone_17 1.0000
+skin 1452 bone_12 1.0000
+skin 1453 bone_11 0.1507 bone_12 0.8493
+skin 1454 bone_14 1.0000
+skin 1455 bone_26 1.0000
+skin 1456 bone_24 1.0000
+skin 1457 bone_24 1.0000
+skin 1458 bone_16 0.0927 bone_24 0.8781 bone_25 0.0292
+skin 1459 bone_24 0.1238 bone_25 0.8762
+skin 1460 bone_24 0.7869 bone_25 0.2131
+skin 1461 bone_24 0.3231 bone_25 0.6769
+skin 1462 bone_16 0.8969 bone_17 0.1031
+skin 1463 bone_1 0.1297 bone_2 0.1025 bone_3 0.0326 bone_5 0.7351
+skin 1464 bone_1 0.3408 bone_5 0.6592
+skin 1465 bone_9 1.0000
+skin 1466 bone_9 1.0000
+skin 1467 bone_8 0.0607 bone_9 0.9393
+skin 1468 bone_21 0.3719 bone_22 0.6281
+skin 1469 bone_21 1.0000
+skin 1470 bone_20 0.1666 bone_21 0.8334
+skin 1471 bone_6 0.8909 bone_7 0.1091
+skin 1472 bone_14 1.0000
+skin 1473 bone_11 1.0000
+skin 1474 bone_11 1.0000
+skin 1475 bone_11 1.0000
+skin 1476 bone_3 1.0000
+skin 1477 bone_16 0.3683 bone_17 0.6317
+skin 1478 bone_1 0.0363 bone_5 0.7319 bone_6 0.2318
+skin 1479 bone_5 0.3246 bone_6 0.6754
+skin 1480 bone_19 1.0000
+skin 1481 bone_19 1.0000
+skin 1482 bone_17 1.0000
+skin 1483 bone_17 0.8253 bone_18 0.1747
+skin 1484 bone_17 0.7823 bone_18 0.2177
+skin 1485 bone_1 0.1188 bone_5 0.2493 bone_15 0.5114 bone_19 0.1205
+skin 1486 bone_12 0.1401 bone_13 0.8599
+skin 1487 bone_15 0.0505 bone_16 0.6459 bone_24 0.3037
+skin 1488 bone_16 0.3039 bone_24 0.2146 bone_25 0.4815
+skin 1489 bone_16 0.3435 bone_24 0.3225 bone_25 0.3340
+skin 1490 bone_27 0.4705 bone_28 0.5295
+skin 1491 bone_2 0.0517 bone_3 0.9483
+skin 1492 bone_3 1.0000
+skin 1493 bone_1 0.3432 bone_5 0.6568
+skin 1494 bone_1 0.3485 bone_5 0.6515
+skin 1495 bone_16 0.8995 bone_17 0.1005
+skin 1496 bone_16 1.0000
+skin 1497 bone_5 1.0000
+skin 1498 bone_7 0.1693 bone_8 0.7456 bone_9 0.0851
+skin 1499 bone_1 0.0702 bone_2 0.7495 bone_3 0.1803
+skin 1500 bone_1 0.0583 bone_2 0.7021 bone_3 0.2396
+skin 1501 bone_15 0.7594 bone_24 0.2406
+skin 1502 bone_15 0.5843 bone_24 0.4157
+skin 1503 bone_16 1.0000
+skin 1504 bone_16 1.0000
+skin 1505 bone_17 1.0000
+skin 1506 bone_17 1.0000
+skin 1507 bone_17 1.0000
+skin 1508 bone_25 1.0000
+skin 1509 bone_25 1.0000
+skin 1510 bone_8 0.4575 bone_9 0.5425
+skin 1511 bone_10 0.1960 bone_11 0.8040
+skin 1512 bone_21 1.0000
+skin 1513 bone_19 0.4401 bone_20 0.5599
+skin 1514 bone_16 0.1115 bone_17 0.8885
+skin 1515 bone_16 0.0785 bone_17 0.9215
+skin 1516 bone_16 0.0371 bone_17 0.9629
+skin 1517 bone_1 0.5251 bone_5 0.4749
+skin 1518 bone_1 0.5086 bone_5 0.4914
+skin 1519 bone_1 0.4936 bone_5 0.5064
+skin 1520 bone_24 1.0000
+skin 1521 bone_26 1.0000
+skin 1522 bone_26 1.0000
+skin 1523 bone_24 1.0000
+skin 1524 bone_15 0.0762 bone_24 0.9238
+skin 1525 bone_17 0.7780 bone_18 0.2220
+skin 1526 bone_17 0.7940 bone_18 0.2060
+skin 1527 bone_17 0.4264 bone_18 0.5736
+skin 1528 bone_17 0.8649 bone_18 0.1351
+skin 1529 bone_17 0.3952 bone_18 0.6048
+skin 1530 bone_25 1.0000
+skin 1531 bone_15 0.1449 bone_19 0.7102 bone_24 0.1449
+skin 1532 bone_3 0.7442 bone_4 0.2558
+skin 1533 bone_6 1.0000
+skin 1534 bone_6 1.0000
+skin 1535 bone_2 0.7126 bone_3 0.2874
+skin 1536 bone_2 0.6673 bone_3 0.3327
+skin 1537 bone_1 0.3389 bone_5 0.6611
+skin 1538 bone_1 0.3131 bone_5 0.6869
+skin 1539 bone_1 0.3645 bone_2 0.2513 bone_5 0.3842
+skin 1540 bone_3 0.6741 bone_4 0.3259
+skin 1541 bone_3 1.0000
+skin 1542 bone_3 1.0000
+skin 1543 bone_3 1.0000
+skin 1544 bone_0 0.3635 bone_15 0.6365
+skin 1545 bone_0 0.4168 bone_15 0.5832
+skin 1546 bone_1 0.3203 bone_2 0.6374 bone_3 0.0423
+skin 1547 bone_3 1.0000
+skin 1548 bone_0 0.0413 bone_15 0.7142 bone_19 0.2445
+skin 1549 bone_0 0.1154 bone_15 0.7253 bone_19 0.1593
+skin 1550 bone_15 0.3802 bone_19 0.6198
+skin 1551 bone_2 0.0349 bone_3 0.9651
+skin 1552 bone_2 0.0531 bone_3 0.9469
+skin 1553 bone_1 0.0360 bone_5 0.1549 bone_10 0.7643 bone_11 0.0447
+skin 1554 bone_1 0.2120 bone_5 0.1290 bone_10 0.3568 bone_15 0.3022
+skin 1555 bone_17 1.0000
+skin 1556 bone_21 0.1351 bone_22 0.8649
+skin 1557 bone_21 0.1668 bone_22 0.8332
+skin 1558 bone_21 0.0665 bone_22 0.9335
+skin 1559 bone_18 1.0000
+skin 1560 bone_18 1.0000
+skin 1561 bone_18 1.0000
+skin 1562 bone_21 1.0000
+skin 1563 bone_9 1.0000
+skin 1564 bone_9 1.0000
+skin 1565 bone_19 0.3693 bone_20 0.6307
+skin 1566 bone_15 0.7141 bone_19 0.2859
+skin 1567 bone_15 0.1548 bone_19 0.8452
+skin 1568 bone_15 0.2854 bone_19 0.7146
+skin 1569 bone_5 0.0640 bone_6 0.8227 bone_11 0.1133
+skin 1570 bone_5 0.1703 bone_6 0.8297
+skin 1571 bone_1 0.1136 bone_5 0.8864
+skin 1572 bone_1 0.0916 bone_5 0.9084
+skin 1573 bone_0 0.1838 bone_15 0.7151 bone_24 0.1011
+skin 1574 bone_0 0.0924 bone_15 0.6480 bone_19 0.0431 bone_24 0.2164
+skin 1575 bone_3 0.9073 bone_5 0.0562 bone_10 0.0365
+skin 1576 bone_1 0.0503 bone_3 0.6561 bone_5 0.1840 bone_10 0.1095
+skin 1577 bone_25 1.0000
+skin 1578 bone_25 0.9364 bone_26 0.0636
+skin 1579 bone_25 0.9656 bone_26 0.0344
+skin 1580 bone_3 1.0000
+skin 1581 bone_18 1.0000
+skin 1582 bone_26 1.0000
+skin 1583 bone_26 1.0000
+skin 1584 bone_18 1.0000
+skin 1585 bone_3 1.0000
+skin 1586 bone_3 1.0000
+skin 1587 bone_10 1.0000
+skin 1588 bone_10 1.0000
+skin 1589 bone_11 0.3000 bone_12 0.7000
+skin 1590 bone_11 0.1712 bone_12 0.8288
+skin 1591 bone_11 0.8053 bone_12 0.1947
+skin 1592 bone_10 1.0000
+skin 1593 bone_10 1.0000
+skin 1594 bone_6 0.0500 bone_10 0.3572 bone_11 0.5929
+skin 1595 bone_3 0.8679 bone_4 0.1321
+skin 1596 bone_6 0.0703 bone_10 0.1918 bone_11 0.7379
+skin 1597 bone_5 0.0434 bone_6 0.9566
+skin 1598 bone_0 0.4068 bone_15 0.5932
+skin 1599 bone_0 0.2463 bone_15 0.6994 bone_19 0.0543
+skin 1600 bone_10 0.8707 bone_11 0.1293
+skin 1601 bone_18 1.0000
+skin 1602 bone_18 1.0000
+skin 1603 bone_18 1.0000
+skin 1604 bone_2 0.8412 bone_5 0.1588
+skin 1605 bone_1 0.0307 bone_2 0.6967 bone_5 0.2726
+skin 1606 bone_1 0.1777 bone_2 0.5338 bone_5 0.2885
+skin 1607 bone_20 0.9520 bone_21 0.0480
+skin 1608 bone_20 0.6546 bone_21 0.3454
+skin 1609 bone_16 1.0000
+skin 1610 bone_16 1.0000
+skin 1611 bone_16 1.0000
+skin 1612 bone_0 0.0548 bone_1 0.9029 bone_5 0.0423
+skin 1613 bone_1 0.9084 bone_5 0.0916
+skin 1614 bone_0 0.0776 bone_1 0.8748 bone_5 0.0475
+skin 1615 bone_0 0.4132 bone_15 0.5868
+skin 1616 bone_0 0.4607 bone_15 0.5393
+skin 1617 bone_1 0.2862 bone_5 0.7138
+skin 1618 bone_1 0.0743 bone_5 0.9257
+skin 1619 bone_3 0.0959 bone_4 0.9041
+skin 1620 bone_3 0.1258 bone_4 0.8742
+skin 1621 bone_3 0.1230 bone_4 0.8770
+skin 1622 bone_8 0.2593 bone_9 0.7407
+skin 1623 bone_7 0.0360 bone_8 0.8047 bone_9 0.1593
+skin 1624 bone_3 1.0000
+skin 1625 bone_15 0.6535 bone_19 0.2912 bone_24 0.0553
+skin 1626 bone_0 0.0313 bone_15 0.6954 bone_19 0.2733
+skin 1627 bone_15 0.5713 bone_19 0.3919 bone_24 0.0368
+skin 1628 bone_16 1.0000
+skin 1629 bone_19 0.5475 bone_20 0.4525
+skin 1630 bone_6 0.3949 bone_7 0.6051
+skin 1631 bone_1 0.1178 bone_2 0.8008 bone_3 0.0814
+skin 1632 bone_1 0.1418 bone_2 0.7770 bone_3 0.0812
+skin 1633 bone_22 0.9391 bone_23 0.0609
+skin 1634 bone_11 1.0000
+skin 1635 bone_11 1.0000
+skin 1636 bone_11 1.0000
+skin 1637 bone_24 1.0000
+skin 1638 bone_3 1.0000
+skin 1639 bone_3 1.0000
+skin 1640 bone_7 0.7233 bone_8 0.2767
+skin 1641 bone_6 0.1256 bone_7 0.8744
+skin 1642 bone_3 1.0000
+skin 1643 bone_16 0.9618 bone_17 0.0382
+skin 1644 bone_0 0.1085 bone_1 0.8001 bone_10 0.0914
+skin 1645 bone_0 0.1419 bone_1 0.8151 bone_15 0.0430
+skin 1646 bone_0 0.1897 bone_1 0.6957 bone_10 0.0390 bone_15 0.0756
+skin 1647 bone_17 1.0000
+skin 1648 bone_20 0.5187 bone_21 0.4813
+skin 1649 bone_20 0.0500 bone_21 0.9500
+skin 1650 bone_1 0.1044 bone_10 0.7632 bone_11 0.1324
+skin 1651 bone_1 0.1335 bone_10 0.5428 bone_11 0.2756 bone_15 0.0481
+skin 1652 bone_1 0.0472 bone_6 0.0455 bone_10 0.3001 bone_11 0.6073
+skin 1653 bone_5 0.0434 bone_6 0.8282 bone_11 0.1284
+skin 1654 bone_5 0.0384 bone_6 0.9297 bone_11 0.0319
+skin 1655 bone_1 0.5536 bone_2 0.2007 bone_5 0.2456
+skin 1656 bone_22 0.8588 bone_23 0.1412
+skin 1657 bone_22 0.8289 bone_23 0.1711
+skin 1658 bone_5 0.2194 bone_6 0.7806
+skin 1659 bone_10 0.0472 bone_11 0.9528
+skin 1660 bone_3 0.1638 bone_4 0.8362
+skin 1661 bone_3 0.3001 bone_4 0.6999
+skin 1662 bone_3 0.3379 bone_4 0.6621
+skin 1663 bone_24 0.1133 bone_25 0.8867
+skin 1664 bone_2 0.0434 bone_3 0.9566
+skin 1665 bone_1 0.3930 bone_5 0.6070
+skin 1666 bone_1 0.3569 bone_5 0.6431
+skin 1667 bone_15 0.3532 bone_19 0.6468
+skin 1668 bone_15 0.4778 bone_19 0.5222
+skin 1669 bone_15 0.1464 bone_19 0.8536
+skin 1670 bone_20 0.9353 bone_21 0.0647
+skin 1671 bone_20 0.2257 bone_21 0.7743
+skin 1672 bone_18 1.0000
+skin 1673 bone_18 1.0000
+skin 1674 bone_15 0.2231 bone_19 0.7769
+skin 1675 bone_1 0.2567 bone_2 0.0701 bone_3 0.2946 bone_10 0.3786
+skin 1676 bone_17 0.9262 bone_18 0.0738
+skin 1677 bone_17 0.9282 bone_18 0.0718
+skin 1678 bone_3 0.9424 bone_4 0.0576
+skin 1679 bone_1 0.2660 bone_3 0.0469 bone_5 0.6870
+skin 1680 bone_1 0.3088 bone_5 0.6912
+skin 1681 bone_19 0.1686 bone_20 0.8314
+skin 1682 bone_16 0.0742 bone_19 0.1821 bone_20 0.7436
+skin 1683 bone_16 0.0448 bone_19 0.2271 bone_20 0.7281
+skin 1684 bone_16 1.0000
+skin 1685 bone_16 1.0000
+skin 1686 bone_18 1.0000
+skin 1687 bone_17 0.0346 bone_18 0.9654
+skin 1688 bone_17 0.3263 bone_18 0.6737
+skin 1689 bone_17 0.1684 bone_18 0.8316
+skin 1690 bone_18 1.0000
+skin 1691 bone_1 0.0413 bone_5 0.9587
+skin 1692 bone_1 0.0414 bone_5 0.9586
+skin 1693 bone_1 0.0577 bone_5 0.9423
+skin 1694 bone_16 0.4241 bone_19 0.3331 bone_20 0.1667 bone_24 0.0762
+skin 1695 bone_16 0.9254 bone_19 0.0380 bone_24 0.0366
+skin 1696 bone_16 0.5991 bone_19 0.2593 bone_20 0.0642 bone_24 0.0774
+skin 1697 bone_5 0.3762 bone_6 0.6238
+skin 1698 bone_5 0.1610 bone_6 0.8048 bone_11 0.0342
+skin 1699 bone_11 1.0000
+skin 1700 bone_11 1.0000
+skin 1701 bone_11 1.0000
+skin 1702 bone_21 0.1996 bone_22 0.8004
+skin 1703 bone_21 0.3703 bone_22 0.6297
+skin 1704 bone_3 0.9361 bone_4 0.0639
+skin 1705 bone_26 1.0000
+skin 1706 bone_26 1.0000
+skin 1707 bone_1 0.3039 bone_10 0.2944 bone_15 0.4018
+skin 1708 bone_11 1.0000
+skin 1709 bone_11 0.5690 bone_12 0.4310
+skin 1710 bone_8 0.7222 bone_9 0.2778
+skin 1711 bone_17 1.0000
+skin 1712 bone_16 0.5666 bone_24 0.4334
+skin 1713 bone_16 0.6733 bone_24 0.3267
+skin 1714 bone_16 0.5367 bone_24 0.4633
+skin 1715 bone_10 1.0000
+skin 1716 bone_10 1.0000
+skin 1717 bone_18 1.0000
+skin 1718 bone_3 1.0000
+skin 1719 bone_3 1.0000
+skin 1720 bone_3 1.0000
+skin 1721 bone_11 0.1434 bone_12 0.8566
+skin 1722 bone_11 0.1542 bone_12 0.8458
+skin 1723 bone_10 1.0000
+skin 1724 bone_10 1.0000
+skin 1725 bone_3 1.0000
+skin 1726 bone_11 1.0000
+skin 1727 bone_15 0.0546 bone_19 0.9454
+skin 1728 bone_15 0.0612 bone_19 0.9388
+skin 1729 bone_15 0.0730 bone_19 0.8961 bone_24 0.0309
+skin 1730 bone_0 0.4186 bone_1 0.5021 bone_15 0.0792
+skin 1731 bone_0 0.3090 bone_1 0.6306 bone_15 0.0604
+skin 1732 bone_0 0.4484 bone_1 0.3199 bone_15 0.2317
+skin 1733 bone_0 0.0544 bone_1 0.3683 bone_10 0.4072 bone_15 0.1701
+skin 1734 bone_15 0.5897 bone_19 0.3154 bone_24 0.0949
+skin 1735 bone_15 0.5638 bone_19 0.2587 bone_24 0.1776
+skin 1736 bone_15 0.4796 bone_19 0.4130 bone_24 0.1074
+skin 1737 bone_7 0.7750 bone_8 0.2250
+skin 1738 bone_7 0.0896 bone_8 0.8219 bone_9 0.0884
+skin 1739 bone_27 0.5158 bone_28 0.4842
+skin 1740 bone_27 0.5603 bone_28 0.4397
+skin 1741 bone_27 0.7278 bone_28 0.2722
+skin 1742 bone_22 0.9485 bone_23 0.0515
+skin 1743 bone_22 0.8550 bone_23 0.1450
+skin 1744 bone_20 0.9371 bone_21 0.0629
+skin 1745 bone_20 0.9389 bone_21 0.0611
+skin 1746 bone_1 0.0678 bone_5 0.5701 bone_15 0.2609 bone_19 0.1012
+skin 1747 bone_16 1.0000
+skin 1748 bone_16 1.0000
+skin 1749 bone_16 1.0000
+skin 1750 bone_3 1.0000
+skin 1751 bone_3 1.0000
+skin 1752 bone_3 1.0000
+skin 1753 bone_3 1.0000
+skin 1754 bone_3 1.0000
+skin 1755 bone_3 1.0000
+skin 1756 bone_1 0.7532 bone_2 0.2468
+skin 1757 bone_1 0.3407 bone_5 0.6593
+skin 1758 bone_1 0.3959 bone_5 0.6041
+skin 1759 bone_1 0.3722 bone_5 0.6278
+skin 1760 bone_3 0.9532 bone_4 0.0468
+skin 1761 bone_3 0.8745 bone_4 0.0364 bone_5 0.0891
+skin 1762 bone_3 0.9626 bone_5 0.0374
+skin 1763 bone_22 0.8762 bone_23 0.1238
+skin 1764 bone_22 0.9332 bone_23 0.0668
+skin 1765 bone_21 1.0000
+skin 1766 bone_16 0.9561 bone_17 0.0439
+skin 1767 bone_0 0.4412 bone_15 0.5588
+skin 1768 bone_0 0.3909 bone_15 0.6091
+skin 1769 bone_3 0.3770 bone_4 0.6230
+skin 1770 bone_18 1.0000
+skin 1771 bone_18 1.0000
+skin 1772 bone_18 1.0000
+skin 1773 bone_18 1.0000
+skin 1774 bone_6 1.0000
+skin 1775 bone_6 1.0000
+skin 1776 bone_22 0.6786 bone_23 0.3214
+skin 1777 bone_22 0.6973 bone_23 0.3027
+skin 1778 bone_22 0.5633 bone_23 0.4367
+skin 1779 bone_26 0.0930 bone_27 0.9070
+skin 1780 bone_16 1.0000
+skin 1781 bone_25 1.0000
+skin 1782 bone_18 1.0000
+skin 1783 bone_18 1.0000
+skin 1784 bone_1 0.0666 bone_2 0.8513 bone_5 0.0821
+skin 1785 bone_1 0.1033 bone_2 0.8216 bone_5 0.0751
+skin 1786 bone_8 0.1636 bone_9 0.8364
+skin 1787 bone_1 0.2461 bone_5 0.7043 bone_15 0.0496
+skin 1788 bone_1 0.0970 bone_5 0.5399 bone_15 0.2516 bone_19 0.1116
+skin 1789 bone_0 0.2361 bone_5 0.0989 bone_15 0.5178 bone_19 0.1471
+skin 1790 bone_17 0.0912 bone_18 0.9088
+skin 1791 bone_17 0.0324 bone_18 0.9676
+skin 1792 bone_26 0.9438 bone_27 0.0562
+skin 1793 bone_3 1.0000
+skin 1794 bone_3 1.0000
+skin 1795 bone_5 0.2870 bone_6 0.4936 bone_10 0.1187 bone_11 0.1007
+skin 1796 bone_5 0.0611 bone_6 0.9389
+skin 1797 bone_6 1.0000
+skin 1798 bone_6 1.0000
+skin 1799 bone_3 0.9591 bone_4 0.0409
+skin 1800 bone_3 0.9679 bone_4 0.0321
+skin 1801 bone_3 0.9355 bone_4 0.0645
+skin 1802 bone_11 1.0000
+skin 1803 bone_11 1.0000
+skin 1804 bone_11 1.0000
+skin 1805 bone_21 1.0000
+skin 1806 bone_0 0.2068 bone_1 0.7932
+skin 1807 bone_0 0.4702 bone_1 0.3940 bone_15 0.1358
+skin 1808 bone_18 1.0000
+skin 1809 bone_1 0.2837 bone_2 0.4069 bone_5 0.3095
+skin 1810 bone_1 0.4758 bone_2 0.2266 bone_5 0.2976
+skin 1811 bone_1 0.5222 bone_2 0.2071 bone_5 0.2706
+skin 1812 bone_16 1.0000
+skin 1813 bone_1 0.0466 bone_5 0.0604 bone_10 0.8930
+skin 1814 bone_10 1.0000
+skin 1815 bone_1 0.0404 bone_5 0.0800 bone_10 0.8796
+skin 1816 bone_11 0.8910 bone_12 0.1090
+skin 1817 bone_18 1.0000
+skin 1818 bone_26 1.0000
+skin 1819 bone_26 1.0000
+skin 1820 bone_25 0.5863 bone_26 0.4137
+skin 1821 bone_26 1.0000
+skin 1822 bone_16 1.0000
+skin 1823 bone_18 1.0000
+skin 1824 bone_18 1.0000
+skin 1825 bone_1 0.1533 bone_2 0.1311 bone_3 0.6192 bone_10 0.0965
+skin 1826 bone_1 0.0567 bone_2 0.1087 bone_3 0.7871 bone_10 0.0475
+skin 1827 bone_1 0.1797 bone_2 0.1433 bone_3 0.5698 bone_10 0.1072
+skin 1828 bone_3 1.0000
+skin 1829 bone_0 0.6263 bone_1 0.0377 bone_15 0.3360
+skin 1830 bone_0 0.5342 bone_15 0.4658
+skin 1831 bone_0 0.1164 bone_15 0.7939 bone_24 0.0897
+skin 1832 bone_3 0.9662 bone_4 0.0338
+skin 1833 bone_15 0.3250 bone_16 0.0357 bone_19 0.4743 bone_24 0.1651
+skin 1834 bone_25 1.0000
+skin 1835 bone_25 1.0000
+skin 1836 bone_25 1.0000
+skin 1837 bone_24 0.5611 bone_25 0.4389
+skin 1838 bone_1 0.0887 bone_3 0.0516 bone_5 0.0762 bone_10 0.7835
+skin 1839 bone_1 0.0895 bone_10 0.9105
+skin 1840 bone_1 0.0480 bone_5 0.0599 bone_10 0.8921
+skin 1841 bone_3 0.1210 bone_4 0.8790
+skin 1842 bone_3 0.1452 bone_4 0.8548
+skin 1843 bone_3 0.1449 bone_4 0.8551
+skin 1844 bone_3 1.0000
+skin 1845 bone_3 1.0000
+skin 1846 bone_27 0.9477 bone_28 0.0523
+skin 1847 bone_3 1.0000
+skin 1848 bone_3 1.0000
+skin 1849 bone_0 0.2457 bone_1 0.0707 bone_15 0.6340 bone_24 0.0495
+skin 1850 bone_2 0.0583 bone_3 0.9417
+skin 1851 bone_2 0.0386 bone_3 0.9614
+skin 1852 bone_3 1.0000
+skin 1853 bone_19 0.0410 bone_20 0.9590
+skin 1854 bone_20 0.7777 bone_21 0.2223
+skin 1855 bone_26 1.0000
+skin 1856 bone_25 1.0000
+skin 1857 bone_25 1.0000
+skin 1858 bone_25 1.0000
+skin 1859 bone_6 0.3029 bone_7 0.6971
+skin 1860 bone_0 0.0536 bone_1 0.9464
+skin 1861 bone_0 0.0476 bone_1 0.9524
+skin 1862 bone_26 1.0000
+skin 1863 bone_1 0.2538 bone_2 0.1859 bone_3 0.4646 bone_10 0.0957
+skin 1864 bone_18 1.0000
+skin 1865 bone_18 1.0000
+skin 1866 bone_16 1.0000
+skin 1867 bone_1 0.0688 bone_2 0.0329 bone_3 0.8262 bone_10 0.0721
+skin 1868 bone_2 0.0353 bone_3 0.6497 bone_10 0.3150
+skin 1869 bone_1 0.0387 bone_2 0.0378 bone_3 0.4085 bone_10 0.5149
+skin 1870 bone_3 0.9252 bone_4 0.0334 bone_5 0.0414
+skin 1871 bone_7 0.9673 bone_8 0.0327
+skin 1872 bone_7 0.9033 bone_8 0.0967
+skin 1873 bone_25 0.0346 bone_26 0.9654
+skin 1874 bone_26 1.0000
+skin 1875 bone_6 1.0000
+skin 1876 bone_3 1.0000
+skin 1877 bone_3 0.7027 bone_4 0.2973
+skin 1878 bone_1 0.4627 bone_5 0.5373
+skin 1879 bone_11 0.3184 bone_12 0.6816
+skin 1880 bone_11 1.0000
+skin 1881 bone_3 0.1425 bone_4 0.8575
+skin 1882 bone_1 0.0319 bone_10 0.9681
+skin 1883 bone_16 1.0000
+skin 1884 bone_11 0.3977 bone_12 0.6023
+skin 1885 bone_11 0.1106 bone_12 0.8894
+skin 1886 bone_18 1.0000
+skin 1887 bone_18 1.0000
+skin 1888 bone_9 1.0000
+skin 1889 bone_22 0.6864 bone_23 0.3136
+skin 1890 bone_17 0.9265 bone_18 0.0735
+skin 1891 bone_22 0.5485 bone_23 0.4515
+skin 1892 bone_26 1.0000
+skin 1893 bone_26 1.0000
+skin 1894 bone_19 1.0000
+skin 1895 bone_19 1.0000
+skin 1896 bone_19 1.0000
+skin 1897 bone_19 0.1419 bone_20 0.8581
+skin 1898 bone_16 0.8325 bone_17 0.1675
+skin 1899 bone_2 0.1022 bone_3 0.8978
+skin 1900 bone_19 0.3761 bone_20 0.6239
+skin 1901 bone_1 0.1018 bone_3 0.3524 bone_5 0.1941 bone_10 0.3518
+skin 1902 bone_1 0.0385 bone_3 0.5469 bone_5 0.2259 bone_10 0.1887
+skin 1903 bone_24 0.9668 bone_25 0.0332
+skin 1904 bone_24 1.0000
+skin 1905 bone_17 1.0000
+skin 1906 bone_0 0.2644 bone_15 0.7356
+skin 1907 bone_0 0.3181 bone_15 0.6819
+skin 1908 bone_0 0.1441 bone_15 0.8100 bone_19 0.0458
+skin 1909 bone_0 0.0582 bone_1 0.6325 bone_5 0.2760 bone_15 0.0333
+skin 1910 bone_1 0.4700 bone_5 0.5300
+skin 1911 bone_1 0.4151 bone_5 0.3025 bone_15 0.2480 bone_19 0.0344
+skin 1912 bone_1 0.0610 bone_5 0.1962 bone_6 0.0485 bone_10 0.6943
+skin 1913 bone_5 0.4080 bone_6 0.1041 bone_10 0.4879
+skin 1914 bone_1 0.0566 bone_3 0.3367 bone_5 0.6067
+skin 1915 bone_1 0.2329 bone_3 0.2148 bone_5 0.5523
+skin 1916 bone_1 0.1953 bone_3 0.1323 bone_5 0.6724
+skin 1917 bone_3 1.0000
+skin 1918 bone_15 0.0443 bone_16 0.5523 bone_24 0.4034
+skin 1919 bone_13 0.0687 bone_14 0.9313
+skin 1920 bone_14 1.0000
+skin 1921 bone_17 0.0686 bone_18 0.9314
+skin 1922 bone_18 1.0000
+skin 1923 bone_14 1.0000
+skin 1924 bone_1 0.3021 bone_2 0.0461 bone_10 0.6518
+skin 1925 bone_1 0.5163 bone_2 0.0883 bone_10 0.3954
+skin 1926 bone_1 0.2792 bone_10 0.7208
+skin 1927 bone_3 1.0000
+skin 1928 bone_25 1.0000
+skin 1929 bone_25 1.0000
+skin 1930 bone_21 0.3981 bone_22 0.6019
+skin 1931 bone_21 0.0755 bone_22 0.9245
+skin 1932 bone_21 1.0000
+skin 1933 bone_10 0.1708 bone_11 0.8292
+skin 1934 bone_10 0.4770 bone_11 0.5230
+skin 1935 bone_20 0.7025 bone_21 0.2975
+skin 1936 bone_20 0.1088 bone_21 0.8912
+skin 1937 bone_3 1.0000
+skin 1938 bone_16 0.9345 bone_19 0.0655
+skin 1939 bone_16 0.7839 bone_19 0.2161
+skin 1940 bone_16 0.6424 bone_19 0.3576
+skin 1941 bone_5 0.0394 bone_6 0.2241 bone_10 0.0580 bone_11 0.6785
+skin 1942 bone_5 0.0490 bone_6 0.4908 bone_10 0.0350 bone_11 0.4253
+skin 1943 bone_3 0.1365 bone_4 0.8635
+skin 1944 bone_25 1.0000
+skin 1945 bone_18 1.0000
+skin 1946 bone_3 1.0000
+skin 1947 bone_1 0.0580 bone_2 0.0359 bone_3 0.8372 bone_10 0.0688
+skin 1948 bone_1 0.0356 bone_3 0.7689 bone_10 0.1955
+skin 1949 bone_10 0.0853 bone_11 0.9147
+skin 1950 bone_11 1.0000
+skin 1951 bone_15 0.2630 bone_19 0.2045 bone_24 0.5325
+skin 1952 bone_7 0.4857 bone_8 0.5143
+skin 1953 bone_9 1.0000
+skin 1954 bone_9 1.0000
+skin 1955 bone_5 0.2045 bone_6 0.0552 bone_10 0.6975 bone_11 0.0428
+skin 1956 bone_5 0.2635 bone_6 0.0612 bone_10 0.6309 bone_11 0.0444
+skin 1957 bone_16 1.0000
+skin 1958 bone_16 1.0000
+skin 1959 bone_21 0.1364 bone_22 0.8636
+skin 1960 bone_21 0.1615 bone_22 0.8385
+skin 1961 bone_17 0.6748 bone_18 0.3252
+skin 1962 bone_19 0.6124 bone_20 0.3876
+skin 1963 bone_19 0.5983 bone_20 0.4017
+skin 1964 bone_0 0.1527 bone_1 0.8473
+skin 1965 bone_3 0.8393 bone_4 0.1607
+skin 1966 bone_3 0.8393 bone_4 0.1607
+skin 1967 bone_3 0.8393 bone_4 0.1607
+skin 1968 bone_12 0.9642 bone_13 0.0358
+skin 1969 bone_3 1.0000
+skin 1970 bone_3 0.7822 bone_4 0.2178
+skin 1971 bone_3 0.8122 bone_4 0.1878
+skin 1972 bone_19 1.0000
+skin 1973 bone_19 1.0000
+skin 1974 bone_16 1.0000
+skin 1975 bone_3 1.0000
+skin 1976 bone_3 1.0000
+skin 1977 bone_3 1.0000
+skin 1978 bone_3 1.0000
+skin 1979 bone_15 0.0755 bone_19 0.0882 bone_24 0.8363
+skin 1980 bone_18 1.0000
+skin 1981 bone_18 1.0000
+skin 1982 bone_1 0.2045 bone_5 0.7955
+skin 1983 bone_1 0.1103 bone_5 0.8897
+skin 1984 bone_3 1.0000
+skin 1985 bone_0 0.2186 bone_1 0.5192 bone_15 0.2622
+skin 1986 bone_16 0.0677 bone_17 0.9323
+skin 1987 bone_16 0.2293 bone_17 0.7707
+skin 1988 bone_17 1.0000
+skin 1989 bone_3 1.0000
+skin 1990 bone_5 0.0895 bone_6 0.4363 bone_10 0.0700 bone_11 0.4042
+skin 1991 bone_5 0.1494 bone_6 0.2720 bone_10 0.1411 bone_11 0.4375
+skin 1992 bone_17 0.4029 bone_18 0.5971
+skin 1993 bone_3 1.0000
+skin 1994 bone_17 1.0000
+skin 1995 bone_3 0.1385 bone_4 0.8615
+skin 1996 bone_17 0.6828 bone_18 0.3172
+skin 1997 bone_17 0.4634 bone_18 0.5366
+skin 1998 bone_2 0.0371 bone_3 0.9629
+skin 1999 bone_24 0.0555 bone_25 0.9445
+skin 2000 bone_22 0.5102 bone_23 0.4898
+skin 2001 bone_22 0.5764 bone_23 0.4236
+skin 2002 bone_18 1.0000
+skin 2003 bone_18 1.0000
+skin 2004 bone_1 0.0937 bone_5 0.8584 bone_15 0.0479
+skin 2005 bone_1 0.0684 bone_5 0.8777 bone_15 0.0539
+skin 2006 bone_19 0.2899 bone_20 0.7101
+skin 2007 bone_19 0.1281 bone_20 0.8719
+skin 2008 bone_19 0.3701 bone_20 0.6299
+skin 2009 bone_16 0.0463 bone_17 0.9537
+skin 2010 bone_24 0.9559 bone_25 0.0441
+skin 2011 bone_24 0.8438 bone_25 0.1562
+skin 2012 bone_3 1.0000
+skin 2013 bone_3 1.0000
+skin 2014 bone_3 1.0000
+skin 2015 bone_1 0.0548 bone_5 0.6049 bone_6 0.1721 bone_10 0.1682
+skin 2016 bone_3 0.9553 bone_4 0.0447
+skin 2017 bone_17 1.0000
+skin 2018 bone_17 1.0000
+skin 2019 bone_27 0.9383 bone_28 0.0617
+skin 2020 bone_26 0.0813 bone_27 0.9187
+skin 2021 bone_26 0.0432 bone_27 0.8666 bone_28 0.0902
+skin 2022 bone_3 1.0000
+skin 2023 bone_17 0.0381 bone_18 0.9619
+skin 2024 bone_17 0.0430 bone_18 0.9570
+skin 2025 bone_0 0.2422 bone_1 0.2706 bone_15 0.4872
+skin 2026 bone_0 0.4500 bone_15 0.5500
+skin 2027 bone_0 0.3643 bone_15 0.6357
+skin 2028 bone_1 0.0685 bone_3 0.1080 bone_10 0.8235
+skin 2029 bone_1 0.0522 bone_10 0.9478
+skin 2030 bone_18 1.0000
+skin 2031 bone_18 1.0000
+skin 2032 bone_1 0.3890 bone_5 0.6110
+skin 2033 bone_1 0.3087 bone_5 0.6913
+skin 2034 bone_19 0.3134 bone_20 0.1366 bone_24 0.2626 bone_25 0.2874
+skin 2035 bone_16 0.5512 bone_24 0.2036 bone_25 0.2452
+skin 2036 bone_16 0.4911 bone_19 0.1641 bone_20 0.0909 bone_24 0.2540
+skin 2037 bone_1 0.3493 bone_3 0.1456 bone_5 0.5050
+skin 2038 bone_1 0.0927 bone_3 0.4411 bone_5 0.4022 bone_10 0.0640
+skin 2039 bone_1 0.4352 bone_3 0.0498 bone_5 0.4442 bone_10 0.0708
+skin 2040 bone_21 0.0326 bone_22 0.9222 bone_23 0.0451
+skin 2041 bone_3 0.2431 bone_4 0.7569
+skin 2042 bone_3 0.2733 bone_4 0.7267
+skin 2043 bone_3 0.2214 bone_4 0.7786
+skin 2044 bone_1 0.3662 bone_10 0.4988 bone_15 0.1350
+skin 2045 bone_0 0.1111 bone_1 0.2642 bone_10 0.2286 bone_15 0.3961
+skin 2046 bone_17 1.0000
+skin 2047 bone_17 1.0000
+skin 2048 bone_19 0.9188 bone_20 0.0812
+skin 2049 bone_16 0.8006 bone_24 0.1994
+skin 2050 bone_2 0.0467 bone_3 0.9533
+skin 2051 bone_5 0.0341 bone_6 0.3377 bone_10 0.0647 bone_11 0.5635
+skin 2052 bone_22 1.0000
+skin 2053 bone_21 0.0537 bone_22 0.9463
+skin 2054 bone_16 1.0000
+skin 2055 bone_16 1.0000
+skin 2056 bone_16 0.8482 bone_19 0.0485 bone_24 0.1033
+skin 2057 bone_3 1.0000
+skin 2058 bone_1 0.0969 bone_5 0.9031
+skin 2059 bone_0 0.3346 bone_15 0.6654
+skin 2060 bone_17 1.0000
+skin 2061 bone_17 1.0000
+skin 2062 bone_0 0.0596 bone_15 0.8928 bone_24 0.0477
+skin 2063 bone_0 0.2691 bone_1 0.2116 bone_15 0.5193
+skin 2064 bone_0 0.1387 bone_15 0.7546 bone_24 0.1067
+skin 2065 bone_0 0.1897 bone_15 0.7365 bone_24 0.0738
+skin 2066 bone_15 0.7162 bone_19 0.2838
+skin 2067 bone_15 0.4548 bone_19 0.5452
+skin 2068 bone_15 0.6937 bone_19 0.3063
+skin 2069 bone_21 1.0000
+skin 2070 bone_21 0.7758 bone_22 0.2242
+skin 2071 bone_0 0.0998 bone_1 0.8694 bone_5 0.0308
+skin 2072 bone_0 0.2221 bone_1 0.7779
+skin 2073 bone_17 1.0000
+skin 2074 bone_0 0.2078 bone_1 0.7585 bone_15 0.0337
+skin 2075 bone_27 0.8738 bone_28 0.1262
+skin 2076 bone_18 1.0000
+skin 2077 bone_22 0.8512 bone_23 0.1488
+skin 2078 bone_3 1.0000
+skin 2079 bone_3 1.0000
+skin 2080 bone_3 1.0000
+skin 2081 bone_12 0.0452 bone_13 0.7671 bone_14 0.1877
+skin 2082 bone_17 0.0584 bone_18 0.9416
+skin 2083 bone_1 0.0404 bone_2 0.8435 bone_5 0.1161
+skin 2084 bone_1 0.0449 bone_2 0.7515 bone_5 0.2036
+skin 2085 bone_2 0.0357 bone_3 0.8456 bone_4 0.1187
+skin 2086 bone_19 0.4215 bone_20 0.5785
+skin 2087 bone_19 0.1325 bone_20 0.8675
+skin 2088 bone_3 1.0000
+skin 2089 bone_1 0.1082 bone_3 0.1516 bone_5 0.4013 bone_10 0.3389
+skin 2090 bone_1 0.1339 bone_3 0.0583 bone_5 0.4446 bone_10 0.3633
+skin 2091 bone_1 0.2255 bone_5 0.7745
+skin 2092 bone_1 0.2892 bone_5 0.7108
+skin 2093 bone_1 0.1166 bone_5 0.8834
+skin 2094 bone_9 1.0000
+skin 2095 bone_9 1.0000
+skin 2096 bone_25 1.0000
+skin 2097 bone_25 1.0000
+skin 2098 bone_2 0.2799 bone_3 0.7201
+skin 2099 bone_27 0.6703 bone_28 0.3297
+skin 2100 bone_27 0.5504 bone_28 0.4496
+skin 2101 bone_27 0.5182 bone_28 0.4818
+skin 2102 bone_15 0.4988 bone_19 0.2874 bone_24 0.2137
+skin 2103 bone_0 0.0484 bone_15 0.7547 bone_19 0.1969
+skin 2104 bone_0 0.0833 bone_15 0.8196 bone_19 0.0971
+skin 2105 bone_12 0.9099 bone_13 0.0901
+skin 2106 bone_3 1.0000
+skin 2107 bone_18 1.0000
+skin 2108 bone_18 1.0000
+skin 2109 bone_18 1.0000
+skin 2110 bone_19 0.2599 bone_20 0.1246 bone_24 0.4796 bone_25 0.1359
+skin 2111 bone_19 0.1331 bone_20 0.0600 bone_24 0.0535 bone_25 0.7535
+skin 2112 bone_7 0.9699 bone_8 0.0301
+skin 2113 bone_7 1.0000
+skin 2114 bone_26 0.9554 bone_27 0.0446
+skin 2115 bone_26 0.6249 bone_27 0.3751
+skin 2116 bone_16 0.7672 bone_24 0.2328
+skin 2117 bone_16 1.0000
+skin 2118 bone_16 1.0000
+skin 2119 bone_0 0.0692 bone_15 0.7902 bone_19 0.0816 bone_24 0.0589
+skin 2120 bone_0 0.0370 bone_15 0.5942 bone_19 0.1545 bone_24 0.2142
+skin 2121 bone_0 0.0420 bone_15 0.6773 bone_19 0.1481 bone_24 0.1326
+skin 2122 bone_1 0.0486 bone_2 0.4318 bone_3 0.5196
+skin 2123 bone_1 0.0608 bone_2 0.5599 bone_3 0.3793
+skin 2124 bone_17 0.5164 bone_18 0.4836
+skin 2125 bone_17 0.4152 bone_18 0.5848
+skin 2126 bone_17 0.5815 bone_18 0.4185
+skin 2127 bone_3 1.0000
+skin 2128 bone_3 1.0000
+skin 2129 bone_6 1.0000
+skin 2130 bone_10 1.0000
+skin 2131 bone_6 0.0330 bone_10 0.3309 bone_11 0.6361
+skin 2132 bone_6 0.0333 bone_10 0.3537 bone_11 0.6130
+skin 2133 bone_6 0.0518 bone_10 0.2891 bone_11 0.6591
+skin 2134 bone_16 1.0000
+skin 2135 bone_16 0.9275 bone_17 0.0725
+skin 2136 bone_16 1.0000
+skin 2137 bone_16 1.0000
+skin 2138 bone_6 1.0000
+skin 2139 bone_1 0.1548 bone_5 0.3993 bone_10 0.1903 bone_15 0.2557
+skin 2140 bone_21 0.8095 bone_22 0.1905
+skin 2141 bone_6 1.0000
+skin 2142 bone_1 0.3434 bone_2 0.1647 bone_3 0.3476 bone_10 0.1443
+skin 2143 bone_15 0.3985 bone_19 0.0410 bone_24 0.5605
+skin 2144 bone_15 0.0639 bone_19 0.0307 bone_24 0.9054
+skin 2145 bone_15 0.1615 bone_19 0.0533 bone_24 0.7853
+skin 2146 bone_10 1.0000
+skin 2147 bone_10 1.0000
+skin 2148 bone_16 0.2348 bone_17 0.7652
+skin 2149 bone_3 0.9203 bone_4 0.0797
+skin 2150 bone_3 0.9658 bone_4 0.0342
+skin 2151 bone_3 0.8582 bone_4 0.1418
+skin 2152 bone_12 0.5433 bone_13 0.4567
+skin 2153 bone_12 0.5651 bone_13 0.4349
+skin 2154 bone_14 1.0000
+skin 2155 bone_25 1.0000
+skin 2156 bone_25 0.1795 bone_26 0.8205
+skin 2157 bone_17 0.5184 bone_18 0.4816
+skin 2158 bone_18 1.0000
+skin 2159 bone_3 0.9666 bone_10 0.0334
+skin 2160 bone_18 1.0000
+skin 2161 bone_3 0.2023 bone_4 0.7977
+skin 2162 bone_3 0.7783 bone_4 0.2217
+skin 2163 bone_9 1.0000
+skin 2164 bone_9 1.0000
+skin 2165 bone_17 1.0000
+skin 2166 bone_16 0.0333 bone_17 0.9667
+skin 2167 bone_3 1.0000
+skin 2168 bone_3 1.0000
+skin 2169 bone_14 1.0000
+skin 2170 bone_14 1.0000
+skin 2171 bone_16 1.0000
+skin 2172 bone_16 1.0000
+skin 2173 bone_3 0.8393 bone_4 0.1607
+skin 2174 bone_3 1.0000
+skin 2175 bone_3 1.0000
+skin 2176 bone_3 1.0000
+skin 2177 bone_16 1.0000
+skin 2178 bone_16 1.0000
+skin 2179 bone_1 0.1481 bone_5 0.4475 bone_10 0.0783 bone_15 0.3262
+skin 2180 bone_3 0.3844 bone_4 0.6156
+skin 2181 bone_3 0.2827 bone_4 0.7173
+skin 2182 bone_3 0.1598 bone_4 0.8402
+skin 2183 bone_16 0.3481 bone_17 0.6519
+skin 2184 bone_16 0.3018 bone_17 0.6982
+skin 2185 bone_24 1.0000
+skin 2186 bone_16 0.2172 bone_24 0.7828
+skin 2187 bone_16 0.0479 bone_24 0.9521
+skin 2188 bone_0 0.2347 bone_15 0.7653
+skin 2189 bone_0 0.1824 bone_15 0.7858 bone_24 0.0318
+skin 2190 bone_0 0.1845 bone_15 0.8155
+skin 2191 bone_14 1.0000
+skin 2192 bone_2 0.0496 bone_3 0.9504
+skin 2193 bone_16 1.0000
+skin 2194 bone_3 0.8627 bone_4 0.1373
+skin 2195 bone_3 0.9386 bone_4 0.0614
+skin 2196 bone_3 0.9493 bone_4 0.0507
+skin 2197 bone_5 0.1216 bone_6 0.8784
+skin 2198 bone_5 0.5116 bone_6 0.4884
+skin 2199 bone_18 1.0000
+skin 2200 bone_1 0.3404 bone_5 0.6596
+skin 2201 bone_10 0.2673 bone_11 0.7327
+skin 2202 bone_10 0.4396 bone_11 0.5604
+skin 2203 bone_10 0.2902 bone_11 0.7098
+skin 2204 bone_3 0.1788 bone_4 0.8212
+skin 2205 bone_3 0.2060 bone_4 0.7940
+skin 2206 bone_24 0.4033 bone_25 0.5967
+skin 2207 bone_16 0.1234 bone_17 0.8766
+skin 2208 bone_25 1.0000
+skin 2209 bone_24 0.1080 bone_25 0.8920
+skin 2210 bone_24 0.0330 bone_25 0.9670
+skin 2211 bone_19 0.3212 bone_20 0.6788
+skin 2212 bone_19 0.1006 bone_20 0.8994
+skin 2213 bone_25 1.0000
+skin 2214 bone_1 0.2623 bone_3 0.1295 bone_5 0.6082
+skin 2215 bone_1 0.1999 bone_3 0.0858 bone_5 0.7143
+skin 2216 bone_13 0.6260 bone_14 0.3740
+skin 2217 bone_1 0.0331 bone_5 0.8976 bone_6 0.0693
+skin 2218 bone_16 0.1827 bone_17 0.8173
+skin 2219 bone_16 1.0000
+skin 2220 bone_16 0.9385 bone_24 0.0615
+skin 2221 bone_22 0.9282 bone_23 0.0718
+skin 2222 bone_16 0.6270 bone_24 0.3730
+skin 2223 bone_7 1.0000
+skin 2224 bone_1 0.0315 bone_6 0.0565 bone_10 0.2282 bone_11 0.6838
+skin 2225 bone_16 0.5972 bone_17 0.4028
+skin 2226 bone_16 0.6039 bone_17 0.3961
+skin 2227 bone_19 0.0515 bone_20 0.9485
+skin 2228 bone_18 1.0000
+skin 2229 bone_18 1.0000
+skin 2230 bone_18 1.0000
+skin 2231 bone_3 0.1769 bone_4 0.8231
+skin 2232 bone_10 0.0675 bone_11 0.9325
+skin 2233 bone_16 0.2862 bone_19 0.2837 bone_20 0.3919 bone_24 0.0381
+skin 2234 bone_18 1.0000
+skin 2235 bone_18 1.0000
+skin 2236 bone_22 0.5317 bone_23 0.4683
+skin 2237 bone_22 0.5446 bone_23 0.4554
+skin 2238 bone_24 1.0000
+skin 2239 bone_24 1.0000
+skin 2240 bone_1 0.5665 bone_5 0.4335
+skin 2241 bone_1 0.5901 bone_5 0.4099
+skin 2242 bone_1 0.6605 bone_5 0.3395
+skin 2243 bone_19 0.5418 bone_20 0.3168 bone_24 0.1414
+skin 2244 bone_24 1.0000
+skin 2245 bone_15 0.3102 bone_19 0.4985 bone_24 0.1913
+skin 2246 bone_16 0.1930 bone_17 0.8070
+skin 2247 bone_1 0.1031 bone_10 0.8969
+skin 2248 bone_1 0.0726 bone_10 0.9274
+skin 2249 bone_1 0.1572 bone_10 0.8428
+skin 2250 bone_19 0.0518 bone_20 0.9482
+skin 2251 bone_18 1.0000
+skin 2252 bone_18 1.0000
+skin 2253 bone_22 0.9556 bone_23 0.0444
+skin 2254 bone_1 0.0819 bone_10 0.9181
+skin 2255 bone_1 0.0746 bone_10 0.9254
+skin 2256 bone_10 1.0000
+skin 2257 bone_16 0.0597 bone_19 0.9403
+skin 2258 bone_19 1.0000
+skin 2259 bone_16 0.5817 bone_19 0.2906 bone_20 0.1277
+skin 2260 bone_16 0.7276 bone_19 0.2387 bone_24 0.0337
+skin 2261 bone_17 0.0827 bone_18 0.9173
+skin 2262 bone_0 0.0554 bone_15 0.7746 bone_19 0.1701
+skin 2263 bone_2 0.8545 bone_3 0.0650 bone_5 0.0804
+skin 2264 bone_25 0.7657 bone_26 0.2343
+skin 2265 bone_25 0.0843 bone_26 0.9157
+skin 2266 bone_25 0.4446 bone_26 0.5554
+skin 2267 bone_1 0.2246 bone_2 0.5268 bone_3 0.2487
+skin 2268 bone_1 0.2240 bone_2 0.7281 bone_3 0.0478
+skin 2269 bone_18 1.0000
+skin 2270 bone_18 1.0000
+skin 2271 bone_0 0.2552 bone_15 0.6501 bone_19 0.0948
+skin 2272 bone_15 0.6177 bone_19 0.3069 bone_24 0.0754
+skin 2273 bone_15 0.5706 bone_19 0.3893 bone_24 0.0402
+skin 2274 bone_3 0.9386 bone_4 0.0614
+skin 2275 bone_3 1.0000
+skin 2276 bone_3 1.0000
+skin 2277 bone_7 1.0000
+skin 2278 bone_0 0.2964 bone_1 0.2433 bone_15 0.4603
+skin 2279 bone_3 0.7759 bone_5 0.0431 bone_10 0.1810
+skin 2280 bone_17 0.6637 bone_18 0.3363
+skin 2281 bone_1 0.6007 bone_5 0.3993
+skin 2282 bone_0 0.4746 bone_15 0.5254
+skin 2283 bone_2 0.6390 bone_3 0.2388 bone_5 0.1223
+skin 2284 bone_26 1.0000
+skin 2285 bone_24 0.7102 bone_25 0.2898
+skin 2286 bone_20 0.3550 bone_21 0.6450
+skin 2287 bone_21 1.0000
+skin 2288 bone_6 1.0000
+skin 2289 bone_6 1.0000
+skin 2290 bone_6 1.0000
+skin 2291 bone_17 0.6360 bone_18 0.3640
+skin 2292 bone_17 0.4002 bone_18 0.5998
+skin 2293 bone_17 0.8368 bone_18 0.1632
+skin 2294 bone_10 0.0803 bone_11 0.9197
+skin 2295 bone_16 1.0000
+skin 2296 bone_16 1.0000
+skin 2297 bone_18 1.0000
+skin 2298 bone_18 1.0000
+skin 2299 bone_3 0.9651 bone_4 0.0349
+skin 2300 bone_3 1.0000
+skin 2301 bone_1 0.1235 bone_5 0.8765
+skin 2302 bone_18 1.0000
+skin 2303 bone_18 1.0000
+skin 2304 bone_1 0.0341 bone_5 0.9659
+skin 2305 bone_3 0.2860 bone_4 0.7140
+skin 2306 bone_19 0.9176 bone_20 0.0317 bone_24 0.0506
+skin 2307 bone_19 0.7752 bone_20 0.1866 bone_24 0.0382
+skin 2308 bone_19 0.8117 bone_20 0.1883
+skin 2309 bone_1 0.0369 bone_10 0.9631
+skin 2310 bone_1 0.0357 bone_10 0.9643
+skin 2311 bone_1 0.1205 bone_2 0.6484 bone_5 0.2311
+skin 2312 bone_18 1.0000
+skin 2313 bone_7 0.8982 bone_8 0.1018
+skin 2314 bone_17 0.9541 bone_18 0.0459
+skin 2315 bone_17 0.8497 bone_18 0.1503
+skin 2316 bone_6 0.9497 bone_7 0.0503
+skin 2317 bone_0 0.6527 bone_1 0.0790 bone_15 0.2683
+skin 2318 bone_0 0.6089 bone_1 0.0649 bone_15 0.3262
+skin 2319 bone_1 0.3438 bone_5 0.6562
+skin 2320 bone_1 0.2917 bone_5 0.7083
+skin 2321 bone_18 1.0000
+skin 2322 bone_3 1.0000
+skin 2323 bone_1 0.7483 bone_2 0.0365 bone_5 0.2152
+skin 2324 bone_1 0.5683 bone_2 0.1005 bone_5 0.3311
+skin 2325 bone_6 0.7329 bone_7 0.2671
+skin 2326 bone_6 0.6608 bone_7 0.3392
+skin 2327 bone_3 1.0000
+skin 2328 bone_22 0.4859 bone_23 0.5141
+skin 2329 bone_10 0.0547 bone_11 0.9453
+skin 2330 bone_7 1.0000
+skin 2331 bone_7 1.0000
+skin 2332 bone_5 0.2325 bone_6 0.7675
+skin 2333 bone_5 0.1392 bone_6 0.8608
+skin 2334 bone_1 0.1265 bone_5 0.8735
+skin 2335 bone_19 1.0000
+skin 2336 bone_19 1.0000
+skin 2337 bone_19 1.0000
+skin 2338 bone_12 0.9674 bone_13 0.0326
+skin 2339 bone_3 0.2333 bone_4 0.7667
+skin 2340 bone_27 0.5827 bone_28 0.4173
+skin 2341 bone_27 0.5397 bone_28 0.4603
+skin 2342 bone_19 0.3651 bone_20 0.6349
+skin 2343 bone_16 0.3248 bone_19 0.4168 bone_20 0.2583
+skin 2344 bone_3 1.0000
+skin 2345 bone_3 1.0000
+skin 2346 bone_15 0.0860 bone_24 0.9140
+skin 2347 bone_24 1.0000
+skin 2348 bone_3 1.0000
+skin 2349 bone_5 0.3786 bone_6 0.6214
+skin 2350 bone_12 0.1213 bone_13 0.8787
+skin 2351 bone_15 0.4267 bone_19 0.5733
+skin 2352 bone_3 0.7348 bone_4 0.2652
+skin 2353 bone_3 1.0000
+skin 2354 bone_1 0.0424 bone_5 0.2123 bone_15 0.4107 bone_19 0.3345
+skin 2355 bone_1 0.0833 bone_5 0.6571 bone_15 0.1623 bone_19 0.0973
+skin 2356 bone_0 0.0522 bone_5 0.0704 bone_15 0.4278 bone_19 0.4496
+skin 2357 bone_15 0.1205 bone_19 0.8478 bone_24 0.0317
+skin 2358 bone_15 0.1160 bone_19 0.8840
+skin 2359 bone_18 1.0000
+skin 2360 bone_16 0.2260 bone_19 0.3588 bone_20 0.2235 bone_24 0.1917
+skin 2361 bone_16 0.4246 bone_19 0.2236 bone_20 0.2434 bone_24 0.1083
+skin 2362 bone_19 0.1433 bone_20 0.0335 bone_24 0.7190 bone_25 0.1041
+skin 2363 bone_21 1.0000
+skin 2364 bone_21 1.0000
+skin 2365 bone_1 0.3730 bone_5 0.6270
+skin 2366 bone_1 0.2346 bone_5 0.7654
+skin 2367 bone_1 0.3887 bone_5 0.6113
+skin 2368 bone_11 1.0000
+skin 2369 bone_11 1.0000
+skin 2370 bone_1 0.0367 bone_10 0.9633
+skin 2371 bone_1 0.0330 bone_10 0.9670
+skin 2372 bone_1 0.0495 bone_10 0.9505
+skin 2373 bone_1 0.0449 bone_10 0.9551
+skin 2374 bone_16 0.0649 bone_19 0.2696 bone_20 0.6655
+skin 2375 bone_3 1.0000
+skin 2376 bone_3 1.0000
+skin 2377 bone_3 1.0000
+skin 2378 bone_18 1.0000
+skin 2379 bone_17 0.8028 bone_18 0.1972
+skin 2380 bone_3 1.0000
+skin 2381 bone_0 0.2044 bone_15 0.7453 bone_19 0.0503
+skin 2382 bone_21 1.0000
+skin 2383 bone_5 0.0603 bone_6 0.9397
+skin 2384 bone_6 0.5358 bone_7 0.4642
+skin 2385 bone_16 0.6907 bone_19 0.1245 bone_24 0.1848
+skin 2386 bone_16 0.4518 bone_19 0.3048 bone_24 0.2434
+skin 2387 bone_17 1.0000
+skin 2388 bone_17 1.0000
+skin 2389 bone_7 0.9531 bone_8 0.0469
+skin 2390 bone_25 1.0000
+skin 2391 bone_25 0.6505 bone_26 0.3495
+skin 2392 bone_27 0.5283 bone_28 0.4717
+skin 2393 bone_15 0.1851 bone_19 0.6137 bone_24 0.2012
+skin 2394 bone_15 0.2553 bone_19 0.5890 bone_24 0.1557
+skin 2395 bone_0 0.3032 bone_1 0.3236 bone_15 0.3732
+skin 2396 bone_6 0.0391 bone_7 0.9609
+skin 2397 bone_6 1.0000
+skin 2398 bone_6 0.7579 bone_7 0.2421
+skin 2399 bone_16 0.4670 bone_19 0.5330
+skin 2400 bone_16 0.0307 bone_19 0.9693
+skin 2401 bone_16 0.5519 bone_19 0.4481
+skin 2402 bone_10 0.2708 bone_11 0.7292
+skin 2403 bone_7 1.0000
+skin 2404 bone_18 1.0000
+skin 2405 bone_17 0.2014 bone_18 0.7986
+skin 2406 bone_17 0.3853 bone_18 0.6147
+skin 2407 bone_3 1.0000
+skin 2408 bone_19 0.6656 bone_20 0.3344
+skin 2409 bone_19 0.3751 bone_20 0.6249
+skin 2410 bone_21 1.0000
+skin 2411 bone_21 1.0000
+skin 2412 bone_26 0.5426 bone_27 0.4574
+skin 2413 bone_3 0.1796 bone_4 0.8204
+skin 2414 bone_11 0.6275 bone_12 0.3725
+skin 2415 bone_8 0.1185 bone_9 0.8815
+skin 2416 bone_16 1.0000
+skin 2417 bone_0 0.5966 bone_1 0.1065 bone_15 0.2969
+skin 2418 bone_8 0.0742 bone_9 0.9258
+skin 2419 bone_8 0.5522 bone_9 0.4478
+skin 2420 bone_17 0.8210 bone_18 0.1790
+skin 2421 bone_17 0.6706 bone_18 0.3294
+skin 2422 bone_3 1.0000
+skin 2423 bone_5 0.0334 bone_6 0.9666
+skin 2424 bone_1 0.2265 bone_2 0.4457 bone_5 0.3278
+skin 2425 bone_3 1.0000
+skin 2426 bone_3 1.0000
+skin 2427 bone_3 1.0000
+skin 2428 bone_15 0.1321 bone_19 0.8228 bone_24 0.0451
+skin 2429 bone_15 0.0510 bone_19 0.9023 bone_24 0.0467
+skin 2430 bone_0 0.0379 bone_15 0.5957 bone_19 0.1293 bone_24 0.2372
+skin 2431 bone_16 0.3070 bone_24 0.6930
+skin 2432 bone_9 1.0000
+skin 2433 bone_9 1.0000
+skin 2434 bone_15 0.1273 bone_16 0.0673 bone_19 0.8054
+skin 2435 bone_15 0.0624 bone_16 0.0976 bone_19 0.8401
+skin 2436 bone_15 0.0950 bone_16 0.1386 bone_19 0.6861 bone_24 0.0803
+skin 2437 bone_3 1.0000
+skin 2438 bone_5 0.6843 bone_6 0.3157
+skin 2439 bone_1 0.0560 bone_10 0.9440
+skin 2440 bone_15 0.7359 bone_19 0.0813 bone_24 0.1828
+skin 2441 bone_25 1.0000
+skin 2442 bone_25 1.0000
+skin 2443 bone_3 0.8659 bone_4 0.1341
+skin 2444 bone_17 0.2152 bone_18 0.7848
+skin 2445 bone_17 0.7753 bone_18 0.2247
+skin 2446 bone_17 0.1815 bone_18 0.8185
+skin 2447 bone_18 1.0000
+skin 2448 bone_1 0.5111 bone_5 0.4889
+skin 2449 bone_1 0.3266 bone_5 0.6734
+skin 2450 bone_1 0.5002 bone_5 0.4998
+skin 2451 bone_18 1.0000
+skin 2452 bone_18 1.0000
+skin 2453 bone_1 0.4075 bone_5 0.5925
+skin 2454 bone_5 0.0682 bone_6 0.9318
+skin 2455 bone_3 1.0000
+skin 2456 bone_16 0.9653 bone_17 0.0347
+skin 2457 bone_5 0.0824 bone_6 0.8594 bone_11 0.0582
+skin 2458 bone_1 0.2004 bone_10 0.6235 bone_11 0.1233 bone_15 0.0528
+skin 2459 bone_3 0.7015 bone_4 0.2985
+skin 2460 bone_0 0.2610 bone_1 0.6406 bone_15 0.0984
+skin 2461 bone_25 1.0000
+skin 2462 bone_25 1.0000
+skin 2463 bone_10 0.7874 bone_11 0.2126
+skin 2464 bone_12 1.0000
+skin 2465 bone_16 1.0000
+skin 2466 bone_11 0.0303 bone_12 0.9697
+skin 2467 bone_27 0.8281 bone_28 0.1719
+skin 2468 bone_17 0.9030 bone_18 0.0970
+skin 2469 bone_5 0.1554 bone_10 0.8446
+skin 2470 bone_5 0.0786 bone_10 0.9214
+skin 2471 bone_2 0.7550 bone_5 0.2450
+skin 2472 bone_12 1.0000
+skin 2473 bone_12 0.4558 bone_13 0.4914 bone_14 0.0527
+skin 2474 bone_18 1.0000
+skin 2475 bone_2 0.1604 bone_3 0.8396
+skin 2476 bone_2 0.0589 bone_3 0.9411
+skin 2477 bone_2 0.0359 bone_3 0.9641
+skin 2478 bone_3 0.0661 bone_4 0.9339
+skin 2479 bone_19 1.0000
+skin 2480 bone_5 1.0000
+skin 2481 bone_5 1.0000
+skin 2482 bone_3 1.0000
+skin 2483 bone_27 0.8193 bone_28 0.1807
+skin 2484 bone_12 0.1924 bone_13 0.7480 bone_14 0.0596
+skin 2485 bone_18 1.0000
+skin 2486 bone_18 1.0000
+skin 2487 bone_21 1.0000
+skin 2488 bone_21 0.9551 bone_22 0.0449
+skin 2489 bone_21 1.0000
+skin 2490 bone_12 0.9591 bone_13 0.0409
+skin 2491 bone_3 1.0000
+skin 2492 bone_1 0.3877 bone_5 0.6123
+skin 2493 bone_1 0.1900 bone_5 0.8100
+skin 2494 bone_17 0.8804 bone_18 0.1196
+skin 2495 bone_17 1.0000
+skin 2496 bone_17 1.0000
+skin 2497 bone_1 0.0388 bone_3 0.1548 bone_10 0.8064
+skin 2498 bone_12 1.0000
+skin 2499 bone_22 0.7583 bone_23 0.2417
+skin 2500 bone_21 1.0000
+skin 2501 bone_21 0.9087 bone_22 0.0913
+skin 2502 bone_21 0.9046 bone_22 0.0954
+skin 2503 bone_18 1.0000
+skin 2504 bone_18 1.0000
+skin 2505 bone_18 1.0000
+skin 2506 bone_20 0.5104 bone_21 0.4896
+skin 2507 bone_16 0.8322 bone_19 0.1678
+skin 2508 bone_18 1.0000
+skin 2509 bone_6 0.0505 bone_11 0.9495
+skin 2510 bone_11 1.0000
+skin 2511 bone_16 1.0000
+skin 2512 bone_27 0.7989 bone_28 0.2011
+skin 2513 bone_22 0.5780 bone_23 0.4220
+skin 2514 bone_17 0.9448 bone_18 0.0552
+skin 2515 bone_7 0.7181 bone_8 0.2819
+skin 2516 bone_16 1.0000
+skin 2517 bone_10 1.0000
+skin 2518 bone_10 1.0000
+skin 2519 bone_16 1.0000
+skin 2520 bone_9 1.0000
+skin 2521 bone_1 0.1740 bone_5 0.8260
+skin 2522 bone_3 1.0000
+skin 2523 bone_19 1.0000
+skin 2524 bone_1 0.4968 bone_5 0.5032
+skin 2525 bone_19 0.2042 bone_20 0.7958
+skin 2526 bone_19 0.0711 bone_20 0.9289
+skin 2527 bone_17 0.1578 bone_18 0.8422
+skin 2528 bone_17 0.5863 bone_18 0.4137
+skin 2529 bone_1 0.1162 bone_2 0.7574 bone_5 0.1264
+skin 2530 bone_26 1.0000
+skin 2531 bone_16 1.0000
+skin 2532 bone_6 0.8559 bone_7 0.1441
+skin 2533 bone_21 0.3341 bone_22 0.6659
+skin 2534 bone_21 0.5596 bone_22 0.4404
+skin 2535 bone_21 0.1481 bone_22 0.8519
+skin 2536 bone_16 0.6145 bone_17 0.3855
+skin 2537 bone_16 0.7460 bone_17 0.2540
+skin 2538 bone_16 0.7365 bone_17 0.2635
+skin 2539 bone_18 1.0000
+skin 2540 bone_18 1.0000
+skin 2541 bone_18 1.0000
+skin 2542 bone_18 1.0000
+skin 2543 bone_16 0.7066 bone_17 0.2934
+skin 2544 bone_3 1.0000
+skin 2545 bone_0 0.2584 bone_15 0.7416
+skin 2546 bone_1 0.4553 bone_5 0.5447
+skin 2547 bone_16 0.0456 bone_19 0.9544
+skin 2548 bone_16 0.1132 bone_17 0.8868
+skin 2549 bone_17 1.0000
+skin 2550 bone_19 1.0000
+skin 2551 bone_18 1.0000
+skin 2552 bone_18 1.0000
+skin 2553 bone_18 1.0000
+skin 2554 bone_19 1.0000
+skin 2555 bone_3 1.0000
+skin 2556 bone_0 0.0428 bone_1 0.6352 bone_5 0.3220
+skin 2557 bone_12 0.9409 bone_13 0.0591
+skin 2558 bone_7 1.0000
+skin 2559 bone_1 0.2074 bone_10 0.7926
+skin 2560 bone_17 1.0000
+skin 2561 bone_17 0.9605 bone_18 0.0395
+skin 2562 bone_15 0.4790 bone_19 0.4165 bone_24 0.1044
+skin 2563 bone_15 0.3990 bone_24 0.6010
+skin 2564 bone_10 0.7782 bone_11 0.2218
+skin 2565 bone_24 1.0000
+skin 2566 bone_24 1.0000
+skin 2567 bone_1 0.0857 bone_10 0.9143
+skin 2568 bone_10 1.0000
+skin 2569 bone_3 0.9303 bone_4 0.0697
+skin 2570 bone_3 0.9535 bone_4 0.0465
+skin 2571 bone_5 0.1140 bone_6 0.8860
+skin 2572 bone_27 0.5163 bone_28 0.4837
+skin 2573 bone_27 0.5816 bone_28 0.4184
+skin 2574 bone_18 1.0000
+skin 2575 bone_18 1.0000
+skin 2576 bone_0 0.1861 bone_15 0.7797 bone_24 0.0342
+skin 2577 bone_1 0.0960 bone_10 0.9040
+skin 2578 bone_0 0.2115 bone_1 0.7885
+skin 2579 bone_9 1.0000
+skin 2580 bone_1 0.4658 bone_5 0.4723 bone_10 0.0618
+skin 2581 bone_18 1.0000
+skin 2582 bone_17 1.0000
+skin 2583 bone_3 1.0000
+skin 2584 bone_2 0.6132 bone_5 0.3868
+skin 2585 bone_15 0.0802 bone_19 0.9198
+skin 2586 bone_15 0.0799 bone_19 0.9201
+skin 2587 bone_16 0.9492 bone_24 0.0508
+skin 2588 bone_15 0.1504 bone_19 0.8496
+skin 2589 bone_1 0.1803 bone_2 0.0592 bone_3 0.0756 bone_5 0.6849
+skin 2590 bone_3 1.0000
+skin 2591 bone_19 1.0000
+skin 2592 bone_20 0.0798 bone_21 0.9202
+skin 2593 bone_1 0.0630 bone_3 0.0999 bone_5 0.3099 bone_10 0.5271
+skin 2594 bone_16 0.9592 bone_19 0.0408
+skin 2595 bone_16 1.0000
+skin 2596 bone_0 0.1461 bone_15 0.7317 bone_24 0.1222
+skin 2597 bone_15 0.1450 bone_24 0.8550
+skin 2598 bone_21 1.0000
+skin 2599 bone_1 0.4770 bone_2 0.0655 bone_10 0.4575
+skin 2600 bone_21 1.0000
+skin 2601 bone_26 0.9689 bone_27 0.0311
+skin 2602 bone_3 0.8050 bone_5 0.1305 bone_10 0.0645
+skin 2603 bone_10 1.0000
+skin 2604 bone_13 0.2726 bone_14 0.7274
+skin 2605 bone_20 0.5888 bone_21 0.4112
+skin 2606 bone_20 0.2654 bone_21 0.7346
+skin 2607 bone_20 0.1286 bone_21 0.8714
+skin 2608 bone_1 0.3440 bone_5 0.6560
+skin 2609 bone_16 0.0776 bone_24 0.2977 bone_25 0.6247
+skin 2610 bone_16 0.4520 bone_24 0.3768 bone_25 0.1712
+skin 2611 bone_16 0.3440 bone_24 0.3633 bone_25 0.2927
+skin 2612 bone_18 1.0000
+skin 2613 bone_3 1.0000
+skin 2614 bone_3 1.0000
+skin 2615 bone_19 1.0000
+skin 2616 bone_24 1.0000
+skin 2617 bone_24 1.0000
+skin 2618 bone_2 0.2886 bone_3 0.7114
+skin 2619 bone_1 0.9535 bone_2 0.0465
+skin 2620 bone_1 0.9460 bone_2 0.0540
+skin 2621 bone_1 1.0000
+skin 2622 bone_1 0.3393 bone_2 0.3089 bone_3 0.2903 bone_10 0.0615
+skin 2623 bone_13 0.3389 bone_14 0.6611
+skin 2624 bone_25 0.8371 bone_26 0.1629
+skin 2625 bone_25 0.4508 bone_26 0.5492
+skin 2626 bone_25 1.0000
+skin 2627 bone_15 0.0540 bone_19 0.9460
+skin 2628 bone_0 0.6294 bone_1 0.0410 bone_15 0.3295
+skin 2629 bone_20 0.7477 bone_21 0.2523
+skin 2630 bone_5 0.5993 bone_6 0.4007
+skin 2631 bone_3 1.0000
+skin 2632 bone_18 1.0000
+skin 2633 bone_18 1.0000
+skin 2634 bone_3 0.5842 bone_10 0.4158
+skin 2635 bone_17 0.9651 bone_18 0.0349
+skin 2636 bone_18 1.0000
+skin 2637 bone_14 1.0000
+skin 2638 bone_11 1.0000
+skin 2639 bone_11 1.0000
+skin 2640 bone_18 1.0000
+skin 2641 bone_18 1.0000
+skin 2642 bone_18 1.0000
+skin 2643 bone_17 0.5930 bone_18 0.4070
+skin 2644 bone_17 0.4234 bone_18 0.5766
+skin 2645 bone_6 0.0330 bone_10 0.2531 bone_11 0.7139
+skin 2646 bone_24 0.7405 bone_25 0.2595
+skin 2647 bone_21 1.0000
+skin 2648 bone_21 1.0000
+skin 2649 bone_5 0.0338 bone_6 0.9662
+skin 2650 bone_5 0.1509 bone_6 0.8491
+skin 2651 bone_3 0.9662 bone_4 0.0338
+skin 2652 bone_3 0.6423 bone_4 0.3577
+skin 2653 bone_16 0.9223 bone_24 0.0777
+skin 2654 bone_3 0.2149 bone_4 0.7851
+skin 2655 bone_15 0.4492 bone_24 0.5508
+skin 2656 bone_3 1.0000
+skin 2657 bone_2 0.0657 bone_3 0.9343
+skin 2658 bone_6 1.0000
+skin 2659 bone_11 0.0354 bone_12 0.9646
+skin 2660 bone_3 0.1727 bone_4 0.8273
+skin 2661 bone_1 0.0390 bone_5 0.9610
+skin 2662 bone_15 0.8975 bone_24 0.1025
+skin 2663 bone_0 0.4997 bone_1 0.0427 bone_15 0.4576
+skin 2664 bone_18 1.0000
+skin 2665 bone_5 0.2816 bone_6 0.7184
+skin 2666 bone_1 0.0544 bone_10 0.9456
+skin 2667 bone_1 0.0341 bone_10 0.9659
+skin 2668 bone_7 1.0000
+skin 2669 bone_7 1.0000
+skin 2670 bone_0 0.0477 bone_15 0.7842 bone_24 0.1680
+skin 2671 bone_26 0.6712 bone_27 0.3288
+skin 2672 bone_3 0.1749 bone_4 0.8251
+skin 2673 bone_25 0.5121 bone_26 0.4879
+skin 2674 bone_19 0.2339 bone_20 0.0560 bone_24 0.6062 bone_25 0.1039
+skin 2675 bone_24 0.9226 bone_25 0.0774
+skin 2676 bone_19 0.6636 bone_20 0.3364
+skin 2677 bone_1 0.0634 bone_10 0.9366
+skin 2678 bone_1 0.2419 bone_2 0.3898 bone_3 0.3682
+skin 2679 bone_1 0.1440 bone_2 0.1521 bone_3 0.6567 bone_10 0.0472
+skin 2680 bone_6 0.8778 bone_7 0.1222
+skin 2681 bone_6 1.0000
+skin 2682 bone_6 0.0740 bone_10 0.1157 bone_11 0.8103
+skin 2683 bone_6 0.0476 bone_10 0.1631 bone_11 0.7893
+skin 2684 bone_24 0.5904 bone_25 0.4096
+skin 2685 bone_8 0.6091 bone_9 0.3909
+skin 2686 bone_1 0.3980 bone_5 0.6020
+skin 2687 bone_12 1.0000
+skin 2688 bone_1 0.1066 bone_5 0.8618 bone_15 0.0316
+skin 2689 bone_25 0.8177 bone_26 0.1823
+skin 2690 bone_17 1.0000
+skin 2691 bone_3 0.2751 bone_4 0.7249
+skin 2692 bone_0 0.0638 bone_5 0.1256 bone_15 0.6499 bone_19 0.1607
+skin 2693 bone_10 0.0909 bone_15 0.7704 bone_19 0.0870 bone_24 0.0517
+skin 2694 bone_1 0.2631 bone_5 0.7369
+skin 2695 bone_17 0.8764 bone_18 0.1236
+skin 2696 bone_0 0.0977 bone_15 0.8381 bone_24 0.0642
+skin 2697 bone_26 0.6116 bone_27 0.3884
+skin 2698 bone_15 0.4085 bone_19 0.0852 bone_24 0.5063
+skin 2699 bone_15 0.5375 bone_19 0.1582 bone_24 0.3043
+skin 2700 bone_24 0.5773 bone_25 0.4227
+skin 2701 bone_24 0.2773 bone_25 0.7227
+skin 2702 bone_16 0.2206 bone_19 0.3521 bone_20 0.2092 bone_24 0.2181
+skin 2703 bone_16 0.7280 bone_17 0.2720
+skin 2704 bone_13 0.0524 bone_14 0.9476
+skin 2705 bone_6 1.0000
+skin 2706 bone_11 1.0000
+skin 2707 bone_18 1.0000
+skin 2708 bone_18 1.0000
+skin 2709 bone_0 0.3009 bone_1 0.5995 bone_5 0.0341 bone_15 0.0655
+skin 2710 bone_0 0.6021 bone_1 0.1824 bone_15 0.2155
+skin 2711 bone_3 0.8241 bone_4 0.1759
+skin 2712 bone_3 0.8905 bone_4 0.1095
+skin 2713 bone_3 0.9125 bone_4 0.0875
+skin 2714 bone_3 0.7788 bone_4 0.2212
+skin 2715 bone_6 1.0000
+skin 2716 bone_24 0.6105 bone_25 0.3895
+skin 2717 bone_8 0.0349 bone_9 0.9651
+skin 2718 bone_1 0.1851 bone_3 0.1612 bone_5 0.6537
+skin 2719 bone_16 0.9519 bone_17 0.0481
+skin 2720 bone_1 0.0902 bone_10 0.8364 bone_11 0.0734
+skin 2721 bone_17 0.0514 bone_18 0.9486
+skin 2722 bone_1 0.3237 bone_10 0.6763
+skin 2723 bone_0 0.0309 bone_1 0.4404 bone_10 0.5287
+skin 2724 bone_1 0.3131 bone_10 0.6869
+skin 2725 bone_18 1.0000
+skin 2726 bone_2 0.0520 bone_3 0.8112 bone_5 0.1368
+skin 2727 bone_3 1.0000
+skin 2728 bone_25 1.0000
+skin 2729 bone_25 1.0000
+skin 2730 bone_25 1.0000
+skin 2731 bone_0 0.1325 bone_15 0.7811 bone_19 0.0865
+skin 2732 bone_3 0.1312 bone_4 0.8688
+skin 2733 bone_16 0.9677 bone_24 0.0323
+skin 2734 bone_2 0.1775 bone_3 0.8225
+skin 2735 bone_5 0.7133 bone_6 0.2867
+skin 2736 bone_19 1.0000
+skin 2737 bone_1 0.1073 bone_2 0.8424 bone_5 0.0503
+skin 2738 bone_3 0.6089 bone_4 0.3911
+skin 2739 bone_17 0.2667 bone_18 0.7333
+skin 2740 bone_21 1.0000
+skin 2741 bone_3 1.0000
+skin 2742 bone_21 1.0000
+skin 2743 bone_3 0.7549 bone_4 0.2451
+skin 2744 bone_3 0.7796 bone_4 0.2204
+skin 2745 bone_2 0.0581 bone_3 0.8570 bone_4 0.0849
+skin 2746 bone_16 0.7045 bone_19 0.1452 bone_24 0.1502
+skin 2747 bone_6 1.0000
+skin 2748 bone_25 0.6503 bone_26 0.3497
+skin 2749 bone_0 0.3057 bone_1 0.6405 bone_15 0.0537
+skin 2750 bone_18 1.0000
+skin 2751 bone_18 1.0000
+skin 2752 bone_26 1.0000
+skin 2753 bone_1 0.0390 bone_5 0.4792 bone_15 0.2487 bone_19 0.2331
+skin 2754 bone_1 0.3355 bone_5 0.6645
+skin 2755 bone_0 0.1708 bone_1 0.8292
+skin 2756 bone_12 0.0639 bone_13 0.9037 bone_14 0.0324
+skin 2757 bone_13 0.8657 bone_14 0.1343
+skin 2758 bone_25 1.0000
+skin 2759 bone_24 0.0578 bone_25 0.9422
+skin 2760 bone_1 0.3417 bone_5 0.6583
+skin 2761 bone_1 0.4256 bone_5 0.5744
+skin 2762 bone_25 1.0000
+skin 2763 bone_26 0.0556 bone_27 0.9444
+skin 2764 bone_26 1.0000
+skin 2765 bone_0 0.3404 bone_1 0.6050 bone_15 0.0546
+skin 2766 bone_0 0.0592 bone_15 0.5568 bone_19 0.0445 bone_24 0.3395
+skin 2767 bone_6 0.6062 bone_7 0.3938
+skin 2768 bone_6 0.4215 bone_7 0.5785
+skin 2769 bone_17 0.0491 bone_18 0.9509
+skin 2770 bone_15 0.5713 bone_19 0.3486 bone_24 0.0802
+skin 2771 bone_10 0.2109 bone_11 0.7891
+skin 2772 bone_21 0.8872 bone_22 0.1128
+skin 2773 bone_5 0.0677 bone_6 0.9323
+skin 2774 bone_5 0.1931 bone_6 0.8069
+skin 2775 bone_18 1.0000
+skin 2776 bone_3 0.9380 bone_4 0.0620
+skin 2777 bone_17 0.2031 bone_18 0.7969
+skin 2778 bone_17 0.1303 bone_18 0.8697
+skin 2779 bone_16 0.3067 bone_24 0.6933
+skin 2780 bone_16 0.7514 bone_24 0.2486
+skin 2781 bone_5 0.9119 bone_6 0.0881
+skin 2782 bone_16 1.0000
+skin 2783 bone_3 1.0000
+skin 2784 bone_10 0.7933 bone_11 0.2067
+skin 2785 bone_3 1.0000
+skin 2786 bone_3 1.0000
+skin 2787 bone_12 0.7668 bone_13 0.2332
+skin 2788 bone_12 0.9661 bone_13 0.0339
+skin 2789 bone_1 0.4466 bone_5 0.5534
+skin 2790 bone_18 1.0000
+skin 2791 bone_10 1.0000
+skin 2792 bone_10 0.8878 bone_11 0.1122
+skin 2793 bone_3 1.0000
+skin 2794 bone_16 0.2656 bone_19 0.7344
+skin 2795 bone_16 0.1088 bone_19 0.8912
+skin 2796 bone_0 0.0467 bone_15 0.6352 bone_19 0.0496 bone_24 0.2684
+skin 2797 bone_3 1.0000
+skin 2798 bone_3 1.0000
+skin 2799 bone_3 1.0000
+skin 2800 bone_1 0.0570 bone_10 0.9430
+skin 2801 bone_1 0.0346 bone_10 0.9654
+skin 2802 bone_19 0.8983 bone_20 0.0563 bone_24 0.0455
+skin 2803 bone_1 0.0516 bone_10 0.9484
+skin 2804 bone_1 0.1348 bone_3 0.0722 bone_10 0.7930
+skin 2805 bone_1 0.1355 bone_10 0.8645
+skin 2806 bone_1 0.0949 bone_5 0.9051
+skin 2807 bone_18 1.0000
+skin 2808 bone_18 1.0000
+skin 2809 bone_1 0.2065 bone_5 0.0776 bone_10 0.2914 bone_15 0.4244
+skin 2810 bone_22 0.7193 bone_23 0.2807
+skin 2811 bone_20 0.0663 bone_21 0.9337
+skin 2812 bone_6 1.0000
+skin 2813 bone_16 0.0741 bone_19 0.6946 bone_20 0.2313
+skin 2814 bone_19 1.0000
+skin 2815 bone_19 0.8946 bone_20 0.1054
+skin 2816 bone_3 1.0000
+skin 2817 bone_18 1.0000
+skin 2818 bone_11 0.2151 bone_12 0.7849
+skin 2819 bone_11 0.5755 bone_12 0.4245
+skin 2820 bone_18 1.0000
+skin 2821 bone_21 0.9338 bone_22 0.0662
+skin 2822 bone_21 1.0000
+skin 2823 bone_18 1.0000
+skin 2824 bone_18 1.0000
+skin 2825 bone_3 1.0000
+skin 2826 bone_25 1.0000
+skin 2827 bone_16 1.0000
+skin 2828 bone_16 1.0000
+skin 2829 bone_16 1.0000
+skin 2830 bone_16 0.9307 bone_24 0.0693
+skin 2831 bone_3 0.9394 bone_4 0.0606
+skin 2832 bone_18 1.0000
+skin 2833 bone_8 0.8641 bone_9 0.1359
+skin 2834 bone_8 0.5258 bone_9 0.4742
+skin 2835 bone_18 1.0000
+skin 2836 bone_1 0.0387 bone_2 0.4847 bone_3 0.4766
+skin 2837 bone_25 0.9264 bone_26 0.0736
+skin 2838 bone_25 0.9656 bone_26 0.0344
+skin 2839 bone_19 1.0000
+skin 2840 bone_22 0.5201 bone_23 0.4799
+skin 2841 bone_20 0.4594 bone_21 0.5406
+skin 2842 bone_0 0.0492 bone_15 0.9056 bone_24 0.0451
+skin 2843 bone_0 0.4736 bone_15 0.5264
+skin 2844 bone_1 0.6378 bone_5 0.3622
+skin 2845 bone_16 0.0305 bone_19 0.2861 bone_20 0.6446 bone_24 0.0388
+skin 2846 bone_17 0.0384 bone_18 0.9616
+skin 2847 bone_18 1.0000
+skin 2848 bone_19 1.0000
+skin 2849 bone_2 0.0420 bone_3 0.3046 bone_10 0.6534
+skin 2850 bone_1 0.2533 bone_10 0.7467
+skin 2851 bone_24 0.9489 bone_25 0.0511
+skin 2852 bone_19 1.0000
+skin 2853 bone_1 0.3049 bone_2 0.4251 bone_3 0.2701
+skin 2854 bone_1 0.1934 bone_2 0.7663 bone_5 0.0403
+skin 2855 bone_3 0.9303 bone_4 0.0697
+skin 2856 bone_16 0.7196 bone_24 0.2804
+skin 2857 bone_12 0.0798 bone_13 0.8795 bone_14 0.0407
+skin 2858 bone_16 0.8672 bone_17 0.1328
+skin 2859 bone_21 1.0000
+skin 2860 bone_19 0.7687 bone_20 0.2313
+skin 2861 bone_26 0.9689 bone_27 0.0311
+skin 2862 bone_17 0.6755 bone_18 0.3245
+skin 2863 bone_17 0.0623 bone_18 0.9377
+skin 2864 bone_27 0.5937 bone_28 0.4063
+skin 2865 bone_2 0.9247 bone_3 0.0753
+skin 2866 bone_2 0.9298 bone_3 0.0702
+skin 2867 bone_3 0.9691 bone_4 0.0309
+skin 2868 bone_17 0.6729 bone_18 0.3271
+skin 2869 bone_1 0.2578 bone_2 0.6415 bone_3 0.1008
+skin 2870 bone_15 0.2575 bone_19 0.7425
+skin 2871 bone_17 0.2124 bone_18 0.7876
+skin 2872 bone_0 0.0522 bone_15 0.9017 bone_24 0.0461
+skin 2873 bone_14 1.0000
+skin 2874 bone_18 1.0000
+skin 2875 bone_3 1.0000
+skin 2876 bone_15 0.1170 bone_19 0.8830
+skin 2877 bone_18 1.0000
+skin 2878 bone_1 0.6662 bone_2 0.0843 bone_5 0.2496
+skin 2879 bone_11 1.0000
+skin 2880 bone_17 1.0000
+skin 2881 bone_7 1.0000
+skin 2882 bone_26 1.0000
+skin 2883 bone_11 1.0000
+skin 2884 bone_3 0.8587 bone_4 0.1413
+skin 2885 bone_16 0.8231 bone_17 0.1769
+skin 2886 bone_18 1.0000
+skin 2887 bone_0 0.2224 bone_15 0.7432 bone_24 0.0344
+skin 2888 bone_1 0.4289 bone_5 0.4700 bone_10 0.1011
+skin 2889 bone_1 0.2995 bone_3 0.1354 bone_5 0.4579 bone_10 0.1072
+skin 2890 bone_22 0.9022 bone_23 0.0978
+skin 2891 bone_5 1.0000
+skin 2892 bone_15 0.1997 bone_19 0.8003
+skin 2893 bone_15 0.2264 bone_19 0.7360 bone_24 0.0376
+skin 2894 bone_17 0.4460 bone_18 0.5540
+skin 2895 bone_2 0.0403 bone_3 0.5909 bone_5 0.3688
+skin 2896 bone_22 0.8643 bone_23 0.1357
+skin 2897 bone_3 0.8819 bone_4 0.1181
+skin 2898 bone_24 1.0000
+skin 2899 bone_17 0.2031 bone_18 0.7969
+skin 2900 bone_0 0.0592 bone_15 0.8082 bone_19 0.1326
+skin 2901 bone_0 0.2331 bone_15 0.7153 bone_19 0.0517
+skin 2902 bone_2 0.0501 bone_3 0.9499
+skin 2903 bone_3 0.9037 bone_4 0.0614 bone_5 0.0349
+skin 2904 bone_3 1.0000
+skin 2905 bone_18 1.0000
+skin 2906 bone_18 1.0000
+skin 2907 bone_1 0.8174 bone_5 0.1826
+skin 2908 bone_1 0.8082 bone_5 0.1918
+skin 2909 bone_0 0.0446 bone_1 0.8652 bone_5 0.0902
+skin 2910 bone_1 0.5197 bone_5 0.4803
+skin 2911 bone_1 0.1038 bone_3 0.6148 bone_5 0.2814
+skin 2912 bone_13 0.7920 bone_14 0.2080
+skin 2913 bone_3 1.0000
+skin 2914 bone_16 0.8702 bone_19 0.0867 bone_24 0.0431
+skin 2915 bone_16 0.6187 bone_19 0.2669 bone_20 0.0811 bone_24 0.0333
+skin 2916 bone_16 0.0820 bone_19 0.3911 bone_20 0.4645 bone_24 0.0624
+skin 2917 bone_24 1.0000
+skin 2918 bone_16 0.9687 bone_19 0.0313
+skin 2919 bone_3 0.6012 bone_4 0.3988
+skin 2920 bone_22 0.9031 bone_23 0.0969
+skin 2921 bone_18 1.0000
+skin 2922 bone_0 0.0376 bone_1 0.8395 bone_5 0.1229
+skin 2923 bone_3 0.4645 bone_10 0.5355
+skin 2924 bone_1 0.1534 bone_3 0.2944 bone_5 0.0487 bone_10 0.5036
+skin 2925 bone_1 0.1026 bone_3 0.4547 bone_5 0.0379 bone_10 0.4048
+skin 2926 bone_0 0.0983 bone_15 0.5388 bone_19 0.3630
+skin 2927 bone_11 0.9385 bone_12 0.0615
+skin 2928 bone_11 1.0000
+skin 2929 bone_16 0.9573 bone_24 0.0427
+skin 2930 bone_16 0.7500 bone_24 0.2500
+skin 2931 bone_17 0.0704 bone_18 0.9296
+skin 2932 bone_16 0.9278 bone_24 0.0722
+skin 2933 bone_6 0.0753 bone_7 0.9247
+skin 2934 bone_18 1.0000
+skin 2935 bone_12 0.3506 bone_13 0.6494
+skin 2936 bone_5 0.1460 bone_6 0.1733 bone_10 0.3871 bone_11 0.2936
+skin 2937 bone_5 0.0437 bone_6 0.5116 bone_10 0.0341 bone_11 0.4106
+skin 2938 bone_2 0.2843 bone_3 0.7157
+skin 2939 bone_15 0.2478 bone_16 0.0783 bone_19 0.5503 bone_24 0.1237
+skin 2940 bone_26 0.5249 bone_27 0.4751
+skin 2941 bone_3 0.9084 bone_5 0.0916
+skin 2942 bone_15 0.1805 bone_24 0.8195
+skin 2943 bone_15 0.1365 bone_24 0.8635
+skin 2944 bone_1 0.2418 bone_2 0.0475 bone_3 0.1076 bone_10 0.6031
+skin 2945 bone_1 0.2579 bone_2 0.0359 bone_3 0.0382 bone_10 0.6680
+skin 2946 bone_2 0.1185 bone_3 0.8815
+skin 2947 bone_5 0.9340 bone_6 0.0660
+skin 2948 bone_15 0.3538 bone_16 0.2744 bone_24 0.3718
+skin 2949 bone_25 0.8191 bone_26 0.1809
+skin 2950 bone_17 0.0686 bone_18 0.9314
+skin 2951 bone_17 0.0496 bone_18 0.9504
+skin 2952 bone_2 0.0984 bone_3 0.9016
+skin 2953 bone_2 0.1583 bone_3 0.8417
+skin 2954 bone_2 0.1077 bone_3 0.8923
+skin 2955 bone_2 0.1005 bone_3 0.8995
+skin 2956 bone_5 0.0470 bone_15 0.3543 bone_19 0.5987
+skin 2957 bone_3 0.1153 bone_4 0.8847
+skin 2958 bone_5 0.0764 bone_6 0.9236
+skin 2959 bone_3 1.0000
+skin 2960 bone_3 0.9650 bone_4 0.0350
+skin 2961 bone_3 1.0000
+skin 2962 bone_15 0.3516 bone_16 0.0453 bone_19 0.6032
+skin 2963 bone_1 0.5757 bone_10 0.4243
+skin 2964 bone_13 0.6900 bone_14 0.3100
+skin 2965 bone_5 0.6058 bone_6 0.3942
+skin 2966 bone_5 0.2659 bone_15 0.3545 bone_19 0.3797
+skin 2967 bone_19 0.4554 bone_20 0.1921 bone_24 0.2733 bone_25 0.0792
+skin 2968 bone_0 0.1866 bone_15 0.7552 bone_24 0.0581
+skin 2969 bone_0 0.0893 bone_15 0.8596 bone_24 0.0511
+skin 2970 bone_3 0.9549 bone_4 0.0451
+skin 2971 bone_3 0.3208 bone_4 0.6792
+skin 2972 bone_16 0.5584 bone_17 0.4416
+skin 2973 bone_3 1.0000
+skin 2974 bone_18 1.0000
+skin 2975 bone_3 1.0000
+skin 2976 bone_17 1.0000
+skin 2977 bone_1 0.1589 bone_3 0.1991 bone_5 0.0915 bone_10 0.5505
+skin 2978 bone_16 0.0985 bone_24 0.9015
+skin 2979 bone_3 1.0000
+skin 2980 bone_0 0.0920 bone_1 0.8404 bone_5 0.0676
+skin 2981 bone_20 0.1733 bone_21 0.8267
+skin 2982 bone_5 0.0479 bone_15 0.3198 bone_19 0.6323
+skin 2983 bone_1 0.2233 bone_10 0.7767
+skin 2984 bone_15 0.4381 bone_19 0.4554 bone_24 0.1065
+skin 2985 bone_16 1.0000
+skin 2986 bone_1 0.5339 bone_5 0.4661
+skin 2987 bone_1 0.5422 bone_5 0.4578
+skin 2988 bone_1 0.5321 bone_5 0.4679
+skin 2989 bone_6 1.0000
+skin 2990 bone_1 0.6334 bone_2 0.0896 bone_10 0.2770
+skin 2991 bone_10 0.3675 bone_11 0.6325
+skin 2992 bone_19 0.7293 bone_20 0.2707
+skin 2993 bone_16 0.9481 bone_19 0.0519
+skin 2994 bone_24 0.0533 bone_25 0.9467
+skin 2995 bone_25 1.0000
+skin 2996 bone_22 0.7483 bone_23 0.2517
+skin 2997 bone_9 1.0000
+skin 2998 bone_1 0.0365 bone_10 0.9635
+skin 2999 bone_3 0.4735 bone_4 0.5265
+skin 3000 bone_11 1.0000
+skin 3001 bone_14 1.0000
+skin 3002 bone_18 1.0000
+skin 3003 bone_0 0.1400 bone_1 0.8600
+skin 3004 bone_18 1.0000
+skin 3005 bone_1 0.0577 bone_10 0.8885 bone_11 0.0538
+skin 3006 bone_16 0.2648 bone_17 0.7352
+skin 3007 bone_0 0.1419 bone_1 0.8581
+skin 3008 bone_10 1.0000
+skin 3009 bone_17 1.0000
+skin 3010 bone_25 0.1758 bone_26 0.8242
+skin 3011 bone_14 1.0000
+skin 3012 bone_14 1.0000
+skin 3013 bone_1 0.1483 bone_3 0.1647 bone_5 0.1418 bone_10 0.5451
+skin 3014 bone_19 0.6007 bone_20 0.0615 bone_24 0.3379
+skin 3015 bone_19 0.3935 bone_20 0.0778 bone_24 0.4758 bone_25 0.0529
+skin 3016 bone_19 0.6933 bone_20 0.1113 bone_24 0.1953
+skin 3017 bone_9 1.0000
+skin 3018 bone_9 1.0000
+skin 3019 bone_1 0.0419 bone_5 0.6412 bone_6 0.3169
+skin 3020 bone_16 1.0000
+skin 3021 bone_7 1.0000
+skin 3022 bone_18 1.0000
+skin 3023 bone_3 1.0000
+skin 3024 bone_15 0.0522 bone_19 0.9478
+skin 3025 bone_5 0.4317 bone_6 0.1867 bone_10 0.3816
+skin 3026 bone_18 1.0000
+skin 3027 bone_3 1.0000
+skin 3028 bone_25 0.0389 bone_26 0.9611
+skin 3029 bone_18 1.0000
+skin 3030 bone_16 1.0000
+skin 3031 bone_17 1.0000
+skin 3032 bone_0 0.0642 bone_15 0.6402 bone_19 0.0644 bone_24 0.2312
+skin 3033 bone_3 0.1422 bone_4 0.8578
+skin 3034 bone_16 1.0000
+skin 3035 bone_3 0.2529 bone_4 0.7471
+skin 3036 bone_3 0.3491 bone_4 0.6509
+skin 3037 bone_18 1.0000
+skin 3038 bone_17 0.0511 bone_18 0.9489
+skin 3039 bone_16 0.9519 bone_17 0.0481
+skin 3040 bone_22 0.9180 bone_23 0.0820
+skin 3041 bone_27 0.7137 bone_28 0.2863
+skin 3042 bone_27 0.7895 bone_28 0.2105
+skin 3043 bone_1 0.0952 bone_3 0.0560 bone_5 0.1691 bone_10 0.6797
+skin 3044 bone_25 1.0000
+skin 3045 bone_24 0.0431 bone_25 0.9569
+skin 3046 bone_1 0.3379 bone_10 0.6621
+skin 3047 bone_0 0.0352 bone_1 0.6023 bone_10 0.3625
+skin 3048 bone_5 0.0731 bone_6 0.2609 bone_10 0.1161 bone_11 0.5499
+skin 3049 bone_16 0.2364 bone_17 0.7636
+skin 3050 bone_1 0.0389 bone_6 0.0403 bone_10 0.3454 bone_11 0.5755
+skin 3051 bone_11 0.6394 bone_12 0.3606
+skin 3052 bone_27 0.8796 bone_28 0.1204
+skin 3053 bone_3 0.8307 bone_5 0.1405 bone_10 0.0288
+skin 3054 bone_27 0.6997 bone_28 0.3003
+skin 3055 bone_16 0.9169 bone_17 0.0831
+skin 3056 bone_10 1.0000
+skin 3057 bone_10 1.0000
+skin 3058 bone_0 0.3409 bone_15 0.6591
+skin 3059 bone_1 0.3265 bone_5 0.6735
+skin 3060 bone_21 1.0000
+skin 3061 bone_11 0.0504 bone_12 0.9496
+skin 3062 bone_3 0.2883 bone_4 0.7117
+skin 3063 bone_3 0.8576 bone_4 0.1424
+skin 3064 bone_25 1.0000
+skin 3065 bone_26 1.0000
+skin 3066 bone_15 0.1848 bone_16 0.1586 bone_19 0.2429 bone_24 0.4138
+skin 3067 bone_15 0.5721 bone_19 0.2222 bone_24 0.2057
+skin 3068 bone_10 0.5759 bone_11 0.4241
+skin 3069 bone_3 0.9261 bone_4 0.0739
+skin 3070 bone_3 1.0000
+skin 3071 bone_19 0.8035 bone_20 0.0937 bone_24 0.1028
+skin 3072 bone_25 0.2031 bone_26 0.7969
+skin 3073 bone_26 0.1551 bone_27 0.8134 bone_28 0.0314
+skin 3074 bone_25 1.0000
+skin 3075 bone_3 1.0000
+skin 3076 bone_15 0.4158 bone_19 0.1116 bone_24 0.4726
+skin 3077 bone_20 0.4142 bone_21 0.5858
+skin 3078 bone_1 0.4588 bone_3 0.0427 bone_5 0.4985
+skin 3079 bone_16 0.9525 bone_17 0.0475
+skin 3080 bone_17 0.3500 bone_18 0.6500
+skin 3081 bone_0 0.3106 bone_15 0.6894
+skin 3082 bone_3 1.0000
+skin 3083 bone_10 1.0000
+skin 3084 bone_20 0.7513 bone_21 0.2487
+skin 3085 bone_18 1.0000
+skin 3086 bone_17 0.1843 bone_18 0.8157
+skin 3087 bone_16 0.9505 bone_24 0.0495
+skin 3088 bone_1 0.1230 bone_10 0.8770
+skin 3089 bone_18 1.0000
+skin 3090 bone_27 0.5824 bone_28 0.4176
+skin 3091 bone_17 0.0767 bone_18 0.9233
+skin 3092 bone_3 0.3696 bone_10 0.6304
+skin 3093 bone_0 0.1824 bone_15 0.8176
+skin 3094 bone_5 0.4723 bone_6 0.5277
+skin 3095 bone_8 0.1297 bone_9 0.8703
+skin 3096 bone_9 1.0000
+skin 3097 bone_21 0.0359 bone_22 0.9068 bone_23 0.0573
+skin 3098 bone_16 0.9233 bone_17 0.0767
+skin 3099 bone_18 1.0000
+skin 3100 bone_18 1.0000
+skin 3101 bone_15 0.1407 bone_19 0.8593
+skin 3102 bone_17 0.3309 bone_18 0.6691
+skin 3103 bone_0 0.5550 bone_15 0.4450
+skin 3104 bone_1 0.0310 bone_5 0.1258 bone_15 0.5921 bone_19 0.2510
+skin 3105 bone_3 1.0000
+skin 3106 bone_12 0.7661 bone_13 0.2339
+skin 3107 bone_12 0.9418 bone_13 0.0582
+skin 3108 bone_16 0.4722 bone_17 0.5278
+skin 3109 bone_15 0.5020 bone_19 0.4205 bone_24 0.0775
+skin 3110 bone_10 0.2696 bone_11 0.7304
+skin 3111 bone_3 1.0000
+skin 3112 bone_1 0.2397 bone_10 0.7603
+skin 3113 bone_5 0.2795 bone_15 0.3194 bone_19 0.4011
+skin 3114 bone_6 1.0000
+skin 3115 bone_17 0.6317 bone_18 0.3683
+skin 3116 bone_14 1.0000
+skin 3117 bone_5 0.4307 bone_6 0.5693
+skin 3118 bone_1 0.4060 bone_5 0.5940
+skin 3119 bone_1 0.5071 bone_2 0.2306 bone_3 0.0682 bone_10 0.1940
+skin 3120 bone_16 0.9689 bone_24 0.0311
+skin 3121 bone_1 0.1602 bone_5 0.8398
+skin 3122 bone_15 0.3444 bone_16 0.0303 bone_24 0.6253
+skin 3123 bone_27 0.5913 bone_28 0.4087
+skin 3124 bone_1 0.0800 bone_3 0.3806 bone_5 0.0893 bone_10 0.4500
+skin 3125 bone_3 1.0000
+skin 3126 bone_11 1.0000
+skin 3127 bone_0 0.2141 bone_15 0.6840 bone_19 0.1019
+skin 3128 bone_17 1.0000
+skin 3129 bone_10 1.0000
+skin 3130 bone_16 0.0836 bone_25 0.9164
+skin 3131 bone_1 0.0732 bone_10 0.5851 bone_11 0.3417
+skin 3132 bone_11 0.0931 bone_12 0.9069
+skin 3133 bone_1 0.0434 bone_3 0.5184 bone_5 0.3617 bone_10 0.0765
+skin 3134 bone_21 1.0000
+skin 3135 bone_27 0.4787 bone_28 0.5213
+skin 3136 bone_27 0.4787 bone_28 0.5213
+skin 3137 bone_21 1.0000
+skin 3138 bone_13 0.1158 bone_14 0.8842
+skin 3139 bone_22 0.5221 bone_23 0.4779
+skin 3140 bone_12 0.0838 bone_13 0.9162
+skin 3141 bone_3 0.3311 bone_4 0.6689
+skin 3142 bone_15 0.6400 bone_24 0.3600
+skin 3143 bone_15 0.1256 bone_19 0.8147 bone_24 0.0598
+skin 3144 bone_16 0.8872 bone_17 0.1128
+skin 3145 bone_3 1.0000
+skin 3146 bone_5 1.0000
+skin 3147 bone_7 1.0000
+skin 3148 bone_17 0.0895 bone_18 0.9105
+skin 3149 bone_1 0.0505 bone_3 0.8094 bone_5 0.1401
+skin 3150 bone_25 0.9345 bone_26 0.0655
+skin 3151 bone_25 0.9497 bone_26 0.0503
+skin 3152 bone_0 0.0721 bone_1 0.9279
+skin 3153 bone_1 0.0735 bone_5 0.7947 bone_6 0.1318
+skin 3154 bone_6 0.7579 bone_7 0.2421
+skin 3155 bone_24 1.0000
+skin 3156 bone_1 0.0842 bone_10 0.9158
+skin 3157 bone_18 1.0000
+skin 3158 bone_0 0.4047 bone_15 0.5953
+skin 3159 bone_7 1.0000
+skin 3160 bone_0 0.0484 bone_15 0.7796 bone_19 0.1721
+skin 3161 bone_25 0.1776 bone_26 0.8224
+skin 3162 bone_10 1.0000
+skin 3163 bone_24 1.0000
+skin 3164 bone_27 0.6703 bone_28 0.3297
+skin 3165 bone_0 0.3219 bone_1 0.0385 bone_15 0.6396
+skin 3166 bone_0 0.3498 bone_1 0.4442 bone_15 0.2060
+skin 3167 bone_19 1.0000
+skin 3168 bone_14 1.0000
+skin 3169 bone_3 1.0000
+skin 3170 bone_5 0.0596 bone_6 0.7975 bone_11 0.1429
+skin 3171 bone_2 0.1339 bone_3 0.8661
+skin 3172 bone_24 0.9634 bone_25 0.0366
+skin 3173 bone_3 1.0000
+skin 3174 bone_3 1.0000
+skin 3175 bone_24 1.0000
+skin 3176 bone_15 0.5182 bone_19 0.0446 bone_24 0.4372
+skin 3177 bone_15 0.1639 bone_19 0.7208 bone_24 0.1154
+skin 3178 bone_3 1.0000
+skin 3179 bone_13 0.1098 bone_14 0.8902
+skin 3180 bone_0 0.0984 bone_15 0.8428 bone_19 0.0588
+skin 3181 bone_17 0.9540 bone_18 0.0460
+skin 3182 bone_20 0.7825 bone_21 0.2175
+skin 3183 bone_20 0.9241 bone_21 0.0759
+skin 3184 bone_1 0.1483 bone_5 0.8517
+skin 3185 bone_1 0.0494 bone_10 0.7755 bone_11 0.1751
+skin 3186 bone_1 0.0323 bone_10 0.4981 bone_11 0.4695
+skin 3187 bone_16 0.1805 bone_24 0.2473 bone_25 0.5722
+skin 3188 bone_6 0.0629 bone_10 0.2258 bone_11 0.7113
+skin 3189 bone_5 0.0632 bone_6 0.7374 bone_11 0.1994
+skin 3190 bone_27 0.7849 bone_28 0.2151
+skin 3191 bone_5 0.0650 bone_6 0.7372 bone_11 0.1977
+skin 3192 bone_0 0.2517 bone_15 0.6998 bone_19 0.0485
+skin 3193 bone_1 0.3737 bone_10 0.2490 bone_15 0.3773
+skin 3194 bone_11 0.8665 bone_12 0.1335
+skin 3195 bone_3 1.0000
+skin 3196 bone_0 0.4502 bone_15 0.5498
+skin 3197 bone_19 0.3452 bone_20 0.6548
+skin 3198 bone_26 1.0000
+hier bone_0 bone_1
+hier bone_0 bone_15
+hier bone_1 bone_2
+hier bone_1 bone_5
+hier bone_1 bone_10
+hier bone_2 bone_3
+hier bone_3 bone_4
+hier bone_5 bone_6
+hier bone_6 bone_7
+hier bone_7 bone_8
+hier bone_8 bone_9
+hier bone_10 bone_11
+hier bone_11 bone_12
+hier bone_12 bone_13
+hier bone_13 bone_14
+hier bone_15 bone_16
+hier bone_15 bone_19
+hier bone_15 bone_24
+hier bone_16 bone_17
+hier bone_17 bone_18
+hier bone_19 bone_20
+hier bone_20 bone_21
+hier bone_21 bone_22
+hier bone_22 bone_23
+hier bone_24 bone_25
+hier bone_25 bone_26
+hier bone_26 bone_27
+hier bone_27 bone_28

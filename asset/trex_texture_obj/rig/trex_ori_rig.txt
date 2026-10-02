@@ -1,0 +1,2079 @@
+joints tripo::Root 0.00056730 -0.30877051 0.00036195
+joints tripo::Head_0 -0.01966925 0.00765547 -0.00147778
+joints tripo::0_Right_Limb_0 0.06495622 0.04444920 -0.00147779
+joints tripo::0_Right_Limb_1 0.16061993 0.09596044 -0.00147779
+joints bone_4 0.20109294 0.14011283 -0.00147783
+joints bone_5 0.23788668 0.17690665 -0.00147781
+joints bone_6 0.29307723 0.16586854 -0.00147783
+joints bone_7 0.33722982 0.16218919 -0.00147783
+joints bone_8 0.11278802 0.07020479 0.05003339
+joints bone_9 0.15694050 0.04076982 0.06475090
+joints bone_10 0.15326115 -0.01442078 0.07946842
+joints bone_11 0.20477243 -0.04385577 0.09050657
+joints bone_12 0.21581057 -0.07329074 0.07946844
+joints bone_13 0.11278806 0.07020482 -0.05298899
+joints bone_14 0.15694048 0.04076985 -0.06770648
+joints bone_15 0.15326110 -0.01442077 -0.08242399
+joints bone_16 0.20477237 -0.04385575 -0.09346209
+joints bone_17 0.21581054 -0.07329075 -0.08242396
+joints bone_18 0.14590240 0.09596045 -0.00147780
+joints bone_19 0.17533737 0.13643350 -0.00147779
+joints bone_20 0.21213113 0.18058603 -0.00147778
+joints bone_21 0.26364234 0.18426539 -0.00147781
+joints bone_22 0.32619172 0.16954800 -0.00147781
+joints tripo::1_Right_Limb_0 -0.06014235 -0.02545885 0.06843024
+joints tripo::1_Right_Limb_1 0.03920062 -0.14687805 0.11626209
+joints bone_25 -0.03070753 -0.22414489 0.11258277
+joints bone_26 -0.03806632 -0.29037359 0.13465904
+joints bone_27 0.00608610 -0.30877051 0.15305591
+joints tripo::0_Left_Limb_0 -0.06014236 -0.02545884 -0.07138582
+joints tripo::0_Left_Limb_1 0.03920065 -0.14687811 -0.11921765
+joints bone_30 -0.03070742 -0.22414491 -0.11553829
+joints bone_31 -0.03806617 -0.29037356 -0.13761449
+joints bone_32 0.00608635 -0.30877054 -0.15601139
+joints tripo::1_Left_Limb_0 -0.10061543 -0.08432880 -0.00147777
+joints tripo::1_Left_Limb_1 -0.17052343 -0.16159551 0.00956034
+joints bone_35 -0.23307285 -0.21310684 0.02795722
+joints bone_36 -0.30298087 -0.23886235 0.05371282
+joints bone_37 -0.38392699 -0.24622105 0.08682705
+root tripo::Root
+skin 0 bone_25 0.1117 bone_26 0.8255 bone_27 0.0629
+skin 1 bone_25 0.4665 bone_26 0.5335
+skin 2 bone_26 0.7819 bone_27 0.2181
+skin 3 bone_25 0.0534 bone_26 0.8655 bone_27 0.0811
+skin 4 bone_25 0.0869 bone_26 0.9131 bone_27 0.0000
+skin 5 bone_25 0.0509 bone_26 0.8806 bone_27 0.0685
+skin 6 bone_26 0.7701 bone_27 0.2299
+skin 7 bone_26 0.7965 bone_27 0.2035
+skin 8 bone_25 0.0000 bone_26 0.8459 bone_27 0.1541
+skin 9 bone_25 0.0698 bone_26 0.9302 bone_27 0.0000
+skin 10 bone_25 0.0000 bone_26 0.8978 bone_27 0.1022
+skin 11 bone_25 0.0639 bone_26 0.8679 bone_27 0.0682
+skin 12 bone_25 0.1704 bone_26 0.7700 bone_27 0.0596
+skin 13 bone_30 0.1995 bone_31 0.8005
+skin 14 bone_30 0.3537 bone_31 0.6463
+skin 15 bone_30 0.1927 bone_31 0.8073
+skin 16 bone_30 0.0000 bone_31 1.0000
+skin 17 bone_30 0.0000 bone_31 0.9407 bone_32 0.0593
+skin 18 bone_30 0.1651 bone_31 0.8349 bone_32 0.0000
+skin 19 bone_30 0.2020 bone_31 0.7980
+skin 20 bone_30 0.2965 bone_31 0.7035
+skin 21 bone_30 0.3170 bone_31 0.6830
+skin 22 bone_30 0.3173 bone_31 0.6827
+skin 23 bone_30 0.1042 bone_31 0.8958
+skin 24 bone_31 0.9405 bone_32 0.0595
+skin 25 bone_26 0.2290 bone_27 0.7710
+skin 26 bone_26 0.5498 bone_27 0.4502
+skin 27 bone_25 0.5249 bone_26 0.4751
+skin 28 bone_25 0.4741 bone_26 0.5259
+skin 29 bone_25 0.0698 bone_26 0.9302 bone_27 0.0000
+skin 30 bone_30 0.1959 bone_31 0.8041
+skin 31 bone_30 0.1932 bone_31 0.8068
+skin 32 bone_30 0.2853 bone_31 0.7147
+skin 33 bone_30 0.1007 bone_31 0.8993 bone_32 0.0000
+skin 34 bone_31 0.5699 bone_32 0.4301
+skin 35 bone_31 0.4187 bone_32 0.5813
+skin 36 bone_26 0.4585 bone_27 0.5415
+skin 37 bone_26 0.4788 bone_27 0.5212
+skin 38 bone_25 0.1413 bone_26 0.7892 bone_27 0.0695
+skin 39 bone_26 0.7381 bone_27 0.2619
+skin 40 bone_25 0.1327 bone_26 0.8673
+skin 41 bone_25 0.3494 bone_26 0.6506 bone_27 0.0000
+skin 42 bone_26 0.5046 bone_27 0.4954
+skin 43 bone_26 0.7611 bone_27 0.2389
+skin 44 bone_25 0.4815 bone_26 0.5185
+skin 45 bone_25 0.0872 bone_26 0.9128 bone_27 0.0000
+skin 46 bone_26 0.8616 bone_27 0.1384
+skin 47 bone_26 0.2797 bone_27 0.7203
+skin 48 bone_25 0.0000 bone_26 0.6529 bone_27 0.3471
+skin 49 bone_26 0.5688 bone_27 0.4312
+skin 50 bone_26 0.8339 bone_27 0.1661
+skin 51 bone_25 0.3544 bone_26 0.6456 bone_27 0.0000
+skin 52 bone_25 0.0514 bone_26 0.8141 bone_27 0.1345
+skin 53 bone_25 0.5632 bone_26 0.4368 bone_27 0.0000
+skin 54 bone_25 0.0531 bone_26 0.8518 bone_27 0.0951
+skin 55 bone_26 0.4624 bone_27 0.5376
+skin 56 bone_25 0.0000 bone_26 0.7701 bone_27 0.2299
+skin 57 bone_30 0.7081 bone_31 0.2919 bone_32 0.0000
+skin 58 bone_30 0.0000 bone_31 0.3828 bone_32 0.6172
+skin 59 bone_31 0.2058 bone_32 0.7942
+skin 60 bone_31 0.3864 bone_32 0.6136
+skin 61 bone_30 0.2117 bone_31 0.7883 bone_32 0.0000
+skin 62 bone_31 0.3918 bone_32 0.6082
+skin 63 bone_31 0.7632 bone_32 0.2368
+skin 64 bone_31 0.6340 bone_32 0.3660
+skin 65 bone_30 0.0535 bone_31 0.8270 bone_32 0.1195
+skin 66 bone_31 0.6676 bone_32 0.3324
+skin 67 bone_31 0.4600 bone_32 0.5400
+skin 68 bone_31 0.9275 bone_32 0.0725
+skin 69 bone_31 0.6740 bone_32 0.3260
+skin 70 bone_31 0.8132 bone_32 0.1868
+skin 71 bone_31 0.7392 bone_32 0.2608
+skin 72 bone_31 0.8759 bone_32 0.1241
+skin 73 bone_26 0.2826 bone_27 0.7174
+skin 74 bone_26 0.2885 bone_27 0.7115
+skin 75 bone_26 0.3742 bone_27 0.6258
+skin 76 bone_26 0.2802 bone_27 0.7198
+skin 77 bone_25 0.0897 bone_26 0.9103 bone_27 0.0000
+skin 78 bone_25 0.0897 bone_26 0.9103 bone_27 0.0000
+skin 79 bone_26 0.6289 bone_27 0.3711
+skin 80 bone_26 0.5076 bone_27 0.4924
+skin 81 bone_26 0.2949 bone_27 0.7051
+skin 82 bone_26 0.4365 bone_27 0.5635
+skin 83 bone_26 0.1634 bone_27 0.8366
+skin 84 bone_26 0.2167 bone_27 0.7833
+skin 85 bone_26 0.5218 bone_27 0.4782
+skin 86 bone_26 0.4720 bone_27 0.5280
+skin 87 bone_26 0.3677 bone_27 0.6323
+skin 88 bone_26 0.5923 bone_27 0.4077
+skin 89 bone_26 0.6180 bone_27 0.3820
+skin 90 bone_26 0.6912 bone_27 0.3088
+skin 91 bone_26 0.5833 bone_27 0.4167
+skin 92 bone_25 0.4790 bone_26 0.5210
+skin 93 bone_25 0.6891 bone_26 0.3109
+skin 94 bone_25 0.5365 bone_26 0.4635
+skin 95 bone_25 0.5598 bone_26 0.4402 bone_27 0.0000
+skin 96 bone_30 0.3389 bone_31 0.6611
+skin 97 bone_30 0.8802 bone_31 0.1198
+skin 98 bone_30 0.3032 bone_31 0.6968
+skin 99 bone_30 0.2928 bone_31 0.7072
+skin 100 bone_30 0.3375 bone_31 0.6625
+skin 101 bone_31 0.8791 bone_32 0.1209
+skin 102 bone_30 0.3357 bone_31 0.6643
+skin 103 bone_31 0.1933 bone_32 0.8067
+skin 104 bone_31 0.3155 bone_32 0.6845
+skin 105 bone_31 0.5266 bone_32 0.4734
+skin 106 bone_31 0.1704 bone_32 0.8296
+skin 107 bone_31 0.8170 bone_32 0.1830
+skin 108 bone_31 0.3233 bone_32 0.6767
+skin 109 bone_31 0.8249 bone_32 0.1751
+skin 110 bone_31 0.6288 bone_32 0.3712
+skin 111 bone_31 1.0000 bone_32 0.0000
+skin 112 bone_31 0.3165 bone_32 0.6835
+skin 113 bone_31 0.1642 bone_32 0.8358
+skin 114 bone_31 0.2156 bone_32 0.7844
+skin 115 bone_31 0.2751 bone_32 0.7249
+skin 116 bone_31 0.8335 bone_32 0.1665
+skin 117 bone_31 0.7345 bone_32 0.2655
+skin 118 bone_31 0.8388 bone_32 0.1612
+skin 119 bone_31 0.2056 bone_32 0.7944
+skin 120 bone_31 0.2834 bone_32 0.7166
+skin 121 bone_31 0.2104 bone_32 0.7896
+skin 122 bone_31 0.4920 bone_32 0.5080
+skin 123 bone_31 0.2976 bone_32 0.7024
+skin 124 bone_26 0.7709 bone_27 0.2291
+skin 125 bone_31 1.0000 bone_32 0.0000
+skin 126 bone_31 1.0000 bone_32 0.0000
+skin 127 bone_31 0.7623 bone_32 0.2377
+skin 128 bone_31 1.0000
+skin 129 bone_26 0.6831 bone_27 0.3169
+skin 130 bone_26 0.6002 bone_27 0.3998
+skin 131 bone_26 0.1617 bone_27 0.8383
+skin 132 bone_26 0.3068 bone_27 0.6932
+skin 133 bone_30 0.0845 bone_31 0.9155
+skin 134 bone_31 0.5865 bone_32 0.4135
+skin 135 bone_31 0.8644 bone_32 0.1356
+skin 136 bone_26 0.5622 bone_27 0.4378
+skin 137 bone_25 0.0000 bone_26 0.3773 bone_27 0.6227
+skin 138 bone_26 0.5793 bone_27 0.4207
+skin 139 bone_26 0.2308 bone_27 0.7692
+skin 140 bone_25 0.3858 bone_26 0.6142
+skin 141 bone_25 0.3868 bone_26 0.6132
+skin 142 bone_25 0.8428 bone_26 0.1572
+skin 143 bone_25 0.1584 bone_26 0.8416 bone_27 0.0000
+skin 144 bone_25 0.1877 bone_26 0.7607 bone_27 0.0516
+skin 145 bone_30 0.0000 bone_31 1.0000
+skin 146 bone_30 0.5244 bone_31 0.4756 bone_32 0.0000
+skin 147 bone_30 0.2544 bone_31 0.7456 bone_32 0.0000
+skin 148 bone_31 0.7199 bone_32 0.2801
+skin 149 bone_31 0.1948 bone_32 0.8052
+skin 150 bone_31 0.2807 bone_32 0.7193
+skin 151 bone_31 0.4744 bone_32 0.5256
+skin 152 bone_31 0.7376 bone_32 0.2624
+skin 153 bone_30 0.0503 bone_31 0.7701 bone_32 0.1795
+skin 154 bone_26 0.6768 bone_27 0.3232
+skin 155 bone_25 0.1610 bone_26 0.8390
+skin 156 bone_25 0.2930 bone_26 0.7070
+skin 157 bone_26 0.1617 bone_27 0.8383
+skin 158 bone_26 0.8734 bone_27 0.1266
+skin 159 bone_26 0.7477 bone_27 0.2523
+skin 160 bone_26 0.7477 bone_27 0.2523
+skin 161 bone_25 0.2634 bone_26 0.6646 bone_27 0.0719
+skin 162 bone_25 0.2597 bone_26 0.6833 bone_27 0.0571
+skin 163 bone_26 0.8860 bone_27 0.1140
+skin 164 tripo::1_Right_Limb_1 0.0000 bone_25 0.6718 bone_26 0.3282
+skin 165 bone_25 0.5442 bone_26 0.4558
+skin 166 tripo::1_Right_Limb_1 0.0000 bone_25 0.9380 bone_26 0.0620
+skin 167 tripo::1_Right_Limb_1 0.1524 bone_25 0.8476
+skin 168 bone_25 0.5438 bone_26 0.4562 bone_27 0.0000
+skin 169 bone_30 0.4758 bone_31 0.5242
+skin 170 tripo::0_Left_Limb_1 0.1005 bone_30 0.8995
+skin 171 bone_31 0.9388 bone_32 0.0612
+skin 172 bone_31 0.9364 bone_32 0.0636
+skin 173 bone_31 1.0000 bone_32 0.0000
+skin 174 bone_30 0.2849 bone_31 0.7151
+skin 175 bone_30 0.0571 bone_31 0.8740 bone_32 0.0689
+skin 176 bone_30 0.0546 bone_31 0.9454 bone_32 0.0000
+skin 177 bone_30 0.2419 bone_31 0.7581 bone_32 0.0000
+skin 178 bone_31 0.7379 bone_32 0.2621
+skin 179 bone_30 0.2945 bone_31 0.7055
+skin 180 bone_30 0.1539 bone_31 0.8461 bone_32 0.0000
+skin 181 bone_30 0.0818 bone_31 0.8270 bone_32 0.0911
+skin 182 bone_25 0.4478 bone_26 0.5522 bone_27 0.0000
+skin 183 bone_25 0.2216 bone_26 0.7113 bone_27 0.0670
+skin 184 bone_25 0.0000 bone_26 0.9044 bone_27 0.0956
+skin 185 bone_31 1.0000 bone_32 0.0000
+skin 186 bone_31 0.9388 bone_32 0.0612
+skin 187 bone_30 0.1190 bone_31 0.8810
+skin 188 bone_31 1.0000 bone_32 0.0000
+skin 189 bone_30 0.4750 bone_31 0.5250
+skin 190 bone_30 0.3712 bone_31 0.6288
+skin 191 bone_31 0.5832 bone_32 0.4168
+skin 192 bone_31 0.3525 bone_32 0.6475
+skin 193 bone_31 0.3927 bone_32 0.6073
+skin 194 bone_26 0.7215 bone_27 0.2785
+skin 195 bone_25 0.1484 bone_26 0.6650 bone_27 0.1867
+skin 196 bone_25 0.6026 bone_26 0.3974 bone_27 0.0000
+skin 197 bone_26 0.3938 bone_27 0.6062
+skin 198 bone_25 0.0000 bone_26 0.7102 bone_27 0.2898
+skin 199 bone_25 0.1745 bone_26 0.6960 bone_27 0.1295
+skin 200 bone_25 0.0000 bone_26 0.4720 bone_27 0.5280
+skin 201 bone_25 0.6308 bone_26 0.3692
+skin 202 bone_25 0.4076 bone_26 0.5924
+skin 203 bone_25 0.4075 bone_26 0.5925
+skin 204 bone_25 0.6636 bone_26 0.3364
+skin 205 bone_26 0.7458 bone_27 0.2542
+skin 206 bone_25 0.0000 bone_26 0.7361 bone_27 0.2639
+skin 207 bone_25 0.7805 bone_26 0.2195 bone_27 0.0000
+skin 208 bone_25 0.0000 bone_26 0.9123 bone_27 0.0877
+skin 209 bone_25 0.9028 bone_26 0.0972
+skin 210 bone_25 0.4777 bone_26 0.5223 bone_27 0.0000
+skin 211 bone_30 0.0738 bone_31 0.9262
+skin 212 bone_30 0.1917 bone_31 0.8083
+skin 213 bone_30 0.7457 bone_31 0.2543
+skin 214 bone_30 0.8666 bone_31 0.1334
+skin 215 bone_31 0.9434 bone_32 0.0566
+skin 216 bone_31 0.8563 bone_32 0.1437
+skin 217 bone_30 0.0555 bone_31 0.8512 bone_32 0.0933
+skin 218 bone_30 0.0000 bone_31 0.8712 bone_32 0.1288
+skin 219 bone_30 0.2567 bone_31 0.7433
+skin 220 bone_31 0.8286 bone_32 0.1714
+skin 221 bone_25 0.6891 bone_26 0.3109
+skin 222 bone_30 0.8671 bone_31 0.1329
+skin 223 tripo::0_Left_Limb_1 0.0000 bone_30 1.0000
+skin 224 bone_30 0.6005 bone_31 0.3995
+skin 225 bone_25 0.0000 bone_26 0.7699 bone_27 0.2300
+skin 226 bone_25 0.0000 bone_26 0.7626 bone_27 0.2374
+skin 227 bone_30 0.5260 bone_31 0.4740 bone_32 0.0000
+skin 228 bone_30 0.0569 bone_31 0.8740 bone_32 0.0691
+skin 229 tripo::0_Left_Limb_1 0.0000 bone_30 0.4390 bone_31 0.5610
+skin 230 bone_30 0.3646 bone_31 0.6354
+skin 231 tripo::0_Left_Limb_1 0.0670 bone_30 0.9330
+skin 232 tripo::0_Left_Limb_1 0.0676 bone_30 0.9324 bone_31 0.0000
+skin 233 bone_30 0.2970 bone_31 0.6393 bone_32 0.0637
+skin 234 bone_31 0.4789 bone_32 0.5211
+skin 235 bone_26 0.4903 bone_27 0.5097
+skin 236 bone_25 0.0706 bone_26 0.8481 bone_27 0.0812
+skin 237 bone_25 0.0943 bone_26 0.8204 bone_27 0.0853
+skin 238 bone_25 0.7218 bone_26 0.2782 bone_27 0.0000
+skin 239 bone_30 0.1093 bone_31 0.8907 bone_32 0.0000
+skin 240 bone_31 0.9481 bone_32 0.0519
+skin 241 bone_25 0.0564 bone_26 0.7818 bone_27 0.1619
+skin 242 bone_31 0.7354 bone_32 0.2646
+skin 243 bone_31 0.7354 bone_32 0.2646
+skin 244 bone_31 0.7800 bone_32 0.2200
+skin 245 bone_25 0.5786 bone_26 0.4214 bone_27 0.0000
+skin 246 bone_26 0.7894 bone_27 0.2106
+skin 247 bone_26 0.5685 bone_27 0.4315
+skin 248 bone_30 0.0757 bone_31 0.8122 bone_32 0.1121
+skin 249 bone_30 0.1003 bone_31 0.8203 bone_32 0.0794
+skin 250 tripo::0_Left_Limb_1 0.2181 bone_30 0.5791 bone_31 0.2029 bone_32 0.0000
+skin 251 bone_26 0.7892 bone_27 0.2108
+skin 252 bone_25 0.6351 bone_26 0.3649 bone_27 0.0000
+skin 253 bone_25 0.4499 bone_26 0.5501
+skin 254 bone_30 0.4769 bone_31 0.5231
+skin 255 bone_30 0.8637 bone_31 0.1363
+skin 256 bone_30 0.3047 bone_31 0.6278 bone_32 0.0675
+skin 257 bone_31 0.7853 bone_32 0.2147
+skin 258 bone_25 0.8918 bone_26 0.1082
+skin 259 tripo::1_Right_Limb_1 0.1574 bone_25 0.8426
+skin 260 tripo::1_Right_Limb_1 0.0000 bone_25 0.9209 bone_26 0.0791
+skin 261 bone_25 0.5762 bone_26 0.4238
+skin 262 bone_25 0.5907 bone_26 0.4093 bone_27 0.0000
+skin 263 bone_25 0.8464 bone_26 0.1536
+skin 264 bone_25 0.1738 bone_26 0.6782 bone_27 0.1481
+skin 265 bone_25 0.9363 bone_26 0.0637
+skin 266 bone_25 0.8882 bone_26 0.1118
+skin 267 tripo::0_Left_Limb_1 0.0738 bone_30 0.9262 bone_31 0.0000
+skin 268 tripo::0_Left_Limb_1 0.0787 bone_30 0.9213
+skin 269 bone_30 0.8679 bone_31 0.1321
+skin 270 tripo::0_Left_Limb_1 0.0600 bone_30 0.8783 bone_31 0.0617 bone_32 0.0000
+skin 271 tripo::0_Left_Limb_1 0.0599 bone_30 0.8800 bone_31 0.0602 bone_32 0.0000
+skin 272 tripo::1_Right_Limb_1 0.0000 bone_25 1.0000
+skin 273 bone_25 0.8531 bone_26 0.1469
+skin 274 bone_25 0.5821 bone_26 0.4179 bone_27 0.0000
+skin 275 bone_25 0.0547 bone_26 0.7890 bone_27 0.1563
+skin 276 bone_25 0.8568 bone_26 0.1432
+skin 277 tripo::1_Right_Limb_1 0.4922 bone_25 0.5078 bone_26 0.0000
+skin 278 tripo::1_Right_Limb_1 0.1486 bone_25 0.7574 bone_26 0.0941
+skin 279 tripo::1_Right_Limb_1 0.0000 bone_25 0.8021 bone_26 0.1979
+skin 280 bone_30 0.1426 bone_31 0.8574
+skin 281 bone_30 0.8913 bone_31 0.1087
+skin 282 bone_30 0.6941 bone_31 0.3059
+skin 283 tripo::0_Left_Limb_1 0.1145 bone_30 0.8855 bone_31 0.0000
+skin 284 tripo::0_Left_Limb_1 0.3630 bone_30 0.6370 bone_31 0.0000
+skin 285 tripo::0_Left_Limb_1 0.5434 bone_30 0.4566 bone_31 0.0000
+skin 286 bone_30 0.7469 bone_31 0.2531 bone_32 0.0000
+skin 287 bone_30 0.0827 bone_31 0.8226 bone_32 0.0948
+skin 288 tripo::1_Right_Limb_1 0.0557 bone_25 0.8912 bone_26 0.0530
+skin 289 bone_25 0.9011 bone_26 0.0989 bone_27 0.0000
+skin 290 bone_30 0.6898 bone_31 0.3102
+skin 291 bone_30 0.9425 bone_31 0.0575
+skin 292 bone_26 0.7968 bone_27 0.2032
+skin 293 bone_25 0.5551 bone_26 0.3900 bone_27 0.0550
+skin 294 bone_25 0.9027 bone_26 0.0973
+skin 295 bone_30 1.0000 bone_31 0.0000
+skin 296 bone_30 0.8128 bone_31 0.1872
+skin 297 tripo::0_Left_Limb_1 0.0732 bone_30 0.9268 bone_31 0.0000
+skin 298 tripo::0_Left_Limb_1 0.2300 bone_30 0.7700
+skin 299 bone_30 0.4379 bone_31 0.5621 bone_32 0.0000
+skin 300 bone_35 0.2612 bone_36 0.7388 bone_37 0.0000
+skin 301 bone_36 0.2954 bone_37 0.7046
+skin 302 bone_36 0.5164 bone_37 0.4836
+skin 303 bone_35 0.3703 bone_36 0.6297
+skin 304 tripo::1_Left_Limb_1 0.3753 bone_35 0.6247 bone_36 0.0000
+skin 305 bone_35 0.2861 bone_36 0.7139
+skin 306 bone_35 0.5476 bone_36 0.4524
+skin 307 tripo::1_Left_Limb_1 0.8401 bone_35 0.1599
+skin 308 tripo::1_Left_Limb_1 0.0000 bone_35 0.4751 bone_36 0.5249
+skin 309 bone_35 0.0612 bone_36 0.5616 bone_37 0.3772
+skin 310 bone_35 0.0810 bone_36 0.7478 bone_37 0.1712
+skin 311 bone_36 0.3172 bone_37 0.6828
+skin 312 tripo::1_Left_Limb_1 0.0752 bone_35 0.3701 bone_36 0.5547 bone_37 0.0000
+skin 313 bone_35 0.4656 bone_36 0.5344 bone_37 0.0000
+skin 314 bone_36 0.1070 bone_37 0.8930
+skin 315 tripo::1_Right_Limb_1 0.4570 bone_25 0.5430 bone_26 0.0000
+skin 316 bone_25 0.8586 bone_26 0.1414
+skin 317 bone_36 0.7965 bone_37 0.2035
+skin 318 bone_36 0.3487 bone_37 0.6513
+skin 319 tripo::0_Left_Limb_1 0.1006 bone_30 0.8469 bone_31 0.0525
+skin 320 bone_30 0.7392 bone_31 0.2608
+skin 321 bone_25 1.0000
+skin 322 bone_25 0.6648 bone_26 0.3352
+skin 323 bone_25 1.0000
+skin 324 bone_25 0.9351 bone_26 0.0649
+skin 325 bone_25 0.7425 bone_26 0.2575
+skin 326 tripo::1_Left_Limb_1 0.1176 bone_35 0.7578 bone_36 0.1246 bone_37 0.0000
+skin 327 tripo::1_Left_Limb_1 0.3578 bone_35 0.6422
+skin 328 tripo::1_Left_Limb_0 0.0772 tripo::1_Left_Limb_1 0.9228 bone_35 0.0000
+skin 329 tripo::1_Left_Limb_1 0.9110 bone_35 0.0890 bone_36 0.0000
+skin 330 tripo::1_Left_Limb_1 0.2438 bone_35 0.7562 bone_36 0.0000 bone_37 0.0000
+skin 331 tripo::0_Left_Limb_1 0.1047 bone_30 0.8953
+skin 332 tripo::0_Left_Limb_1 0.0543 bone_30 0.9457 bone_31 0.0000
+skin 333 tripo::0_Left_Limb_1 0.0959 bone_30 0.9041
+skin 334 tripo::0_Left_Limb_1 0.0910 bone_30 0.9090
+skin 335 bone_30 0.7680 bone_31 0.2320
+skin 336 bone_36 0.2521 bone_37 0.7479
+skin 337 bone_36 0.0703 bone_37 0.9297
+skin 338 tripo::1_Left_Limb_1 0.7182 bone_35 0.2818 bone_36 0.0000
+skin 339 tripo::1_Left_Limb_0 0.1219 tripo::1_Left_Limb_1 0.7912 bone_35 0.0869
+skin 340 tripo::1_Left_Limb_1 0.0898 bone_35 0.6179 bone_36 0.2923
+skin 341 bone_35 0.4877 bone_36 0.5123 bone_37 0.0000
+skin 342 bone_35 0.7670 bone_36 0.2330
+skin 343 bone_35 0.1860 bone_36 0.8140 bone_37 0.0000
+skin 344 tripo::1_Right_Limb_1 0.0000 bone_25 0.8516 bone_26 0.1484
+skin 345 bone_37 1.0000
+skin 346 bone_37 1.0000
+skin 347 bone_37 1.0000
+skin 348 bone_37 1.0000
+skin 349 bone_37 1.0000
+skin 350 bone_36 0.3110 bone_37 0.6890
+skin 351 bone_37 1.0000
+skin 352 bone_36 0.0977 bone_37 0.9023
+skin 353 tripo::1_Left_Limb_1 0.4080 bone_35 0.4264 bone_36 0.1656 bone_37 0.0000
+skin 354 tripo::1_Left_Limb_1 0.7257 bone_35 0.2743 bone_36 0.0000
+skin 355 tripo::1_Left_Limb_1 0.6450 bone_35 0.3550
+skin 356 bone_36 0.4048 bone_37 0.5952
+skin 357 bone_36 0.1234 bone_37 0.8766
+skin 358 tripo::1_Left_Limb_1 0.4266 bone_35 0.5734
+skin 359 tripo::1_Left_Limb_1 0.3567 bone_35 0.6433 bone_36 0.0000
+skin 360 tripo::1_Left_Limb_0 0.2152 tripo::1_Left_Limb_1 0.7848 bone_35 0.0000
+skin 361 tripo::1_Left_Limb_0 0.1162 tripo::1_Left_Limb_1 0.8838 bone_35 0.0000
+skin 362 tripo::1_Left_Limb_0 0.0990 tripo::1_Left_Limb_1 0.9010 bone_35 0.0000
+skin 363 tripo::1_Left_Limb_0 0.1004 tripo::1_Left_Limb_1 0.8996
+skin 364 bone_36 0.0710 bone_37 0.9290
+skin 365 bone_36 0.0985 bone_37 0.9015
+skin 366 tripo::1_Left_Limb_0 0.1981 tripo::1_Left_Limb_1 0.8019 bone_35 0.0000
+skin 367 tripo::1_Left_Limb_0 0.0763 tripo::1_Left_Limb_1 0.9237
+skin 368 tripo::Root 0.0612 tripo::1_Left_Limb_0 0.3854 tripo::1_Left_Limb_1 0.5534
+skin 369 tripo::1_Left_Limb_0 0.1321 tripo::1_Left_Limb_1 0.8679 bone_35 0.0000
+skin 370 tripo::1_Left_Limb_1 0.0793 bone_35 0.7581 bone_36 0.1627
+skin 371 tripo::1_Left_Limb_1 0.3196 bone_35 0.6804 bone_36 0.0000
+skin 372 tripo::0_Left_Limb_1 0.1163 bone_30 0.8837
+skin 373 bone_37 1.0000
+skin 374 bone_37 1.0000
+skin 375 tripo::1_Right_Limb_1 0.2887 bone_25 0.7113
+skin 376 tripo::1_Right_Limb_1 0.5592 bone_25 0.4408
+skin 377 tripo::1_Right_Limb_1 0.1554 bone_25 0.8446
+skin 378 tripo::0_Left_Limb_1 0.0763 bone_30 0.9237 bone_31 0.0000
+skin 379 tripo::0_Left_Limb_1 0.6251 bone_30 0.3749
+skin 380 tripo::0_Left_Limb_1 0.1632 bone_30 0.8368 bone_31 0.0000
+skin 381 bone_25 1.0000
+skin 382 tripo::1_Right_Limb_1 0.0000 bone_25 1.0000
+skin 383 tripo::1_Right_Limb_1 0.0587 bone_25 0.9413
+skin 384 tripo::1_Right_Limb_1 0.0000 bone_25 0.9351 bone_26 0.0649
+skin 385 tripo::1_Right_Limb_1 0.0933 bone_25 0.9067
+skin 386 tripo::1_Right_Limb_1 0.1201 bone_25 0.8799
+skin 387 tripo::1_Right_Limb_1 0.8229 bone_25 0.1771
+skin 388 tripo::1_Right_Limb_1 0.6536 bone_25 0.3464 bone_26 0.0000
+skin 389 tripo::1_Right_Limb_1 0.0000 bone_25 0.9028 bone_26 0.0972
+skin 390 tripo::0_Left_Limb_1 0.1096 bone_30 0.8904
+skin 391 bone_36 0.1087 bone_37 0.8913
+skin 392 bone_36 0.2259 bone_37 0.7741
+skin 393 bone_36 0.4155 bone_37 0.5845
+skin 394 tripo::1_Left_Limb_1 0.1598 bone_35 0.4191 bone_36 0.4211 bone_37 0.0000
+skin 395 bone_35 0.2234 bone_36 0.7766 bone_37 0.0000
+skin 396 tripo::1_Left_Limb_1 0.6488 bone_35 0.3512 bone_36 0.0000
+skin 397 tripo::Root 0.0601 tripo::1_Left_Limb_0 0.4132 tripo::1_Left_Limb_1 0.5267
+skin 398 tripo::Root 0.2012 tripo::1_Left_Limb_0 0.5404 tripo::1_Left_Limb_1 0.2584
+skin 399 tripo::1_Left_Limb_0 0.0952 tripo::1_Left_Limb_1 0.8232 bone_35 0.0816 bone_36 0.0000
+skin 400 tripo::1_Left_Limb_0 0.3447 tripo::1_Left_Limb_1 0.6553
+skin 401 tripo::1_Left_Limb_1 0.8510 bone_35 0.1490
+skin 402 tripo::1_Left_Limb_0 0.2283 tripo::1_Left_Limb_1 0.7717 bone_35 0.0000
+skin 403 tripo::1_Right_Limb_1 0.0667 bone_25 0.9333
+skin 404 tripo::1_Right_Limb_1 0.1411 bone_25 0.8589
+skin 405 tripo::1_Right_Limb_1 0.1684 bone_25 0.8316
+skin 406 tripo::1_Right_Limb_1 0.0687 bone_25 0.9313
+skin 407 tripo::1_Right_Limb_1 0.1690 bone_25 0.8310
+skin 408 tripo::1_Right_Limb_1 0.2418 bone_25 0.7582
+skin 409 tripo::1_Right_Limb_1 0.1201 bone_25 0.8799
+skin 410 tripo::1_Right_Limb_1 0.1040 bone_25 0.8960
+skin 411 tripo::1_Left_Limb_1 0.6182 bone_35 0.3818
+skin 412 tripo::Root 0.0555 tripo::1_Left_Limb_0 0.3227 tripo::1_Left_Limb_1 0.6219 bone_35 0.0000
+skin 413 tripo::1_Left_Limb_0 0.0517 tripo::1_Left_Limb_1 0.8885 bone_35 0.0599
+skin 414 tripo::Root 0.1734 tripo::1_Left_Limb_0 0.5639 tripo::1_Left_Limb_1 0.2626
+skin 415 tripo::Root 0.1386 tripo::1_Left_Limb_0 0.5168 tripo::1_Left_Limb_1 0.3446
+skin 416 tripo::0_Left_Limb_1 0.0846 bone_30 0.9154
+skin 417 tripo::0_Left_Limb_1 0.0868 bone_30 0.9132
+skin 418 tripo::0_Left_Limb_1 0.0574 bone_30 0.9426
+skin 419 tripo::0_Left_Limb_1 0.0594 bone_30 0.9406
+skin 420 tripo::0_Left_Limb_1 0.0661 bone_30 0.9339
+skin 421 bone_36 0.2314 bone_37 0.7686
+skin 422 bone_36 0.3090 bone_37 0.6910
+skin 423 bone_36 0.4088 bone_37 0.5912
+skin 424 tripo::1_Left_Limb_1 0.6321 bone_35 0.3679 bone_36 0.0000
+skin 425 tripo::1_Left_Limb_1 0.1633 bone_35 0.4266 bone_36 0.4101 bone_37 0.0000
+skin 426 tripo::1_Left_Limb_0 0.1217 tripo::1_Left_Limb_1 0.7542 bone_35 0.1241
+skin 427 tripo::0_Left_Limb_1 0.0959 bone_30 0.9041
+skin 428 tripo::0_Left_Limb_1 0.1093 bone_30 0.8907
+skin 429 tripo::0_Left_Limb_1 0.0998 bone_30 0.9002
+skin 430 tripo::0_Left_Limb_1 0.1406 bone_30 0.8594
+skin 431 tripo::0_Left_Limb_1 0.1511 bone_30 0.8489
+skin 432 tripo::1_Right_Limb_1 0.0902 bone_25 0.9098
+skin 433 tripo::1_Right_Limb_1 0.1804 bone_25 0.8196
+skin 434 tripo::1_Left_Limb_1 0.8463 bone_35 0.1537 bone_36 0.0000
+skin 435 tripo::1_Left_Limb_0 0.0517 tripo::1_Left_Limb_1 0.8885 bone_35 0.0599
+skin 436 tripo::1_Left_Limb_0 0.3759 tripo::1_Left_Limb_1 0.6241 bone_35 0.0000
+skin 437 bone_35 0.2237 bone_36 0.7763 bone_37 0.0000
+skin 438 tripo::1_Left_Limb_1 0.3006 bone_35 0.6994 bone_36 0.0000
+skin 439 bone_35 0.2793 bone_36 0.7207 bone_37 0.0000
+skin 440 tripo::0_Left_Limb_1 0.1422 bone_30 0.8578
+skin 441 tripo::0_Left_Limb_1 0.0548 bone_30 0.9452
+skin 442 tripo::0_Left_Limb_1 0.3573 bone_30 0.6427
+skin 443 bone_35 0.4708 bone_36 0.5292 bone_37 0.0000
+skin 444 bone_35 0.1589 bone_36 0.7689 bone_37 0.0722
+skin 445 bone_35 0.1680 bone_36 0.8320 bone_37 0.0000
+skin 446 bone_35 0.6325 bone_36 0.3675
+skin 447 bone_35 0.0000 bone_36 0.5586 bone_37 0.4414
+skin 448 bone_35 0.6320 bone_36 0.3680 bone_37 0.0000
+skin 449 bone_36 0.5376 bone_37 0.4624
+skin 450 bone_36 0.5031 bone_37 0.4969
+skin 451 tripo::Root 0.1739 tripo::1_Left_Limb_0 0.5638 tripo::1_Left_Limb_1 0.2623
+skin 452 tripo::Root 0.0645 tripo::1_Left_Limb_0 0.3713 tripo::1_Left_Limb_1 0.5642
+skin 453 tripo::1_Left_Limb_0 0.1248 tripo::1_Left_Limb_1 0.7640 bone_35 0.1112 bone_36 0.0000
+skin 454 bone_35 0.7672 bone_36 0.2328
+skin 455 bone_36 0.0979 bone_37 0.9021
+skin 456 tripo::Root 0.2291 tripo::1_Left_Limb_0 0.5702 tripo::1_Left_Limb_1 0.2007
+skin 457 tripo::0_Left_Limb_1 0.1689 bone_30 0.8311
+skin 458 tripo::0_Left_Limb_1 0.1534 bone_30 0.8466
+skin 459 tripo::0_Left_Limb_1 0.7487 bone_30 0.2513
+skin 460 tripo::0_Left_Limb_1 0.7473 bone_30 0.2527
+skin 461 tripo::1_Right_Limb_1 0.8620 bone_25 0.1380
+skin 462 tripo::1_Right_Limb_1 0.0000 bone_25 0.8573 bone_26 0.1427
+skin 463 tripo::1_Right_Limb_1 0.9080 bone_25 0.0920
+skin 464 tripo::1_Right_Limb_0 0.0000 tripo::1_Right_Limb_1 1.0000
+skin 465 tripo::1_Right_Limb_0 0.0000 tripo::1_Right_Limb_1 1.0000
+skin 466 bone_36 0.7422 bone_37 0.2578
+skin 467 tripo::1_Left_Limb_1 0.1485 bone_35 0.5019 bone_36 0.3496 bone_37 0.0000
+skin 468 bone_36 0.8189 bone_37 0.1811
+skin 469 tripo::Root 0.0732 tripo::1_Left_Limb_0 0.4919 tripo::1_Left_Limb_1 0.4349
+skin 470 tripo::Root 0.0793 tripo::1_Left_Limb_0 0.5519 tripo::1_Left_Limb_1 0.3689
+skin 471 tripo::Root 0.1741 tripo::1_Left_Limb_0 0.5935 tripo::1_Left_Limb_1 0.2324
+skin 472 tripo::0_Left_Limb_1 0.9158 bone_30 0.0842
+skin 473 tripo::0_Left_Limb_1 1.0000
+skin 474 tripo::0_Left_Limb_1 1.0000
+skin 475 tripo::0_Left_Limb_1 0.8195 bone_30 0.1805
+skin 476 tripo::1_Right_Limb_1 0.1535 bone_25 0.8465
+skin 477 tripo::1_Right_Limb_1 0.0794 bone_25 0.9206
+skin 478 tripo::1_Right_Limb_1 0.2475 bone_25 0.7525
+skin 479 tripo::1_Right_Limb_1 0.2137 bone_25 0.7863
+skin 480 tripo::0_Left_Limb_1 0.1806 bone_30 0.8194
+skin 481 tripo::0_Left_Limb_1 0.1806 bone_30 0.8194
+skin 482 tripo::1_Right_Limb_0 0.0000 tripo::1_Right_Limb_1 0.3024 bone_25 0.6976
+skin 483 tripo::1_Right_Limb_1 0.1493 bone_25 0.8507
+skin 484 tripo::1_Right_Limb_0 0.0551 tripo::1_Right_Limb_1 0.6398 bone_25 0.3051
+skin 485 bone_36 0.6780 bone_37 0.3220
+skin 486 tripo::Root 0.0631 tripo::1_Left_Limb_0 0.3615 tripo::1_Left_Limb_1 0.5754
+skin 487 tripo::Root 0.2059 tripo::1_Right_Limb_0 0.1276 tripo::1_Left_Limb_0 0.4257 tripo::1_Left_Limb_1 0.2408
+skin 488 tripo::Root 0.1256 tripo::1_Left_Limb_0 0.5883 tripo::1_Left_Limb_1 0.2861
+skin 489 tripo::Root 0.1008 tripo::1_Left_Limb_0 0.5553 tripo::1_Left_Limb_1 0.3439
+skin 490 tripo::Root 0.4269 tripo::Head_0 0.1229 tripo::1_Left_Limb_0 0.3796 tripo::1_Left_Limb_1 0.0707
+skin 491 tripo::Root 0.1496 tripo::1_Left_Limb_0 0.5768 tripo::1_Left_Limb_1 0.2736
+skin 492 tripo::1_Left_Limb_0 0.1832 tripo::1_Left_Limb_1 0.8168
+skin 493 tripo::Root 0.1471 tripo::1_Left_Limb_0 0.5121 tripo::1_Left_Limb_1 0.3408
+skin 494 tripo::1_Right_Limb_1 0.9189 bone_25 0.0811
+skin 495 tripo::1_Right_Limb_0 0.0000 tripo::1_Right_Limb_1 1.0000
+skin 496 tripo::1_Left_Limb_0 0.1995 tripo::1_Left_Limb_1 0.8005
+skin 497 tripo::1_Left_Limb_0 0.4318 tripo::1_Left_Limb_1 0.5682 bone_35 0.0000
+skin 498 tripo::1_Left_Limb_0 0.1449 tripo::1_Left_Limb_1 0.8551 bone_35 0.0000
+skin 499 tripo::0_Left_Limb_1 0.9042 bone_30 0.0958
+skin 500 tripo::0_Left_Limb_1 0.5687 bone_30 0.4313 bone_31 0.0000
+skin 501 tripo::0_Left_Limb_1 0.8872 bone_30 0.1128
+skin 502 tripo::1_Right_Limb_0 0.0000 tripo::1_Right_Limb_1 1.0000
+skin 503 tripo::1_Right_Limb_1 0.3243 bone_25 0.6757
+skin 504 tripo::1_Left_Limb_1 0.5955 bone_35 0.4045 bone_36 0.0000
+skin 505 tripo::1_Left_Limb_1 0.1582 bone_35 0.7831 bone_36 0.0586
+skin 506 tripo::1_Left_Limb_1 0.7978 bone_35 0.2022 bone_36 0.0000
+skin 507 tripo::1_Left_Limb_1 0.9104 bone_35 0.0896
+skin 508 tripo::0_Left_Limb_1 1.0000
+skin 509 tripo::0_Left_Limb_1 0.7932 bone_30 0.2068
+skin 510 tripo::1_Left_Limb_0 0.0822 tripo::1_Left_Limb_1 0.5500 bone_35 0.3678 bone_36 0.0000
+skin 511 bone_35 0.6248 bone_36 0.3752
+skin 512 tripo::Root 0.1652 tripo::1_Left_Limb_0 0.5930 tripo::1_Left_Limb_1 0.2419
+skin 513 tripo::Root 0.1405 tripo::1_Left_Limb_0 0.5613 tripo::1_Left_Limb_1 0.2983
+skin 514 tripo::1_Left_Limb_0 0.3516 tripo::1_Left_Limb_1 0.6484
+skin 515 tripo::Root 0.3539 tripo::Head_0 0.0000 tripo::1_Left_Limb_0 0.5284 tripo::1_Left_Limb_1 0.1177
+skin 516 tripo::Root 0.5182 tripo::Head_0 0.1965 tripo::1_Left_Limb_0 0.2853
+skin 517 tripo::0_Left_Limb_1 0.6702 bone_30 0.3298
+skin 518 tripo::0_Left_Limb_1 0.8085 bone_30 0.1915
+skin 519 tripo::0_Left_Limb_1 0.5651 bone_30 0.4349
+skin 520 tripo::0_Left_Limb_1 0.1591 bone_30 0.8409
+skin 521 tripo::0_Left_Limb_1 0.1591 bone_30 0.8409
+skin 522 tripo::1_Left_Limb_0 0.4135 tripo::1_Left_Limb_1 0.5865
+skin 523 tripo::1_Left_Limb_0 0.2748 tripo::1_Left_Limb_1 0.7252
+skin 524 tripo::1_Left_Limb_0 0.4735 tripo::1_Left_Limb_1 0.5265
+skin 525 tripo::1_Left_Limb_0 0.4736 tripo::1_Left_Limb_1 0.5264
+skin 526 tripo::0_Left_Limb_1 1.0000
+skin 527 bone_35 0.3015 bone_36 0.6985 bone_37 0.0000
+skin 528 bone_36 0.6849 bone_37 0.3151
+skin 529 bone_35 0.9225 bone_36 0.0775
+skin 530 tripo::0_Left_Limb_1 1.0000
+skin 531 tripo::0_Left_Limb_1 0.7085 bone_30 0.2915
+skin 532 tripo::0_Left_Limb_1 1.0000
+skin 533 tripo::0_Left_Limb_1 1.0000
+skin 534 tripo::0_Left_Limb_1 1.0000
+skin 535 tripo::1_Right_Limb_1 0.3672 bone_25 0.6328
+skin 536 tripo::1_Right_Limb_1 0.2832 bone_25 0.7168
+skin 537 tripo::1_Right_Limb_0 0.0560 tripo::1_Right_Limb_1 0.7143 bone_25 0.2297
+skin 538 tripo::1_Left_Limb_1 0.9158 bone_35 0.0842
+skin 539 tripo::Root 0.1635 tripo::Head_0 0.0000 tripo::1_Left_Limb_0 0.6374 tripo::1_Left_Limb_1 0.1991
+skin 540 tripo::0_Left_Limb_1 0.9012 bone_30 0.0988
+skin 541 tripo::0_Left_Limb_1 0.9297 bone_30 0.0703
+skin 542 tripo::0_Left_Limb_1 0.6392 bone_30 0.3608
+skin 543 tripo::1_Right_Limb_0 0.0690 tripo::1_Right_Limb_1 0.9310
+skin 544 tripo::1_Right_Limb_0 0.0000 tripo::1_Right_Limb_1 1.0000 bone_25 0.0000
+skin 545 tripo::1_Right_Limb_0 0.0864 tripo::1_Right_Limb_1 0.7910 bone_25 0.1226
+skin 546 tripo::1_Right_Limb_0 0.0946 tripo::1_Right_Limb_1 0.7831 bone_25 0.1223
+skin 547 bone_35 0.7777 bone_36 0.2223
+skin 548 tripo::1_Left_Limb_1 0.5743 bone_35 0.4257 bone_36 0.0000
+skin 549 tripo::1_Left_Limb_0 0.0000 tripo::1_Left_Limb_1 0.8129 bone_35 0.1871
+skin 550 tripo::1_Left_Limb_1 0.7973 bone_35 0.2027 bone_36 0.0000
+skin 551 tripo::1_Right_Limb_0 0.0000 tripo::1_Right_Limb_1 1.0000
+skin 552 tripo::1_Right_Limb_1 0.6705 bone_25 0.3295
+skin 553 tripo::1_Right_Limb_1 0.6732 bone_25 0.3268
+skin 554 tripo::1_Right_Limb_0 0.0681 tripo::1_Right_Limb_1 0.9319
+skin 555 tripo::1_Right_Limb_0 0.1193 tripo::1_Right_Limb_1 0.8142 bone_25 0.0666
+skin 556 tripo::1_Right_Limb_0 0.0870 tripo::1_Right_Limb_1 0.9130
+skin 557 tripo::1_Right_Limb_0 0.1829 tripo::1_Right_Limb_1 0.8171
+skin 558 tripo::1_Right_Limb_0 0.1157 tripo::1_Right_Limb_1 0.8173 bone_25 0.0670
+skin 559 tripo::0_Left_Limb_1 1.0000 bone_30 0.0000
+skin 560 tripo::0_Left_Limb_1 1.0000
+skin 561 tripo::Root 0.3305 tripo::Head_0 0.2008 tripo::1_Right_Limb_0 0.2291 tripo::1_Left_Limb_0 0.2396
+skin 562 tripo::Root 0.3422 tripo::Head_0 0.2100 tripo::1_Right_Limb_0 0.2350 tripo::1_Left_Limb_0 0.2129
+skin 563 tripo::Root 0.3012 tripo::Head_0 0.1524 tripo::1_Right_Limb_0 0.2285 tripo::1_Left_Limb_0 0.3179
+skin 564 tripo::1_Right_Limb_0 0.0549 tripo::1_Right_Limb_1 0.9451
+skin 565 tripo::1_Right_Limb_0 0.0000 tripo::1_Right_Limb_1 1.0000
+skin 566 tripo::1_Right_Limb_0 0.0944 tripo::1_Right_Limb_1 0.9056
+skin 567 tripo::Root 0.3035 tripo::1_Left_Limb_0 0.5511 tripo::1_Left_Limb_1 0.1454
+skin 568 tripo::0_Left_Limb_1 1.0000
+skin 569 tripo::0_Left_Limb_1 1.0000
+skin 570 tripo::1_Left_Limb_1 0.4903 bone_35 0.5097 bone_36 0.0000
+skin 571 tripo::Root 0.4172 tripo::Head_0 0.2475 tripo::1_Right_Limb_0 0.1100 tripo::1_Left_Limb_0 0.2253
+skin 572 tripo::Root 0.5075 tripo::Head_0 0.2333 tripo::1_Left_Limb_0 0.2592
+skin 573 tripo::Root 0.3536 tripo::Head_0 0.4455 tripo::1_Right_Limb_0 0.0993 tripo::1_Left_Limb_0 0.1016
+skin 574 tripo::Root 0.2719 tripo::1_Left_Limb_0 0.5425 tripo::1_Left_Limb_1 0.1857
+skin 575 tripo::Root 0.1924 tripo::1_Left_Limb_0 0.5441 tripo::1_Left_Limb_1 0.2636
+skin 576 tripo::Root 0.4349 tripo::Head_0 0.1311 tripo::1_Left_Limb_0 0.3772 tripo::1_Left_Limb_1 0.0568
+skin 577 tripo::Root 0.4445 tripo::Head_0 0.1307 tripo::1_Left_Limb_0 0.3717 tripo::1_Left_Limb_1 0.0530
+skin 578 tripo::Root 0.2975 tripo::1_Left_Limb_0 0.5437 tripo::1_Left_Limb_1 0.1587
+skin 579 tripo::0_Left_Limb_0 0.0000 tripo::0_Left_Limb_1 1.0000
+skin 580 tripo::0_Left_Limb_1 1.0000
+skin 581 tripo::0_Left_Limb_0 0.0982 tripo::0_Left_Limb_1 0.9018
+skin 582 tripo::0_Left_Limb_1 1.0000
+skin 583 tripo::1_Right_Limb_0 0.1352 tripo::1_Right_Limb_1 0.8648
+skin 584 tripo::1_Right_Limb_0 0.0974 tripo::1_Right_Limb_1 0.9026
+skin 585 tripo::1_Right_Limb_0 0.0000 tripo::1_Right_Limb_1 1.0000
+skin 586 tripo::1_Right_Limb_0 0.1010 tripo::1_Right_Limb_1 0.8039 bone_25 0.0951
+skin 587 tripo::1_Right_Limb_0 0.1620 tripo::1_Right_Limb_1 0.7567 bone_25 0.0813
+skin 588 tripo::1_Right_Limb_0 0.1362 tripo::1_Right_Limb_1 0.7447 bone_25 0.1192
+skin 589 tripo::Root 0.2923 tripo::Head_0 0.2254 tripo::1_Right_Limb_0 0.3153 tripo::1_Left_Limb_0 0.1670
+skin 590 tripo::Root 0.2888 tripo::Head_0 0.1397 tripo::1_Right_Limb_0 0.2033 tripo::1_Left_Limb_0 0.3682
+skin 591 tripo::1_Left_Limb_0 0.4977 tripo::1_Left_Limb_1 0.5023
+skin 592 tripo::Root 0.1973 tripo::1_Right_Limb_0 0.1057 tripo::1_Left_Limb_0 0.4878 tripo::1_Left_Limb_1 0.2091
+skin 593 tripo::0_Left_Limb_1 1.0000
+skin 594 tripo::0_Left_Limb_1 0.8083 bone_30 0.1917
+skin 595 tripo::0_Left_Limb_1 1.0000
+skin 596 tripo::Root 0.4111 tripo::Head_0 0.1137 tripo::1_Left_Limb_0 0.3894 tripo::1_Left_Limb_1 0.0857
+skin 597 tripo::Root 0.5079 tripo::Head_0 0.2320 tripo::1_Left_Limb_0 0.2601
+skin 598 tripo::1_Right_Limb_0 0.0000 tripo::1_Right_Limb_1 0.9112 bone_25 0.0888
+skin 599 tripo::1_Right_Limb_0 0.0000 tripo::1_Right_Limb_1 0.9063 bone_25 0.0937
+skin 600 tripo::Root 0.3073 tripo::Head_0 0.0751 tripo::1_Left_Limb_0 0.5032 tripo::1_Left_Limb_1 0.1145
+skin 601 tripo::Root 0.4000 tripo::Head_0 0.1491 tripo::0_Left_Limb_0 0.0857 tripo::1_Left_Limb_0 0.3653
+skin 602 tripo::Root 0.3959 tripo::Head_0 0.1651 tripo::0_Left_Limb_0 0.0819 tripo::1_Left_Limb_0 0.3571
+skin 603 tripo::0_Left_Limb_1 0.9149 bone_30 0.0851
+skin 604 tripo::1_Left_Limb_0 0.2079 tripo::1_Left_Limb_1 0.6867 bone_35 0.1055
+skin 605 tripo::1_Left_Limb_1 0.7054 bone_35 0.2946 bone_36 0.0000
+skin 606 tripo::1_Left_Limb_0 0.0940 tripo::1_Left_Limb_1 0.9060 bone_35 0.0000
+skin 607 tripo::1_Left_Limb_0 0.2220 tripo::1_Left_Limb_1 0.7780
+skin 608 tripo::1_Left_Limb_1 0.6759 bone_35 0.3241
+skin 609 tripo::1_Left_Limb_0 0.2120 tripo::1_Left_Limb_1 0.7880 bone_35 0.0000
+skin 610 tripo::1_Left_Limb_1 0.8245 bone_35 0.1755
+skin 611 tripo::Root 0.0677 tripo::1_Left_Limb_0 0.6160 tripo::1_Left_Limb_1 0.3163
+skin 612 tripo::1_Left_Limb_0 0.5038 tripo::1_Left_Limb_1 0.4962
+skin 613 tripo::Root 0.0688 tripo::1_Right_Limb_0 0.0000 tripo::1_Left_Limb_0 0.6166 tripo::1_Left_Limb_1 0.3146
+skin 614 tripo::Root 0.0681 tripo::1_Left_Limb_0 0.5936 tripo::1_Left_Limb_1 0.3383
+skin 615 tripo::1_Left_Limb_1 0.8505 bone_35 0.1495
+skin 616 tripo::0_Left_Limb_1 1.0000
+skin 617 tripo::0_Left_Limb_1 1.0000
+skin 618 tripo::0_Left_Limb_1 1.0000
+skin 619 tripo::1_Right_Limb_0 0.0000 tripo::1_Right_Limb_1 0.8281 bone_25 0.1719
+skin 620 tripo::1_Right_Limb_0 0.1904 tripo::1_Right_Limb_1 0.8096
+skin 621 tripo::1_Right_Limb_1 0.7591 bone_25 0.2409
+skin 622 tripo::1_Right_Limb_0 0.0000 tripo::1_Right_Limb_1 0.6593 bone_25 0.3407
+skin 623 tripo::1_Right_Limb_0 0.1441 tripo::1_Right_Limb_1 0.8559
+skin 624 tripo::Root 0.3718 tripo::Head_0 0.0538 tripo::1_Left_Limb_0 0.4743 tripo::1_Left_Limb_1 0.1001
+skin 625 tripo::0_Left_Limb_0 0.0000 tripo::0_Left_Limb_1 1.0000
+skin 626 tripo::1_Right_Limb_0 0.1913 tripo::1_Right_Limb_1 0.8087
+skin 627 tripo::1_Right_Limb_0 0.1478 tripo::1_Right_Limb_1 0.8522
+skin 628 tripo::Head_0 0.0000 tripo::1_Right_Limb_0 0.1913 tripo::1_Right_Limb_1 0.8087
+skin 629 tripo::Root 0.0000 tripo::Head_0 0.0818 tripo::1_Right_Limb_0 0.3069 tripo::1_Right_Limb_1 0.6113
+skin 630 tripo::1_Right_Limb_0 0.2924 tripo::1_Right_Limb_1 0.7076
+skin 631 tripo::1_Right_Limb_0 0.0813 tripo::1_Right_Limb_1 0.9187
+skin 632 tripo::1_Right_Limb_0 0.2192 tripo::1_Right_Limb_1 0.7808
+skin 633 tripo::1_Right_Limb_0 0.0687 tripo::1_Right_Limb_1 0.9313
+skin 634 tripo::1_Right_Limb_0 0.1446 tripo::1_Right_Limb_1 0.8554
+skin 635 tripo::1_Left_Limb_0 0.0000 tripo::1_Left_Limb_1 0.9037 bone_35 0.0963
+skin 636 tripo::1_Left_Limb_1 0.5006 bone_35 0.4994 bone_36 0.0000
+skin 637 tripo::0_Left_Limb_1 1.0000
+skin 638 tripo::Root 0.3050 tripo::Head_0 0.0891 tripo::1_Left_Limb_0 0.4982 tripo::1_Left_Limb_1 0.1077
+skin 639 tripo::Root 0.3632 tripo::Head_0 0.0939 tripo::1_Left_Limb_0 0.4769 tripo::1_Left_Limb_1 0.0660
+skin 640 tripo::0_Left_Limb_1 1.0000
+skin 641 tripo::0_Left_Limb_1 1.0000
+skin 642 tripo::0_Left_Limb_1 1.0000
+skin 643 tripo::1_Right_Limb_0 0.0000 tripo::1_Right_Limb_1 1.0000
+skin 644 tripo::1_Right_Limb_0 0.1227 tripo::1_Right_Limb_1 0.8773
+skin 645 tripo::Root 0.2985 tripo::Head_0 0.0610 tripo::1_Left_Limb_0 0.5132 tripo::1_Left_Limb_1 0.1273
+skin 646 tripo::Root 0.2961 tripo::Head_0 0.0829 tripo::1_Left_Limb_0 0.4873 tripo::1_Left_Limb_1 0.1337
+skin 647 tripo::Root 0.4321 tripo::Head_0 0.1274 tripo::0_Left_Limb_0 0.0596 tripo::1_Left_Limb_0 0.3809
+skin 648 tripo::0_Left_Limb_1 1.0000
+skin 649 tripo::0_Left_Limb_1 1.0000
+skin 650 tripo::0_Left_Limb_1 1.0000
+skin 651 tripo::0_Left_Limb_0 0.0532 tripo::0_Left_Limb_1 0.9468
+skin 652 tripo::0_Left_Limb_1 1.0000
+skin 653 tripo::0_Left_Limb_0 0.0000 tripo::0_Left_Limb_1 1.0000
+skin 654 tripo::0_Left_Limb_1 1.0000
+skin 655 tripo::Root 0.3500 tripo::Head_0 0.4114 tripo::1_Right_Limb_0 0.1267 tripo::1_Left_Limb_0 0.1119
+skin 656 tripo::1_Left_Limb_0 0.2096 tripo::1_Left_Limb_1 0.7252 bone_35 0.0652
+skin 657 tripo::1_Left_Limb_0 0.0822 tripo::1_Left_Limb_1 0.8432 bone_35 0.0746
+skin 658 tripo::Root 0.5048 tripo::Head_0 0.2693 tripo::1_Left_Limb_0 0.2259
+skin 659 tripo::Root 0.5201 tripo::Head_0 0.2081 tripo::1_Left_Limb_0 0.2718
+skin 660 tripo::Root 0.2521 tripo::Head_0 0.3142 tripo::1_Right_Limb_0 0.3168 tripo::1_Right_Limb_1 0.1169
+skin 661 tripo::Root 0.3312 tripo::Head_0 0.2667 tripo::1_Right_Limb_0 0.2313 tripo::1_Left_Limb_0 0.1707
+skin 662 tripo::Root 0.3374 tripo::Head_0 0.3071 tripo::1_Right_Limb_0 0.2296 tripo::1_Left_Limb_0 0.1259
+skin 663 tripo::Root 0.2329 tripo::Head_0 0.3392 tripo::1_Right_Limb_0 0.3021 tripo::1_Right_Limb_1 0.1257
+skin 664 tripo::Root 0.1324 tripo::Head_0 0.1827 tripo::1_Right_Limb_0 0.3412 tripo::1_Right_Limb_1 0.3438
+skin 665 tripo::Root 0.3283 tripo::Head_0 0.1009 tripo::1_Right_Limb_0 0.1104 tripo::1_Left_Limb_0 0.4604
+skin 666 tripo::Root 0.3778 tripo::Head_0 0.1270 tripo::1_Right_Limb_0 0.1414 tripo::1_Left_Limb_0 0.3537
+skin 667 tripo::1_Right_Limb_0 0.1531 tripo::1_Right_Limb_1 0.8469
+skin 668 tripo::1_Right_Limb_0 0.0793 tripo::1_Right_Limb_1 0.8605 bone_25 0.0602
+skin 669 tripo::Root 0.3425 tripo::Head_0 0.2691 tripo::0_Left_Limb_0 0.2252 tripo::1_Left_Limb_0 0.1632
+skin 670 tripo::Root 0.2032 tripo::Head_0 0.2626 tripo::0_Left_Limb_0 0.3208 tripo::0_Left_Limb_1 0.2133
+skin 671 tripo::Root 0.3078 tripo::Head_0 0.3084 tripo::0_Left_Limb_0 0.2779 tripo::1_Left_Limb_0 0.1059
+skin 672 tripo::Root 0.4977 tripo::Head_0 0.1707 tripo::0_Left_Limb_0 0.0000 tripo::1_Left_Limb_0 0.3316
+skin 673 tripo::Root 0.4174 tripo::Head_0 0.3883 tripo::0_Left_Limb_0 0.0621 tripo::1_Left_Limb_0 0.1323
+skin 674 tripo::Root 0.3856 tripo::Head_0 0.4374 tripo::0_Left_Limb_0 0.0636 tripo::1_Left_Limb_0 0.1134
+skin 675 tripo::Root 0.5178 tripo::Head_0 0.2464 tripo::1_Left_Limb_0 0.2357
+skin 676 tripo::0_Left_Limb_0 0.0634 tripo::0_Left_Limb_1 0.9366
+skin 677 tripo::0_Left_Limb_1 1.0000
+skin 678 tripo::0_Left_Limb_0 0.0874 tripo::0_Left_Limb_1 0.9126
+skin 679 tripo::0_Left_Limb_1 1.0000
+skin 680 tripo::0_Left_Limb_1 0.9340 bone_30 0.0660
+skin 681 tripo::Root 0.0000 tripo::Head_0 0.0000 tripo::0_Left_Limb_0 0.0000 tripo::0_Left_Limb_1 1.0000
+skin 682 tripo::0_Left_Limb_1 1.0000
+skin 683 tripo::0_Left_Limb_1 1.0000
+skin 684 tripo::1_Right_Limb_0 0.1143 tripo::1_Right_Limb_1 0.8857
+skin 685 tripo::1_Right_Limb_0 0.2141 tripo::1_Right_Limb_1 0.7859
+skin 686 tripo::Head_0 0.0000 tripo::1_Right_Limb_0 0.1933 tripo::1_Right_Limb_1 0.8067
+skin 687 tripo::Root 0.0000 tripo::Head_0 0.0000 tripo::1_Right_Limb_0 0.2566 tripo::1_Right_Limb_1 0.7434
+skin 688 tripo::1_Right_Limb_0 0.1810 tripo::1_Right_Limb_1 0.7507 bone_25 0.0683
+skin 689 tripo::1_Right_Limb_0 0.2569 tripo::1_Right_Limb_1 0.7431
+skin 690 tripo::1_Right_Limb_0 0.2363 tripo::1_Right_Limb_1 0.7637
+skin 691 tripo::Head_0 0.0000 tripo::1_Right_Limb_0 0.2651 tripo::1_Right_Limb_1 0.7349
+skin 692 tripo::1_Right_Limb_0 0.0727 tripo::1_Right_Limb_1 0.9273
+skin 693 tripo::Root 0.1829 tripo::Head_0 0.5454 tripo::0_Right_Limb_0 0.2014 tripo::1_Right_Limb_1 0.0703
+skin 694 tripo::Root 0.2061 tripo::Head_0 0.5868 tripo::0_Right_Limb_0 0.2071
+skin 695 tripo::Root 0.1639 tripo::Head_0 0.5440 tripo::0_Right_Limb_0 0.1853 tripo::1_Right_Limb_1 0.1068
+skin 696 tripo::Root 0.4924 tripo::Head_0 0.2873 tripo::1_Left_Limb_0 0.2203
+skin 697 tripo::Root 0.1557 tripo::Head_0 0.5589 tripo::0_Right_Limb_0 0.1861 tripo::0_Left_Limb_1 0.0994
+skin 698 tripo::0_Left_Limb_1 1.0000
+skin 699 tripo::0_Left_Limb_1 1.0000
+skin 700 tripo::Root 0.0000 tripo::Head_0 0.0000 tripo::1_Right_Limb_0 0.2528 tripo::1_Right_Limb_1 0.7472
+skin 701 tripo::Head_0 0.0000 tripo::1_Right_Limb_0 0.2966 tripo::1_Right_Limb_1 0.7034
+skin 702 tripo::1_Right_Limb_0 0.1614 tripo::1_Right_Limb_1 0.7509 bone_25 0.0876
+skin 703 tripo::1_Right_Limb_0 0.1737 tripo::1_Right_Limb_1 0.7743 bone_25 0.0520
+skin 704 tripo::Head_0 0.0000 tripo::1_Right_Limb_0 0.2539 tripo::1_Right_Limb_1 0.7461
+skin 705 tripo::Head_0 0.0726 tripo::1_Right_Limb_0 0.2711 tripo::1_Right_Limb_1 0.6563
+skin 706 tripo::Root 0.0714 tripo::Head_0 0.1296 tripo::1_Right_Limb_0 0.3514 tripo::1_Right_Limb_1 0.4477
+skin 707 tripo::Root 0.0000 tripo::Head_0 0.0762 tripo::1_Right_Limb_0 0.2896 tripo::1_Right_Limb_1 0.6341
+skin 708 tripo::0_Left_Limb_0 0.0721 tripo::0_Left_Limb_1 0.9279
+skin 709 tripo::Head_0 0.1124 tripo::0_Left_Limb_0 0.1006 tripo::0_Left_Limb_1 0.7871
+skin 710 tripo::Root 0.0532 tripo::Head_0 0.1455 tripo::0_Left_Limb_0 0.2265 tripo::0_Left_Limb_1 0.5749
+skin 711 tripo::0_Left_Limb_1 1.0000
+skin 712 tripo::0_Left_Limb_0 0.0787 tripo::0_Left_Limb_1 0.9213
+skin 713 tripo::Head_0 0.1214 tripo::0_Left_Limb_0 0.1087 tripo::0_Left_Limb_1 0.7699
+skin 714 tripo::Root 0.0635 tripo::Head_0 0.1940 tripo::0_Left_Limb_0 0.1428 tripo::0_Left_Limb_1 0.5997
+skin 715 tripo::0_Left_Limb_0 0.0588 tripo::0_Left_Limb_1 0.9412
+skin 716 tripo::0_Left_Limb_0 0.0000 tripo::0_Left_Limb_1 1.0000
+skin 717 tripo::1_Right_Limb_0 0.1406 tripo::1_Right_Limb_1 0.8594
+skin 718 tripo::1_Right_Limb_0 0.0914 tripo::1_Right_Limb_1 0.9086
+skin 719 tripo::1_Right_Limb_0 0.1091 tripo::1_Right_Limb_1 0.8909
+skin 720 tripo::1_Right_Limb_0 0.0837 tripo::1_Right_Limb_1 0.9163
+skin 721 tripo::1_Right_Limb_0 0.1330 tripo::1_Right_Limb_1 0.8670
+skin 722 tripo::1_Right_Limb_0 0.0613 tripo::1_Right_Limb_1 0.9387
+skin 723 tripo::0_Left_Limb_1 1.0000
+skin 724 tripo::0_Left_Limb_0 0.0626 tripo::0_Left_Limb_1 0.9374
+skin 725 tripo::0_Left_Limb_0 0.0634 tripo::0_Left_Limb_1 0.9366
+skin 726 tripo::0_Left_Limb_0 0.1329 tripo::0_Left_Limb_1 0.8671
+skin 727 tripo::0_Left_Limb_1 1.0000
+skin 728 tripo::Root 0.1089 tripo::Head_0 0.2085 tripo::1_Right_Limb_0 0.3169 tripo::1_Right_Limb_1 0.3657
+skin 729 tripo::Head_0 0.4168 tripo::0_Right_Limb_0 0.1634 tripo::1_Right_Limb_0 0.2392 tripo::1_Right_Limb_1 0.1807
+skin 730 tripo::1_Left_Limb_0 0.4112 tripo::1_Left_Limb_1 0.5888
+skin 731 tripo::1_Left_Limb_0 0.4946 tripo::1_Left_Limb_1 0.5054
+skin 732 tripo::1_Left_Limb_0 0.2257 tripo::1_Left_Limb_1 0.7743 bone_35 0.0000
+skin 733 tripo::Root 0.2983 tripo::Head_0 0.4880 tripo::1_Right_Limb_0 0.1132 tripo::1_Right_Limb_1 0.1006
+skin 734 tripo::Root 0.2977 tripo::Head_0 0.4882 tripo::1_Right_Limb_0 0.1132 tripo::1_Right_Limb_1 0.1009
+skin 735 tripo::Head_0 0.1659 tripo::0_Right_Limb_0 0.0906 tripo::0_Left_Limb_0 0.1228 tripo::0_Left_Limb_1 0.6207
+skin 736 tripo::1_Right_Limb_0 0.1495 tripo::1_Right_Limb_1 0.8505
+skin 737 tripo::1_Right_Limb_0 0.1810 tripo::1_Right_Limb_1 0.7506 bone_25 0.0683
+skin 738 tripo::Root 0.0000 tripo::Head_0 0.0000 tripo::1_Right_Limb_0 0.3074 tripo::1_Right_Limb_1 0.6926
+skin 739 tripo::Root 0.0000 tripo::Head_0 0.0000 tripo::1_Right_Limb_0 0.2838 tripo::1_Right_Limb_1 0.7162
+skin 740 tripo::Root 0.0894 tripo::Head_0 0.1585 tripo::0_Left_Limb_0 0.2695 tripo::0_Left_Limb_1 0.4826
+skin 741 tripo::Root 0.1444 tripo::Head_0 0.2793 tripo::0_Left_Limb_0 0.4151 tripo::0_Left_Limb_1 0.1612
+skin 742 tripo::Head_0 0.0577 tripo::0_Left_Limb_0 0.1068 tripo::0_Left_Limb_1 0.8354
+skin 743 tripo::Head_0 0.0000 tripo::0_Left_Limb_0 0.1015 tripo::0_Left_Limb_1 0.8985
+skin 744 tripo::1_Left_Limb_0 0.3274 tripo::1_Left_Limb_1 0.6726
+skin 745 tripo::Root 0.0000 tripo::1_Left_Limb_0 0.2011 tripo::1_Left_Limb_1 0.7989 bone_35 0.0000
+skin 746 tripo::Root 0.2968 tripo::Head_0 0.0869 tripo::1_Left_Limb_0 0.5010 tripo::1_Left_Limb_1 0.1152
+skin 747 tripo::1_Left_Limb_0 0.1184 tripo::1_Left_Limb_1 0.8816 bone_35 0.0000
+skin 748 tripo::Root 0.1885 tripo::Head_0 0.2774 tripo::1_Right_Limb_0 0.3647 tripo::1_Right_Limb_1 0.1695
+skin 749 tripo::Root 0.0805 tripo::Head_0 0.1320 tripo::1_Right_Limb_0 0.3012 tripo::1_Right_Limb_1 0.4864
+skin 750 tripo::Head_0 0.0721 tripo::1_Right_Limb_0 0.3247 tripo::1_Right_Limb_1 0.6031
+skin 751 tripo::Root 0.1866 tripo::Head_0 0.2792 tripo::1_Right_Limb_0 0.3517 tripo::1_Right_Limb_1 0.1825
+skin 752 tripo::Root 0.1096 tripo::Head_0 0.2098 tripo::1_Right_Limb_0 0.3162 tripo::1_Right_Limb_1 0.3644
+skin 753 tripo::Root 0.0737 tripo::Head_0 0.1447 tripo::1_Right_Limb_0 0.2434 tripo::1_Right_Limb_1 0.5382
+skin 754 tripo::Root 0.1591 tripo::Head_0 0.1773 tripo::1_Right_Limb_0 0.3535 tripo::1_Right_Limb_1 0.3101
+skin 755 tripo::Root 0.3262 tripo::Head_0 0.2955 tripo::1_Right_Limb_0 0.2539 tripo::1_Left_Limb_0 0.1244
+skin 756 tripo::Root 0.3187 tripo::Head_0 0.1841 tripo::1_Right_Limb_0 0.2659 tripo::1_Left_Limb_0 0.2313
+skin 757 tripo::Root 0.1846 tripo::Head_0 0.2449 tripo::0_Left_Limb_0 0.3326 tripo::0_Left_Limb_1 0.2380
+skin 758 tripo::Root 0.4246 tripo::Head_0 0.2310 tripo::0_Left_Limb_0 0.1108 tripo::1_Left_Limb_0 0.2336
+skin 759 tripo::Root 0.1448 tripo::Head_0 0.2278 tripo::0_Left_Limb_0 0.3729 tripo::0_Left_Limb_1 0.2545
+skin 760 tripo::Root 0.1429 tripo::Head_0 0.1808 tripo::1_Right_Limb_0 0.3512 tripo::1_Right_Limb_1 0.3251
+skin 761 tripo::Root 0.1013 tripo::Head_0 0.2895 tripo::0_Left_Limb_0 0.1338 tripo::0_Left_Limb_1 0.4754
+skin 762 tripo::Root 0.1006 tripo::Head_0 0.2878 tripo::0_Left_Limb_0 0.1339 tripo::0_Left_Limb_1 0.4776
+skin 763 tripo::Root 0.1754 tripo::Head_0 0.4147 tripo::0_Left_Limb_0 0.1791 tripo::0_Left_Limb_1 0.2308
+skin 764 tripo::0_Left_Limb_0 0.0835 tripo::0_Left_Limb_1 0.9165
+skin 765 tripo::Root 0.0000 tripo::Head_0 0.0535 tripo::1_Right_Limb_0 0.2619 tripo::1_Right_Limb_1 0.6846
+skin 766 tripo::Root 0.0000 tripo::Head_0 0.0577 tripo::0_Left_Limb_0 0.1068 tripo::0_Left_Limb_1 0.8355
+skin 767 tripo::Root 0.0731 tripo::Head_0 0.1198 tripo::0_Left_Limb_0 0.2096 tripo::0_Left_Limb_1 0.5975
+skin 768 tripo::Root 0.0697 tripo::Head_0 0.1313 tripo::0_Left_Limb_0 0.2031 tripo::0_Left_Limb_1 0.5959
+skin 769 tripo::1_Right_Limb_0 0.1881 tripo::1_Right_Limb_1 0.8119
+skin 770 tripo::Head_0 0.0000 tripo::1_Right_Limb_0 0.2071 tripo::1_Right_Limb_1 0.7929
+skin 771 tripo::1_Right_Limb_0 0.2648 tripo::1_Right_Limb_1 0.7352
+skin 772 tripo::1_Right_Limb_0 0.2161 tripo::1_Right_Limb_1 0.7839
+skin 773 tripo::Head_0 0.0000 tripo::1_Right_Limb_0 0.2659 tripo::1_Right_Limb_1 0.7341
+skin 774 tripo::Head_0 0.1337 tripo::0_Right_Limb_0 0.0000 tripo::1_Right_Limb_0 0.3830 tripo::1_Right_Limb_1 0.4833
+skin 775 tripo::Root 0.1284 tripo::Head_0 0.5264 tripo::0_Right_Limb_0 0.3451
+skin 776 tripo::Root 0.3927 tripo::Head_0 0.4935 tripo::1_Left_Limb_0 0.1137
+skin 777 tripo::Root 0.1296 tripo::Head_0 0.5218 tripo::0_Right_Limb_0 0.3485
+skin 778 tripo::Root 0.0758 tripo::Head_0 0.4281 tripo::0_Right_Limb_0 0.4962
+skin 779 tripo::Root 0.0885 tripo::Head_0 0.4511 tripo::0_Right_Limb_0 0.4604
+skin 780 tripo::Root 0.1316 tripo::Head_0 0.5042 tripo::0_Right_Limb_0 0.3059 tripo::1_Right_Limb_1 0.0582
+skin 781 tripo::Root 0.4199 tripo::Head_0 0.1312 tripo::0_Left_Limb_0 0.0660 tripo::1_Left_Limb_0 0.3829
+skin 782 tripo::Root 0.3431 tripo::Head_0 0.2267 tripo::0_Left_Limb_0 0.2068 tripo::1_Left_Limb_0 0.2234
+skin 783 tripo::Root 0.3361 tripo::Head_0 0.2266 tripo::0_Left_Limb_0 0.1982 tripo::1_Left_Limb_0 0.2391
+skin 784 tripo::Root 0.0552 tripo::Head_0 0.1254 tripo::0_Left_Limb_0 0.1885 tripo::0_Left_Limb_1 0.6309
+skin 785 tripo::Root 0.0519 tripo::Head_0 0.1177 tripo::0_Left_Limb_0 0.1883 tripo::0_Left_Limb_1 0.6421
+skin 786 tripo::0_Left_Limb_0 0.1036 tripo::0_Left_Limb_1 0.8964
+skin 787 tripo::Head_0 0.1681 tripo::0_Left_Limb_0 0.1714 tripo::0_Left_Limb_1 0.6605
+skin 788 tripo::0_Left_Limb_0 0.0958 tripo::0_Left_Limb_1 0.9042
+skin 789 tripo::Head_0 0.1169 tripo::0_Right_Limb_0 0.0589 tripo::0_Left_Limb_0 0.1697 tripo::0_Left_Limb_1 0.6545
+skin 790 tripo::0_Left_Limb_0 0.1446 tripo::0_Left_Limb_1 0.8554
+skin 791 tripo::0_Left_Limb_0 0.1042 tripo::0_Left_Limb_1 0.8958
+skin 792 tripo::0_Left_Limb_0 0.0552 tripo::0_Left_Limb_1 0.9448
+skin 793 tripo::Head_0 0.0000 tripo::0_Right_Limb_0 0.0000 tripo::1_Right_Limb_0 0.3131 tripo::1_Right_Limb_1 0.6869
+skin 794 tripo::Root 0.0000 tripo::Head_0 0.0000 tripo::1_Right_Limb_0 0.3153 tripo::1_Right_Limb_1 0.6847
+skin 795 tripo::Head_0 0.3389 tripo::0_Right_Limb_0 0.0951 tripo::1_Right_Limb_0 0.3524 tripo::1_Right_Limb_1 0.2136
+skin 796 tripo::Head_0 0.0554 tripo::1_Right_Limb_0 0.3753 tripo::1_Right_Limb_1 0.5693
+skin 797 tripo::Root 0.0000 tripo::Head_0 0.1948 tripo::1_Right_Limb_0 0.5018 tripo::1_Right_Limb_1 0.3034
+skin 798 tripo::Head_0 0.1020 tripo::1_Right_Limb_0 0.3616 tripo::1_Right_Limb_1 0.5364
+skin 799 tripo::1_Right_Limb_0 0.3774 tripo::1_Right_Limb_1 0.6226
+skin 800 tripo::Root 0.1575 tripo::Head_0 0.3924 tripo::0_Left_Limb_0 0.1484 tripo::0_Left_Limb_1 0.3017
+skin 801 tripo::Head_0 0.0606 tripo::0_Left_Limb_0 0.1732 tripo::0_Left_Limb_1 0.7662
+skin 802 tripo::Head_0 0.0000 tripo::0_Left_Limb_0 0.0811 tripo::0_Left_Limb_1 0.9189
+skin 803 tripo::0_Left_Limb_0 0.0812 tripo::0_Left_Limb_1 0.9188
+skin 804 tripo::Head_0 0.1842 tripo::0_Right_Limb_0 0.1316 tripo::0_Left_Limb_0 0.1202 tripo::0_Left_Limb_1 0.5639
+skin 805 tripo::Head_0 0.1066 tripo::0_Right_Limb_0 0.0521 tripo::0_Left_Limb_0 0.2650 tripo::0_Left_Limb_1 0.5762
+skin 806 tripo::Head_0 0.2309 tripo::0_Right_Limb_0 0.1617 tripo::0_Left_Limb_0 0.1663 tripo::0_Left_Limb_1 0.4411
+skin 807 tripo::Head_0 0.0000 tripo::0_Right_Limb_0 0.0000 tripo::0_Left_Limb_0 0.1102 tripo::0_Left_Limb_1 0.8898
+skin 808 tripo::Root 0.1156 tripo::Head_0 0.5191 tripo::0_Right_Limb_0 0.3654
+skin 809 tripo::Root 0.0591 tripo::1_Left_Limb_0 0.6163 tripo::1_Left_Limb_1 0.3245
+skin 810 tripo::Root 0.2824 tripo::Head_0 0.1425 tripo::1_Right_Limb_0 0.1439 tripo::1_Left_Limb_0 0.4312
+skin 811 tripo::Root 0.3233 tripo::Head_0 0.1560 tripo::1_Right_Limb_0 0.1049 tripo::1_Left_Limb_0 0.4159
+skin 812 tripo::Root 0.3684 tripo::Head_0 0.3472 tripo::1_Right_Limb_0 0.1704 tripo::1_Left_Limb_0 0.1141
+skin 813 tripo::Root 0.1276 tripo::1_Left_Limb_0 0.6344 tripo::1_Left_Limb_1 0.2380
+skin 814 tripo::Root 0.0520 tripo::Head_0 0.1399 tripo::1_Right_Limb_0 0.3277 tripo::1_Right_Limb_1 0.4804
+skin 815 tripo::Root 0.2291 tripo::Head_0 0.3426 tripo::0_Left_Limb_0 0.3317 tripo::1_Left_Limb_0 0.0967
+skin 816 tripo::Root 0.4453 tripo::Head_0 0.1519 tripo::0_Left_Limb_0 0.0785 tripo::1_Left_Limb_0 0.3243
+skin 817 tripo::Root 0.1580 tripo::Head_0 0.0000 tripo::1_Left_Limb_0 0.6192 tripo::1_Left_Limb_1 0.2227
+skin 818 tripo::Root 0.0000 tripo::Head_0 0.0000 tripo::1_Left_Limb_0 0.5161 tripo::1_Left_Limb_1 0.4839
+skin 819 tripo::Root 0.2252 tripo::Head_0 0.2770 tripo::1_Right_Limb_0 0.4308 tripo::1_Left_Limb_0 0.0669
+skin 820 tripo::Root 0.2151 tripo::Head_0 0.3002 tripo::1_Right_Limb_0 0.4315 tripo::1_Left_Limb_0 0.0533
+skin 821 tripo::Root 0.2773 tripo::Head_0 0.2496 tripo::1_Right_Limb_0 0.3491 tripo::1_Left_Limb_0 0.1240
+skin 822 tripo::Root 0.2433 tripo::Head_0 0.2814 tripo::1_Right_Limb_0 0.3891 tripo::1_Left_Limb_0 0.0862
+skin 823 tripo::Root 0.2690 tripo::Head_0 0.2536 tripo::1_Right_Limb_0 0.3606 tripo::1_Left_Limb_0 0.1167
+skin 824 tripo::Root 0.1318 tripo::Head_0 0.1588 tripo::1_Right_Limb_0 0.4076 tripo::1_Right_Limb_1 0.3018
+skin 825 tripo::1_Right_Limb_0 0.2046 tripo::1_Right_Limb_1 0.7954
+skin 826 tripo::1_Right_Limb_0 0.2272 tripo::1_Right_Limb_1 0.7728
+skin 827 tripo::Root 0.0553 tripo::Head_0 0.1966 tripo::1_Right_Limb_0 0.4837 tripo::1_Right_Limb_1 0.2644
+skin 828 tripo::Root 0.0000 tripo::Head_0 0.0000 tripo::1_Right_Limb_0 0.2111 tripo::1_Right_Limb_1 0.7889
+skin 829 tripo::1_Right_Limb_0 0.1941 tripo::1_Right_Limb_1 0.8059
+skin 830 tripo::Root 0.0858 tripo::Head_0 0.5279 tripo::1_Right_Limb_0 0.2819 tripo::1_Right_Limb_1 0.1044
+skin 831 tripo::1_Right_Limb_0 0.2070 tripo::1_Right_Limb_1 0.7930
+skin 832 tripo::Root 0.0568 tripo::Head_0 0.3908 tripo::0_Right_Limb_0 0.5524 bone_10 0.0000
+skin 833 tripo::Head_0 0.0631 tripo::0_Left_Limb_0 0.2120 tripo::0_Left_Limb_1 0.7248
+skin 834 tripo::Root 0.0000 tripo::Head_0 0.0000 tripo::0_Left_Limb_0 0.1787 tripo::0_Left_Limb_1 0.8213
+skin 835 tripo::Root 0.0643 tripo::Head_0 0.3603 tripo::0_Left_Limb_0 0.3182 tripo::0_Left_Limb_1 0.2571
+skin 836 tripo::Head_0 0.1021 tripo::1_Right_Limb_0 0.3135 tripo::1_Right_Limb_1 0.5843
+skin 837 tripo::1_Left_Limb_0 0.4563 tripo::1_Left_Limb_1 0.5437
+skin 838 tripo::Root 0.0717 tripo::1_Left_Limb_0 0.4975 tripo::1_Left_Limb_1 0.4308
+skin 839 tripo::Root 0.5329 tripo::Head_0 0.1524 tripo::1_Left_Limb_0 0.3147
+skin 840 tripo::Root 0.2001 tripo::1_Left_Limb_0 0.6233 tripo::1_Left_Limb_1 0.1767
+skin 841 tripo::Root 0.0789 tripo::1_Left_Limb_0 0.6530 tripo::1_Left_Limb_1 0.2681
+skin 842 tripo::Root 0.2408 tripo::1_Left_Limb_0 0.6194 tripo::1_Left_Limb_1 0.1399
+skin 843 tripo::Head_0 0.1634 tripo::0_Left_Limb_0 0.2230 tripo::0_Left_Limb_1 0.6136
+skin 844 tripo::0_Left_Limb_0 0.1233 tripo::0_Left_Limb_1 0.8767
+skin 845 tripo::0_Left_Limb_0 0.1246 tripo::0_Left_Limb_1 0.8754
+skin 846 tripo::Head_0 0.1733 tripo::0_Right_Limb_0 0.0523 tripo::0_Left_Limb_0 0.1826 tripo::0_Left_Limb_1 0.5918
+skin 847 tripo::Head_0 0.5274 tripo::0_Right_Limb_0 0.1459 tripo::0_Left_Limb_0 0.2119 tripo::0_Left_Limb_1 0.1147
+skin 848 tripo::Head_0 0.2122 tripo::0_Right_Limb_0 0.2249 bone_14 0.1558 bone_15 0.4070
+skin 849 tripo::Head_0 0.2211 tripo::0_Right_Limb_0 0.2293 bone_14 0.1515 bone_15 0.3981
+skin 850 tripo::Head_0 0.1819 tripo::0_Right_Limb_0 0.1285 tripo::0_Left_Limb_0 0.1503 tripo::0_Left_Limb_1 0.5393
+skin 851 tripo::Root 0.2494 tripo::Head_0 0.2582 tripo::1_Right_Limb_0 0.3987 tripo::1_Left_Limb_0 0.0937
+skin 852 tripo::Root 0.2688 tripo::Head_0 0.2537 tripo::1_Right_Limb_0 0.3609 tripo::1_Left_Limb_0 0.1165
+skin 853 tripo::Root 0.0719 tripo::Head_0 0.0976 tripo::1_Right_Limb_0 0.3866 tripo::1_Right_Limb_1 0.4439
+skin 854 tripo::Root 0.0659 tripo::Head_0 0.4165 tripo::0_Right_Limb_0 0.5176
+skin 855 tripo::Root 0.0602 tripo::Head_0 0.4062 tripo::0_Right_Limb_0 0.5336
+skin 856 tripo::Head_0 0.4127 tripo::0_Right_Limb_0 0.5196 bone_15 0.0677
+skin 857 tripo::Root 0.1305 tripo::Head_0 0.5232 tripo::0_Right_Limb_0 0.2091 tripo::0_Left_Limb_1 0.1372
+skin 858 tripo::Head_0 0.3960 tripo::0_Right_Limb_0 0.5303 bone_15 0.0737
+skin 859 tripo::Head_0 0.1674 tripo::0_Right_Limb_0 0.2804 bone_14 0.1529 bone_15 0.3993
+skin 860 tripo::Root 0.0553 tripo::Head_0 0.3969 tripo::0_Right_Limb_0 0.5478
+skin 861 tripo::Head_0 0.3486 tripo::0_Right_Limb_0 0.6514
+skin 862 tripo::Root 0.0832 tripo::Head_0 0.3882 tripo::1_Right_Limb_0 0.3851 tripo::1_Right_Limb_1 0.1434
+skin 863 tripo::Root 0.0870 tripo::Head_0 0.4223 tripo::1_Right_Limb_0 0.3592 tripo::1_Right_Limb_1 0.1314
+skin 864 tripo::Head_0 0.4822 tripo::0_Right_Limb_0 0.1180 tripo::1_Right_Limb_0 0.2666 tripo::1_Right_Limb_1 0.1332
+skin 865 tripo::Head_0 0.3818 tripo::0_Right_Limb_0 0.2355 tripo::0_Left_Limb_0 0.1641 tripo::0_Left_Limb_1 0.2185
+skin 866 tripo::Head_0 0.0612 tripo::0_Right_Limb_0 0.0000 tripo::0_Left_Limb_0 0.1759 tripo::0_Left_Limb_1 0.7629
+skin 867 tripo::Head_0 0.3349 tripo::0_Right_Limb_0 0.6651
+skin 868 tripo::Head_0 0.3033 tripo::0_Right_Limb_0 0.6967
+skin 869 tripo::Root 0.0698 tripo::Head_0 0.4171 tripo::0_Right_Limb_0 0.5131
+skin 870 tripo::Root 0.1165 tripo::Head_0 0.3741 tripo::1_Right_Limb_0 0.3411 tripo::1_Right_Limb_1 0.1684
+skin 871 tripo::Head_0 0.3079 tripo::0_Right_Limb_0 0.4224 bone_8 0.1050 bone_10 0.1646
+skin 872 tripo::Root 0.3230 tripo::Head_0 0.2315 tripo::1_Right_Limb_0 0.2710 tripo::1_Left_Limb_0 0.1746
+skin 873 tripo::Root 0.3328 tripo::Head_0 0.2026 tripo::1_Right_Limb_0 0.2398 tripo::1_Left_Limb_0 0.2249
+skin 874 tripo::Root 0.1155 tripo::Head_0 0.3135 tripo::1_Right_Limb_0 0.2807 tripo::1_Right_Limb_1 0.2904
+skin 875 tripo::Root 0.1173 tripo::Head_0 0.3403 tripo::1_Right_Limb_0 0.3297 tripo::1_Right_Limb_1 0.2128
+skin 876 tripo::Root 0.0966 tripo::Head_0 0.1946 tripo::1_Right_Limb_0 0.3284 tripo::1_Right_Limb_1 0.3804
+skin 877 tripo::Head_0 0.4042 tripo::0_Right_Limb_0 0.3565 tripo::0_Left_Limb_0 0.1079 tripo::0_Left_Limb_1 0.1314
+skin 878 tripo::Root 0.4424 tripo::Head_0 0.3529 tripo::1_Left_Limb_0 0.2047
+skin 879 tripo::Root 0.4534 tripo::Head_0 0.1172 tripo::1_Left_Limb_0 0.4294
+skin 880 tripo::Root 0.3614 tripo::Head_0 0.6386
+skin 881 tripo::Root 0.4831 tripo::Head_0 0.1340 tripo::1_Left_Limb_0 0.3829
+skin 882 tripo::Root 0.3602 tripo::Head_0 0.1725 tripo::0_Left_Limb_0 0.0932 tripo::1_Left_Limb_0 0.3742
+skin 883 tripo::Root 0.0984 tripo::Head_0 0.3600 tripo::1_Right_Limb_0 0.3833 tripo::1_Right_Limb_1 0.1582
+skin 884 tripo::Root 0.0521 tripo::Head_0 0.2389 tripo::1_Right_Limb_0 0.3586 tripo::1_Right_Limb_1 0.3505
+skin 885 tripo::Head_0 0.0000 tripo::0_Right_Limb_0 0.0000 tripo::1_Right_Limb_0 0.2349 tripo::1_Right_Limb_1 0.7651
+skin 886 tripo::Head_0 0.5002 tripo::0_Right_Limb_0 0.1438 tripo::0_Left_Limb_0 0.1985 tripo::0_Left_Limb_1 0.1574
+skin 887 tripo::Head_0 0.0000 tripo::0_Right_Limb_0 0.0000 tripo::0_Left_Limb_0 0.1127 tripo::0_Left_Limb_1 0.8873
+skin 888 tripo::Head_0 0.4093 tripo::0_Right_Limb_0 0.2535 tripo::0_Left_Limb_0 0.1492 tripo::0_Left_Limb_1 0.1880
+skin 889 tripo::Root 0.1501 tripo::Head_0 0.2817 tripo::0_Left_Limb_0 0.4237 tripo::0_Left_Limb_1 0.1444
+skin 890 tripo::Root 0.0841 tripo::Head_0 0.2235 tripo::0_Left_Limb_0 0.3891 tripo::0_Left_Limb_1 0.3034
+skin 891 tripo::Root 0.1003 tripo::Head_0 0.4241 tripo::1_Right_Limb_0 0.4757 tripo::1_Right_Limb_1 0.0000
+skin 892 tripo::Root 0.0866 tripo::Head_0 0.2684 tripo::1_Right_Limb_0 0.4631 tripo::1_Right_Limb_1 0.1819
+skin 893 tripo::Root 0.1060 tripo::Head_0 0.4827 tripo::1_Right_Limb_0 0.4113 tripo::1_Right_Limb_1 0.0000
+skin 894 tripo::Root 0.2291 tripo::Head_0 0.2882 tripo::1_Right_Limb_0 0.4166 tripo::1_Left_Limb_0 0.0660
+skin 895 tripo::Root 0.0973 tripo::Head_0 0.2828 tripo::1_Right_Limb_0 0.4928 tripo::1_Right_Limb_1 0.1272
+skin 896 tripo::Root 0.1172 tripo::Head_0 0.0000 tripo::1_Left_Limb_0 0.6453 tripo::1_Left_Limb_1 0.2375
+skin 897 tripo::Root 0.1396 tripo::Head_0 0.0000 tripo::1_Left_Limb_0 0.6279 tripo::1_Left_Limb_1 0.2326
+skin 898 tripo::1_Left_Limb_0 0.4956 tripo::1_Left_Limb_1 0.5044
+skin 899 tripo::Root 0.2049 tripo::Head_0 0.2816 tripo::0_Left_Limb_0 0.4255 tripo::1_Left_Limb_0 0.0879
+skin 900 tripo::Root 0.1545 tripo::Head_0 0.2725 tripo::0_Left_Limb_0 0.3843 tripo::0_Left_Limb_1 0.1887
+skin 901 tripo::Root 0.2874 tripo::Head_0 0.2688 tripo::0_Left_Limb_0 0.2915 tripo::1_Left_Limb_0 0.1524
+skin 902 tripo::Root 0.3823 tripo::Head_0 0.1972 tripo::0_Left_Limb_0 0.1625 tripo::1_Left_Limb_0 0.2581
+skin 903 tripo::Root 0.3424 tripo::Head_0 0.2129 tripo::0_Left_Limb_0 0.2249 tripo::1_Left_Limb_0 0.2198
+skin 904 tripo::Root 0.1860 tripo::Head_0 0.3196 tripo::0_Left_Limb_0 0.4945
+skin 905 tripo::Root 0.0605 tripo::Head_0 0.3143 tripo::0_Left_Limb_0 0.6252
+skin 906 tripo::Root 0.3895 tripo::Head_0 0.1988 tripo::0_Left_Limb_0 0.1527 tripo::1_Left_Limb_0 0.2590
+skin 907 tripo::Root 0.0900 tripo::Head_0 0.5288 tripo::1_Right_Limb_0 0.2965 tripo::1_Right_Limb_1 0.0847
+skin 908 tripo::Root 0.4369 tripo::Head_0 0.1563 tripo::0_Left_Limb_0 0.0820 tripo::1_Left_Limb_0 0.3248
+skin 909 tripo::Root 0.2516 tripo::1_Left_Limb_0 0.6153 tripo::1_Left_Limb_1 0.1331
+skin 910 tripo::Root 0.2510 tripo::1_Left_Limb_0 0.6157 tripo::1_Left_Limb_1 0.1333
+skin 911 tripo::Root 0.0823 tripo::1_Left_Limb_0 0.6609 tripo::1_Left_Limb_1 0.2568
+skin 912 tripo::Head_0 0.2946 tripo::0_Right_Limb_0 0.6060 bone_10 0.0995
+skin 913 tripo::Root 0.0908 tripo::Head_0 0.5484 tripo::1_Right_Limb_0 0.2790 tripo::1_Right_Limb_1 0.0818
+skin 914 tripo::Root 0.0685 tripo::Head_0 0.4290 tripo::1_Right_Limb_0 0.2787 tripo::1_Right_Limb_1 0.2238
+skin 915 tripo::Root 0.0779 tripo::Head_0 0.7187 tripo::0_Right_Limb_0 0.0733 tripo::1_Right_Limb_0 0.1301
+skin 916 tripo::Root 0.0924 tripo::Head_0 0.5661 tripo::1_Right_Limb_0 0.2811 tripo::1_Right_Limb_1 0.0604
+skin 917 tripo::Root 0.0000 tripo::Head_0 0.2234 tripo::1_Right_Limb_0 0.3908 tripo::1_Right_Limb_1 0.3858
+skin 918 tripo::Root 0.0796 tripo::Head_0 0.6521 tripo::0_Right_Limb_0 0.0000 tripo::0_Left_Limb_0 0.2683
+skin 919 tripo::Root 0.0823 tripo::Head_0 0.4540 tripo::0_Left_Limb_0 0.3443 tripo::0_Left_Limb_1 0.1195
+skin 920 tripo::Root 0.0775 tripo::Head_0 0.5130 tripo::0_Right_Limb_0 0.2406 tripo::1_Right_Limb_0 0.1689
+skin 921 tripo::Root 0.0775 tripo::Head_0 0.5130 tripo::0_Right_Limb_0 0.2408 tripo::1_Right_Limb_0 0.1687
+skin 922 tripo::Head_0 0.4321 tripo::0_Right_Limb_0 0.2816 bone_10 0.1689 tripo::1_Right_Limb_0 0.1174
+skin 923 tripo::Root 0.0000 tripo::Head_0 0.2095 tripo::1_Right_Limb_0 0.4872 tripo::1_Right_Limb_1 0.3033
+skin 924 tripo::Head_0 0.3637 tripo::0_Right_Limb_0 0.4363 bone_8 0.0746 bone_10 0.1255
+skin 925 tripo::Head_0 0.1183 tripo::0_Right_Limb_0 0.1676 bone_9 0.1637 bone_10 0.5504
+skin 926 tripo::Head_0 0.3032 tripo::0_Right_Limb_0 0.3350 bone_8 0.0638 bone_10 0.2981
+skin 927 tripo::Head_0 0.2134 tripo::0_Right_Limb_0 0.1258 tripo::0_Left_Limb_0 0.2283 tripo::0_Left_Limb_1 0.4325
+skin 928 tripo::Head_0 0.1761 tripo::0_Right_Limb_0 0.0872 tripo::0_Left_Limb_0 0.2419 tripo::0_Left_Limb_1 0.4948
+skin 929 tripo::Head_0 0.3266 tripo::0_Right_Limb_0 0.4487 bone_15 0.2248
+skin 930 tripo::Root 0.0897 tripo::Head_0 0.0000 tripo::1_Left_Limb_0 0.6777 tripo::1_Left_Limb_1 0.2326
+skin 931 tripo::Root 0.3134 tripo::1_Left_Limb_0 0.5815 tripo::1_Left_Limb_1 0.1051
+skin 932 tripo::Head_0 0.0986 tripo::0_Right_Limb_0 0.2863 bone_14 0.2308 bone_15 0.3844
+skin 933 tripo::Head_0 0.1730 tripo::0_Right_Limb_0 0.2705 bone_14 0.1541 bone_15 0.4024
+skin 934 tripo::Head_0 0.3618 tripo::0_Right_Limb_0 0.5668 bone_15 0.0714
+skin 935 tripo::0_Right_Limb_0 0.4655 bone_8 0.1108 bone_9 0.1288 bone_10 0.2949
+skin 936 tripo::Head_0 0.3821 tripo::0_Right_Limb_0 0.6179 bone_9 0.0000 bone_10 0.0000
+skin 937 tripo::Head_0 0.2257 tripo::0_Right_Limb_0 0.7743 bone_9 0.0000 bone_10 0.0000
+skin 938 tripo::0_Right_Limb_0 0.3580 bone_8 0.1173 bone_9 0.1735 bone_10 0.3512
+skin 939 tripo::Head_0 0.1109 tripo::0_Right_Limb_0 0.6656 bone_14 0.0709 bone_15 0.1527
+skin 940 tripo::0_Right_Limb_0 0.5458 bone_14 0.1368 bone_15 0.2336 bone_18 0.0838
+skin 941 tripo::Head_0 0.2836 tripo::0_Right_Limb_0 0.7164
+skin 942 tripo::Root 0.0547 tripo::Head_0 0.7398 tripo::0_Right_Limb_0 0.0706 tripo::0_Left_Limb_0 0.1350
+skin 943 tripo::Head_0 0.6136 tripo::0_Right_Limb_0 0.2962 tripo::0_Left_Limb_0 0.0903
+skin 944 tripo::Root 0.0596 tripo::Head_0 0.5635 tripo::0_Right_Limb_0 0.1426 tripo::0_Left_Limb_0 0.2343
+skin 945 tripo::Head_0 0.5130 tripo::0_Right_Limb_0 0.0695 tripo::0_Left_Limb_0 0.2303 tripo::0_Left_Limb_1 0.1873
+skin 946 tripo::Head_0 0.3000 tripo::0_Right_Limb_0 0.4551 bone_8 0.1067 bone_10 0.1382
+skin 947 tripo::Head_0 0.3321 tripo::0_Right_Limb_0 0.5218 bone_8 0.0731 bone_10 0.0730
+skin 948 tripo::Head_0 0.4306 tripo::0_Right_Limb_0 0.4896 bone_8 0.0000 bone_10 0.0798
+skin 949 bone_11 0.3630 bone_12 0.6370
+skin 950 bone_11 0.2870 bone_12 0.7130
+skin 951 bone_11 0.5370 bone_12 0.4630
+skin 952 bone_11 0.7315 bone_12 0.2685
+skin 953 tripo::Root 0.2277 tripo::Head_0 0.4090 tripo::1_Right_Limb_0 0.2988 tripo::1_Left_Limb_0 0.0645
+skin 954 tripo::Root 0.1679 tripo::Head_0 0.3564 tripo::1_Right_Limb_0 0.4758
+skin 955 tripo::Root 0.2423 tripo::Head_0 0.3415 tripo::1_Right_Limb_0 0.2943 tripo::1_Left_Limb_0 0.1219
+skin 956 tripo::Root 0.4091 tripo::Head_0 0.4579 tripo::1_Right_Limb_0 0.0817 tripo::1_Left_Limb_0 0.0513
+skin 957 tripo::Root 0.3627 tripo::Head_0 0.0000 tripo::1_Left_Limb_0 0.5418 tripo::1_Left_Limb_1 0.0954
+skin 958 tripo::Root 0.4781 tripo::1_Left_Limb_0 0.4609 tripo::1_Left_Limb_1 0.0610
+skin 959 bone_16 0.7261 bone_17 0.2739
+skin 960 bone_16 0.7077 bone_17 0.2923
+skin 961 bone_10 0.0701 bone_11 0.7905 bone_12 0.1393
+skin 962 bone_11 0.5423 bone_12 0.4577
+skin 963 bone_10 0.0688 bone_11 0.7554 bone_12 0.1758
+skin 964 bone_10 0.1767 bone_11 0.7644 bone_12 0.0589
+skin 965 bone_16 0.6983 bone_17 0.3017
+skin 966 bone_16 0.8263 bone_17 0.1737
+skin 967 bone_15 0.0000 bone_16 0.6820 bone_17 0.3180
+skin 968 bone_16 0.8860 bone_17 0.1140
+skin 969 tripo::Root 0.2139 tripo::Head_0 0.2935 tripo::1_Right_Limb_0 0.4405 tripo::1_Left_Limb_0 0.0521
+skin 970 tripo::Root 0.1278 tripo::Head_0 0.3887 tripo::1_Right_Limb_0 0.4835
+skin 971 bone_11 0.2751 bone_12 0.7249
+skin 972 bone_11 0.5369 bone_12 0.4631
+skin 973 bone_11 0.2751 bone_12 0.7249
+skin 974 bone_11 0.3975 bone_12 0.6025
+skin 975 bone_11 0.6565 bone_12 0.3435
+skin 976 bone_10 0.0000 bone_11 0.3797 bone_12 0.6203
+skin 977 bone_11 0.4859 bone_12 0.5141
+skin 978 bone_11 0.2631 bone_12 0.7369
+skin 979 bone_10 0.0000 bone_11 0.4611 bone_12 0.5389
+skin 980 bone_11 0.4338 bone_12 0.5662
+skin 981 bone_11 0.3380 bone_12 0.6620
+skin 982 bone_16 0.3555 bone_17 0.6445
+skin 983 bone_16 0.7177 bone_17 0.2823
+skin 984 bone_16 0.7077 bone_17 0.2923
+skin 985 bone_15 0.0882 bone_16 0.8253 bone_17 0.0865
+skin 986 bone_16 0.7668 bone_17 0.2332
+skin 987 bone_16 0.7783 bone_17 0.2217
+skin 988 bone_16 0.8050 bone_17 0.1950
+skin 989 bone_16 0.3065 bone_17 0.6935
+skin 990 bone_16 0.3537 bone_17 0.6463
+skin 991 bone_16 0.2761 bone_17 0.7239
+skin 992 bone_16 0.5622 bone_17 0.4378
+skin 993 bone_16 0.8475 bone_17 0.1525
+skin 994 tripo::Root 0.0747 tripo::Head_0 0.7323 tripo::0_Right_Limb_0 0.0832 tripo::1_Right_Limb_0 0.1098
+skin 995 tripo::Root 0.1172 tripo::Head_0 0.5229 tripo::0_Right_Limb_0 0.0000 tripo::1_Right_Limb_0 0.3599
+skin 996 bone_11 0.2157 bone_12 0.7843
+skin 997 bone_11 0.2214 bone_12 0.7786
+skin 998 bone_11 0.5489 bone_12 0.4511
+skin 999 bone_11 0.2211 bone_12 0.7789
+skin 1000 bone_11 0.2917 bone_12 0.7083
+skin 1001 bone_10 0.0850 bone_11 0.5144 bone_12 0.4006
+skin 1002 bone_16 0.3835 bone_17 0.6165
+skin 1003 bone_16 0.3539 bone_17 0.6461
+skin 1004 bone_16 0.6126 bone_17 0.3874
+skin 1005 bone_16 0.3400 bone_17 0.6600
+skin 1006 tripo::Root 0.4450 tripo::Head_0 0.1524 tripo::0_Left_Limb_0 0.0789 tripo::1_Left_Limb_0 0.3237
+skin 1007 tripo::Root 0.0781 tripo::Head_0 0.3573 tripo::0_Left_Limb_0 0.5646
+skin 1008 tripo::Head_0 0.3467 tripo::0_Left_Limb_0 0.6533
+skin 1009 tripo::Root 0.0649 tripo::Head_0 0.6961 tripo::0_Left_Limb_0 0.2390
+skin 1010 tripo::Root 0.0832 tripo::Head_0 0.3635 tripo::0_Left_Limb_0 0.4336 tripo::0_Left_Limb_1 0.1197
+skin 1011 tripo::Root 0.0543 tripo::Head_0 0.7750 tripo::0_Right_Limb_0 0.0567 tripo::0_Left_Limb_0 0.1140
+skin 1012 bone_11 0.4383 bone_12 0.5617
+skin 1013 tripo::Head_0 0.3439 tripo::0_Right_Limb_0 0.4386 bone_8 0.0788 bone_10 0.1387
+skin 1014 tripo::0_Right_Limb_0 0.4313 bone_8 0.1023 bone_9 0.1577 bone_10 0.3086
+skin 1015 tripo::0_Right_Limb_0 0.0759 bone_8 0.0900 bone_9 0.4209 bone_10 0.4132
+skin 1016 tripo::0_Right_Limb_0 0.4489 bone_8 0.1158 bone_9 0.1321 bone_10 0.3032
+skin 1017 tripo::0_Right_Limb_0 0.0690 bone_14 0.2367 bone_15 0.6943
+skin 1018 tripo::0_Right_Limb_0 0.0655 bone_13 0.0752 bone_14 0.2026 bone_15 0.6567
+skin 1019 tripo::0_Right_Limb_0 0.0667 bone_14 0.2376 bone_15 0.6957
+skin 1020 bone_15 0.0890 bone_16 0.8085 bone_17 0.1025
+skin 1021 bone_15 0.0000 bone_16 0.7180 bone_17 0.2820
+skin 1022 bone_16 0.5524 bone_17 0.4476
+skin 1023 bone_11 0.5983 bone_12 0.4017
+skin 1024 bone_11 0.2211 bone_12 0.7789
+skin 1025 bone_15 0.0613 bone_16 0.8625 bone_17 0.0761
+skin 1026 bone_15 0.1470 bone_16 0.8530 bone_17 0.0000
+skin 1027 bone_14 0.0000 bone_15 0.1026 bone_16 0.8402 bone_17 0.0572
+skin 1028 tripo::Root 0.0826 tripo::Head_0 0.7172 tripo::0_Right_Limb_0 0.0759 tripo::1_Right_Limb_0 0.1242
+skin 1029 tripo::Root 0.0733 tripo::Head_0 0.3040 tripo::1_Right_Limb_0 0.4269 tripo::1_Right_Limb_1 0.1958
+skin 1030 tripo::Head_0 0.7390 tripo::0_Right_Limb_0 0.2610
+skin 1031 tripo::Head_0 0.7196 tripo::0_Right_Limb_0 0.2804
+skin 1032 bone_11 0.3970 bone_12 0.6030
+skin 1033 bone_11 0.2249 bone_12 0.7751
+skin 1034 bone_10 0.2591 bone_11 0.6165 bone_12 0.1244
+skin 1035 bone_10 0.1186 bone_11 0.8056 bone_12 0.0758
+skin 1036 bone_10 0.0000 bone_11 0.5661 bone_12 0.4339
+skin 1037 bone_16 0.5618 bone_17 0.4382
+skin 1038 bone_14 0.0876 bone_15 0.6978 bone_16 0.2146
+skin 1039 bone_15 0.3078 bone_16 0.6922 bone_17 0.0000
+skin 1040 tripo::Root 0.5930 tripo::Head_0 0.1741 tripo::1_Left_Limb_0 0.2328 tripo::1_Left_Limb_1 0.0000
+skin 1041 tripo::Root 0.5229 tripo::Head_0 0.3786 tripo::1_Left_Limb_0 0.0986
+skin 1042 tripo::Root 0.5125 tripo::Head_0 0.4875
+skin 1043 tripo::Root 0.3298 tripo::Head_0 0.3199 tripo::1_Right_Limb_0 0.2029 tripo::1_Left_Limb_0 0.1474
+skin 1044 tripo::Root 0.0785 tripo::Head_0 0.7590 tripo::1_Right_Limb_0 0.1625
+skin 1045 tripo::Root 0.2432 tripo::Head_0 0.6923 tripo::1_Right_Limb_0 0.0645
+skin 1046 tripo::Root 0.3530 tripo::Head_0 0.5154 tripo::1_Right_Limb_0 0.1316
+skin 1047 tripo::Root 0.4107 tripo::Head_0 0.2066 tripo::1_Right_Limb_0 0.1495 tripo::1_Left_Limb_0 0.2332
+skin 1048 tripo::0_Right_Limb_0 0.0655 bone_13 0.0921 bone_14 0.3547 bone_15 0.4877
+skin 1049 tripo::0_Right_Limb_0 0.0810 bone_13 0.0864 bone_14 0.3073 bone_15 0.5253
+skin 1050 tripo::0_Right_Limb_0 0.2214 bone_13 0.1127 bone_14 0.2467 bone_15 0.4193
+skin 1051 bone_15 0.5394 bone_16 0.4606
+skin 1052 bone_15 0.3342 bone_16 0.6658
+skin 1053 bone_15 0.0000 bone_16 0.3719 bone_17 0.6281
+skin 1054 bone_16 0.4851 bone_17 0.5149
+skin 1055 bone_10 0.1679 bone_11 0.7770 bone_12 0.0551
+skin 1056 bone_9 0.0533 bone_10 0.7907 bone_11 0.1560
+skin 1057 bone_10 0.1649 bone_11 0.7509 bone_12 0.0842
+skin 1058 bone_10 0.5947 bone_11 0.4053 bone_12 0.0000
+skin 1059 bone_10 0.3605 bone_11 0.6395 bone_12 0.0000
+skin 1060 bone_10 0.0560 bone_11 0.7699 bone_12 0.1741
+skin 1061 bone_15 0.1950 bone_16 0.8050
+skin 1062 bone_15 0.2086 bone_16 0.7914
+skin 1063 bone_15 0.1495 bone_16 0.8505
+skin 1064 bone_15 0.1855 bone_16 0.8145 bone_17 0.0000
+skin 1065 bone_15 0.1483 bone_16 0.8517 bone_17 0.0000
+skin 1066 bone_15 0.1450 bone_16 0.7979 bone_17 0.0571
+skin 1067 tripo::Root 0.1776 tripo::Head_0 0.7119 tripo::0_Left_Limb_0 0.1105
+skin 1068 tripo::Root 0.4737 tripo::Head_0 0.2336 tripo::0_Left_Limb_0 0.0000 tripo::1_Left_Limb_0 0.2926
+skin 1069 tripo::Root 0.1235 tripo::Head_0 0.7155 tripo::0_Left_Limb_0 0.1610
+skin 1070 tripo::Head_0 0.6411 tripo::0_Right_Limb_0 0.3008 tripo::0_Left_Limb_0 0.0581
+skin 1071 tripo::Head_0 0.6033 tripo::0_Right_Limb_0 0.3207 tripo::0_Left_Limb_0 0.0760
+skin 1072 bone_10 0.1708 bone_11 0.7733 bone_12 0.0559
+skin 1073 tripo::0_Right_Limb_0 0.5428 bone_14 0.1559 bone_15 0.2143 bone_18 0.0870
+skin 1074 tripo::0_Right_Limb_0 0.6687 tripo::0_Right_Limb_1 0.1096 bone_15 0.0940 bone_18 0.1276
+skin 1075 tripo::0_Right_Limb_0 0.5876 bone_8 0.0920 bone_9 0.1331 bone_10 0.1872
+skin 1076 tripo::0_Right_Limb_0 0.4962 bone_8 0.1613 bone_9 0.2024 bone_10 0.1401
+skin 1077 tripo::0_Right_Limb_0 0.4322 bone_8 0.1023 bone_9 0.1573 bone_10 0.3082
+skin 1078 tripo::Head_0 0.0957 tripo::0_Right_Limb_0 0.6392 bone_14 0.1036 bone_15 0.1615
+skin 1079 bone_10 0.1393 bone_11 0.7570 bone_12 0.1038
+skin 1080 bone_10 0.4190 bone_11 0.5226 bone_12 0.0584
+skin 1081 bone_15 0.3386 bone_16 0.6614 bone_17 0.0000
+skin 1082 bone_13 0.0678 bone_14 0.4420 bone_15 0.4902 bone_16 0.0000
+skin 1083 bone_13 0.0000 bone_14 0.1528 bone_15 0.7289 bone_16 0.1183
+skin 1084 tripo::Root 0.0561 tripo::Head_0 0.6161 tripo::0_Left_Limb_0 0.3278
+skin 1085 tripo::0_Right_Limb_0 0.0720 bone_8 0.2930 bone_9 0.4431 bone_10 0.1919
+skin 1086 tripo::Root 0.1176 tripo::Head_0 0.4372 tripo::1_Right_Limb_0 0.3904 tripo::1_Right_Limb_1 0.0548
+skin 1087 tripo::Root 0.1082 tripo::Head_0 0.7168 tripo::1_Right_Limb_0 0.1750
+skin 1088 bone_9 0.3498 bone_10 0.6502 bone_11 0.0000
+skin 1089 bone_10 0.6532 bone_11 0.3468 bone_12 0.0000
+skin 1090 tripo::0_Right_Limb_0 0.0000 bone_13 0.0602 bone_14 0.2450 bone_15 0.6947
+skin 1091 bone_14 0.2881 bone_15 0.7119
+skin 1092 bone_14 0.4189 bone_15 0.5811
+skin 1093 bone_14 0.2055 bone_15 0.6888 bone_16 0.1058
+skin 1094 bone_14 0.1621 bone_15 0.7411 bone_16 0.0967
+skin 1095 bone_14 0.3540 bone_15 0.6460 bone_16 0.0000
+skin 1096 tripo::Head_0 0.3966 tripo::0_Right_Limb_0 0.0000 tripo::0_Left_Limb_0 0.6034
+skin 1097 tripo::Head_0 0.3854 tripo::0_Left_Limb_0 0.6146
+skin 1098 tripo::Head_0 0.7502 tripo::0_Left_Limb_0 0.2498
+skin 1099 tripo::Root 0.0521 tripo::Head_0 0.4019 tripo::0_Left_Limb_0 0.5460
+skin 1100 bone_10 0.8044 bone_11 0.1956 bone_12 0.0000
+skin 1101 bone_10 0.4218 bone_11 0.4971 bone_12 0.0811
+skin 1102 bone_9 0.2023 bone_10 0.7041 bone_11 0.0935 bone_12 0.0000
+skin 1103 bone_9 0.0780 bone_10 0.8183 bone_11 0.1037 bone_12 0.0000
+skin 1104 bone_10 0.2639 bone_11 0.6475 bone_12 0.0886
+skin 1105 bone_9 0.0000 bone_10 0.6202 bone_11 0.3798
+skin 1106 bone_9 0.4817 bone_10 0.5183 bone_11 0.0000
+skin 1107 bone_10 0.3436 bone_11 0.6564
+skin 1108 bone_10 0.3369 bone_11 0.6631
+skin 1109 bone_10 0.3031 bone_11 0.6969
+skin 1110 tripo::Root 0.5161 tripo::Head_0 0.3842 tripo::1_Left_Limb_0 0.0996
+skin 1111 tripo::Root 0.5975 tripo::Head_0 0.0694 tripo::1_Left_Limb_0 0.3331
+skin 1112 tripo::Root 0.6069 tripo::Head_0 0.1966 tripo::1_Left_Limb_0 0.1965
+skin 1113 tripo::Root 0.5844 tripo::Head_0 0.2320 tripo::1_Left_Limb_0 0.1836
+skin 1114 tripo::Root 0.5019 tripo::Head_0 0.4361 tripo::1_Left_Limb_0 0.0619
+skin 1115 bone_15 0.2741 bone_16 0.7259
+skin 1116 bone_15 0.2698 bone_16 0.7302
+skin 1117 bone_15 0.2945 bone_16 0.7055
+skin 1118 bone_14 0.1199 bone_15 0.5964 bone_16 0.2837
+skin 1119 bone_14 0.0000 bone_15 0.4112 bone_16 0.5888
+skin 1120 bone_14 0.0000 bone_15 0.3981 bone_16 0.6019
+skin 1121 bone_15 0.2804 bone_16 0.7196
+skin 1122 bone_15 0.2469 bone_16 0.7531
+skin 1123 bone_15 0.2698 bone_16 0.7302
+skin 1124 bone_14 0.0888 bone_15 0.7201 bone_16 0.1911
+skin 1125 bone_14 0.0565 bone_15 0.5114 bone_16 0.4322
+skin 1126 bone_10 0.2662 bone_11 0.6800 bone_12 0.0539
+skin 1127 bone_10 0.2662 bone_11 0.6800 bone_12 0.0539
+skin 1128 bone_10 0.3412 bone_11 0.6588 bone_12 0.0000
+skin 1129 bone_14 0.1193 bone_15 0.7232 bone_16 0.1575
+skin 1130 bone_10 0.1919 bone_11 0.7280 bone_12 0.0802
+skin 1131 bone_10 0.2333 bone_11 0.7051 bone_12 0.0616
+skin 1132 bone_9 0.0584 bone_10 0.7856 bone_11 0.1560
+skin 1133 bone_10 0.6546 bone_11 0.3454 bone_12 0.0000
+skin 1134 bone_9 0.0000 bone_10 0.5339 bone_11 0.4016 bone_12 0.0645
+skin 1135 tripo::0_Right_Limb_0 0.1475 bone_8 0.0879 bone_9 0.3602 bone_10 0.4045
+skin 1136 tripo::Head_0 0.2344 tripo::0_Right_Limb_0 0.3629 bone_8 0.1332 bone_10 0.2695
+skin 1137 tripo::0_Right_Limb_0 0.3429 bone_13 0.0779 bone_14 0.2334 bone_15 0.3458
+skin 1138 tripo::0_Right_Limb_0 0.1702 bone_13 0.1141 bone_14 0.2667 bone_15 0.4489
+skin 1139 tripo::0_Right_Limb_0 0.0000 bone_13 0.1278 bone_14 0.4970 bone_15 0.3751
+skin 1140 tripo::0_Right_Limb_0 0.3065 bone_13 0.1061 bone_14 0.2306 bone_15 0.3568
+skin 1141 bone_14 0.1891 bone_15 0.7504 bone_16 0.0605
+skin 1142 bone_14 0.0944 bone_15 0.7636 bone_16 0.1421
+skin 1143 bone_14 0.0567 bone_15 0.5603 bone_16 0.3831 bone_17 0.0000
+skin 1144 tripo::0_Right_Limb_0 0.4477 bone_13 0.0737 bone_14 0.2039 bone_15 0.2747
+skin 1145 tripo::Root 0.0609 tripo::Head_0 0.6787 tripo::0_Left_Limb_0 0.2604
+skin 1146 tripo::Head_0 0.3594 tripo::0_Left_Limb_0 0.6406
+skin 1147 bone_9 0.4786 bone_10 0.5214 bone_11 0.0000
+skin 1148 bone_9 0.3766 bone_10 0.6234
+skin 1149 bone_8 0.1344 bone_9 0.5959 bone_10 0.2697
+skin 1150 bone_9 0.4431 bone_10 0.5569 bone_11 0.0000
+skin 1151 bone_8 0.0728 bone_9 0.4489 bone_10 0.4783
+skin 1152 bone_14 0.1232 bone_15 0.7655 bone_16 0.1113
+skin 1153 bone_13 0.0000 bone_14 0.3959 bone_15 0.6041 bone_16 0.0000
+skin 1154 bone_14 0.3628 bone_15 0.6372 bone_16 0.0000
+skin 1155 bone_8 0.2982 bone_9 0.6337 bone_10 0.0681
+skin 1156 tripo::Head_0 0.2386 tripo::0_Right_Limb_0 0.4463 bone_14 0.1612 bone_15 0.1539
+skin 1157 bone_14 0.2720 bone_15 0.7280
+skin 1158 tripo::0_Right_Limb_0 0.1421 bone_13 0.1155 bone_14 0.2692 bone_15 0.4732
+skin 1159 tripo::Head_0 0.4262 tripo::0_Right_Limb_0 0.5738
+skin 1160 bone_9 0.4873 bone_10 0.5127
+skin 1161 bone_9 0.3618 bone_10 0.6382
+skin 1162 bone_9 0.4237 bone_10 0.5763
+skin 1163 tripo::Root 0.0896 tripo::Head_0 0.5990 tripo::1_Right_Limb_0 0.3113
+skin 1164 tripo::Root 0.0862 tripo::Head_0 0.5130 tripo::1_Right_Limb_0 0.4008
+skin 1165 tripo::Root 0.0838 tripo::Head_0 0.6989 tripo::1_Right_Limb_0 0.2173
+skin 1166 tripo::Head_0 0.5435 tripo::0_Right_Limb_0 0.4565
+skin 1167 tripo::Head_0 0.5536 tripo::0_Right_Limb_0 0.4464
+skin 1168 tripo::Head_0 0.4966 tripo::0_Right_Limb_0 0.5034
+skin 1169 tripo::Head_0 0.5167 tripo::0_Right_Limb_0 0.4276 tripo::0_Left_Limb_0 0.0557
+skin 1170 bone_9 0.3703 bone_10 0.6297
+skin 1171 bone_9 0.5222 bone_10 0.4778
+skin 1172 bone_9 0.5397 bone_10 0.4603
+skin 1173 bone_9 0.5296 bone_10 0.4704
+skin 1174 bone_8 0.2486 bone_9 0.5483 bone_10 0.2031
+skin 1175 bone_9 0.6360 bone_10 0.3640
+skin 1176 bone_9 0.5129 bone_10 0.4870 bone_11 0.0000 bone_12 0.0000
+skin 1177 bone_8 0.1198 bone_9 0.4293 bone_10 0.4509 bone_11 0.0000
+skin 1178 bone_13 0.0000 bone_14 0.1611 bone_15 0.7222 bone_16 0.1167
+skin 1179 tripo::0_Right_Limb_0 0.0000 bone_13 0.0983 bone_14 0.5329 bone_15 0.3688
+skin 1180 tripo::0_Right_Limb_0 0.0629 bone_13 0.1767 bone_14 0.4839 bone_15 0.2765
+skin 1181 tripo::0_Right_Limb_0 0.0951 bone_13 0.0866 bone_14 0.3416 bone_15 0.4767
+skin 1182 bone_14 0.3284 bone_15 0.6716
+skin 1183 bone_14 0.2519 bone_15 0.7481
+skin 1184 tripo::Root 0.0673 tripo::Head_0 0.7642 tripo::0_Right_Limb_0 0.0993 tripo::1_Right_Limb_0 0.0693
+skin 1185 tripo::Root 0.0839 tripo::Head_0 0.7097 tripo::0_Right_Limb_0 0.0705 tripo::1_Right_Limb_0 0.1359
+skin 1186 tripo::Head_0 0.7945 tripo::0_Right_Limb_0 0.2055
+skin 1187 tripo::Head_0 0.8735 tripo::0_Right_Limb_0 0.1265
+skin 1188 tripo::Root 0.0751 tripo::Head_0 0.7298 tripo::0_Right_Limb_0 0.0898 tripo::1_Right_Limb_0 0.1053
+skin 1189 bone_8 0.2176 bone_9 0.6151 bone_10 0.1673
+skin 1190 bone_8 0.1199 bone_9 0.5111 bone_10 0.3690 bone_11 0.0000
+skin 1191 bone_14 0.1940 bone_15 0.8060 bone_16 0.0000
+skin 1192 bone_14 0.2853 bone_15 0.7147
+skin 1193 bone_10 0.4738 bone_11 0.4587 bone_12 0.0675
+skin 1194 bone_9 0.3225 bone_10 0.6775 bone_11 0.0000 bone_12 0.0000
+skin 1195 bone_9 0.3525 bone_10 0.6475
+skin 1196 bone_9 0.0782 bone_10 0.8183 bone_11 0.1035 bone_12 0.0000
+skin 1197 bone_14 0.2621 bone_15 0.7379
+skin 1198 bone_14 0.3585 bone_15 0.6415 bone_16 0.0000
+skin 1199 bone_14 0.3347 bone_15 0.6653
+skin 1200 tripo::Root 0.0542 tripo::Head_0 0.7751 tripo::0_Right_Limb_0 0.0568 tripo::0_Left_Limb_0 0.1139
+skin 1201 tripo::Root 0.0563 tripo::Head_0 0.7339 tripo::0_Right_Limb_0 0.0573 tripo::0_Left_Limb_0 0.1524
+skin 1202 tripo::Head_0 0.7790 tripo::0_Right_Limb_0 0.2210
+skin 1203 tripo::0_Right_Limb_0 0.3951 bone_8 0.1549 bone_9 0.2196 bone_10 0.2304
+skin 1204 tripo::0_Right_Limb_0 0.2227 bone_8 0.1104 bone_9 0.2426 bone_10 0.4243
+skin 1205 tripo::0_Right_Limb_0 0.3715 bone_13 0.0729 bone_14 0.2216 bone_15 0.3340
+skin 1206 tripo::Head_0 0.5822 tripo::0_Right_Limb_0 0.4178
+skin 1207 tripo::Head_0 0.5560 tripo::0_Right_Limb_0 0.4440
+skin 1208 bone_13 0.0601 bone_14 0.3579 bone_15 0.5820
+skin 1209 bone_14 0.0000 bone_15 0.6443 bone_16 0.3557
+skin 1210 bone_8 0.0519 bone_9 0.3507 bone_10 0.5973
+skin 1211 bone_9 0.3138 bone_10 0.6862 bone_11 0.0000 bone_12 0.0000
+skin 1212 bone_8 0.1095 bone_9 0.5418 bone_10 0.3487
+skin 1213 bone_8 0.1643 bone_9 0.4112 bone_10 0.4245
+skin 1214 tripo::Root 0.2501 tripo::Head_0 0.7499
+skin 1215 tripo::Root 0.4662 tripo::Head_0 0.5338
+skin 1216 tripo::Root 0.3850 tripo::Head_0 0.6150
+skin 1217 tripo::Root 0.4502 tripo::Head_0 0.5498
+skin 1218 tripo::Root 0.3121 tripo::Head_0 0.6879
+skin 1219 tripo::Root 0.4711 tripo::Head_0 0.5289
+skin 1220 bone_14 0.2862 bone_15 0.7138
+skin 1221 bone_13 0.2105 bone_14 0.6099 bone_15 0.1795
+skin 1222 bone_14 0.3413 bone_15 0.6587
+skin 1223 tripo::Head_0 0.4512 tripo::0_Right_Limb_0 0.5488
+skin 1224 tripo::Head_0 0.3211 tripo::0_Right_Limb_0 0.5719 bone_15 0.1070
+skin 1225 tripo::Head_0 0.2862 tripo::0_Right_Limb_0 0.7138 bone_13 0.0000 bone_14 0.0000
+skin 1226 tripo::Root 0.0814 tripo::Head_0 0.7957 tripo::0_Right_Limb_0 0.0517 tripo::1_Right_Limb_0 0.0712
+skin 1227 tripo::Root 0.0825 tripo::Head_0 0.7997 tripo::0_Right_Limb_0 0.0530 tripo::1_Right_Limb_0 0.0647
+skin 1228 tripo::Root 0.0570 tripo::Head_0 0.8349 tripo::0_Right_Limb_0 0.1081
+skin 1229 tripo::Head_0 0.8729 tripo::0_Right_Limb_0 0.1271
+skin 1230 tripo::Root 0.0863 tripo::Head_0 0.7455 tripo::0_Right_Limb_0 0.0000 tripo::1_Right_Limb_0 0.1682
+skin 1231 tripo::Root 0.1126 tripo::Head_0 0.5332 tripo::0_Right_Limb_0 0.0000 tripo::1_Right_Limb_0 0.3543
+skin 1232 tripo::Root 0.0856 tripo::Head_0 0.6993 tripo::1_Right_Limb_0 0.2151
+skin 1233 tripo::Root 0.0775 tripo::Head_0 0.7684 tripo::1_Right_Limb_0 0.1541
+skin 1234 tripo::0_Right_Limb_0 0.4632 bone_8 0.2183 bone_9 0.2375 bone_18 0.0810
+skin 1235 tripo::0_Right_Limb_0 0.5228 tripo::0_Right_Limb_1 0.1837 bone_8 0.1214 bone_18 0.1721
+skin 1236 tripo::0_Right_Limb_0 0.2456 bone_13 0.2282 bone_14 0.3939 bone_15 0.1323
+skin 1237 tripo::0_Right_Limb_0 0.3544 tripo::0_Right_Limb_1 0.1502 bone_13 0.2060 bone_14 0.2894
+skin 1238 tripo::0_Right_Limb_0 0.3453 bone_13 0.2229 bone_14 0.3563 bone_15 0.0756
+skin 1239 tripo::Root 0.0987 tripo::Head_0 0.7368 tripo::0_Left_Limb_0 0.1644
+skin 1240 tripo::Head_0 0.8120 tripo::0_Right_Limb_0 0.0000 tripo::0_Left_Limb_0 0.1880
+skin 1241 tripo::Head_0 0.7957 tripo::0_Left_Limb_0 0.2043
+skin 1242 tripo::Head_0 0.7867 tripo::0_Right_Limb_0 0.1174 tripo::0_Left_Limb_0 0.0959
+skin 1243 tripo::Head_0 0.7501 tripo::0_Right_Limb_0 0.0000 tripo::0_Left_Limb_0 0.2499
+skin 1244 tripo::Head_0 0.4659 tripo::0_Right_Limb_0 0.5341 bone_8 0.0000 bone_9 0.0000
+skin 1245 tripo::0_Right_Limb_0 0.1325 bone_8 0.4544 bone_9 0.4131
+skin 1246 tripo::Head_0 0.4799 tripo::0_Right_Limb_0 0.5201
+skin 1247 tripo::Head_0 0.4648 tripo::0_Right_Limb_0 0.3145 bone_10 0.2207 tripo::1_Right_Limb_0 0.0000
+skin 1248 bone_13 0.1618 bone_14 0.7405 bone_15 0.0977
+skin 1249 bone_13 0.0835 bone_14 0.5823 bone_15 0.3342
+skin 1250 bone_13 0.2452 bone_14 0.7548
+skin 1251 bone_13 0.0647 bone_14 0.4370 bone_15 0.4984 bone_16 0.0000
+skin 1252 bone_8 0.1334 bone_9 0.5484 bone_10 0.3182
+skin 1253 bone_8 0.2059 bone_9 0.6339 bone_10 0.1602
+skin 1254 bone_8 0.2740 bone_9 0.6306 bone_10 0.0954
+skin 1255 tripo::Root 0.2718 tripo::Head_0 0.7282
+skin 1256 tripo::Root 0.3115 tripo::Head_0 0.6363 tripo::1_Right_Limb_0 0.0522
+skin 1257 tripo::Root 0.3954 tripo::Head_0 0.6046
+skin 1258 bone_8 0.2572 bone_9 0.6311 bone_10 0.1117
+skin 1259 tripo::0_Right_Limb_0 0.3945 bone_8 0.2356 bone_9 0.2722 bone_10 0.0976
+skin 1260 tripo::0_Right_Limb_0 0.4835 tripo::0_Right_Limb_1 0.1741 bone_8 0.1816 bone_18 0.1608
+skin 1261 tripo::0_Right_Limb_0 0.5370 tripo::0_Right_Limb_1 0.1827 bone_8 0.1088 bone_18 0.1716
+skin 1262 tripo::0_Right_Limb_0 0.6652 tripo::0_Right_Limb_1 0.1134 bone_14 0.0904 bone_18 0.1310
+skin 1263 tripo::0_Right_Limb_0 0.1380 bone_13 0.2063 bone_14 0.4270 bone_15 0.2288
+skin 1264 tripo::0_Right_Limb_1 0.0000 bone_13 0.2277 bone_14 0.7723 bone_18 0.0000
+skin 1265 tripo::Root 0.2044 tripo::Head_0 0.4642 tripo::1_Right_Limb_0 0.2737 tripo::1_Left_Limb_0 0.0577
+skin 1266 tripo::Root 0.0774 tripo::Head_0 0.7689 tripo::1_Right_Limb_0 0.1537
+skin 1267 tripo::Root 0.0690 tripo::Head_0 0.8118 tripo::0_Right_Limb_0 0.0630 tripo::1_Right_Limb_0 0.0561
+skin 1268 tripo::Root 0.1852 tripo::Head_0 0.8148
+skin 1269 tripo::Root 0.2413 tripo::Head_0 0.7587 tripo::0_Right_Limb_0 0.0000
+skin 1270 tripo::Root 0.0792 tripo::Head_0 0.7999 tripo::0_Right_Limb_0 0.1209
+skin 1271 tripo::Root 0.0543 tripo::Head_0 0.8253 tripo::0_Right_Limb_0 0.1204
+skin 1272 bone_8 0.2133 bone_9 0.6341 bone_10 0.1525
+skin 1273 tripo::0_Right_Limb_1 0.1111 bone_8 0.4202 bone_9 0.3816 bone_18 0.0870
+skin 1274 tripo::Head_0 0.8441 tripo::0_Right_Limb_0 0.1559
+skin 1275 tripo::Root 0.0691 tripo::Head_0 0.8103 tripo::0_Right_Limb_0 0.0618 tripo::1_Right_Limb_0 0.0589
+skin 1276 tripo::Root 0.0545 tripo::Head_0 0.6635 tripo::0_Right_Limb_0 0.0000 tripo::0_Left_Limb_0 0.2820
+skin 1277 tripo::Head_0 0.7815 tripo::0_Right_Limb_0 0.2185
+skin 1278 tripo::Head_0 0.6683 tripo::0_Right_Limb_0 0.3317
+skin 1279 bone_8 0.1573 bone_9 0.6137 bone_10 0.2291
+skin 1280 bone_8 0.2063 bone_9 0.6342 bone_10 0.1595
+skin 1281 bone_13 0.1609 bone_14 0.5222 bone_15 0.3169
+skin 1282 bone_13 0.1681 bone_14 0.7510 bone_15 0.0809
+skin 1283 tripo::Head_0 0.5860 tripo::0_Right_Limb_0 0.4140
+skin 1284 tripo::Head_0 0.6554 tripo::0_Right_Limb_0 0.3446
+skin 1285 tripo::Head_0 0.5469 tripo::0_Right_Limb_0 0.4531
+skin 1286 tripo::Head_0 0.5620 tripo::0_Right_Limb_0 0.4380
+skin 1287 tripo::Head_0 0.5934 tripo::0_Right_Limb_0 0.4066
+skin 1288 tripo::Root 0.0750 tripo::Head_0 0.7470 tripo::0_Right_Limb_0 0.0873 tripo::1_Right_Limb_0 0.0908
+skin 1289 bone_8 0.2900 bone_9 0.6288 bone_10 0.0811
+skin 1290 tripo::0_Right_Limb_0 0.0000 bone_8 0.3393 bone_9 0.6607
+skin 1291 tripo::0_Right_Limb_0 0.0758 bone_8 0.4937 bone_9 0.4305 bone_18 0.0000
+skin 1292 bone_13 0.2689 bone_14 0.7311 bone_15 0.0000
+skin 1293 tripo::Head_0 0.2603 tripo::0_Right_Limb_0 0.5148 bone_13 0.1376 bone_14 0.0873
+skin 1294 bone_13 0.2188 bone_14 0.7158 bone_15 0.0653
+skin 1295 bone_13 0.0676 bone_14 0.4074 bone_15 0.5250
+skin 1296 tripo::0_Right_Limb_1 0.0000 bone_13 0.3875 bone_14 0.6125 bone_18 0.0000
+skin 1297 tripo::0_Right_Limb_0 0.3648 tripo::0_Right_Limb_1 0.3142 bone_8 0.0802 bone_18 0.2408
+skin 1298 tripo::0_Right_Limb_0 0.3286 tripo::0_Right_Limb_1 0.3150 bone_8 0.1211 bone_18 0.2353
+skin 1299 tripo::0_Right_Limb_0 0.4014 tripo::0_Right_Limb_1 0.2346 bone_14 0.1768 bone_18 0.1872
+skin 1300 tripo::0_Right_Limb_0 0.3415 tripo::0_Right_Limb_1 0.2205 bone_13 0.1965 bone_14 0.2415
+skin 1301 tripo::0_Right_Limb_0 0.2852 tripo::0_Right_Limb_1 0.1453 bone_13 0.2495 bone_14 0.3200
+skin 1302 tripo::0_Right_Limb_0 0.3519 tripo::0_Right_Limb_1 0.3699 bone_18 0.2783
+skin 1303 tripo::Root 0.2184 tripo::Head_0 0.7249 tripo::0_Right_Limb_0 0.0568
+skin 1304 tripo::Root 0.2185 tripo::Head_0 0.7248 tripo::0_Right_Limb_0 0.0567
+skin 1305 tripo::Head_0 0.6040 tripo::0_Right_Limb_0 0.3960
+skin 1306 tripo::Head_0 0.5942 tripo::0_Right_Limb_0 0.4058
+skin 1307 tripo::Head_0 0.3347 tripo::0_Right_Limb_0 0.6653
+skin 1308 tripo::Head_0 0.5673 tripo::0_Right_Limb_0 0.4327
+skin 1309 tripo::Head_0 0.0000 tripo::0_Right_Limb_0 0.1384 bone_8 0.4901 bone_9 0.3715
+skin 1310 tripo::Head_0 0.5165 tripo::0_Right_Limb_0 0.4835
+skin 1311 tripo::Head_0 0.1453 tripo::0_Right_Limb_0 0.8547
+skin 1312 tripo::Root 0.0772 tripo::Head_0 0.7810 tripo::0_Right_Limb_0 0.0000 tripo::1_Right_Limb_0 0.1417
+skin 1313 tripo::Root 0.0781 tripo::Head_0 0.7877 tripo::1_Right_Limb_0 0.1342
+skin 1314 tripo::Root 0.3184 tripo::Head_0 0.6816 tripo::0_Right_Limb_0 0.0000
+skin 1315 tripo::Head_0 0.7964 tripo::0_Right_Limb_0 0.1375 tripo::0_Left_Limb_0 0.0661
+skin 1316 tripo::Head_0 0.7962 tripo::0_Right_Limb_0 0.0576 tripo::0_Left_Limb_0 0.1462
+skin 1317 tripo::0_Right_Limb_1 0.4041 bone_13 0.1868 bone_14 0.1573 bone_18 0.2518
+skin 1318 tripo::0_Right_Limb_1 0.0000 bone_13 0.3275 bone_14 0.6725 bone_18 0.0000
+skin 1319 tripo::0_Right_Limb_1 0.4510 bone_4 0.1359 bone_18 0.2822 bone_19 0.1309
+skin 1320 tripo::0_Right_Limb_0 0.0857 bone_13 0.2598 bone_14 0.4846 bone_15 0.1700
+skin 1321 bone_13 0.2283 bone_14 0.7717
+skin 1322 tripo::Head_0 0.7032 tripo::0_Right_Limb_0 0.2968
+skin 1323 tripo::Head_0 0.7456 tripo::0_Right_Limb_0 0.2544
+skin 1324 tripo::Root 0.0519 tripo::Head_0 0.8424 tripo::0_Right_Limb_0 0.1057
+skin 1325 tripo::Head_0 0.8236 tripo::0_Right_Limb_0 0.1764
+skin 1326 tripo::Head_0 0.8120 tripo::0_Right_Limb_0 0.0000 tripo::0_Left_Limb_0 0.1880
+skin 1327 tripo::Root 0.0563 tripo::Head_0 0.7715 tripo::0_Right_Limb_0 0.1723
+skin 1328 tripo::Head_0 0.7869 tripo::0_Right_Limb_0 0.2131
+skin 1329 tripo::Head_0 0.6879 tripo::0_Right_Limb_0 0.3121
+skin 1330 tripo::Head_0 0.5678 tripo::0_Right_Limb_0 0.4322
+skin 1331 tripo::0_Right_Limb_1 0.0984 bone_8 0.4674 bone_9 0.3332 bone_18 0.1010
+skin 1332 bone_8 0.4489 bone_9 0.5511
+skin 1333 tripo::0_Right_Limb_0 0.3397 tripo::0_Right_Limb_1 0.1516 bone_13 0.2216 bone_14 0.2871
+skin 1334 tripo::0_Right_Limb_0 0.4493 tripo::0_Right_Limb_1 0.3052 bone_18 0.2455
+skin 1335 tripo::0_Right_Limb_1 0.0000 bone_13 0.3834 bone_14 0.6166 bone_18 0.0000
+skin 1336 tripo::0_Right_Limb_1 0.1553 bone_13 0.3676 bone_14 0.3532 bone_18 0.1239
+skin 1337 tripo::0_Right_Limb_1 0.1536 bone_13 0.3532 bone_14 0.3706 bone_18 0.1226
+skin 1338 tripo::0_Right_Limb_0 0.1321 bone_8 0.4543 bone_9 0.4136
+skin 1339 tripo::Head_0 0.1731 tripo::0_Right_Limb_0 0.5352 bone_8 0.2917
+skin 1340 tripo::Head_0 0.4258 tripo::0_Right_Limb_0 0.5742
+skin 1341 tripo::0_Right_Limb_0 0.1569 bone_13 0.4829 bone_14 0.3603
+skin 1342 tripo::Head_0 0.1149 tripo::0_Right_Limb_0 0.8851
+skin 1343 tripo::0_Right_Limb_0 0.0857 tripo::0_Right_Limb_1 0.0000 bone_13 0.5217 bone_14 0.3925
+skin 1344 tripo::Head_0 0.2147 tripo::0_Right_Limb_0 0.6833 bone_13 0.1020 bone_14 0.0000
+skin 1345 tripo::Head_0 0.8627 tripo::0_Right_Limb_0 0.1373
+skin 1346 tripo::Head_0 0.6763 tripo::0_Right_Limb_0 0.3237
+skin 1347 tripo::0_Right_Limb_0 0.0597 bone_8 0.6235 bone_9 0.2483 bone_18 0.0685
+skin 1348 tripo::0_Right_Limb_1 0.0000 bone_8 0.4638 bone_9 0.5362 bone_18 0.0000
+skin 1349 bone_8 0.3435 bone_9 0.6565
+skin 1350 tripo::0_Right_Limb_1 0.2777 bone_8 0.3197 bone_18 0.3169 bone_19 0.0857
+skin 1351 tripo::0_Right_Limb_0 0.0720 bone_8 0.7018 bone_9 0.1515 bone_18 0.0747
+skin 1352 tripo::0_Right_Limb_0 0.0857 bone_13 0.5216 bone_14 0.3928
+skin 1353 tripo::Head_0 0.5620 tripo::0_Right_Limb_0 0.4380
+skin 1354 tripo::Head_0 0.4353 tripo::0_Right_Limb_0 0.5647
+skin 1355 tripo::Head_0 0.2311 tripo::0_Right_Limb_0 0.7689
+skin 1356 tripo::Head_0 0.2054 tripo::0_Right_Limb_0 0.7946
+skin 1357 tripo::Head_0 0.2467 tripo::0_Right_Limb_0 0.7533
+skin 1358 tripo::0_Right_Limb_1 0.4552 bone_8 0.1045 bone_18 0.3682 bone_19 0.0721
+skin 1359 tripo::0_Right_Limb_0 0.0976 tripo::0_Right_Limb_1 0.4786 bone_4 0.1048 bone_18 0.3190
+skin 1360 bone_4 0.2690 bone_5 0.3063 bone_19 0.1801 bone_20 0.2447
+skin 1361 bone_4 0.2046 bone_5 0.2839 bone_20 0.3825 bone_21 0.1290
+skin 1362 tripo::0_Right_Limb_1 0.3989 bone_8 0.1409 bone_18 0.3564 bone_19 0.1038
+skin 1363 tripo::0_Right_Limb_1 0.3512 bone_8 0.2374 bone_9 0.1443 bone_18 0.2671
+skin 1364 tripo::0_Right_Limb_0 0.0747 tripo::0_Right_Limb_1 0.3711 bone_8 0.2544 bone_18 0.2997
+skin 1365 tripo::0_Right_Limb_1 0.3319 bone_8 0.2912 bone_18 0.2972 bone_19 0.0798
+skin 1366 tripo::0_Right_Limb_1 0.1231 bone_8 0.5479 bone_9 0.2044 bone_18 0.1247
+skin 1367 tripo::Root 0.2618 tripo::Head_0 0.7382 tripo::0_Right_Limb_0 0.0000
+skin 1368 tripo::Root 0.2718 tripo::Head_0 0.7282
+skin 1369 tripo::Root 0.1825 tripo::Head_0 0.7236 tripo::0_Right_Limb_0 0.0939
+skin 1370 tripo::Root 0.2575 tripo::Head_0 0.7425 tripo::0_Right_Limb_0 0.0000
+skin 1371 tripo::Root 0.2273 tripo::Head_0 0.7136 tripo::0_Right_Limb_0 0.0591
+skin 1372 tripo::Root 0.3691 tripo::Head_0 0.6309
+skin 1373 tripo::Head_0 0.8074 tripo::0_Right_Limb_0 0.1926
+skin 1374 tripo::Root 0.1212 tripo::Head_0 0.7390 tripo::0_Right_Limb_0 0.1398
+skin 1375 tripo::Root 0.1357 tripo::Head_0 0.7329 tripo::0_Right_Limb_0 0.1314
+skin 1376 tripo::Head_0 0.8027 tripo::0_Right_Limb_0 0.1201 tripo::0_Left_Limb_0 0.0771
+skin 1377 tripo::Root 0.0664 tripo::Head_0 0.7550 tripo::0_Right_Limb_0 0.1786
+skin 1378 tripo::0_Right_Limb_0 0.2744 tripo::0_Right_Limb_1 0.4216 bone_4 0.0000 bone_18 0.3040
+skin 1379 tripo::0_Right_Limb_1 0.4321 bone_4 0.1689 bone_18 0.2583 bone_19 0.1407
+skin 1380 tripo::0_Right_Limb_1 0.1934 bone_4 0.4072 bone_5 0.1767 bone_19 0.2226
+skin 1381 tripo::Head_0 0.6640 tripo::0_Right_Limb_0 0.3360
+skin 1382 tripo::Head_0 0.2118 tripo::0_Right_Limb_0 0.7221 bone_8 0.0661
+skin 1383 tripo::Head_0 0.7415 tripo::0_Right_Limb_0 0.2585
+skin 1384 tripo::Root 0.1506 tripo::Head_0 0.7752 tripo::0_Right_Limb_0 0.0742
+skin 1385 tripo::0_Right_Limb_1 0.2894 bone_13 0.2913 bone_14 0.1545 bone_18 0.2648
+skin 1386 tripo::0_Right_Limb_0 0.1537 tripo::0_Right_Limb_1 0.2993 bone_13 0.2616 bone_18 0.2854
+skin 1387 tripo::0_Right_Limb_0 0.1182 tripo::0_Right_Limb_1 0.4040 bone_13 0.1803 bone_18 0.2976
+skin 1388 tripo::Head_0 0.7688 tripo::0_Right_Limb_0 0.2312
+skin 1389 tripo::Head_0 0.7871 tripo::0_Right_Limb_0 0.1495 tripo::0_Left_Limb_0 0.0635
+skin 1390 tripo::Head_0 0.7247 tripo::0_Right_Limb_0 0.2753
+skin 1391 tripo::Head_0 0.7049 tripo::0_Right_Limb_0 0.2951
+skin 1392 tripo::Head_0 0.7212 tripo::0_Right_Limb_0 0.2788
+skin 1393 tripo::0_Right_Limb_1 0.3188 bone_4 0.2968 bone_18 0.1572 bone_19 0.2272
+skin 1394 tripo::0_Right_Limb_1 0.2042 bone_4 0.4086 bone_5 0.1196 bone_19 0.2676
+skin 1395 tripo::0_Right_Limb_1 0.3912 bone_4 0.2157 bone_18 0.2118 bone_19 0.1813
+skin 1396 tripo::0_Right_Limb_1 0.3053 bone_4 0.2868 bone_18 0.1639 bone_19 0.2441
+skin 1397 bone_4 0.4377 bone_5 0.1305 bone_19 0.3229 bone_20 0.1088
+skin 1398 tripo::0_Right_Limb_0 0.1487 bone_8 0.5907 bone_9 0.2606 bone_18 0.0000
+skin 1399 tripo::Head_0 0.8337 tripo::0_Right_Limb_0 0.1663
+skin 1400 tripo::0_Right_Limb_1 0.4321 bone_13 0.0917 bone_18 0.3264 bone_19 0.1498
+skin 1401 tripo::0_Right_Limb_1 0.3251 bone_13 0.3016 bone_14 0.1477 bone_18 0.2256
+skin 1402 tripo::0_Right_Limb_1 0.3028 bone_4 0.1684 bone_18 0.2408 bone_19 0.2879
+skin 1403 tripo::Head_0 0.4619 tripo::0_Right_Limb_0 0.5381
+skin 1404 tripo::Head_0 0.0812 tripo::0_Right_Limb_0 0.5564 bone_8 0.3625
+skin 1405 tripo::0_Right_Limb_0 0.0957 tripo::0_Right_Limb_1 0.1107 bone_8 0.6024 bone_18 0.1912
+skin 1406 tripo::0_Right_Limb_1 0.3110 bone_4 0.1470 bone_18 0.2833 bone_19 0.2587
+skin 1407 tripo::0_Right_Limb_1 0.1377 bone_4 0.2727 bone_19 0.3749 bone_20 0.2146
+skin 1408 tripo::0_Right_Limb_1 0.3133 bone_4 0.2991 bone_18 0.1563 bone_19 0.2313
+skin 1409 tripo::0_Right_Limb_1 0.1943 bone_4 0.4151 bone_5 0.1199 bone_19 0.2706
+skin 1410 tripo::0_Right_Limb_1 0.3718 bone_4 0.2507 bone_18 0.1978 bone_19 0.1797
+skin 1411 tripo::0_Right_Limb_1 0.3066 bone_4 0.3407 bone_18 0.1410 bone_19 0.2117
+skin 1412 tripo::0_Right_Limb_0 0.2399 tripo::0_Right_Limb_1 0.1786 bone_13 0.4344 bone_18 0.1470
+skin 1413 tripo::0_Right_Limb_0 0.4116 tripo::0_Right_Limb_1 0.0864 bone_13 0.4440 bone_18 0.0580
+skin 1414 tripo::0_Right_Limb_0 0.2022 tripo::0_Right_Limb_1 0.1083 bone_13 0.6195 bone_18 0.0699
+skin 1415 tripo::0_Right_Limb_0 0.1440 tripo::0_Right_Limb_1 0.2344 bone_13 0.3331 bone_18 0.2886
+skin 1416 tripo::0_Right_Limb_0 0.1287 tripo::0_Right_Limb_1 0.1017 bone_13 0.7013 bone_18 0.0684
+skin 1417 tripo::0_Right_Limb_1 0.1611 bone_13 0.3984 bone_14 0.3106 bone_18 0.1299
+skin 1418 tripo::Head_0 0.5191 tripo::0_Right_Limb_0 0.4809
+skin 1419 tripo::Head_0 0.3514 tripo::0_Right_Limb_0 0.6486
+skin 1420 tripo::Head_0 0.7401 tripo::0_Right_Limb_0 0.2599
+skin 1421 tripo::Root 0.0000 tripo::Head_0 0.5865 tripo::0_Right_Limb_0 0.4135
+skin 1422 tripo::Root 0.0531 tripo::Head_0 0.7479 tripo::0_Right_Limb_0 0.1990
+skin 1423 tripo::Root 0.0668 tripo::Head_0 0.7340 tripo::0_Right_Limb_0 0.1992
+skin 1424 tripo::Root 0.0000 tripo::Head_0 0.7404 tripo::0_Right_Limb_0 0.2596
+skin 1425 tripo::Head_0 0.7105 tripo::0_Right_Limb_0 0.2895
+skin 1426 tripo::Root 0.1848 tripo::Head_0 0.7300 tripo::0_Right_Limb_0 0.0852
+skin 1427 tripo::Root 0.1748 tripo::Head_0 0.7306 tripo::0_Right_Limb_0 0.0946
+skin 1428 tripo::Root 0.1857 tripo::Head_0 0.7302 tripo::0_Right_Limb_0 0.0841
+skin 1429 tripo::Root 0.1204 tripo::Head_0 0.7897 tripo::0_Right_Limb_0 0.0899
+skin 1430 tripo::0_Right_Limb_1 0.1339 bone_4 0.4326 bone_5 0.1343 bone_19 0.2992
+skin 1431 tripo::0_Right_Limb_1 0.1501 bone_4 0.4393 bone_5 0.1434 bone_19 0.2672
+skin 1432 tripo::0_Right_Limb_1 0.3045 bone_4 0.2952 bone_18 0.1515 bone_19 0.2488
+skin 1433 tripo::Head_0 0.2578 tripo::0_Right_Limb_0 0.6521 bone_8 0.0901
+skin 1434 tripo::Head_0 0.2807 tripo::0_Right_Limb_0 0.6481 bone_8 0.0712
+skin 1435 tripo::Head_0 0.5293 tripo::0_Right_Limb_0 0.4707 bone_8 0.0000
+skin 1436 tripo::0_Right_Limb_1 0.2690 bone_4 0.1234 bone_18 0.3272 bone_19 0.2804
+skin 1437 tripo::0_Right_Limb_0 0.0984 tripo::0_Right_Limb_1 0.1692 bone_8 0.4776 bone_18 0.2548
+skin 1438 bone_4 0.4182 bone_5 0.2701 bone_19 0.1817 bone_20 0.1300
+skin 1439 tripo::0_Right_Limb_1 0.3659 bone_4 0.2658 bone_18 0.1931 bone_19 0.1751
+skin 1440 tripo::0_Right_Limb_0 0.0953 tripo::0_Right_Limb_1 0.2038 bone_8 0.2592 bone_18 0.4417
+skin 1441 tripo::0_Right_Limb_0 0.0960 tripo::0_Right_Limb_1 0.1918 bone_8 0.2873 bone_18 0.4249
+skin 1442 tripo::0_Right_Limb_0 0.0915 tripo::0_Right_Limb_1 0.1367 bone_8 0.5403 bone_18 0.2315
+skin 1443 tripo::Root 0.0832 tripo::Head_0 0.7395 tripo::0_Right_Limb_0 0.1773
+skin 1444 tripo::Root 0.0532 tripo::Head_0 0.7480 tripo::0_Right_Limb_0 0.1988
+skin 1445 tripo::Root 0.0525 tripo::Head_0 0.7350 tripo::0_Right_Limb_0 0.2126
+skin 1446 tripo::Root 0.1174 tripo::Head_0 0.6981 tripo::0_Right_Limb_0 0.1845
+skin 1447 tripo::Root 0.1618 tripo::Head_0 0.7357 tripo::0_Right_Limb_0 0.1026
+skin 1448 tripo::Root 0.1482 tripo::Head_0 0.7024 tripo::0_Right_Limb_0 0.1494
+skin 1449 tripo::Head_0 0.7364 tripo::0_Right_Limb_0 0.2636
+skin 1450 tripo::0_Right_Limb_1 0.3791 bone_4 0.2247 bone_18 0.2344 bone_19 0.1618
+skin 1451 tripo::0_Right_Limb_1 0.3189 bone_4 0.3048 bone_18 0.1656 bone_19 0.2107
+skin 1452 bone_4 0.4332 bone_5 0.1293 bone_19 0.3278 bone_20 0.1097
+skin 1453 bone_4 0.1792 bone_5 0.3088 bone_19 0.1210 bone_20 0.3909
+skin 1454 bone_4 0.3818 bone_5 0.2110 bone_19 0.2292 bone_20 0.1779
+skin 1455 tripo::0_Right_Limb_1 0.4513 bone_4 0.1370 bone_18 0.2749 bone_19 0.1369
+skin 1456 tripo::Head_0 0.5403 tripo::0_Right_Limb_0 0.4597
+skin 1457 tripo::Head_0 0.4178 tripo::0_Right_Limb_0 0.5822
+skin 1458 tripo::Head_0 0.0827 tripo::0_Right_Limb_0 0.9173
+skin 1459 tripo::0_Right_Limb_0 0.1912 tripo::0_Right_Limb_1 0.1176 bone_13 0.6162 bone_18 0.0750
+skin 1460 tripo::Head_0 0.3029 tripo::0_Right_Limb_0 0.6971
+skin 1461 tripo::0_Right_Limb_0 0.1159 tripo::0_Right_Limb_1 0.1724 bone_8 0.3359 bone_18 0.3758
+skin 1462 tripo::0_Right_Limb_0 0.0877 tripo::0_Right_Limb_1 0.1287 bone_8 0.5686 bone_18 0.2151
+skin 1463 tripo::Root 0.1588 tripo::Head_0 0.7065 tripo::0_Right_Limb_0 0.1347
+skin 1464 tripo::Root 0.1474 tripo::Head_0 0.7015 tripo::0_Right_Limb_0 0.1511
+skin 1465 tripo::0_Right_Limb_0 0.2404 tripo::0_Right_Limb_1 0.2919 bone_13 0.1857 bone_18 0.2820
+skin 1466 tripo::0_Right_Limb_0 0.1536 tripo::0_Right_Limb_1 0.2989 bone_13 0.2627 bone_18 0.2848
+skin 1467 tripo::0_Right_Limb_0 0.1631 tripo::0_Right_Limb_1 0.3267 bone_13 0.1525 bone_18 0.3577
+skin 1468 bone_4 0.2649 bone_5 0.0713 bone_19 0.5062 bone_20 0.1576
+skin 1469 tripo::0_Right_Limb_0 0.1304 tripo::0_Right_Limb_1 0.3660 bone_18 0.3898 bone_19 0.1138
+skin 1470 tripo::0_Right_Limb_0 0.3530 tripo::0_Right_Limb_1 0.2048 bone_13 0.2643 bone_18 0.1779
+skin 1471 tripo::0_Right_Limb_0 0.1016 tripo::0_Right_Limb_1 0.2465 bone_18 0.4764 bone_19 0.1755
+skin 1472 tripo::0_Right_Limb_0 0.2582 tripo::0_Right_Limb_1 0.2075 bone_13 0.3396 bone_18 0.1946
+skin 1473 bone_4 0.4217 bone_5 0.2766 bone_19 0.1699 bone_20 0.1318
+skin 1474 tripo::Head_0 0.4545 tripo::0_Right_Limb_0 0.5455 bone_8 0.0000
+skin 1475 tripo::Head_0 0.7034 tripo::0_Right_Limb_0 0.2966
+skin 1476 tripo::0_Right_Limb_1 0.1354 bone_4 0.3006 bone_19 0.4607 bone_20 0.1032
+skin 1477 tripo::Root 0.1098 tripo::Head_0 0.6914 tripo::0_Right_Limb_0 0.1987
+skin 1478 bone_4 0.3925 bone_5 0.3113 bone_19 0.1519 bone_20 0.1444
+skin 1479 bone_4 0.3971 bone_5 0.2961 bone_19 0.1650 bone_21 0.1418
+skin 1480 tripo::Root 0.1249 tripo::Head_0 0.7006 tripo::0_Right_Limb_0 0.1745
+skin 1481 tripo::Root 0.0520 tripo::Head_0 0.6945 tripo::0_Right_Limb_0 0.2536
+skin 1482 tripo::Root 0.0697 tripo::Head_0 0.7146 tripo::0_Right_Limb_0 0.2157
+skin 1483 tripo::Head_0 0.5942 tripo::0_Right_Limb_0 0.4058
+skin 1484 tripo::Head_0 0.7106 tripo::0_Right_Limb_0 0.2894
+skin 1485 tripo::Head_0 0.1077 tripo::0_Right_Limb_0 0.8923
+skin 1486 bone_4 0.0655 bone_5 0.3389 bone_20 0.3758 bone_21 0.2198
+skin 1487 bone_6 0.0824 bone_7 0.6676 bone_22 0.2500
+skin 1488 bone_6 0.0523 bone_7 0.7328 bone_22 0.2149
+skin 1489 bone_7 0.7976 bone_22 0.2024
+skin 1490 bone_6 0.0851 bone_7 0.6593 bone_22 0.2556
+skin 1491 bone_7 0.8085 bone_22 0.1915
+skin 1492 bone_7 0.8143 bone_22 0.1857
+skin 1493 bone_7 0.8004 bone_22 0.1996
+skin 1494 bone_7 0.8197 bone_22 0.1803
+skin 1495 bone_7 0.7898 bone_22 0.2102
+skin 1496 bone_4 0.3230 bone_5 0.2909 bone_6 0.1836 bone_21 0.2026
+skin 1497 bone_4 0.4128 bone_5 0.2864 bone_19 0.1626 bone_20 0.1382
+skin 1498 bone_5 0.1586 bone_6 0.5618 bone_21 0.1631 bone_22 0.1165
+skin 1499 bone_7 0.8153 bone_22 0.1847
+skin 1500 bone_7 0.8072 bone_22 0.1928
+skin 1501 bone_7 0.8150 bone_22 0.1850
+skin 1502 tripo::Head_0 0.1035 tripo::0_Right_Limb_0 0.8965
+skin 1503 tripo::0_Right_Limb_0 0.3543 tripo::0_Right_Limb_1 0.2043 bone_13 0.2641 bone_18 0.1773
+skin 1504 bone_7 0.7739 bone_22 0.2261
+skin 1505 bone_7 0.8044 bone_22 0.1956
+skin 1506 bone_6 0.0987 bone_7 0.6383 bone_22 0.2630
+skin 1507 bone_6 0.0818 bone_7 0.6607 bone_22 0.2575
+skin 1508 bone_6 0.1926 bone_7 0.5437 bone_22 0.2637
+skin 1509 bone_6 0.2279 bone_7 0.5129 bone_21 0.0000 bone_22 0.2592
+skin 1510 bone_6 0.0750 bone_7 0.6826 bone_22 0.2425
+skin 1511 bone_6 0.2272 bone_7 0.4577 bone_21 0.0744 bone_22 0.2407
+skin 1512 bone_6 0.0532 bone_7 0.7279 bone_22 0.2189
+skin 1513 bone_6 0.0914 bone_7 0.6526 bone_22 0.2559
+skin 1514 bone_6 0.0607 bone_7 0.7045 bone_22 0.2348
+skin 1515 bone_6 0.0852 bone_7 0.6733 bone_22 0.2414
+skin 1516 bone_6 0.0000 bone_7 0.7873 bone_22 0.2127
+skin 1517 bone_7 0.7959 bone_22 0.2041
+skin 1518 tripo::Head_0 0.0000 tripo::0_Right_Limb_0 0.9344 bone_18 0.0656
+skin 1519 tripo::0_Right_Limb_1 0.1627 bone_4 0.4682 bone_5 0.1358 bone_19 0.2334
+skin 1520 tripo::0_Right_Limb_1 0.3186 bone_4 0.3052 bone_18 0.1653 bone_19 0.2108
+skin 1521 bone_4 0.1472 bone_5 0.2355 bone_6 0.4054 bone_21 0.2119
+skin 1522 tripo::0_Right_Limb_1 0.1614 bone_4 0.4734 bone_5 0.1294 bone_19 0.2358
+skin 1523 tripo::0_Right_Limb_1 0.1136 bone_4 0.4604 bone_5 0.1960 bone_19 0.2301
+skin 1524 bone_4 0.3691 bone_5 0.2907 bone_6 0.1679 bone_21 0.1724
+skin 1525 tripo::0_Right_Limb_1 0.1206 bone_4 0.4603 bone_5 0.2292 bone_19 0.1899
+skin 1526 bone_4 0.2880 bone_5 0.2755 bone_6 0.2451 bone_21 0.1914
+skin 1527 bone_7 0.8223 bone_22 0.1777
+skin 1528 bone_7 0.8230 bone_22 0.1770
+skin 1529 bone_7 0.8232 bone_22 0.1768
+skin 1530 bone_7 0.8038 bone_22 0.1962
+skin 1531 tripo::0_Right_Limb_0 0.9067 tripo::0_Right_Limb_1 0.0000 bone_8 0.0933 bone_18 0.0000
+skin 1532 tripo::Head_0 0.2222 tripo::0_Right_Limb_0 0.7778
+skin 1533 tripo::Head_0 0.3874 tripo::0_Right_Limb_0 0.5400 bone_8 0.0726
+skin 1534 bone_6 0.2262 bone_7 0.4720 bone_21 0.0673 bone_22 0.2345
+skin 1535 bone_6 0.2725 bone_7 0.4081 bone_21 0.0746 bone_22 0.2448
+skin 1536 bone_6 0.4324 bone_7 0.2684 bone_21 0.1012 bone_22 0.1979
+skin 1537 bone_6 0.3378 bone_7 0.3363 bone_21 0.1108 bone_22 0.2151
+skin 1538 bone_4 0.2002 bone_5 0.2214 bone_6 0.2735 bone_7 0.3049
+skin 1539 bone_6 0.0992 bone_7 0.6414 bone_22 0.2594
+skin 1540 bone_7 0.8174 bone_22 0.1826
+skin 1541 bone_7 0.8009 bone_22 0.1991
+skin 1542 bone_6 0.1319 bone_7 0.6153 bone_22 0.2528
+skin 1543 bone_6 0.0755 bone_7 0.6992 bone_22 0.2252
+skin 1544 tripo::0_Right_Limb_1 0.2131 bone_8 0.0776 bone_18 0.5449 bone_19 0.1645
+skin 1545 bone_4 0.1662 bone_5 0.0645 bone_19 0.5502 bone_20 0.2191
+skin 1546 tripo::0_Right_Limb_1 0.1951 bone_8 0.1087 bone_18 0.5323 bone_19 0.1638
+skin 1547 tripo::0_Right_Limb_0 0.1243 tripo::0_Right_Limb_1 0.1781 bone_8 0.3136 bone_18 0.3839
+skin 1548 bone_4 0.2902 bone_5 0.3300 bone_19 0.1278 bone_20 0.2519
+skin 1549 tripo::Head_0 0.1951 tripo::0_Right_Limb_0 0.8049
+skin 1550 tripo::Head_0 0.7517 tripo::0_Right_Limb_0 0.2483
+skin 1551 tripo::Head_0 0.1621 tripo::0_Right_Limb_0 0.8379
+skin 1552 tripo::Head_0 0.3652 tripo::0_Right_Limb_0 0.6348
+skin 1553 tripo::Head_0 0.6509 tripo::0_Right_Limb_0 0.3491
+skin 1554 tripo::Head_0 0.6878 tripo::0_Right_Limb_0 0.3122
+skin 1555 tripo::Head_0 0.7165 tripo::0_Right_Limb_0 0.2835
+skin 1556 tripo::Root 0.0568 tripo::Head_0 0.6911 tripo::0_Right_Limb_0 0.2522
+skin 1557 tripo::Head_0 0.5519 tripo::0_Right_Limb_0 0.4481
+skin 1558 tripo::Head_0 0.1556 tripo::0_Right_Limb_0 0.8444
+skin 1559 tripo::Head_0 0.2163 tripo::0_Right_Limb_0 0.7837
+skin 1560 bone_4 0.4368 bone_5 0.2195 bone_19 0.2193 bone_20 0.1244
+skin 1561 tripo::0_Right_Limb_1 0.1501 bone_4 0.4393 bone_5 0.1434 bone_19 0.2672
+skin 1562 bone_4 0.4103 bone_5 0.2973 bone_19 0.1563 bone_21 0.1361
+skin 1563 tripo::0_Right_Limb_1 0.1779 bone_4 0.1207 bone_18 0.2217 bone_19 0.4796
+skin 1564 bone_4 0.2590 bone_18 0.1368 bone_19 0.3919 bone_20 0.2123
+skin 1565 tripo::0_Right_Limb_1 0.1879 bone_4 0.0667 bone_18 0.4522 bone_19 0.2932
+skin 1566 bone_6 0.0807 bone_7 0.6926 bone_22 0.2266
+skin 1567 bone_6 0.0798 bone_7 0.6848 bone_22 0.2354
+skin 1568 bone_6 0.2576 bone_7 0.4222 bone_21 0.0729 bone_22 0.2473
+skin 1569 bone_4 0.1220 bone_5 0.3011 bone_6 0.3308 bone_21 0.2461
+skin 1570 bone_4 0.3665 bone_5 0.2829 bone_6 0.1732 bone_21 0.1775
+skin 1571 bone_6 0.2963 bone_7 0.3955 bone_21 0.0701 bone_22 0.2381
+skin 1572 bone_6 0.1963 bone_7 0.4919 bone_21 0.0657 bone_22 0.2462
+skin 1573 bone_6 0.1468 bone_7 0.5888 bone_22 0.2643
+skin 1574 bone_6 0.2772 bone_7 0.3265 bone_21 0.1840 bone_22 0.2122
+skin 1575 bone_6 0.1625 bone_7 0.5497 bone_21 0.0546 bone_22 0.2333
+skin 1576 tripo::Root 0.0806 tripo::Head_0 0.6893 tripo::0_Right_Limb_0 0.2301
+skin 1577 bone_4 0.2436 bone_5 0.2899 bone_6 0.2560 bone_21 0.2105
+skin 1578 bone_4 0.3761 bone_5 0.3191 bone_19 0.1444 bone_21 0.1603
+skin 1579 bone_4 0.1191 bone_5 0.3554 bone_20 0.3179 bone_21 0.2077
+skin 1580 bone_4 0.3464 bone_5 0.3286 bone_6 0.1305 bone_21 0.1944
+skin 1581 bone_4 0.0754 bone_5 0.3567 bone_20 0.3138 bone_21 0.2541
+skin 1582 bone_4 0.2600 bone_5 0.3275 bone_19 0.1534 bone_20 0.2591
+skin 1583 tripo::Head_0 0.0000 tripo::0_Right_Limb_0 1.0000
+skin 1584 tripo::Head_0 0.2232 tripo::0_Right_Limb_0 0.7768
+skin 1585 tripo::Head_0 0.3632 tripo::0_Right_Limb_0 0.6368
+skin 1586 tripo::Head_0 0.0809 tripo::0_Right_Limb_0 0.9191
+skin 1587 tripo::Head_0 0.5955 tripo::0_Right_Limb_0 0.4045
+skin 1588 tripo::Head_0 0.6650 tripo::0_Right_Limb_0 0.3350
+skin 1589 tripo::Head_0 0.5683 tripo::0_Right_Limb_0 0.4317
+skin 1590 tripo::Root 0.0726 tripo::Head_0 0.6846 tripo::0_Right_Limb_0 0.2428
+skin 1591 tripo::Root 0.0527 tripo::Head_0 0.6822 tripo::0_Right_Limb_0 0.2652
+skin 1592 tripo::Head_0 0.2988 tripo::0_Right_Limb_0 0.7012
+skin 1593 tripo::Head_0 0.1220 tripo::0_Right_Limb_0 0.8780
+skin 1594 tripo::Head_0 0.1548 tripo::0_Right_Limb_0 0.8452
+skin 1595 tripo::Head_0 0.0000 tripo::0_Right_Limb_0 1.0000
+skin 1596 tripo::Head_0 0.1173 tripo::0_Right_Limb_0 0.8827
+skin 1597 tripo::0_Right_Limb_0 0.9280 bone_18 0.0720
+skin 1598 tripo::0_Right_Limb_0 0.9060 bone_18 0.0940
+skin 1599 bone_5 0.3418 bone_6 0.1679 bone_20 0.2137 bone_21 0.2766
+skin 1600 bone_6 0.2688 bone_7 0.4081 bone_21 0.0781 bone_22 0.2450
+skin 1601 bone_6 0.3375 bone_7 0.3123 bone_21 0.1100 bone_22 0.2401
+skin 1602 bone_4 0.4394 bone_5 0.2681 bone_19 0.1669 bone_21 0.1256
+skin 1603 bone_4 0.3973 bone_5 0.2790 bone_19 0.1531 bone_21 0.1706
+skin 1604 bone_4 0.3440 bone_5 0.3125 bone_6 0.1291 bone_21 0.2144
+skin 1605 bone_4 0.2942 bone_5 0.2951 bone_6 0.1719 bone_21 0.2389
+skin 1606 bone_5 0.1927 bone_6 0.4116 bone_21 0.2457 bone_22 0.1500
+skin 1607 bone_4 0.1776 bone_5 0.2187 bone_19 0.2183 bone_20 0.3854
+skin 1608 bone_4 0.2059 bone_18 0.0913 bone_19 0.6096 bone_20 0.0933
+skin 1609 bone_4 0.1620 bone_5 0.3481 bone_6 0.2362 bone_21 0.2537
+skin 1610 bone_7 0.8119 bone_22 0.1881
+skin 1611 bone_7 0.8197 bone_22 0.1803
+skin 1612 bone_7 0.8150 bone_22 0.1850
+skin 1613 bone_7 0.7903 bone_22 0.2097
+skin 1614 bone_4 0.4339 bone_5 0.2655 bone_19 0.1750 bone_20 0.1256
+skin 1615 bone_4 0.3276 bone_5 0.3102 bone_6 0.1380 bone_21 0.2242
+skin 1616 tripo::0_Right_Limb_0 0.0862 tripo::0_Right_Limb_1 0.1875 bone_18 0.5483 bone_19 0.1780
+skin 1617 tripo::0_Right_Limb_1 0.1702 bone_4 0.0899 bone_18 0.3622 bone_19 0.3778
+skin 1618 bone_7 0.8337 bone_22 0.1663
+skin 1619 bone_7 0.8214 bone_22 0.1786
+skin 1620 bone_7 0.8269 bone_22 0.1731
+skin 1621 bone_7 0.8110 bone_22 0.1890
+skin 1622 bone_6 0.0609 bone_7 0.7316 bone_22 0.2075
+skin 1623 tripo::0_Right_Limb_0 0.6254 tripo::0_Right_Limb_1 0.1046 bone_18 0.2701 bone_19 0.0000
+skin 1624 tripo::0_Right_Limb_0 0.1264 tripo::0_Right_Limb_1 0.2386 bone_18 0.4602 bone_19 0.1748
+skin 1625 bone_6 0.2669 bone_7 0.4109 bone_21 0.0772 bone_22 0.2450
+skin 1626 bone_6 0.2623 bone_7 0.3549 bone_21 0.1714 bone_22 0.2114
+skin 1627 bone_7 0.8375 bone_22 0.1625
+skin 1628 bone_7 0.8106 bone_22 0.1894
+skin 1629 bone_6 0.0513 bone_7 0.7570 bone_22 0.1917
+skin 1630 bone_6 0.0527 bone_7 0.7639 bone_22 0.1833
+skin 1631 bone_6 0.0660 bone_7 0.7131 bone_22 0.2210
+skin 1632 bone_6 0.3045 bone_7 0.3458 bone_21 0.1371 bone_22 0.2126
+skin 1633 bone_4 0.2145 bone_5 0.2412 bone_6 0.3000 bone_21 0.2443
+skin 1634 bone_5 0.3090 bone_6 0.1925 bone_20 0.2179 bone_21 0.2805
+skin 1635 bone_7 0.7872 bone_22 0.2128
+skin 1636 bone_7 0.7752 bone_22 0.2248
+skin 1637 bone_7 0.7905 bone_22 0.2095
+skin 1638 bone_7 0.7771 bone_22 0.2229
+skin 1639 bone_7 0.8216 bone_22 0.1784
+skin 1640 bone_4 0.2257 bone_5 0.1353 bone_19 0.3281 bone_20 0.3108
+skin 1641 bone_5 0.2293 bone_6 0.2300 bone_21 0.3770 bone_22 0.1637
+skin 1642 bone_5 0.2989 bone_6 0.0969 bone_20 0.2541 bone_21 0.3501
+skin 1643 bone_5 0.2594 bone_6 0.2546 bone_20 0.1886 bone_21 0.2975
+skin 1644 bone_7 0.7876 bone_22 0.2124
+skin 1645 bone_6 0.0734 bone_7 0.7076 bone_22 0.2190
+skin 1646 bone_7 0.7523 bone_22 0.2477
+skin 1647 bone_7 0.7947 bone_22 0.2053
+skin 1648 bone_6 0.0571 bone_7 0.7024 bone_22 0.2404
+skin 1649 bone_6 0.0000 bone_7 0.8081 bone_22 0.1919
+skin 1650 bone_5 0.3174 bone_6 0.1756 bone_20 0.2178 bone_21 0.2892
+skin 1651 bone_5 0.3299 bone_6 0.0000 bone_20 0.3686 bone_21 0.3015
+skin 1652 bone_5 0.2702 bone_6 0.2825 bone_20 0.1345 bone_21 0.3127
+skin 1653 bone_5 0.3330 bone_6 0.0605 bone_20 0.3159 bone_21 0.2907
+skin 1654 bone_4 0.2370 bone_5 0.3517 bone_20 0.1585 bone_21 0.2528
+skin 1655 tripo::0_Right_Limb_0 0.7416 tripo::0_Right_Limb_1 0.0671 bone_18 0.1912
+skin 1656 tripo::0_Right_Limb_0 0.2862 tripo::0_Right_Limb_1 0.1293 bone_18 0.4297 bone_19 0.1549
+skin 1657 tripo::Head_0 0.1645 tripo::0_Right_Limb_0 0.8355
+skin 1658 tripo::Head_0 0.1183 tripo::0_Right_Limb_0 0.8817
+skin 1659 tripo::0_Right_Limb_1 0.1744 bone_4 0.0973 bone_18 0.3216 bone_19 0.4067
+skin 1660 bone_4 0.1288 bone_5 0.1064 bone_19 0.4357 bone_20 0.3292
+skin 1661 bone_4 0.1296 bone_5 0.1086 bone_19 0.4261 bone_20 0.3357
+skin 1662 bone_4 0.1487 bone_5 0.0765 bone_19 0.5382 bone_20 0.2366
+skin 1663 bone_4 0.1748 bone_5 0.0896 bone_19 0.4926 bone_20 0.2431
+skin 1664 tripo::0_Right_Limb_1 0.1628 bone_4 0.1266 bone_18 0.2934 bone_19 0.4172
+skin 1665 tripo::0_Right_Limb_1 0.1389 bone_4 0.1452 bone_18 0.2317 bone_19 0.4843
+skin 1666 bone_6 0.0529 bone_7 0.7229 bone_22 0.2241
+skin 1667 bone_6 0.1101 bone_7 0.6016 bone_22 0.2884
+skin 1668 bone_6 0.1719 bone_7 0.4396 bone_21 0.1075 bone_22 0.2811
+skin 1669 bone_4 0.3425 bone_5 0.3292 bone_20 0.1411 bone_21 0.1872
+skin 1670 bone_4 0.0894 bone_5 0.3525 bone_20 0.4116 bone_21 0.1466
+skin 1671 bone_6 0.0527 bone_7 0.7212 bone_22 0.2261
+skin 1672 bone_6 0.0714 bone_7 0.6651 bone_22 0.2635
+skin 1673 bone_6 0.0000 bone_7 0.7939 bone_22 0.2061
+skin 1674 bone_6 0.1455 bone_7 0.4855 bone_21 0.0808 bone_22 0.2882
+skin 1675 bone_6 0.1432 bone_7 0.4799 bone_21 0.0769 bone_22 0.3000
+skin 1676 bone_6 0.0797 bone_7 0.6183 bone_22 0.3020
+skin 1677 bone_6 0.1075 bone_7 0.5535 bone_21 0.0000 bone_22 0.3390
+skin 1678 bone_6 0.0824 bone_7 0.5888 bone_22 0.3288
+skin 1679 bone_6 0.1224 bone_7 0.4941 bone_21 0.0756 bone_22 0.3079
+skin 1680 bone_4 0.1557 bone_5 0.1257 bone_19 0.3810 bone_20 0.3377
+skin 1681 bone_4 0.1752 bone_5 0.0839 bone_19 0.5127 bone_20 0.2282
+skin 1682 bone_4 0.1463 bone_5 0.1220 bone_19 0.4009 bone_20 0.3307
+skin 1683 bone_4 0.1417 bone_5 0.1391 bone_19 0.3482 bone_20 0.3710
+skin 1684 bone_4 0.2553 bone_5 0.1044 bone_19 0.3928 bone_20 0.2474
+skin 1685 tripo::0_Right_Limb_1 0.1183 bone_4 0.1236 bone_18 0.2648 bone_19 0.4934
+skin 1686 tripo::0_Right_Limb_0 0.0869 tripo::0_Right_Limb_1 0.1539 bone_18 0.4087 bone_19 0.3504
+skin 1687 tripo::0_Right_Limb_0 0.1239 tripo::0_Right_Limb_1 0.1422 bone_18 0.4275 bone_19 0.3064
+skin 1688 tripo::0_Right_Limb_1 0.1220 bone_4 0.1220 bone_18 0.2746 bone_19 0.4813
+skin 1689 tripo::0_Right_Limb_1 0.1239 bone_4 0.1312 bone_18 0.2804 bone_19 0.4645
+skin 1690 tripo::0_Right_Limb_1 0.1108 bone_18 0.2785 bone_19 0.4914 bone_20 0.1193
+skin 1691 bone_4 0.0656 bone_5 0.3395 bone_20 0.4062 bone_21 0.1888
+skin 1692 bone_6 0.1510 bone_7 0.4210 bone_21 0.1293 bone_22 0.2987
+skin 1693 bone_5 0.2156 bone_7 0.2401 bone_21 0.3617 bone_22 0.1826
+skin 1694 bone_6 0.0821 bone_7 0.6399 bone_21 0.0000 bone_22 0.2780
+skin 1695 bone_6 0.1018 bone_7 0.5451 bone_21 0.0605 bone_22 0.2926
+skin 1696 bone_6 0.1037 bone_7 0.5352 bone_21 0.0656 bone_22 0.2955
+skin 1697 bone_6 0.1091 bone_7 0.6009 bone_21 0.0623 bone_22 0.2277
+skin 1698 bone_6 0.1394 bone_7 0.5192 bone_21 0.0831 bone_22 0.2582
+skin 1699 bone_6 0.0862 bone_7 0.6472 bone_21 0.0584 bone_22 0.2081
+skin 1700 bone_6 0.1497 bone_7 0.4182 bone_21 0.1810 bone_22 0.2511
+skin 1701 bone_6 0.0824 bone_7 0.5890 bone_22 0.3286
+skin 1702 bone_6 0.0618 bone_7 0.6905 bone_22 0.2476
+skin 1703 bone_4 0.0924 bone_5 0.2457 bone_19 0.1523 bone_20 0.5096
+skin 1704 bone_4 0.1752 bone_5 0.2292 bone_19 0.1929 bone_20 0.4026
+skin 1705 bone_4 0.1219 bone_5 0.1819 bone_19 0.2367 bone_20 0.4594
+skin 1706 bone_4 0.1173 bone_5 0.1981 bone_19 0.2001 bone_20 0.4846
+skin 1707 bone_4 0.1509 bone_5 0.1257 bone_19 0.3599 bone_20 0.3635
+skin 1708 bone_5 0.0964 bone_6 0.1036 bone_7 0.5245 bone_22 0.2755
+skin 1709 bone_5 0.1207 bone_6 0.1063 bone_7 0.4958 bone_22 0.2772
+skin 1710 bone_6 0.1047 bone_7 0.5494 bone_21 0.0546 bone_22 0.2913
+skin 1711 bone_6 0.1062 bone_7 0.5493 bone_21 0.0653 bone_22 0.2792
+skin 1712 bone_4 0.2614 bone_5 0.1328 bone_19 0.3578 bone_20 0.2480
+skin 1713 bone_4 0.3571 bone_5 0.0669 bone_19 0.4345 bone_20 0.1415
+skin 1714 bone_4 0.2942 bone_5 0.0846 bone_19 0.4350 bone_20 0.1863
+skin 1715 bone_4 0.2210 bone_5 0.1308 bone_19 0.3308 bone_20 0.3174
+skin 1716 bone_5 0.2881 bone_20 0.4769 bone_21 0.2350
+skin 1717 bone_5 0.3182 bone_20 0.4016 bone_21 0.2802
+skin 1718 bone_5 0.3136 bone_20 0.3942 bone_21 0.2923
+skin 1719 bone_4 0.0750 bone_5 0.3562 bone_20 0.3146 bone_21 0.2542
+skin 1720 bone_4 0.0773 bone_5 0.3455 bone_20 0.3572 bone_21 0.2200
+skin 1721 bone_5 0.1371 bone_7 0.4449 bone_20 0.1436 bone_22 0.2745
+skin 1722 bone_5 0.1377 bone_7 0.4371 bone_20 0.1565 bone_22 0.2687
+skin 1723 bone_5 0.1560 bone_7 0.4099 bone_20 0.1729 bone_22 0.2611
+skin 1724 bone_5 0.0936 bone_6 0.1178 bone_7 0.4879 bone_22 0.3007
+skin 1725 bone_6 0.1178 bone_7 0.4879 bone_21 0.0964 bone_22 0.2978
+skin 1726 bone_6 0.1140 bone_7 0.4990 bone_21 0.0836 bone_22 0.3034
+skin 1727 bone_6 0.1037 bone_7 0.5352 bone_21 0.0656 bone_22 0.2955
+skin 1728 bone_5 0.0195 bone_6 0.1204 bone_7 0.4494 bone_20 0.0220 bone_21 0.0950 bone_22 0.2936
+skin 1729 bone_6 0.1394 bone_7 0.5192 bone_21 0.0831 bone_22 0.2582
+skin 1730 bone_5 0.1561 bone_7 0.4135 bone_20 0.1772 bone_22 0.2532
+skin 1731 bone_6 0.1270 bone_7 0.4799 bone_21 0.0824 bone_22 0.3107
+skin 1732 bone_5 0.1561 bone_7 0.3984 bone_20 0.1860 bone_22 0.2595
+skin 1733 bone_5 0.1765 bone_7 0.4010 bone_20 0.1927 bone_22 0.2298
+skin 1734 bone_5 0.2208 bone_7 0.2878 bone_20 0.3268 bone_22 0.1645
+skin 1735 bone_5 0.1633 bone_7 0.3719 bone_20 0.2417 bone_22 0.2232
+skin 1736 bone_5 0.1924 bone_7 0.3305 bone_20 0.2791 bone_22 0.1980
+skin 1737 bone_6 0.1512 bone_7 0.3549 bone_21 0.2385 bone_22 0.2553
+skin 1738 bone_6 0.1414 bone_7 0.4417 bone_21 0.1221 bone_22 0.2948
+skin 1739 bone_6 0.1344 bone_7 0.4577 bone_21 0.1184 bone_22 0.2895
+skin 1740 bone_5 0.1647 bone_7 0.3943 bone_20 0.1842 bone_22 0.2568
+skin 1741 bone_6 0.1332 bone_7 0.4570 bone_21 0.1354 bone_22 0.2744
+skin 1742 bone_6 0.1732 bone_7 0.3262 bone_21 0.2651 bone_22 0.2355
+skin 1743 bone_6 0.1551 bone_7 0.4451 bone_21 0.1276 bone_22 0.2721
+skin 1744 bone_6 0.1627 bone_7 0.3865 bone_21 0.2212 bone_22 0.2296
+skin 1745 bone_6 0.1718 bone_7 0.3550 bone_21 0.2334 bone_22 0.2397
+skin 1746 bone_6 0.1350 bone_7 0.4612 bone_21 0.1194 bone_22 0.2844
+skin 1747 bone_5 0.2295 bone_7 0.2078 bone_20 0.4148 bone_21 0.1478
+skin 1748 bone_5 0.1958 bone_7 0.3733 bone_20 0.2171 bone_22 0.2139
+skin 1749 bone_5 0.1979 bone_7 0.3589 bone_20 0.2355 bone_22 0.2077
+skin 1750 bone_5 0.2241 bone_7 0.2329 bone_20 0.3959 bone_21 0.1471
+skin 1751 bone_5 0.1945 bone_7 0.3218 bone_20 0.2718 bone_22 0.2118
+skin 1752 bone_5 0.2317 bone_7 0.2266 bone_20 0.3883 bone_21 0.1534
+skin 1753 bone_5 0.2232 bone_7 0.2741 bone_20 0.3264 bone_22 0.1763
+skin 1754 bone_5 0.1405 bone_7 0.4513 bone_20 0.1400 bone_22 0.2683
+skin 1755 bone_6 0.1326 bone_7 0.4836 bone_21 0.1018 bone_22 0.2820
+skin 1756 bone_5 0.1007 bone_6 0.1084 bone_7 0.5169 bone_22 0.2741
+skin 1757 bone_5 0.0926 bone_6 0.1057 bone_7 0.5261 bone_22 0.2756
+skin 1758 bone_6 0.1054 bone_7 0.5397 bone_21 0.0831 bone_22 0.2718
+skin 1759 bone_6 0.1502 bone_7 0.4033 bone_21 0.1751 bone_22 0.2714
+skin 1760 bone_5 0.1589 bone_7 0.4193 bone_20 0.1567 bone_22 0.2650
+skin 1761 bone_5 0.1570 bone_7 0.4344 bone_20 0.1512 bone_22 0.2574
+skin 1762 bone_6 0.1040 bone_7 0.5534 bone_21 0.0555 bone_22 0.2871
+skin 1763 bone_6 0.1051 bone_7 0.6063 bone_21 0.0000 bone_22 0.2886
+skin 1764 bone_6 0.0998 bone_7 0.6129 bone_22 0.2874
+skin 1765 bone_6 0.0937 bone_7 0.5607 bone_21 0.0000 bone_22 0.3456
+skin 1766 bone_6 0.1244 bone_7 0.4346 bone_21 0.1347 bone_22 0.3063
+skin 1767 bone_6 0.1140 bone_7 0.4748 bone_21 0.0849 bone_22 0.3263
+skin 1768 bone_6 0.1407 bone_7 0.3982 bone_21 0.1776 bone_22 0.2836
+skin 1769 bone_5 0.1377 bone_7 0.4371 bone_20 0.1565 bone_22 0.2687
+skin 1770 bone_5 0.1560 bone_7 0.4100 bone_20 0.1729 bone_22 0.2611
+skin 1771 bone_6 0.1140 bone_7 0.4990 bone_21 0.0836 bone_22 0.3034
+skin 1772 bone_5 0.1114 bone_6 0.1207 bone_7 0.4743 bone_22 0.2936
+skin 1773 bone_6 0.1456 bone_7 0.3911 bone_21 0.1829 bone_22 0.2804
+skin 1774 bone_6 0.1146 bone_7 0.4557 bone_21 0.1101 bone_22 0.3196
+skin 1775 bone_6 0.1680 bone_7 0.3564 bone_21 0.2203 bone_22 0.2553
+skin 1776 bone_5 0.1817 bone_7 0.3401 bone_21 0.2376 bone_22 0.2407
+skin 1777 bone_5 0.2814 bone_7 0.0992 bone_20 0.2480 bone_21 0.3715
+skin 1778 bone_5 0.2558 bone_7 0.1722 bone_21 0.4162 bone_22 0.1559
+skin 1779 bone_4 0.1284 bone_5 0.1094 bone_19 0.4258 bone_20 0.3363
+skin 1780 bone_4 0.0984 bone_5 0.1156 bone_19 0.3724 bone_20 0.4136
+skin 1781 bone_4 0.1109 bone_18 0.2047 bone_19 0.5301 bone_20 0.1543
+skin 1782 tripo::0_Right_Limb_1 0.1143 bone_18 0.2880 bone_19 0.4856 bone_20 0.1121
+skin 1783 bone_5 0.2288 bone_7 0.2097 bone_20 0.4124 bone_21 0.1491
+skin 1784 bone_5 0.2326 bone_7 0.1836 bone_20 0.4234 bone_21 0.1603
+skin 1785 bone_6 0.1363 bone_7 0.4174 bone_21 0.1502 bone_22 0.2962
+skin 1786 bone_5 0.2004 bone_7 0.3199 bone_20 0.2860 bone_22 0.1937
+skin 1787 bone_5 0.1679 bone_7 0.4075 bone_20 0.1801 bone_22 0.2445
+skin 1788 bone_4 0.1325 bone_5 0.0814 bone_19 0.5005 bone_20 0.2856
+skin 1789 bone_4 0.1055 bone_5 0.0934 bone_19 0.4536 bone_20 0.3474
+skin 1790 bone_4 0.1611 bone_18 0.0790 bone_19 0.5356 bone_20 0.2244
+skin 1791 bone_5 0.2754 bone_7 0.1162 bone_20 0.2482 bone_21 0.3602
+skin 1792 bone_6 0.1783 bone_7 0.3843 bone_21 0.1570 bone_22 0.2804
+skin 1793 bone_5 0.2873 bone_6 0.0966 bone_20 0.2435 bone_21 0.3726
+skin 1794 bone_5 0.3379 bone_7 0.0000 bone_20 0.3810 bone_21 0.2810
+skin 1795 bone_5 0.2581 bone_7 0.1187 bone_20 0.3690 bone_21 0.2542
+skin 1796 bone_5 0.2183 bone_7 0.1428 bone_20 0.3845 bone_21 0.2544
+skin 1797 bone_5 0.2400 bone_7 0.1686 bone_20 0.4306 bone_21 0.1608
+skin 1798 bone_5 0.2726 bone_7 0.0587 bone_20 0.4411 bone_21 0.2276
+skin 1799 bone_4 0.1104 bone_18 0.2069 bone_19 0.5290 bone_20 0.1537
+skin 1800 bone_4 0.1200 bone_18 0.1443 bone_19 0.5502 bone_20 0.1855
+skin 1801 bone_5 0.2326 bone_7 0.2004 bone_20 0.4170 bone_21 0.1499
+skin 1802 bone_5 0.2151 bone_7 0.1843 bone_20 0.4535 bone_21 0.1472
+skin 1803 bone_5 0.2025 bone_7 0.3488 bone_20 0.2333 bone_22 0.2154
+skin 1804 bone_5 0.1941 bone_7 0.3552 bone_20 0.2295 bone_22 0.2212
+skin 1805 bone_5 0.1736 bone_7 0.4087 bone_20 0.1670 bone_22 0.2507
+skin 1806 bone_5 0.2317 bone_7 0.2182 bone_20 0.3758 bone_21 0.1743
+skin 1807 bone_5 0.3211 bone_7 0.0000 bone_20 0.4530 bone_21 0.2259
+skin 1808 bone_6 0.1641 bone_7 0.2930 bone_21 0.3188 bone_22 0.2241
+skin 1809 bone_5 0.2046 bone_7 0.2103 bone_20 0.2262 bone_21 0.3588
+skin 1810 bone_5 0.2997 bone_20 0.5839 bone_21 0.1165
+skin 1811 bone_5 0.3006 bone_6 0.0758 bone_20 0.2784 bone_21 0.3453
+skin 1812 bone_5 0.2982 bone_6 0.0924 bone_20 0.2528 bone_21 0.3565
+skin 1813 bone_4 0.1631 bone_5 0.2140 bone_19 0.2094 bone_20 0.4134
+skin 1814 bone_5 0.3184 bone_20 0.5028 bone_21 0.1788
+skin 1815 bone_4 0.1014 bone_5 0.2400 bone_19 0.1626 bone_20 0.4960
+skin 1816 bone_5 0.2302 bone_7 0.1911 bone_20 0.4214 bone_21 0.1573
+skin 1817 bone_5 0.2397 bone_7 0.0871 bone_20 0.5217 bone_21 0.1514
+skin 1818 bone_5 0.2471 bone_7 0.0934 bone_20 0.4986 bone_21 0.1609
+skin 1819 bone_5 0.2851 bone_20 0.5546 bone_21 0.1603
+skin 1820 bone_5 0.3354 bone_20 0.3545 bone_21 0.3102
+skin 1821 bone_5 0.3306 bone_20 0.3732 bone_21 0.2961
+skin 1822 bone_5 0.3281 bone_20 0.4642 bone_21 0.2078
+skin 1823 bone_5 0.3110 bone_6 0.0682 bone_20 0.3059 bone_21 0.3148
+skin 1824 bone_5 0.3345 bone_20 0.4839 bone_21 0.1815
+skin 1825 bone_5 0.3437 bone_7 0.0000 bone_20 0.3952 bone_21 0.2610
+skin 1826 bone_4 0.0942 bone_5 0.2085 bone_19 0.1868 bone_20 0.5104
+skin 1827 bone_4 0.1319 bone_5 0.1457 bone_19 0.3301 bone_20 0.3924
+skin 1828 bone_4 0.1452 bone_5 0.1232 bone_19 0.3961 bone_20 0.3355
+skin 1829 bone_4 0.1278 bone_5 0.1430 bone_19 0.3334 bone_20 0.3958
+skin 1830 bone_5 0.3463 bone_20 0.4812 bone_21 0.1724
+skin 1831 bone_5 0.3013 bone_6 0.0947 bone_20 0.2552 bone_21 0.3489
+skin 1832 bone_5 0.2476 bone_7 0.0545 bone_20 0.5321 bone_21 0.1658
+skin 1833 bone_5 0.2773 bone_7 0.0000 bone_20 0.5550 bone_21 0.1677
+skin 1834 bone_5 0.2462 bone_7 0.1463 bone_20 0.4029 bone_21 0.2046
+skin 1835 bone_5 0.3022 bone_20 0.5265 bone_21 0.1713
+skin 1836 bone_5 0.2462 bone_7 0.1465 bone_20 0.4027 bone_21 0.2046
+skin 1837 bone_5 0.2199 bone_7 0.2663 bone_20 0.3146 bone_21 0.1991
+skin 1838 bone_5 0.2768 bone_7 0.0000 bone_20 0.5588 bone_21 0.1645
+skin 1839 bone_5 0.2397 bone_7 0.1954 bone_20 0.3729 bone_21 0.1919
+skin 1840 bone_4 0.1131 bone_5 0.0739 bone_19 0.5067 bone_20 0.3063
+skin 1841 bone_4 0.1150 bone_18 0.1353 bone_19 0.5493 bone_20 0.2004
+skin 1842 bone_4 0.1241 bone_5 0.0905 bone_19 0.4766 bone_20 0.3087
+skin 1843 bone_4 0.1105 bone_5 0.1400 bone_19 0.3298 bone_20 0.4196
+skin 1844 bone_4 0.1268 bone_5 0.1245 bone_19 0.3744 bone_20 0.3743
+skin 1845 bone_5 0.2259 bone_7 0.1855 bone_20 0.4297 bone_21 0.1589
+skin 1846 bone_5 0.2331 bone_7 0.1899 bone_20 0.4183 bone_21 0.1587
+skin 1847 bone_5 0.2365 bone_7 0.1530 bone_20 0.4451 bone_21 0.1654
+skin 1848 bone_4 0.0735 bone_5 0.2343 bone_19 0.1475 bone_20 0.5447
+skin 1849 bone_4 0.1097 bone_5 0.1503 bone_19 0.2999 bone_20 0.4401
+skin 1850 bone_5 0.2761 bone_7 0.0000 bone_20 0.5089 bone_21 0.2151
+skin 1851 bone_5 0.2410 bone_7 0.1629 bone_20 0.4151 bone_21 0.1810
+skin 1852 bone_5 0.2397 bone_7 0.1954 bone_20 0.3730 bone_21 0.1919
+skin 1853 bone_5 0.2277 bone_7 0.2213 bone_20 0.3482 bone_21 0.2028
+skin 1854 bone_5 0.2924 bone_20 0.5058 bone_21 0.2018
+skin 1855 bone_5 0.2932 bone_7 0.0766 bone_20 0.3004 bone_21 0.3298
+skin 1856 bone_5 0.2841 bone_20 0.5332 bone_21 0.1828
+skin 1857 bone_5 0.2977 bone_20 0.5957 bone_21 0.1065
+skin 1858 bone_5 0.2977 bone_20 0.5200 bone_21 0.1823
+skin 1859 bone_5 0.2485 bone_7 0.0737 bone_20 0.5156 bone_21 0.1622
+skin 1860 bone_5 0.2749 bone_19 0.0783 bone_20 0.5379 bone_21 0.1089
+skin 1861 bone_5 0.2938 bone_19 0.0000 bone_20 0.5139 bone_21 0.1923
+skin 1862 bone_5 0.2836 bone_20 0.6147 bone_21 0.1017
+skin 1863 bone_5 0.2677 bone_20 0.6173 bone_21 0.1151
+skin 1864 bone_5 0.2868 bone_20 0.5632 bone_21 0.1500
+skin 1865 bone_5 0.2691 bone_7 0.0000 bone_20 0.5876 bone_21 0.1434
+skin 1866 bone_5 0.2871 bone_20 0.5435 bone_21 0.1694
+skin 1867 bone_5 0.2759 bone_20 0.5707 bone_21 0.1534
+skin 1868 bone_5 0.2778 bone_20 0.5470 bone_21 0.1752
+skin 1869 bone_5 0.2937 bone_20 0.5651 bone_21 0.1412
+skin 1870 bone_5 0.2923 bone_19 0.0000 bone_20 0.5707 bone_21 0.1370
+skin 1871 bone_4 0.0997 bone_5 0.2161 bone_19 0.1824 bone_20 0.5018
+skin 1872 bone_5 0.2748 bone_19 0.0000 bone_20 0.5806 bone_21 0.1446
+skin 1873 bone_5 0.2476 bone_7 0.1298 bone_20 0.4540 bone_21 0.1686
+skin 1874 bone_5 0.2381 bone_7 0.1946 bone_20 0.3801 bone_21 0.1872
+skin 1875 bone_4 0.1048 bone_5 0.1191 bone_19 0.3983 bone_20 0.3778
+skin 1876 bone_4 0.0926 bone_5 0.1013 bone_19 0.4264 bone_20 0.3797
+skin 1877 bone_4 0.0824 bone_5 0.1040 bone_19 0.3731 bone_20 0.4405
+skin 1878 bone_4 0.0862 bone_5 0.1007 bone_19 0.4179 bone_20 0.3951
+skin 1879 bone_4 0.1117 bone_5 0.1257 bone_19 0.3894 bone_20 0.3732
+skin 1880 bone_5 0.3376 bone_20 0.4881 bone_21 0.1743
+skin 1881 bone_5 0.3187 bone_20 0.5152 bone_21 0.1661
+skin 1882 bone_5 0.3316 bone_20 0.5044 bone_21 0.1640
+skin 1883 bone_5 0.2492 bone_7 0.0623 bone_20 0.5206 bone_21 0.1679
+skin 1884 bone_5 0.2494 bone_7 0.0619 bone_20 0.5202 bone_21 0.1685
+skin 1885 bone_4 0.0862 bone_5 0.2339 bone_19 0.1652 bone_20 0.5147
+skin 1886 bone_4 0.0910 bone_5 0.1838 bone_19 0.2323 bone_20 0.4929
+skin 1887 bone_4 0.0873 bone_5 0.1827 bone_19 0.2360 bone_20 0.4940
+skin 1888 bone_4 0.1009 bone_5 0.1375 bone_19 0.3367 bone_20 0.4250
+skin 1889 bone_4 0.0701 bone_5 0.2349 bone_19 0.1473 bone_20 0.5477
+skin 1890 bone_4 0.0833 bone_5 0.1284 bone_19 0.3195 bone_20 0.4687
+skin 1891 bone_5 0.2755 bone_20 0.5424 bone_21 0.1821
+skin 1892 bone_5 0.2911 bone_20 0.5943 bone_21 0.1146
+skin 1893 bone_4 0.1296 bone_5 0.1185 bone_19 0.4074 bone_20 0.3445
+skin 1894 bone_4 0.1235 bone_5 0.1154 bone_19 0.4230 bone_20 0.3381
+skin 1895 bone_4 0.0889 bone_5 0.1342 bone_19 0.3251 bone_20 0.4518
+skin 1896 bone_4 0.1466 bone_5 0.0996 bone_19 0.4646 bone_20 0.2892
+skin 1897 bone_4 0.1225 bone_5 0.2004 bone_19 0.2111 bone_20 0.4660
+skin 1898 bone_4 0.0964 bone_5 0.2105 bone_19 0.1930 bone_20 0.5001
+skin 1899 bone_5 0.2840 bone_20 0.5332 bone_21 0.1828
+skin 1900 bone_5 0.2828 bone_7 0.0000 bone_20 0.5515 bone_21 0.1657
+skin 1901 bone_5 0.2597 bone_7 0.0000 bone_20 0.5612 bone_21 0.1792
+skin 1902 bone_5 0.2752 bone_7 0.0000 bone_20 0.5442 bone_21 0.1806
+skin 1903 bone_5 0.2436 bone_7 0.0947 bone_20 0.4979 bone_21 0.1639
+skin 1904 bone_5 0.2796 bone_20 0.5175 bone_21 0.2029
+skin 1905 bone_5 0.2684 bone_20 0.5892 bone_21 0.1424
+skin 1906 bone_5 0.2818 bone_20 0.5852 bone_21 0.1329
+skin 1907 bone_5 0.2897 bone_20 0.5899 bone_21 0.1204
+skin 1908 bone_5 0.2865 bone_20 0.5529 bone_21 0.1606
+skin 1909 bone_5 0.2543 bone_19 0.0000 bone_20 0.6295 bone_21 0.1162
+skin 1910 bone_4 0.0834 bone_5 0.1362 bone_19 0.3063 bone_20 0.4741
+skin 1911 bone_4 0.0825 bone_5 0.1167 bone_19 0.3486 bone_20 0.4522
+skin 1912 bone_4 0.0854 bone_5 0.1140 bone_19 0.3515 bone_20 0.4492
+skin 1913 bone_5 0.2932 bone_20 0.5095 bone_21 0.1973
+skin 1914 bone_5 0.2770 bone_20 0.5654 bone_21 0.1575
+skin 1915 bone_5 0.3014 bone_20 0.5379 bone_21 0.1607
+skin 1916 bone_5 0.2872 bone_20 0.4891 bone_21 0.2238
+skin 1917 bone_5 0.2685 bone_20 0.5274 bone_21 0.2041
+skin 1918 bone_5 0.2717 bone_7 0.0000 bone_20 0.5277 bone_21 0.2007
+skin 1919 bone_5 0.2456 bone_7 0.1184 bone_20 0.4699 bone_21 0.1661
+skin 1920 bone_5 0.2981 bone_20 0.5225 bone_21 0.1794
+skin 1921 bone_5 0.3096 bone_20 0.5020 bone_21 0.1884
+skin 1922 bone_5 0.2753 bone_20 0.5511 bone_21 0.1737
+skin 1923 bone_5 0.2793 bone_20 0.5677 bone_21 0.1530
+skin 1924 bone_5 0.2727 bone_20 0.5909 bone_21 0.1364
+skin 1925 bone_5 0.2729 bone_20 0.5904 bone_21 0.1367
+skin 1926 bone_5 0.3142 bone_20 0.4293 bone_21 0.2566
+skin 1927 bone_5 0.2965 bone_20 0.5153 bone_21 0.1882
+skin 1928 bone_5 0.2854 bone_20 0.5266 bone_21 0.1880
+skin 1929 bone_5 0.2800 bone_20 0.5515 bone_21 0.1685
+skin 1930 bone_5 0.2791 bone_20 0.5398 bone_21 0.1811
+skin 1931 bone_5 0.2781 bone_20 0.5389 bone_21 0.1830
+skin 1932 bone_4 0.0796 bone_5 0.1048 bone_19 0.3694 bone_20 0.4462
+skin 1933 bone_4 0.0528 bone_5 0.2471 bone_19 0.1156 bone_20 0.5845
+skin 1934 bone_4 0.0633 bone_5 0.1966 bone_19 0.1723 bone_20 0.5679
+skin 1935 bone_4 0.0930 bone_5 0.1419 bone_19 0.3019 bone_20 0.4632
+skin 1936 bone_4 0.0910 bone_5 0.2122 bone_19 0.1820 bone_20 0.5148
+skin 1937 bone_5 0.2436 bone_19 0.0856 bone_20 0.6059 bone_21 0.0649
+skin 1938 bone_5 0.2530 bone_20 0.6607 bone_21 0.0863
+skin 1939 bone_5 0.2529 bone_19 0.1014 bone_20 0.6457 bone_21 0.0000
+skin 1940 bone_5 0.2542 bone_19 0.1063 bone_20 0.5799 bone_21 0.0595
+skin 1941 bone_4 0.0641 bone_5 0.2615 bone_19 0.1143 bone_20 0.5602
+skin 1942 bone_5 0.2580 bone_19 0.0918 bone_20 0.5797 bone_21 0.0705
+skin 1943 bone_5 0.2976 bone_20 0.5354 bone_21 0.1670
+skin 1944 bone_5 0.2855 bone_20 0.5483 bone_21 0.1662
+skin 1945 bone_5 0.2652 bone_20 0.5781 bone_21 0.1566
+skin 1946 bone_5 0.2769 bone_20 0.5340 bone_21 0.1891
+skin 1947 bone_5 0.2864 bone_20 0.5340 bone_21 0.1797
+skin 1948 bone_5 0.2620 bone_20 0.5987 bone_21 0.1394
+skin 1949 bone_5 0.2774 bone_19 0.0000 bone_20 0.5905 bone_21 0.1320
+skin 1950 bone_5 0.2307 bone_19 0.0575 bone_20 0.6298 bone_21 0.0820
+skin 1951 bone_5 0.2899 bone_20 0.5129 bone_21 0.1972
+skin 1952 bone_4 0.0873 bone_5 0.2347 bone_19 0.1586 bone_20 0.5193
+skin 1953 bone_5 0.2831 bone_20 0.5410 bone_21 0.1759
+skin 1954 bone_5 0.3229 bone_20 0.3978 bone_21 0.2792
+skin 1955 bone_5 0.3096 bone_20 0.5020 bone_21 0.1885
+skin 1956 bone_5 0.2806 bone_20 0.5814 bone_21 0.1379
+skin 1957 bone_5 0.2625 bone_20 0.5816 bone_21 0.1559
+skin 1958 bone_5 0.2779 bone_20 0.6062 bone_21 0.1159
+skin 1959 bone_5 0.2815 bone_20 0.5656 bone_21 0.1530
+skin 1960 bone_5 0.3077 bone_20 0.4733 bone_21 0.2190
+skin 1961 bone_5 0.3196 bone_20 0.4570 bone_21 0.2234
+skin 1962 bone_4 0.0698 bone_5 0.1384 bone_19 0.2706 bone_20 0.5212
+skin 1963 bone_4 0.0969 bone_5 0.2071 bone_19 0.1985 bone_20 0.4975
+skin 1964 bone_4 0.0887 bone_5 0.1454 bone_19 0.2907 bone_20 0.4752
+skin 1965 bone_4 0.0916 bone_5 0.1428 bone_19 0.3022 bone_20 0.4633
+skin 1966 bone_4 0.0721 bone_5 0.1331 bone_19 0.2895 bone_20 0.5053
+skin 1967 bone_5 0.2679 bone_20 0.6312 bone_21 0.1009
+skin 1968 bone_5 0.2997 bone_20 0.5621 bone_21 0.1382
+skin 1969 bone_5 0.2989 bone_20 0.5332 bone_21 0.1679
+skin 1970 bone_5 0.3258 bone_20 0.4426 bone_21 0.2315
+skin 1971 bone_5 0.3204 bone_20 0.4239 bone_21 0.2558
+skin 1972 bone_5 0.3198 bone_20 0.4264 bone_21 0.2538
+skin 1973 bone_5 0.2691 bone_20 0.6180 bone_21 0.1129
+skin 1974 bone_5 0.3110 bone_20 0.5016 bone_21 0.1874
+skin 1975 bone_5 0.2758 bone_20 0.5882 bone_21 0.1360
+skin 1976 bone_5 0.2898 bone_20 0.5992 bone_21 0.1110
+skin 1977 bone_5 0.2723 bone_20 0.6216 bone_21 0.1062
+skin 1978 bone_5 0.2830 bone_20 0.5487 bone_21 0.1682
+skin 1979 bone_5 0.3201 bone_20 0.3858 bone_21 0.2941
+skin 1980 bone_5 0.3126 bone_20 0.4475 bone_21 0.2399
+skin 1981 bone_5 0.2943 bone_20 0.5510 bone_21 0.1547
+skin 1982 bone_5 0.2555 bone_20 0.6253 bone_21 0.1193
+skin 1983 bone_5 0.2346 bone_19 0.0923 bone_20 0.6166 bone_21 0.0565
+skin 1984 bone_5 0.2303 bone_19 0.0590 bone_20 0.6355 bone_21 0.0753
+skin 1985 bone_5 0.2361 bone_19 0.0758 bone_20 0.6221 bone_21 0.0660
+skin 1986 bone_5 0.2363 bone_19 0.0000 bone_20 0.6756 bone_21 0.0881
+skin 1987 bone_5 0.2272 bone_19 0.1472 bone_20 0.6256
+skin 1988 bone_5 0.2424 bone_19 0.0959 bone_20 0.6053 bone_21 0.0563
+skin 1989 bone_4 0.0561 bone_5 0.2024 bone_19 0.1590 bone_20 0.5825
+skin 1990 bone_4 0.0540 bone_5 0.1954 bone_19 0.1575 bone_20 0.5931
+skin 1991 bone_4 0.0541 bone_5 0.2118 bone_19 0.1480 bone_20 0.5861
+skin 1992 bone_4 0.0549 bone_5 0.1920 bone_19 0.1533 bone_20 0.5998
+skin 1993 bone_4 0.0831 bone_5 0.2011 bone_19 0.1876 bone_20 0.5282
+skin 1994 bone_4 0.0642 bone_5 0.1933 bone_19 0.1740 bone_20 0.5686
+skin 1995 bone_5 0.2505 bone_19 0.1094 bone_20 0.6400 bone_21 0.0000
+skin 1996 bone_4 0.0910 bone_5 0.2121 bone_19 0.1821 bone_20 0.5148
+skin 1997 bone_5 0.2404 bone_19 0.0930 bone_20 0.6142 bone_21 0.0524
+skin 1998 bone_5 0.2404 bone_19 0.0930 bone_20 0.6142 bone_21 0.0524
+skin 1999 bone_5 0.2390 bone_19 0.0807 bone_20 0.6202 bone_21 0.0602
+skin 2000 bone_5 0.2352 bone_19 0.0571 bone_20 0.6209 bone_21 0.0868
+skin 2001 bone_5 0.2443 bone_19 0.0640 bone_20 0.6226 bone_21 0.0691
+skin 2002 bone_4 0.0587 bone_5 0.1743 bone_19 0.1786 bone_20 0.5884
+hier tripo::Root tripo::Head_0
+hier tripo::Root tripo::1_Left_Limb_0
+hier tripo::Head_0 tripo::0_Right_Limb_0
+hier tripo::Head_0 tripo::1_Right_Limb_0
+hier tripo::Head_0 tripo::0_Left_Limb_0
+hier tripo::0_Right_Limb_0 tripo::0_Right_Limb_1
+hier tripo::0_Right_Limb_0 bone_18
+hier tripo::0_Right_Limb_1 bone_4
+hier tripo::0_Right_Limb_1 bone_8
+hier tripo::0_Right_Limb_1 bone_13
+hier bone_4 bone_5
+hier bone_5 bone_6
+hier bone_6 bone_7
+hier bone_8 bone_9
+hier bone_9 bone_10
+hier bone_10 bone_11
+hier bone_11 bone_12
+hier bone_13 bone_14
+hier bone_14 bone_15
+hier bone_15 bone_16
+hier bone_16 bone_17
+hier bone_18 bone_19
+hier bone_19 bone_20
+hier bone_20 bone_21
+hier bone_21 bone_22
+hier tripo::1_Right_Limb_0 tripo::1_Right_Limb_1
+hier tripo::1_Right_Limb_1 bone_25
+hier bone_25 bone_26
+hier bone_26 bone_27
+hier tripo::0_Left_Limb_0 tripo::0_Left_Limb_1
+hier tripo::0_Left_Limb_1 bone_30
+hier bone_30 bone_31
+hier bone_31 bone_32
+hier tripo::1_Left_Limb_0 tripo::1_Left_Limb_1
+hier tripo::1_Left_Limb_1 bone_35
+hier bone_35 bone_36
+hier bone_36 bone_37

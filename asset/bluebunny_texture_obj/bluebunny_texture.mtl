@@ -1,0 +1,16 @@
+# Blender 4.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl bluebunny_texture
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd bluebunny_texture.jpg
+map_Ns bluebunny_roughness.JPEG
+map_Pr bluebunny_roughness.JPEG
+map_refl bluebunny_metallic.JPEG
+map_Pm bluebunny_metallic.JPEG
+map_Bump -bm 1.000000 bluebunny_Normal_Bake.jpg

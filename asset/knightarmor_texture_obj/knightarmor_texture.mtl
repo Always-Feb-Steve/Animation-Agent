@@ -1,0 +1,16 @@
+# Blender 4.5.2 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl knightarmor_texture
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd knightarmor_texture.jpg
+map_Ns knightarmor_texture_Roughness.jpg
+map_Pr knightarmor_texture_Roughness.jpg
+map_refl knightarmor_texture_Metallic.jpg
+map_Pm knightarmor_texture_Metallic.jpg
+map_Bump -bm 1.000000 knightarmor_texture_2.jpg

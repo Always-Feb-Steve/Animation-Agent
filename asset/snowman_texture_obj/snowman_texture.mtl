@@ -1,0 +1,16 @@
+# Blender 4.5.2 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl snowman_texture
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd snowman_texture.jpg
+map_Ns snowman_texture_Roughness.jpg
+map_Pr snowman_texture_Roughness.jpg
+map_refl snowman_texture_Metallic.jpg
+map_Pm snowman_texture_Metallic.jpg
+map_Bump -bm 1.000000 snowman_texture_2.jpg

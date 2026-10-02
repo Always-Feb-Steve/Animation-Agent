@@ -1,0 +1,111 @@
+background_color:
+- 1.0
+- 1.0
+- 1.0
+camera:
+  azim: 135
+  dist: 1.25
+  elev: 10
+checkpoint_interval: 100
+checkpoint_path: ./checkpoints
+device: cuda:0
+frame_num: 120
+image_size: 512
+lights:
+  ambient_color:
+  - 0.95
+  - 0.95
+  - 0.95
+  diffuse_color:
+  - 0.05
+  - 0.05
+  - 0.05
+  location:
+  - 0.0
+  - 0.0
+  - 2.0
+  specular_color:
+  - 0.0
+  - 0.0
+  - 0.0
+log_dir: ./logs
+mesh_path: asset/hornedskull_texture_obj/hornedskull_texture.obj
+output_dir: ./output
+phase1:
+  gradient_clip_norm: 1.0
+  iterations: 50
+  losses:
+    depth_loss_weight: 0.3
+    mask_loss_weight: 1.0
+    rgb_loss_weight: 0.5
+    rotation_reg:
+      threshold: 1.0
+      weight: 1.0
+    smooth:
+      weight_first: 0.3
+      weight_second: 1.0
+    tracking_loss_weight: 3.0
+    translation_reg:
+      threshold: 0.0
+      weight: 100.0
+  optimizer:
+    betas:
+    - 0.9
+    - 0.999
+    eps: 1.0e-08
+    lr: 0.001
+    name: Adam
+    weight_decay: 0.0001
+  scheduler:
+    factor: 0.5
+    patience: 20
+phase2:
+  gradient_clip_norm: 1.0
+  iterations: 200
+  losses:
+    depth_loss_weight: 0.3
+    mask_loss_weight: 1.0
+    rgb_loss_weight: 0.5
+    rotation_reg:
+      threshold: 0.31415926
+      weight: 1.0
+    smooth:
+      weight_first: 0.3
+      weight_second: 1.0
+    tracking_loss_weight: 3.0
+    translation_reg:
+      threshold: 0.0
+      weight: 100.0
+  optimizer:
+    betas:
+    - 0.9
+    - 0.999
+    eps: 1.0e-08
+    lr: 0.001
+    name: Adam
+    weight_decay: 0.0001
+  scheduler:
+    factor: 0.5
+    patience: 20
+physics:
+  losses:
+    depth_loss_weight: 0.1
+    mask_loss_weight: 1.0
+    rgb_loss_weight: 0.5
+    smooth:
+      weight_first: 0.0
+      weight_second: 0.0
+    tracking_loss_weight: 3.0
+  max_E: 1e8
+  min_E: 1e3
+  num_clusters: 100
+  num_iterations: 300
+  save_interval: 2
+  sim_steps: 120
+  sim_time: 1.2
+random_seed: 0
+rig_path: asset/hornedskull_texture_obj/rig/hornedskull_ori_rig.txt
+skeleton_blend_factor: 0.8
+video:
+  fps: 30
+visualize_skeleton: true

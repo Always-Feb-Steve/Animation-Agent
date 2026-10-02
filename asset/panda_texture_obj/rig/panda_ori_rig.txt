@@ -1,0 +1,2585 @@
+joints Root 0.00408713 -0.45345757 0.00234012
+joints Hip 0.00408719 -0.25115368 0.00234011
+joints Pelvis 0.00408721 -0.25115370 0.00234008
+joints L_Thigh -0.01979515 -0.25779786 -0.14293086
+joints L_Calf -0.01345997 -0.41474371 -0.17573362
+joints L_Foot -0.01793119 -0.44343521 -0.17974206
+joints L_CalfTwist01 -0.01345738 -0.41472695 -0.17573128
+joints L_CalfTwist02 -0.01532512 -0.42669621 -0.17740335
+joints L_ThighTwist01 -0.01979833 -0.25771921 -0.14291441
+joints L_ThighTwist02 -0.01663404 -0.33626830 -0.15932343
+joints R_Thigh 0.02786204 -0.24480793 0.14764401
+joints R_ThighTwist01 0.02786797 -0.24472763 0.14764963
+joints R_ThighTwist02 0.02193357 -0.32492889 0.14208385
+joints R_Calf 0.01602443 -0.40505997 0.13653521
+joints R_Foot 0.01359216 -0.43698760 0.13431735
+joints R_CalfTwist01 0.01602585 -0.40504134 0.13653653
+joints R_CalfTwist02 0.01500869 -0.41836068 0.13561211
+joints Waist 0.00408603 -0.25109183 0.00234073
+joints Spine01 0.01681377 -0.19055457 -0.00094434
+joints Spine02 0.00390826 -0.06749899 0.00160371
+joints NeckTwist01 -0.01013396 0.03966435 0.00740871
+joints NeckTwist02 0.00480151 0.07967695 0.00839658
+joints Head 0.01143673 0.10617080 0.00900845
+joints L_Clavicle -0.01332638 0.04012408 -0.01232985
+joints L_Upperarm -0.04244480 0.05885848 -0.17988025
+joints L_Forearm -0.05708523 -0.07097409 -0.21671635
+joints L_ForearmTwist01 -0.05710414 -0.07091460 -0.21670892
+joints L_ForearmTwist02 -0.03817279 -0.13046513 -0.22416470
+joints L_Hand -0.01925220 -0.18997956 -0.23161713
+joints L_UpperarmTwist01 -0.04243746 0.05892333 -0.17986177
+joints L_UpperarmTwist02 -0.04976107 -0.00600032 -0.19828882
+joints R_Clavicle -0.00693045 0.03911998 0.02714269
+joints R_Upperarm 0.01824363 0.05084952 0.19635620
+joints R_UpperarmTwist01 0.01824251 0.05091622 0.19634565
+joints R_UpperarmTwist02 0.01935952 -0.01588467 0.20698340
+joints R_Forearm 0.02050652 -0.08273221 0.21761706
+joints R_ForearmTwist01 0.02048572 -0.08267341 0.21761608
+joints R_ForearmTwist02 0.04129965 -0.14144987 0.21863098
+joints R_Hand 0.06210156 -0.20019082 0.21964652
+root Root
+skin 0 L_ForearmTwist02 0.1725 L_Hand 0.8275
+skin 1 R_ForearmTwist02 0.1216 R_Hand 0.8784
+skin 2 R_ThighTwist02 0.1569 R_Foot 0.3059 R_CalfTwist01 0.4863 R_CalfTwist02 0.0510
+skin 3 L_ForearmTwist01 0.7686 L_ForearmTwist02 0.0471 L_UpperarmTwist02 0.1843
+skin 4 R_UpperarmTwist02 0.1608 R_ForearmTwist01 0.7882 R_ForearmTwist02 0.0510
+skin 5 L_Foot 0.5961 L_CalfTwist01 0.1098 L_CalfTwist02 0.1647 L_ThighTwist02 0.1294
+skin 6 Head 0.9059 R_Clavicle 0.0941
+skin 7 Head 1.0000
+skin 8 L_ForearmTwist02 0.0667 L_Hand 0.9333
+skin 9 R_ThighTwist01 0.9804 R_ThighTwist02 0.0196
+skin 10 Head 0.6275 L_Clavicle 0.3255 L_UpperarmTwist01 0.0471
+skin 11 L_ForearmTwist02 0.1098 L_Hand 0.8902
+skin 12 L_Foot 0.0941 L_CalfTwist01 0.1804 L_ThighTwist02 0.6000 Waist 0.1255
+skin 13 Head 0.9843 L_Clavicle 0.0157
+skin 14 R_ThighTwist01 0.0941 R_ThighTwist02 0.3294 R_Foot 0.2627 R_CalfTwist02 0.3137
+skin 15 L_Foot 0.1176 L_CalfTwist01 0.2863 L_ThighTwist02 0.5333 Waist 0.0627
+skin 16 L_ForearmTwist01 0.0118 L_ForearmTwist02 0.7059 L_Hand 0.2824
+skin 17 Head 0.9922 R_Clavicle 0.0078
+skin 18 R_Hand 1.0000
+skin 19 Head 0.9216 L_Clavicle 0.0784
+skin 20 Head 0.9843 L_Clavicle 0.0157
+skin 21 Head 0.9961 R_Clavicle 0.0039
+skin 22 L_ThighTwist01 0.3176 Spine01 0.2824 L_Clavicle 0.2118 L_UpperarmTwist02 0.1882
+skin 23 R_ForearmTwist02 0.0588 R_Hand 0.9412
+skin 24 L_ForearmTwist01 0.6235 L_ForearmTwist02 0.0196 L_UpperarmTwist02 0.3569
+skin 25 R_UpperarmTwist01 0.0941 R_UpperarmTwist02 0.9020 R_ForearmTwist01 0.0039
+skin 26 Head 0.9961 R_Clavicle 0.0039
+skin 27 Spine01 0.1451 L_Clavicle 0.3137 L_UpperarmTwist01 0.2863 L_UpperarmTwist02 0.2549
+skin 28 Head 0.1804 R_Clavicle 0.7059 R_UpperarmTwist01 0.1137
+skin 29 Head 1.0000
+skin 30 R_ThighTwist02 0.1216 R_Foot 0.6627 R_CalfTwist01 0.0275 R_CalfTwist02 0.1882
+skin 31 R_UpperarmTwist02 0.8196 R_ForearmTwist01 0.1804
+skin 32 R_ThighTwist01 0.9216 R_ThighTwist02 0.0784
+skin 33 R_UpperarmTwist02 0.8588 R_ForearmTwist01 0.1412
+skin 34 L_ForearmTwist01 0.3333 L_ForearmTwist02 0.6157 L_Hand 0.0510
+skin 35 Head 0.2196 L_Clavicle 0.6902 L_UpperarmTwist01 0.0902
+skin 36 L_CalfTwist01 0.0902 L_ThighTwist01 0.1412 L_ThighTwist02 0.5137 Waist 0.2549
+skin 37 L_ForearmTwist01 0.0902 L_UpperarmTwist01 0.0196 L_UpperarmTwist02 0.8902
+skin 38 L_ForearmTwist01 0.8902 L_ForearmTwist02 0.1098
+skin 39 L_ThighTwist02 0.0627 R_ThighTwist01 0.1922 R_ThighTwist02 0.2980 Waist 0.4471
+skin 40 L_ForearmTwist01 0.0078 L_UpperarmTwist01 0.0549 L_UpperarmTwist02 0.9373
+skin 41 L_Foot 0.3216 L_CalfTwist01 0.1333 L_CalfTwist02 0.2118 L_ThighTwist02 0.3333
+skin 42 L_ForearmTwist02 0.2980 L_Hand 0.7020
+skin 43 Head 0.9843 L_Clavicle 0.0157
+skin 44 Head 0.9922 R_Clavicle 0.0078
+skin 45 Head 0.9882 L_Clavicle 0.0118
+skin 46 R_UpperarmTwist02 0.1922 R_ForearmTwist01 0.8078
+skin 47 R_ForearmTwist01 0.0667 R_ForearmTwist02 0.7647 R_Hand 0.1686
+skin 48 R_UpperarmTwist02 0.0902 R_ForearmTwist01 0.8902 R_ForearmTwist02 0.0196
+skin 49 R_ThighTwist02 0.0667 R_Foot 0.6235 R_CalfTwist01 0.0118 R_CalfTwist02 0.2980
+skin 50 L_ForearmTwist02 0.2902 L_Hand 0.7098
+skin 51 R_ForearmTwist02 0.1059 R_Hand 0.8941
+skin 52 Head 0.8471 L_Clavicle 0.1529
+skin 53 R_ForearmTwist02 0.0510 R_Hand 0.9490
+skin 54 L_Foot 0.1333 L_CalfTwist01 0.0549 L_ThighTwist01 0.2235 L_ThighTwist02 0.5882
+skin 55 L_ForearmTwist01 0.8784 L_UpperarmTwist02 0.1216
+skin 56 R_ForearmTwist01 0.2667 R_ForearmTwist02 0.7098 R_Hand 0.0235
+skin 57 L_ForearmTwist02 0.1059 L_Hand 0.8941
+skin 58 L_ForearmTwist01 0.1098 L_UpperarmTwist02 0.8902
+skin 59 R_ThighTwist01 0.4392 Spine01 0.2549 R_Clavicle 0.1451 R_UpperarmTwist02 0.1608
+skin 60 R_ForearmTwist02 0.0745 R_Hand 0.9255
+skin 61 Spine01 0.1020 L_Clavicle 0.2549 L_UpperarmTwist01 0.3725 L_UpperarmTwist02 0.2706
+skin 62 R_ForearmTwist01 0.8118 R_ForearmTwist02 0.1882
+skin 63 L_ForearmTwist01 0.0275 L_ForearmTwist02 0.8824 L_Hand 0.0902
+skin 64 R_ThighTwist01 0.9608 Spine01 0.0392
+skin 65 L_ForearmTwist02 0.6392 L_Hand 0.3608
+skin 66 R_ThighTwist01 0.9020 Spine01 0.0824 R_Clavicle 0.0078 R_UpperarmTwist02 0.0078
+skin 67 R_ThighTwist01 0.1020 R_Clavicle 0.2196 R_UpperarmTwist01 0.3451 R_UpperarmTwist02 0.3333
+skin 68 Head 0.8745 R_Clavicle 0.1255
+skin 69 L_ForearmTwist01 0.7765 L_ForearmTwist02 0.2235
+skin 70 L_ThighTwist01 0.9804 L_ThighTwist02 0.0118 Spine01 0.0078
+skin 71 Head 1.0000
+skin 72 L_ThighTwist01 0.4196 Spine01 0.2863 L_Clavicle 0.1647 L_UpperarmTwist02 0.1294
+skin 73 L_UpperarmTwist02 1.0000
+skin 74 Head 0.9843 L_Clavicle 0.0157
+skin 75 L_ForearmTwist02 0.6431 L_Hand 0.3569
+skin 76 R_Clavicle 0.0588 R_UpperarmTwist01 0.1255 R_UpperarmTwist02 0.7765 R_ForearmTwist01 0.0392
+skin 77 R_ForearmTwist01 0.9608 R_ForearmTwist02 0.0392
+skin 78 R_ThighTwist01 0.3451 Spine01 0.2588 R_Clavicle 0.1922 R_UpperarmTwist02 0.2039
+skin 79 Head 0.1373 L_Clavicle 0.7922 L_UpperarmTwist01 0.0706
+skin 80 R_UpperarmTwist02 0.9765 R_ForearmTwist01 0.0235
+skin 81 Head 0.9961 R_Clavicle 0.0039
+skin 82 L_Foot 0.6157 L_CalfTwist01 0.0784 L_CalfTwist02 0.2157 L_ThighTwist02 0.0902
+skin 83 L_ForearmTwist01 0.1569 L_ForearmTwist02 0.7451 L_Hand 0.0980
+skin 84 L_Foot 0.2392 L_CalfTwist01 0.5490 L_CalfTwist02 0.0196 L_ThighTwist02 0.1922
+skin 85 R_UpperarmTwist02 1.0000
+skin 86 L_ForearmTwist01 0.9804 L_ForearmTwist02 0.0196
+skin 87 R_ForearmTwist01 0.0980 R_ForearmTwist02 0.9020
+skin 88 Spine01 0.1255 R_Clavicle 0.2824 R_UpperarmTwist01 0.3098 R_UpperarmTwist02 0.2824
+skin 89 R_ForearmTwist02 0.7059 R_Hand 0.2941
+skin 90 Head 0.7098 R_Clavicle 0.2431 R_UpperarmTwist01 0.0471
+skin 91 L_UpperarmTwist01 0.9804 L_UpperarmTwist02 0.0196
+skin 92 R_ForearmTwist01 0.2980 R_ForearmTwist02 0.7020
+skin 93 Head 0.9412 R_Clavicle 0.0588
+skin 94 Head 1.0000
+skin 95 Head 1.0000
+skin 96 L_Foot 0.2118 L_CalfTwist01 0.4824 L_CalfTwist02 0.0353 L_ThighTwist02 0.2706
+skin 97 R_ForearmTwist02 0.9412 R_Hand 0.0588
+skin 98 R_ThighTwist01 0.2588 R_ThighTwist02 0.5255 R_Foot 0.1333 R_CalfTwist02 0.0824
+skin 99 L_Foot 0.7059 L_CalfTwist01 0.0745 L_CalfTwist02 0.1412 L_ThighTwist02 0.0784
+skin 100 Spine01 0.0392 L_Clavicle 0.1373 L_UpperarmTwist01 0.4784 L_UpperarmTwist02 0.3451
+skin 101 Head 1.0000
+skin 102 R_ForearmTwist02 0.4980 R_Hand 0.5020
+skin 103 L_UpperarmTwist01 0.0902 L_UpperarmTwist02 0.9098
+skin 104 R_UpperarmTwist01 1.0000
+skin 105 Head 0.0196 L_Clavicle 0.9255 L_UpperarmTwist01 0.0549
+skin 106 R_UpperarmTwist01 0.0392 R_UpperarmTwist02 0.9608
+skin 107 L_UpperarmTwist01 0.0118 L_UpperarmTwist02 0.9882
+skin 108 L_ThighTwist01 0.1451 L_ThighTwist02 0.2235 R_ThighTwist02 0.0627 Waist 0.5686
+skin 109 L_ForearmTwist02 0.4941 L_Hand 0.5059
+skin 110 L_ForearmTwist01 0.3020 L_ForearmTwist02 0.6510 L_Hand 0.0471
+skin 111 R_Clavicle 0.0196 R_UpperarmTwist01 0.1176 R_UpperarmTwist02 0.8627
+skin 112 R_ForearmTwist02 0.6196 R_Hand 0.3804
+skin 113 Head 1.0000
+skin 114 R_ForearmTwist01 0.1294 R_ForearmTwist02 0.8706
+skin 115 Head 0.9412 L_Clavicle 0.0588
+skin 116 L_ThighTwist01 0.9216 Spine01 0.0745 L_Clavicle 0.0039
+skin 117 L_ForearmTwist01 0.1137 L_ForearmTwist02 0.8275 L_Hand 0.0588
+skin 118 R_ThighTwist01 1.0000
+skin 119 Head 0.9529 R_Clavicle 0.0471
+skin 120 Head 0.9725 L_Clavicle 0.0275
+skin 121 L_ForearmTwist01 0.2706 L_ForearmTwist02 0.7216 L_Hand 0.0078
+skin 122 L_ForearmTwist01 0.1804 L_ForearmTwist02 0.7961 L_Hand 0.0235
+skin 123 Head 0.9216 R_Clavicle 0.0784
+skin 124 Head 0.8157 R_Clavicle 0.1686 R_UpperarmTwist01 0.0157
+skin 125 Head 1.0000
+skin 126 R_ThighTwist01 0.8039 R_ThighTwist02 0.1647 R_Foot 0.0314
+skin 127 Head 1.0000
+skin 128 L_Foot 0.0078 L_ThighTwist01 0.7961 L_ThighTwist02 0.1961
+skin 129 L_ThighTwist02 0.0627 R_ThighTwist01 0.1647 R_ThighTwist02 0.2157 Waist 0.5569
+skin 130 R_ForearmTwist02 0.9725 R_Hand 0.0275
+skin 131 L_Foot 0.1529 L_CalfTwist01 0.1765 L_ThighTwist02 0.6039 Waist 0.0667
+skin 132 L_Foot 0.7098 L_CalfTwist01 0.0667 L_CalfTwist02 0.0980 L_ThighTwist02 0.1255
+skin 133 Head 0.0314 R_Clavicle 0.9176 R_UpperarmTwist01 0.0510
+skin 134 Head 0.8784 L_Clavicle 0.1216
+skin 135 R_ThighTwist01 0.7059 Spine01 0.1608 R_Clavicle 0.0706 R_UpperarmTwist02 0.0627
+skin 136 Head 0.7098 L_Clavicle 0.2667 L_UpperarmTwist01 0.0235
+skin 137 L_ForearmTwist01 0.0392 L_ForearmTwist02 0.7608 L_Hand 0.2000
+skin 138 Spine01 0.0510 R_Clavicle 0.1765 R_UpperarmTwist01 0.4784 R_UpperarmTwist02 0.2941
+skin 139 R_ThighTwist01 0.1098 R_ThighTwist02 0.2784 R_Foot 0.3765 R_CalfTwist02 0.2353
+skin 140 R_ThighTwist02 0.5843 R_Foot 0.1529 R_CalfTwist01 0.1412 Waist 0.1216
+skin 141 R_ThighTwist01 0.1922 R_ThighTwist02 0.4824 R_Foot 0.0784 Waist 0.2471
+skin 142 L_ThighTwist01 0.2784 Spine01 0.2941 L_Clavicle 0.2745 L_UpperarmTwist01 0.1529
+skin 143 R_Clavicle 0.0353 R_UpperarmTwist01 0.7686 R_UpperarmTwist02 0.1961
+skin 144 Head 0.1647 L_Clavicle 0.7765 L_UpperarmTwist01 0.0588
+skin 145 Head 1.0000
+skin 146 L_Clavicle 0.1020 L_UpperarmTwist01 0.5686 L_UpperarmTwist02 0.3294
+skin 147 Head 0.4510 R_Clavicle 0.4706 R_UpperarmTwist01 0.0784
+skin 148 L_ThighTwist01 0.9647 L_ThighTwist02 0.0353
+skin 149 R_ThighTwist02 0.5137 R_Foot 0.2235 R_CalfTwist01 0.1882 R_CalfTwist02 0.0745
+skin 150 L_Clavicle 0.0941 L_UpperarmTwist01 0.9020 L_UpperarmTwist02 0.0039
+skin 151 R_ThighTwist01 0.0039 R_ThighTwist02 0.0980 R_Foot 0.7725 R_CalfTwist02 0.1255
+skin 152 L_Foot 0.2627 L_CalfTwist02 0.0314 L_ThighTwist01 0.0980 L_ThighTwist02 0.6078
+skin 153 R_ForearmTwist02 0.4824 R_Hand 0.5176
+skin 154 Head 0.9804 R_Clavicle 0.0196
+skin 155 R_ForearmTwist01 0.0745 R_ForearmTwist02 0.8235 R_Hand 0.1020
+skin 156 L_CalfTwist01 0.0314 L_ThighTwist01 0.2196 L_ThighTwist02 0.2941 Waist 0.4549
+skin 157 R_Clavicle 0.9255 R_UpperarmTwist01 0.0745
+skin 158 L_Foot 0.5647 L_CalfTwist02 0.0588 L_ThighTwist01 0.0588 L_ThighTwist02 0.3176
+skin 159 Spine01 0.1020 L_Clavicle 0.4235 L_UpperarmTwist01 0.3255 L_UpperarmTwist02 0.1490
+skin 160 Head 0.7373 R_Clavicle 0.2275 R_UpperarmTwist01 0.0353
+skin 161 Spine01 0.0980 R_Clavicle 0.3686 R_UpperarmTwist01 0.3569 R_UpperarmTwist02 0.1765
+skin 162 L_ForearmTwist01 0.0118 L_ForearmTwist02 0.7490 L_Hand 0.2392
+skin 163 L_ForearmTwist02 0.6431 L_Hand 0.3569
+skin 164 R_Clavicle 0.1608 R_UpperarmTwist01 0.6980 R_UpperarmTwist02 0.1412
+skin 165 R_ThighTwist01 0.2471 R_ThighTwist02 0.2863 R_Foot 0.0431 Waist 0.4235
+skin 166 L_ForearmTwist01 0.1373 L_ForearmTwist02 0.7529 L_Hand 0.1098
+skin 167 Head 1.0000
+skin 168 L_Foot 0.1059 L_ThighTwist01 0.1608 L_ThighTwist02 0.5765 Waist 0.1569
+skin 169 R_ThighTwist01 0.2039 R_ThighTwist02 0.4863 R_Foot 0.2196 R_CalfTwist02 0.0902
+skin 170 L_Clavicle 0.1569 L_UpperarmTwist01 0.7294 L_UpperarmTwist02 0.1137
+skin 171 Head 0.3373 L_Clavicle 0.6039 L_UpperarmTwist01 0.0588
+skin 172 R_ForearmTwist02 0.7020 R_Hand 0.2980
+skin 173 R_ForearmTwist02 0.6745 R_Hand 0.3255
+skin 174 L_Clavicle 0.9451 L_UpperarmTwist01 0.0549
+skin 175 R_ThighTwist01 1.0000
+skin 176 R_ForearmTwist02 0.6078 R_Hand 0.3922
+skin 177 L_ForearmTwist01 0.0588 L_ForearmTwist02 0.7686 L_Hand 0.1725
+skin 178 Head 0.5882 L_Clavicle 0.3686 L_UpperarmTwist01 0.0431
+skin 179 R_Clavicle 0.3686 R_UpperarmTwist01 0.6314
+skin 180 Head 1.0000
+skin 181 R_ThighTwist02 0.0471 R_Foot 0.8196 R_CalfTwist02 0.1333
+skin 182 R_ThighTwist02 0.1255 R_Foot 0.4588 R_CalfTwist01 0.3294 R_CalfTwist02 0.0863
+skin 183 L_Foot 0.2078 L_CalfTwist01 0.1412 L_ThighTwist01 0.0667 L_ThighTwist02 0.5843
+skin 184 R_ThighTwist01 0.0941 R_ThighTwist02 0.2431 R_Foot 0.5333 R_CalfTwist02 0.1294
+skin 185 R_ThighTwist01 0.5020 Spine01 0.2510 R_Clavicle 0.1373 R_UpperarmTwist02 0.1098
+skin 186 Spine01 0.0353 L_Clavicle 0.3176 L_UpperarmTwist01 0.5333 L_UpperarmTwist02 0.1137
+skin 187 R_Foot 0.9686 R_CalfTwist02 0.0314
+skin 188 Head 0.1373 R_Clavicle 0.8235 R_UpperarmTwist01 0.0392
+skin 189 Head 0.8471 R_Clavicle 0.1490 R_UpperarmTwist01 0.0039
+skin 190 R_ThighTwist02 0.2549 R_Foot 0.3255 R_CalfTwist01 0.2431 R_CalfTwist02 0.1765
+skin 191 Head 0.2157 R_Clavicle 0.7294 R_UpperarmTwist01 0.0549
+skin 192 R_ForearmTwist02 0.7333 R_Hand 0.2667
+skin 193 R_Clavicle 0.2824 R_UpperarmTwist01 0.6784 R_UpperarmTwist02 0.0392
+skin 194 Head 0.9255 L_Clavicle 0.0745
+skin 195 R_ThighTwist01 0.7686 R_ThighTwist02 0.1725 R_Foot 0.0588
+skin 196 L_ForearmTwist02 0.7176 L_Hand 0.2824
+skin 197 L_Foot 0.8353 L_CalfTwist01 0.1176 L_CalfTwist02 0.0118 L_ThighTwist02 0.0353
+skin 198 R_ThighTwist01 0.9490 R_ThighTwist02 0.0510
+skin 199 R_ThighTwist01 0.9176 Spine01 0.0824
+skin 200 Head 0.9569 L_Clavicle 0.0431
+skin 201 R_ThighTwist01 0.2510 Spine01 0.2902 R_Clavicle 0.2824 R_UpperarmTwist01 0.1765
+skin 202 Head 0.6157 R_Clavicle 0.3294 R_UpperarmTwist01 0.0549
+skin 203 Spine01 0.0549 R_Clavicle 0.4000 R_UpperarmTwist01 0.4392 R_UpperarmTwist02 0.1059
+skin 204 R_ThighTwist01 0.9529 Spine01 0.0471
+skin 205 Head 0.2118 L_Clavicle 0.7490 L_UpperarmTwist01 0.0392
+skin 206 L_ThighTwist01 0.9686 L_ThighTwist02 0.0314
+skin 207 L_Foot 0.4000 L_CalfTwist01 0.3686 L_CalfTwist02 0.0549 L_ThighTwist02 0.1765
+skin 208 L_ForearmTwist02 0.6588 L_Hand 0.3412
+skin 209 Head 0.9020 R_Clavicle 0.0980
+skin 210 R_ThighTwist02 0.1608 R_Foot 0.4039 R_CalfTwist01 0.2902 R_CalfTwist02 0.1451
+skin 211 L_Foot 0.8392 L_CalfTwist01 0.0157 L_CalfTwist02 0.0706 L_ThighTwist02 0.0745
+skin 212 Head 0.9922 L_Clavicle 0.0078
+skin 213 L_Foot 0.0627 L_ThighTwist01 0.2824 L_ThighTwist02 0.4275 Waist 0.2275
+skin 214 R_ForearmTwist02 0.6549 R_Hand 0.3451
+skin 215 Spine01 0.1647 R_Clavicle 0.4118 R_UpperarmTwist01 0.2627 R_UpperarmTwist02 0.1608
+skin 216 L_ThighTwist01 0.8039 L_ThighTwist02 0.1961
+skin 217 R_ForearmTwist02 0.6824 R_Hand 0.3176
+skin 218 L_ForearmTwist01 0.0118 L_ForearmTwist02 0.7608 L_Hand 0.2275
+skin 219 Head 0.7843 L_Clavicle 0.2118 L_UpperarmTwist01 0.0039
+skin 220 R_ThighTwist01 0.1059 R_ThighTwist02 0.5098 R_Foot 0.2549 R_CalfTwist01 0.1294
+skin 221 L_Clavicle 0.8549 L_UpperarmTwist01 0.1451
+skin 222 Head 0.8431 L_Clavicle 0.1569
+skin 223 L_Foot 0.8353 L_CalfTwist01 0.0039 L_CalfTwist02 0.0314 L_ThighTwist02 0.1294
+skin 224 Spine01 0.1922 L_Clavicle 0.4510 L_UpperarmTwist01 0.2275 L_UpperarmTwist02 0.1294
+skin 225 L_ThighTwist01 0.6510 Spine01 0.2039 L_Clavicle 0.0941 L_UpperarmTwist02 0.0510
+skin 226 L_Foot 0.7294 L_CalfTwist01 0.1922 L_ThighTwist02 0.0784
+skin 227 L_ThighTwist01 0.9529 Spine01 0.0471
+skin 228 L_ForearmTwist01 0.0235 L_ForearmTwist02 0.7451 L_Hand 0.2314
+skin 229 L_Foot 0.9373 L_CalfTwist02 0.0471 L_ThighTwist02 0.0157
+skin 230 R_ThighTwist02 0.0863 R_Foot 0.6549 R_CalfTwist01 0.2118 R_CalfTwist02 0.0471
+skin 231 L_Foot 0.5294 L_CalfTwist01 0.3059 L_CalfTwist02 0.0235 L_ThighTwist02 0.1412
+skin 232 L_ThighTwist01 0.8784 Spine01 0.1020 L_Clavicle 0.0196
+skin 233 Head 1.0000
+skin 234 R_ForearmTwist02 0.5882 R_Hand 0.4118
+skin 235 R_ThighTwist01 0.0314 R_ThighTwist02 0.1098 R_Foot 0.7804 R_CalfTwist02 0.0784
+skin 236 Spine01 0.0627 L_Clavicle 0.6118 L_UpperarmTwist01 0.2588 L_UpperarmTwist02 0.0667
+skin 237 R_ThighTwist02 0.0549 R_Foot 0.8000 R_CalfTwist01 0.1137 R_CalfTwist02 0.0314
+skin 238 L_Foot 0.3647 L_CalfTwist01 0.2588 L_CalfTwist02 0.1216 L_ThighTwist02 0.2549
+skin 239 Head 1.0000
+skin 240 R_ThighTwist02 0.0118 R_Foot 0.9098 R_CalfTwist02 0.0784
+skin 241 Head 0.5059 L_Clavicle 0.4471 L_UpperarmTwist01 0.0471
+skin 242 R_ThighTwist01 0.2706 R_ThighTwist02 0.4471 R_Foot 0.1137 Waist 0.1686
+skin 243 R_ThighTwist01 0.1529 R_ThighTwist02 0.4118 R_Foot 0.4157 R_CalfTwist02 0.0196
+skin 244 Head 1.0000
+skin 245 R_ThighTwist01 0.3451 R_ThighTwist02 0.3059 R_Foot 0.0745 Waist 0.2745
+skin 246 R_ThighTwist01 0.0863 R_ThighTwist02 0.4157 R_Foot 0.3294 R_CalfTwist01 0.1686
+skin 247 R_ForearmTwist02 0.6314 R_Hand 0.3686
+skin 248 Spine01 0.0118 L_Clavicle 0.8118 L_UpperarmTwist01 0.1647 L_UpperarmTwist02 0.0118
+skin 249 L_ThighTwist02 0.0863 R_ThighTwist01 0.0941 R_ThighTwist02 0.0902 Waist 0.7294
+skin 250 Head 0.8863 L_Clavicle 0.1137
+skin 251 Spine01 0.0510 R_Clavicle 0.6039 R_UpperarmTwist01 0.2902 R_UpperarmTwist02 0.0549
+skin 252 L_Foot 0.2431 L_CalfTwist01 0.0784 L_ThighTwist01 0.0706 L_ThighTwist02 0.6078
+skin 253 L_ForearmTwist01 0.0667 L_ForearmTwist02 0.6471 L_Hand 0.2863
+skin 254 R_ForearmTwist02 0.5843 R_Hand 0.4157
+skin 255 Head 0.8784 R_Clavicle 0.1216
+skin 256 Head 0.1451 L_Clavicle 0.8431 L_UpperarmTwist01 0.0118
+skin 257 Head 0.6824 L_Clavicle 0.2980 L_UpperarmTwist01 0.0196
+skin 258 Head 0.9765 R_Clavicle 0.0235
+skin 259 L_Foot 0.5137 L_ThighTwist01 0.0745 L_ThighTwist02 0.4118
+skin 260 Head 0.9216 R_Clavicle 0.0784
+skin 261 L_Foot 0.0902 L_ThighTwist01 0.3098 L_ThighTwist02 0.6000
+skin 262 L_ThighTwist01 0.3882 Spine01 0.3412 L_Clavicle 0.1843 L_UpperarmTwist01 0.0863
+skin 263 L_Foot 0.9333 L_CalfTwist02 0.0314 L_ThighTwist02 0.0353
+skin 264 L_ThighTwist01 0.9412 L_ThighTwist02 0.0588
+skin 265 Head 0.9412 L_Clavicle 0.0588
+skin 266 R_ThighTwist01 1.0000
+skin 267 L_Foot 0.3608 L_ThighTwist01 0.1255 L_ThighTwist02 0.5137
+skin 268 R_ForearmTwist02 0.5961 R_Hand 0.4039
+skin 269 R_ForearmTwist02 0.6549 R_Hand 0.3451
+skin 270 R_ThighTwist01 0.1216 R_ThighTwist02 0.3176 R_Foot 0.5608
+skin 271 Head 0.9882 R_Clavicle 0.0118
+skin 272 R_ThighTwist01 0.2431 R_ThighTwist02 0.1725 R_Foot 0.0157 Waist 0.5686
+skin 273 Head 0.9373 R_Clavicle 0.0627
+skin 274 R_Clavicle 0.8471 R_UpperarmTwist01 0.1529
+skin 275 R_ThighTwist01 0.1216 R_ThighTwist02 0.5020 R_Foot 0.2980 R_CalfTwist01 0.0784
+skin 276 L_ForearmTwist02 0.7255 L_Hand 0.2745
+skin 277 Head 1.0000
+skin 278 R_Foot 0.9686 R_CalfTwist02 0.0314
+skin 279 R_ThighTwist01 0.9647 Spine01 0.0353
+skin 280 R_ThighTwist01 0.9412 R_ThighTwist02 0.0588
+skin 281 L_Foot 0.2745 L_CalfTwist01 0.0549 L_ThighTwist01 0.0784 L_ThighTwist02 0.5922
+skin 282 L_Foot 0.0157 L_ThighTwist01 0.3020 L_ThighTwist02 0.2745 Waist 0.4078
+skin 283 L_ThighTwist01 0.2196 L_ThighTwist02 0.2039 R_ThighTwist01 0.0118 Waist 0.5647
+skin 284 R_ForearmTwist02 0.6471 R_Hand 0.3529
+skin 285 R_ThighTwist02 0.0588 R_Foot 0.8784 R_CalfTwist02 0.0627
+skin 286 L_ForearmTwist01 0.0196 L_ForearmTwist02 0.6627 L_Hand 0.3176
+skin 287 L_ForearmTwist01 0.0431 L_ForearmTwist02 0.6431 L_Hand 0.3137
+skin 288 R_ThighTwist01 0.1216 R_ThighTwist02 0.4784 R_Foot 0.3490 R_CalfTwist01 0.0510
+skin 289 L_Foot 0.6745 L_CalfTwist01 0.1961 L_CalfTwist02 0.0118 L_ThighTwist02 0.1176
+skin 290 R_ThighTwist01 0.3569 R_ThighTwist02 0.2039 R_Foot 0.0471 Waist 0.3922
+skin 291 L_ForearmTwist01 0.0157 L_ForearmTwist02 0.7255 L_Hand 0.2588
+skin 292 Head 0.9804 L_Clavicle 0.0196
+skin 293 L_ForearmTwist01 0.0039 L_ForearmTwist02 0.7098 L_Hand 0.2863
+skin 294 L_Foot 0.3333 L_ThighTwist01 0.0745 L_ThighTwist02 0.5922
+skin 295 R_ThighTwist01 0.7765 R_ThighTwist02 0.1451 R_Foot 0.0784
+skin 296 Head 0.9725 L_Clavicle 0.0275
+skin 297 L_Foot 0.9255 L_CalfTwist01 0.0392 L_CalfTwist02 0.0039 L_ThighTwist02 0.0314
+skin 298 R_ThighTwist02 0.2549 R_Foot 0.5255 R_CalfTwist01 0.1490 R_CalfTwist02 0.0706
+skin 299 R_ThighTwist01 0.1294 R_ThighTwist02 0.3137 R_Foot 0.5569
+skin 300 L_Foot 0.2980 L_CalfTwist01 0.0157 L_ThighTwist01 0.0784 L_ThighTwist02 0.6078
+skin 301 R_ThighTwist01 0.6471 Spine01 0.2157 R_Clavicle 0.0824 R_UpperarmTwist02 0.0549
+skin 302 Head 0.6078 R_Clavicle 0.3451 R_UpperarmTwist01 0.0471
+skin 303 Head 1.0000
+skin 304 R_ThighTwist02 0.0745 R_Foot 0.7647 R_CalfTwist01 0.1294 R_CalfTwist02 0.0314
+skin 305 R_ForearmTwist02 0.5451 R_Hand 0.4549
+skin 306 L_Foot 0.4784 L_CalfTwist01 0.1490 L_CalfTwist02 0.0588 L_ThighTwist02 0.3137
+skin 307 R_ForearmTwist02 0.5686 R_Hand 0.4314
+skin 308 L_ThighTwist01 0.1765 Spine01 0.3098 L_Clavicle 0.3725 L_UpperarmTwist01 0.1412
+skin 309 R_ThighTwist02 0.0039 R_Foot 0.9961
+skin 310 Head 0.9961 R_Clavicle 0.0039
+skin 311 L_Foot 0.0706 L_ThighTwist01 0.2471 L_ThighTwist02 0.5294 Waist 0.1529
+skin 312 Head 0.9569 R_Clavicle 0.0431
+skin 313 Head 0.8314 R_Clavicle 0.1647 R_UpperarmTwist01 0.0039
+skin 314 Head 0.7529 L_Clavicle 0.2431 L_UpperarmTwist01 0.0039
+skin 315 R_ThighTwist02 0.0078 R_Foot 0.9922
+skin 316 Head 0.7098 R_Clavicle 0.2588 R_UpperarmTwist01 0.0314
+skin 317 Spine01 0.1294 L_Clavicle 0.6392 L_UpperarmTwist01 0.1686 L_UpperarmTwist02 0.0627
+skin 318 R_ThighTwist01 0.4667 R_ThighTwist02 0.2706 R_Foot 0.1059 Waist 0.1569
+skin 319 L_ThighTwist01 0.8588 L_ThighTwist02 0.1412
+skin 320 L_Foot 0.9020 L_CalfTwist01 0.0510 L_ThighTwist02 0.0471
+skin 321 L_Foot 0.8118 L_ThighTwist01 0.0078 L_ThighTwist02 0.1804
+skin 322 R_ThighTwist01 0.3059 Spine01 0.3412 R_Clavicle 0.2392 R_UpperarmTwist01 0.1137
+skin 323 L_ThighTwist01 0.9569 Spine01 0.0431
+skin 324 Head 1.0000
+skin 325 Head 0.1569 R_Clavicle 0.8235 R_UpperarmTwist01 0.0196
+skin 326 Head 0.7843 R_Clavicle 0.2000 R_UpperarmTwist01 0.0157
+skin 327 R_ThighTwist02 0.0353 R_Foot 0.9294 R_CalfTwist02 0.0353
+skin 328 Spine01 0.1373 R_Clavicle 0.6000 R_UpperarmTwist01 0.1922 R_UpperarmTwist02 0.0706
+skin 329 R_ThighTwist01 0.1804 Spine01 0.2667 R_Clavicle 0.4000 R_UpperarmTwist01 0.1529
+skin 330 Head 0.4667 R_Clavicle 0.4902 R_UpperarmTwist01 0.0431
+skin 331 R_ThighTwist01 0.3412 R_ThighTwist02 0.3922 R_Foot 0.2392 Waist 0.0275
+skin 332 L_Foot 0.6549 L_CalfTwist01 0.1765 L_CalfTwist02 0.0196 L_ThighTwist02 0.1490
+skin 333 L_Foot 0.1333 L_ThighTwist01 0.2078 L_ThighTwist02 0.6275 Waist 0.0314
+skin 334 L_Foot 0.0588 L_ThighTwist01 0.4588 L_ThighTwist02 0.4824
+skin 335 R_ThighTwist01 0.7647 R_ThighTwist02 0.1569 R_Foot 0.0784
+skin 336 R_ThighTwist01 0.4667 R_ThighTwist02 0.1725 R_Foot 0.0588 Waist 0.3020
+skin 337 R_ThighTwist02 0.1059 R_Foot 0.7059 R_CalfTwist01 0.1373 R_CalfTwist02 0.0510
+skin 338 R_ThighTwist02 0.0157 R_Foot 0.9725 R_CalfTwist02 0.0118
+skin 339 R_ThighTwist01 0.8510 Spine01 0.1333 R_Clavicle 0.0157
+skin 340 R_ThighTwist02 0.1569 R_Foot 0.6471 R_CalfTwist01 0.1373 R_CalfTwist02 0.0588
+skin 341 Head 0.9333 L_Clavicle 0.0667
+skin 342 Head 0.6118 L_Clavicle 0.3647 L_UpperarmTwist01 0.0235
+skin 343 R_ThighTwist01 0.0471 R_ThighTwist02 0.1373 R_Foot 0.8157
+skin 344 L_Foot 0.9333 L_ThighTwist02 0.0667
+skin 345 R_ThighTwist01 0.9569 Spine01 0.0431
+skin 346 L_Foot 0.0784 L_ThighTwist01 0.2706 L_ThighTwist02 0.5569 Waist 0.0941
+skin 347 L_ThighTwist01 0.6157 Spine01 0.2549 L_Clavicle 0.0980 L_UpperarmTwist02 0.0314
+skin 348 L_ThighTwist01 0.3882 L_ThighTwist02 0.2745 Waist 0.3137 Spine01 0.0235
+skin 349 R_ThighTwist02 0.0667 R_Foot 0.8471 R_CalfTwist01 0.0784 R_CalfTwist02 0.0078
+skin 350 L_Foot 0.5608 L_CalfTwist01 0.0980 L_ThighTwist01 0.0235 L_ThighTwist02 0.3176
+skin 351 L_Foot 0.9137 L_ThighTwist02 0.0863
+skin 352 L_Foot 0.6196 L_CalfTwist01 0.1529 L_CalfTwist02 0.0353 L_ThighTwist02 0.1922
+skin 353 L_Foot 0.8824 L_CalfTwist01 0.0588 L_ThighTwist02 0.0588
+skin 354 Head 0.9059 L_Clavicle 0.0941
+skin 355 L_Foot 0.8157 L_CalfTwist01 0.1020 L_ThighTwist02 0.0824
+skin 356 L_Foot 0.9333 L_CalfTwist01 0.0157 L_ThighTwist02 0.0510
+skin 357 Head 0.9608 L_Clavicle 0.0392
+skin 358 R_ThighTwist02 0.0196 R_Foot 0.9804
+skin 359 Head 0.2431 L_Clavicle 0.7569
+skin 360 L_Foot 0.5373 L_CalfTwist01 0.0549 L_ThighTwist01 0.0431 L_ThighTwist02 0.3647
+skin 361 R_ThighTwist02 0.0824 R_Foot 0.7843 R_CalfTwist01 0.1059 R_CalfTwist02 0.0275
+skin 362 L_Foot 0.7412 L_CalfTwist01 0.1412 L_ThighTwist02 0.1176
+skin 363 R_ThighTwist01 0.9882 R_ThighTwist02 0.0118
+skin 364 R_ThighTwist02 0.0706 R_Foot 0.9137 R_CalfTwist02 0.0157
+skin 365 R_ThighTwist01 0.0510 R_ThighTwist02 0.2157 R_Foot 0.6471 R_CalfTwist01 0.0863
+skin 366 R_ThighTwist02 0.0588 R_Foot 0.8706 R_CalfTwist01 0.0667 R_CalfTwist02 0.0039
+skin 367 R_ThighTwist01 0.0706 R_ThighTwist02 0.2353 R_Foot 0.6706 R_CalfTwist01 0.0235
+skin 368 Head 0.9843 L_Clavicle 0.0157
+skin 369 L_ThighTwist01 0.1216 Spine01 0.2745 L_Clavicle 0.4784 L_UpperarmTwist01 0.1255
+skin 370 R_ThighTwist01 0.6196 R_ThighTwist02 0.1412 R_Foot 0.0549 Waist 0.1843
+skin 371 L_ThighTwist01 0.0706 R_ThighTwist01 0.0980 R_ThighTwist02 0.0588 Waist 0.7725
+skin 372 Spine01 0.0588 Head 0.0549 L_Clavicle 0.8196 L_UpperarmTwist01 0.0667
+skin 373 L_Foot 0.9059 L_CalfTwist01 0.0078 L_ThighTwist02 0.0863
+skin 374 L_Foot 0.8431 L_ThighTwist02 0.1569
+skin 375 R_ThighTwist01 0.0588 R_ThighTwist02 0.1647 R_Foot 0.7765
+skin 376 R_ThighTwist01 0.3529 R_ThighTwist02 0.1176 Waist 0.4784 Spine01 0.0510
+skin 377 R_ThighTwist02 0.0314 R_Foot 0.9686
+skin 378 R_ThighTwist01 0.6706 R_ThighTwist02 0.1373 R_Foot 0.0549 Waist 0.1373
+skin 379 Head 0.9804 R_Clavicle 0.0196
+skin 380 L_Foot 0.8941 L_CalfTwist01 0.0392 L_ThighTwist02 0.0667
+skin 381 Head 0.4941 L_Clavicle 0.4863 L_UpperarmTwist01 0.0196
+skin 382 Head 1.0000
+skin 383 L_Foot 0.7922 L_CalfTwist01 0.0902 L_ThighTwist02 0.1176
+skin 384 R_ThighTwist01 0.0078 R_ThighTwist02 0.0902 R_Foot 0.9020
+skin 385 L_Foot 0.6471 L_CalfTwist01 0.0588 L_ThighTwist01 0.0196 L_ThighTwist02 0.2745
+skin 386 L_Foot 0.6706 L_CalfTwist01 0.1098 L_CalfTwist02 0.0078 L_ThighTwist02 0.2118
+skin 387 R_ThighTwist02 0.0353 R_Foot 0.9529 R_CalfTwist01 0.0118
+skin 388 Head 1.0000
+skin 389 L_ThighTwist01 0.0353 Spine01 0.1255 L_Clavicle 0.7412 L_UpperarmTwist01 0.0980
+skin 390 L_ThighTwist01 0.3333 L_ThighTwist02 0.1804 Waist 0.4314 Spine01 0.0549
+skin 391 Spine01 0.0078 Head 0.1843 L_Clavicle 0.8078
+skin 392 R_ThighTwist01 0.0353 R_ThighTwist02 0.1608 R_Foot 0.7490 R_CalfTwist01 0.0549
+skin 393 Head 0.9216 R_Clavicle 0.0784
+skin 394 R_ThighTwist02 0.0510 R_Foot 0.9451 R_CalfTwist02 0.0039
+skin 395 L_ThighTwist01 0.5569 L_ThighTwist02 0.2000 Waist 0.2039 Spine01 0.0392
+skin 396 Head 0.6784 L_Clavicle 0.3098 L_UpperarmTwist01 0.0118
+skin 397 L_ThighTwist01 0.9529 Spine01 0.0471
+skin 398 R_ThighTwist02 0.0980 R_Foot 0.8392 R_CalfTwist01 0.0627
+skin 399 Head 0.9647 R_Clavicle 0.0353
+skin 400 L_Foot 0.9255 L_ThighTwist02 0.0745
+skin 401 L_ThighTwist01 0.7333 L_ThighTwist02 0.1765 Waist 0.0784 Spine01 0.0118
+skin 402 L_ThighTwist01 0.6588 L_ThighTwist02 0.1961 Waist 0.1255 Spine01 0.0196
+skin 403 L_Foot 0.7686 L_CalfTwist01 0.1059 L_ThighTwist02 0.1255
+skin 404 Spine01 0.0275 Head 0.0941 L_Clavicle 0.8588 L_UpperarmTwist01 0.0196
+skin 405 Head 0.5725 L_Clavicle 0.4078 L_UpperarmTwist01 0.0196
+skin 406 L_ThighTwist01 0.8706 L_ThighTwist02 0.0588 Waist 0.0471 Spine01 0.0235
+skin 407 Spine01 0.0039 Head 0.2588 R_Clavicle 0.7294 R_UpperarmTwist01 0.0078
+skin 408 Head 0.8471 L_Clavicle 0.1529
+skin 409 Head 0.9961 L_Clavicle 0.0039
+skin 410 Head 0.8745 R_Clavicle 0.1255
+skin 411 R_ThighTwist01 0.9255 Waist 0.0549 Spine01 0.0196
+skin 412 Head 1.0000
+skin 413 L_Foot 0.7373 L_CalfTwist01 0.1098 L_ThighTwist02 0.1529
+skin 414 R_ThighTwist02 0.0902 R_Foot 0.8235 R_CalfTwist01 0.0745 R_CalfTwist02 0.0118
+skin 415 R_ThighTwist02 0.1216 R_Foot 0.7725 R_CalfTwist01 0.0863 R_CalfTwist02 0.0196
+skin 416 Head 1.0000
+skin 417 R_ThighTwist01 0.1098 Spine01 0.2627 R_Clavicle 0.5020 R_UpperarmTwist01 0.1255
+skin 418 R_ThighTwist01 0.9294 Waist 0.0196 Spine01 0.0510
+skin 419 NeckTwist02 0.1294 L_Clavicle 0.1804 R_Clavicle 0.6000 R_UpperarmTwist01 0.0902
+skin 420 L_Foot 0.7137 L_CalfTwist01 0.0824 L_ThighTwist02 0.2039
+skin 421 R_ThighTwist01 0.8588 R_ThighTwist02 0.0196 Waist 0.0980 Spine01 0.0235
+skin 422 Head 0.7490 L_Clavicle 0.2510
+skin 423 NeckTwist02 0.1255 L_Clavicle 0.1804 R_Clavicle 0.6039 R_UpperarmTwist01 0.0902
+skin 424 Head 0.9922 R_Clavicle 0.0078
+skin 425 R_ThighTwist01 0.4627 R_ThighTwist02 0.0902 Waist 0.3843 Spine01 0.0627
+skin 426 L_Foot 0.8235 L_CalfTwist01 0.0784 L_ThighTwist02 0.0980
+skin 427 L_ThighTwist01 0.9059 L_ThighTwist02 0.0078 Waist 0.0314 Spine01 0.0549
+skin 428 Head 0.3804 L_Clavicle 0.6196
+skin 429 Head 1.0000
+skin 430 Head 0.9451 R_Clavicle 0.0549
+skin 431 Head 1.0000
+skin 432 Head 0.9765 L_Clavicle 0.0235
+skin 433 L_ThighTwist01 0.5373 L_ThighTwist02 0.1451 Waist 0.2471 Spine01 0.0706
+skin 434 R_ThighTwist01 0.6667 R_ThighTwist02 0.0627 Waist 0.2078 Spine01 0.0627
+skin 435 R_ThighTwist01 0.4000 Spine01 0.4000 R_Clavicle 0.1373 R_UpperarmTwist02 0.0627
+skin 436 Head 0.8118 L_Clavicle 0.1882
+skin 437 L_Foot 0.8745 L_CalfTwist01 0.0471 L_ThighTwist02 0.0784
+skin 438 R_ThighTwist02 0.0627 R_Foot 0.9373
+skin 439 R_ThighTwist01 0.8588 Waist 0.0824 Spine01 0.0588
+skin 440 L_Foot 0.7843 L_CalfTwist01 0.0667 L_ThighTwist02 0.1490
+skin 441 Spine01 0.0471 Head 0.1294 R_Clavicle 0.7882 R_UpperarmTwist01 0.0353
+skin 442 R_ThighTwist01 0.6118 Spine01 0.2824 R_Clavicle 0.0824 R_UpperarmTwist02 0.0235
+skin 443 Spine01 0.0353 Head 0.2118 R_Clavicle 0.7412 R_UpperarmTwist01 0.0118
+skin 444 R_ThighTwist02 0.0667 R_Foot 0.8941 R_CalfTwist01 0.0392
+skin 445 L_ThighTwist01 0.6902 L_ThighTwist02 0.0980 Waist 0.1451 Spine01 0.0667
+skin 446 L_ThighTwist01 0.1098 L_ThighTwist02 0.0706 R_ThighTwist01 0.0667 Waist 0.7529
+skin 447 Spine01 0.1294 Head 0.0510 R_Clavicle 0.7333 R_UpperarmTwist01 0.0863
+skin 448 R_ThighTwist02 0.0588 R_Foot 0.9137 R_CalfTwist01 0.0275
+skin 449 L_Foot 0.8431 L_CalfTwist01 0.0667 L_ThighTwist02 0.0902
+skin 450 L_ThighTwist01 0.7922 L_ThighTwist02 0.0549 Waist 0.0824 Spine01 0.0706
+skin 451 R_ThighTwist01 0.0235 R_ThighTwist02 0.1216 R_Foot 0.8431 R_CalfTwist01 0.0118
+skin 452 R_ThighTwist01 0.0039 R_ThighTwist02 0.1059 R_Foot 0.8510 R_CalfTwist01 0.0392
+skin 453 NeckTwist02 0.1294 L_Clavicle 0.1804 R_Clavicle 0.6039 R_UpperarmTwist01 0.0863
+skin 454 L_Foot 0.8824 L_CalfTwist01 0.0157 L_ThighTwist02 0.1020
+skin 455 Head 0.9451 L_Clavicle 0.0549
+skin 456 Head 0.9216 L_Clavicle 0.0784
+skin 457 R_ThighTwist01 0.1529 R_ThighTwist02 0.0627 Waist 0.7137 Spine01 0.0706
+skin 458 Head 0.6000 R_Clavicle 0.3765 R_UpperarmTwist01 0.0235
+skin 459 Head 0.6824 R_Clavicle 0.2980 R_UpperarmTwist01 0.0196
+skin 460 Head 1.0000
+skin 461 L_ThighTwist01 0.4000 Spine01 0.4039 L_Clavicle 0.1490 L_UpperarmTwist01 0.0471
+skin 462 L_ThighTwist01 0.6902 Spine01 0.2392 L_Clavicle 0.0706
+skin 463 R_ThighTwist01 0.0980 Spine01 0.2627 R_Clavicle 0.5373 R_UpperarmTwist01 0.1020
+skin 464 Head 1.0000
+skin 465 Head 1.0000
+skin 466 Head 0.8314 R_Clavicle 0.1686
+skin 467 Spine01 0.0196 Head 0.2745 L_Clavicle 0.7059
+skin 468 R_ThighTwist02 0.0588 R_Foot 0.9373 R_CalfTwist01 0.0039
+skin 469 L_ThighTwist01 0.2118 L_ThighTwist02 0.1098 Waist 0.6000 Spine01 0.0784
+skin 470 Head 1.0000
+skin 471 Spine01 0.0863 Head 0.0902 R_Clavicle 0.7686 R_UpperarmTwist01 0.0549
+skin 472 Head 0.9686 L_Clavicle 0.0314
+skin 473 L_Foot 0.8745 L_CalfTwist01 0.0314 L_ThighTwist02 0.0941
+skin 474 R_ThighTwist01 0.8667 Waist 0.0353 Spine01 0.0980
+skin 475 L_Foot 0.8314 L_CalfTwist01 0.0196 L_ThighTwist02 0.1490
+skin 476 Spine01 0.0549 Spine02 0.0196 Head 0.2118 L_Clavicle 0.7137
+skin 477 L_Foot 0.8157 L_CalfTwist01 0.0353 L_ThighTwist02 0.1490
+skin 478 L_Foot 0.8549 L_CalfTwist01 0.0510 L_ThighTwist02 0.0941
+skin 479 L_Foot 0.8157 L_CalfTwist01 0.0510 L_ThighTwist02 0.1333
+skin 480 L_ThighTwist01 0.0863 Spine01 0.2706 L_Clavicle 0.5686 L_UpperarmTwist01 0.0745
+skin 481 R_ThighTwist01 0.2314 R_ThighTwist02 0.0627 Waist 0.6196 Spine01 0.0863
+skin 482 L_ThighTwist01 0.7608 Waist 0.0039 Spine01 0.2000 L_Clavicle 0.0353
+skin 483 R_ThighTwist02 0.0784 R_Foot 0.9216
+skin 484 L_ThighTwist01 0.1294 Spine01 0.3804 L_Clavicle 0.4078 L_UpperarmTwist01 0.0824
+skin 485 NeckTwist02 0.1333 L_Clavicle 0.1882 R_Clavicle 0.5961 R_UpperarmTwist01 0.0824
+skin 486 NeckTwist02 0.1333 L_Clavicle 0.1843 R_Clavicle 0.6118 R_UpperarmTwist01 0.0706
+skin 487 NeckTwist02 0.1333 L_Clavicle 0.1882 R_Clavicle 0.5961 R_UpperarmTwist01 0.0824
+skin 488 NeckTwist02 0.1294 L_Clavicle 0.1843 R_Clavicle 0.6000 R_UpperarmTwist01 0.0863
+skin 489 Head 0.9765 R_Clavicle 0.0235
+skin 490 Spine01 0.1647 Head 0.0627 L_Clavicle 0.7255 L_UpperarmTwist01 0.0471
+skin 491 Head 0.8667 L_Clavicle 0.1333
+skin 492 R_ThighTwist02 0.0824 R_Foot 0.9098 R_CalfTwist01 0.0078
+skin 493 NeckTwist02 0.0863 Head 0.0510 L_Clavicle 0.5490 R_Clavicle 0.3137
+skin 494 NeckTwist02 0.1333 L_Clavicle 0.1882 R_Clavicle 0.5922 R_UpperarmTwist01 0.0863
+skin 495 Head 0.7451 R_Clavicle 0.2431 R_UpperarmTwist01 0.0118
+skin 496 NeckTwist02 0.1294 L_Clavicle 0.1843 R_Clavicle 0.6078 R_UpperarmTwist01 0.0784
+skin 497 L_Foot 0.8510 L_CalfTwist01 0.0353 L_ThighTwist02 0.1137
+skin 498 Head 0.8863 R_Clavicle 0.1137
+skin 499 Head 0.6667 L_Clavicle 0.3294 L_UpperarmTwist01 0.0039
+skin 500 L_ThighTwist01 0.5490 Spine01 0.3373 L_Clavicle 0.1020 L_UpperarmTwist01 0.0118
+skin 501 NeckTwist02 0.0941 Head 0.0627 L_Clavicle 0.5098 R_Clavicle 0.3333
+skin 502 Head 0.9882 R_Clavicle 0.0118
+skin 503 R_ThighTwist02 0.0784 R_Foot 0.9098 R_CalfTwist01 0.0118
+skin 504 Head 1.0000
+skin 505 NeckTwist02 0.0902 Head 0.0588 L_Clavicle 0.5294 R_Clavicle 0.3216
+skin 506 R_ThighTwist01 0.4549 Spine01 0.4000 R_Clavicle 0.1137 R_UpperarmTwist02 0.0314
+skin 507 Head 0.5529 R_Clavicle 0.4353 R_UpperarmTwist01 0.0118
+skin 508 Head 0.9843 L_Clavicle 0.0157
+skin 509 Spine01 0.0431 Spine02 0.0235 Head 0.3137 R_Clavicle 0.6196
+skin 510 Spine01 0.0392 Spine02 0.0196 Head 0.3176 R_Clavicle 0.6235
+skin 511 L_ThighTwist01 0.8039 Waist 0.0431 Spine01 0.1529
+skin 512 NeckTwist02 0.1333 L_Clavicle 0.1882 R_Clavicle 0.5922 R_UpperarmTwist01 0.0863
+skin 513 Spine01 0.0431 Spine02 0.0235 Head 0.3020 L_Clavicle 0.6314
+skin 514 NeckTwist02 0.0902 Head 0.0510 L_Clavicle 0.5333 R_Clavicle 0.3255
+skin 515 NeckTwist02 0.1333 L_Clavicle 0.1882 R_Clavicle 0.5961 R_UpperarmTwist01 0.0824
+skin 516 R_ThighTwist01 0.6706 Waist 0.0039 Spine01 0.2667 R_Clavicle 0.0588
+skin 517 Head 0.9922 L_Clavicle 0.0078
+skin 518 R_ThighTwist01 0.1333 Spine01 0.3843 R_Clavicle 0.4000 R_UpperarmTwist01 0.0824
+skin 519 NeckTwist02 0.1333 L_Clavicle 0.1882 R_Clavicle 0.5961 R_UpperarmTwist01 0.0824
+skin 520 NeckTwist02 0.1294 L_Clavicle 0.1843 R_Clavicle 0.6078 R_UpperarmTwist01 0.0784
+skin 521 Head 0.7176 L_Clavicle 0.2824
+skin 522 Head 0.4549 R_Clavicle 0.5451
+skin 523 NeckTwist02 0.0902 Head 0.0510 L_Clavicle 0.5373 R_Clavicle 0.3216
+skin 524 Spine01 0.0706 Spine02 0.0471 Head 0.2471 R_Clavicle 0.6353
+skin 525 Head 1.0000
+skin 526 NeckTwist02 0.1333 L_Clavicle 0.1882 R_Clavicle 0.6078 R_UpperarmTwist01 0.0706
+skin 527 R_ThighTwist01 0.0745 Spine01 0.2667 R_Clavicle 0.5882 R_UpperarmTwist01 0.0706
+skin 528 Head 1.0000
+skin 529 NeckTwist02 0.1333 L_Clavicle 0.1922 R_Clavicle 0.5922 R_UpperarmTwist01 0.0824
+skin 530 NeckTwist02 0.0902 Head 0.0549 L_Clavicle 0.5333 R_Clavicle 0.3216
+skin 531 Spine01 0.0588 Spine02 0.0471 Head 0.3216 R_Clavicle 0.5725
+skin 532 NeckTwist02 0.1294 L_Clavicle 0.1843 R_Clavicle 0.5961 R_UpperarmTwist01 0.0902
+skin 533 Head 0.9412 R_Clavicle 0.0588
+skin 534 NeckTwist02 0.0941 Head 0.0627 L_Clavicle 0.5098 R_Clavicle 0.3333
+skin 535 Head 0.9176 R_Clavicle 0.0824
+skin 536 Spine01 0.0549 Spine02 0.0392 Head 0.3098 L_Clavicle 0.5961
+skin 537 Spine01 0.0980 Spine02 0.0588 Head 0.1373 L_Clavicle 0.7059
+skin 538 NeckTwist02 0.0902 Head 0.0510 L_Clavicle 0.5333 R_Clavicle 0.3255
+skin 539 Spine01 0.0588 Spine02 0.0392 Head 0.3020 R_Clavicle 0.6000
+skin 540 Head 0.9176 L_Clavicle 0.0824
+skin 541 NeckTwist02 0.1333 L_Clavicle 0.1882 R_Clavicle 0.5961 R_UpperarmTwist01 0.0824
+skin 542 NeckTwist02 0.0941 Head 0.0667 L_Clavicle 0.5059 R_Clavicle 0.3333
+skin 543 Head 0.9490 L_Clavicle 0.0510
+skin 544 Head 0.5176 L_Clavicle 0.4824
+skin 545 Spine01 0.0745 Spine02 0.0667 Head 0.2627 L_Clavicle 0.5961
+skin 546 Head 1.0000
+skin 547 Head 0.8549 R_Clavicle 0.1451
+skin 548 NeckTwist02 0.0941 Head 0.0588 L_Clavicle 0.5137 R_Clavicle 0.3333
+skin 549 Spine02 0.0549 NeckTwist02 0.0941 L_Clavicle 0.5176 R_Clavicle 0.3333
+skin 550 Head 0.8039 R_Clavicle 0.1961
+skin 551 R_ThighTwist01 0.3098 Spine01 0.4745 R_Clavicle 0.1765 R_UpperarmTwist01 0.0392
+skin 552 NeckTwist02 0.0902 Head 0.0510 L_Clavicle 0.5333 R_Clavicle 0.3255
+skin 553 R_ThighTwist01 0.7529 Waist 0.0471 Spine01 0.2000
+skin 554 R_ThighTwist01 0.0667 Spine01 0.2627 Spine02 0.0667 R_Clavicle 0.6039
+skin 555 NeckTwist02 0.0941 Head 0.0627 L_Clavicle 0.5059 R_Clavicle 0.3373
+skin 556 Head 0.9333 L_Clavicle 0.0667
+skin 557 R_ThighTwist01 0.6941 Waist 0.0314 Spine01 0.2471 R_Clavicle 0.0275
+skin 558 L_ThighTwist01 0.2863 Spine01 0.4863 L_Clavicle 0.1961 L_UpperarmTwist01 0.0314
+skin 559 Head 1.0000
+skin 560 Spine01 0.1216 Spine02 0.0627 Head 0.1373 R_Clavicle 0.6784
+skin 561 Spine02 0.0431 NeckTwist02 0.1412 L_Clavicle 0.2824 R_Clavicle 0.5333
+skin 562 Spine02 0.0471 NeckTwist02 0.1294 L_Clavicle 0.3490 R_Clavicle 0.4745
+skin 563 L_ThighTwist01 0.6431 L_ThighTwist02 0.0275 Waist 0.1529 Spine01 0.1765
+skin 564 Spine02 0.0588 NeckTwist02 0.1059 L_Clavicle 0.4549 R_Clavicle 0.3804
+skin 565 L_ThighTwist01 0.1451 L_ThighTwist02 0.0588 Waist 0.6706 Spine01 0.1255
+skin 566 NeckTwist02 0.1569 L_Clavicle 0.2118 R_Clavicle 0.5725 R_UpperarmTwist01 0.0588
+skin 567 Spine02 0.0392 NeckTwist02 0.1882 L_Clavicle 0.2431 R_Clavicle 0.5294
+skin 568 Head 0.8392 L_Clavicle 0.1608
+skin 569 Spine02 0.0510 NeckTwist02 0.1137 L_Clavicle 0.4275 R_Clavicle 0.4078
+skin 570 Spine01 0.0627 Spine02 0.0549 Head 0.3373 R_Clavicle 0.5451
+skin 571 Head 0.9608 R_Clavicle 0.0392
+skin 572 L_ThighTwist01 0.0627 R_ThighTwist01 0.1176 Waist 0.6941 Spine01 0.1255
+skin 573 R_ThighTwist01 0.4941 R_ThighTwist02 0.0118 Waist 0.3333 Spine01 0.1608
+skin 574 NeckTwist02 0.1608 L_Clavicle 0.2157 R_Clavicle 0.5647 R_UpperarmTwist01 0.0588
+skin 575 Spine02 0.0549 NeckTwist02 0.1020 L_Clavicle 0.4824 R_Clavicle 0.3608
+skin 576 Head 0.9333 R_Clavicle 0.0667
+skin 577 NeckTwist02 0.1725 L_Clavicle 0.2275 R_Clavicle 0.5569 R_UpperarmTwist01 0.0431
+skin 578 NeckTwist02 0.1373 L_Clavicle 0.1961 R_Clavicle 0.5843 R_UpperarmTwist01 0.0824
+skin 579 Spine02 0.0510 NeckTwist02 0.1176 L_Clavicle 0.3961 R_Clavicle 0.4353
+skin 580 Spine01 0.0627 Spine02 0.0627 Head 0.3569 R_Clavicle 0.5176
+skin 581 Spine02 0.0431 NeckTwist02 0.1725 L_Clavicle 0.2588 R_Clavicle 0.5255
+skin 582 NeckTwist02 0.1725 L_Clavicle 0.2275 R_Clavicle 0.5529 R_UpperarmTwist01 0.0471
+skin 583 Head 0.8157 L_Clavicle 0.1843
+skin 584 NeckTwist02 0.1333 L_Clavicle 0.1882 R_Clavicle 0.5961 R_UpperarmTwist01 0.0824
+skin 585 L_ThighTwist01 0.2667 L_ThighTwist02 0.0667 Waist 0.5176 Spine01 0.1490
+skin 586 Spine02 0.0510 NeckTwist02 0.1137 L_Clavicle 0.4235 R_Clavicle 0.4118
+skin 587 Spine02 0.0431 NeckTwist02 0.1725 L_Clavicle 0.2588 R_Clavicle 0.5255
+skin 588 L_ThighTwist01 0.4157 L_ThighTwist02 0.0627 Waist 0.3529 Spine01 0.1686
+skin 589 Spine02 0.0471 NeckTwist02 0.1412 L_Clavicle 0.2941 R_Clavicle 0.5176
+skin 590 R_ThighTwist01 0.7176 Waist 0.0980 Spine01 0.1843
+skin 591 Head 0.6078 L_Clavicle 0.3922
+skin 592 NeckTwist02 0.1412 L_Clavicle 0.2000 R_Clavicle 0.5804 R_UpperarmTwist01 0.0784
+skin 593 Spine02 0.0431 NeckTwist02 0.1569 L_Clavicle 0.2706 R_Clavicle 0.5294
+skin 594 Spine02 0.0510 NeckTwist02 0.1255 L_Clavicle 0.3765 R_Clavicle 0.4471
+skin 595 Spine02 0.0510 NeckTwist02 0.1176 L_Clavicle 0.4039 R_Clavicle 0.4275
+skin 596 Spine01 0.0627 Spine02 0.0627 Head 0.3373 L_Clavicle 0.5373
+skin 597 Spine02 0.0588 NeckTwist02 0.1059 L_Clavicle 0.4627 R_Clavicle 0.3725
+skin 598 NeckTwist02 0.0980 Head 0.0667 L_Clavicle 0.4902 R_Clavicle 0.3451
+skin 599 NeckTwist02 0.0941 Head 0.0549 L_Clavicle 0.5137 R_Clavicle 0.3373
+skin 600 NeckTwist02 0.0941 Head 0.0549 L_Clavicle 0.5176 R_Clavicle 0.3333
+skin 601 Head 0.7647 L_Clavicle 0.2353
+skin 602 NeckTwist02 0.0941 Head 0.0627 L_Clavicle 0.5020 R_Clavicle 0.3412
+skin 603 Head 1.0000
+skin 604 Head 0.6824 R_Clavicle 0.3137 R_UpperarmTwist01 0.0039
+skin 605 NeckTwist02 0.1373 L_Clavicle 0.1961 R_Clavicle 0.5922 R_UpperarmTwist01 0.0745
+skin 606 NeckTwist02 0.1529 L_Clavicle 0.2078 R_Clavicle 0.5804 R_UpperarmTwist01 0.0588
+skin 607 Head 0.9843 R_Clavicle 0.0157
+skin 608 L_ThighTwist01 0.6745 Waist 0.1059 Spine01 0.2196
+skin 609 R_ThighTwist01 0.2549 R_ThighTwist02 0.0235 Waist 0.5569 Spine01 0.1647
+skin 610 L_ThighTwist01 0.1176 Spine01 0.4431 Spine02 0.0667 L_Clavicle 0.3725
+skin 611 Spine01 0.1098 Spine02 0.0902 Head 0.1804 L_Clavicle 0.6196
+skin 612 R_ThighTwist01 0.5451 Waist 0.0118 Spine01 0.3686 R_Clavicle 0.0745
+skin 613 Head 1.0000
+skin 614 Spine01 0.0667 Spine02 0.0667 Head 0.3608 R_Clavicle 0.5059
+skin 615 Head 0.8706 L_Clavicle 0.1294
+skin 616 NeckTwist02 0.1451 L_Clavicle 0.2039 R_Clavicle 0.5882 R_UpperarmTwist01 0.0627
+skin 617 Head 0.9255 L_Clavicle 0.0745
+skin 618 L_ThighTwist01 0.3647 Spine01 0.4863 L_Clavicle 0.1373 L_UpperarmTwist01 0.0118
+skin 619 Spine02 0.0549 NeckTwist02 0.1255 L_Clavicle 0.3725 R_Clavicle 0.4471
+skin 620 NeckTwist02 0.0980 Head 0.0549 L_Clavicle 0.4941 R_Clavicle 0.3529
+skin 621 Head 0.6627 L_Clavicle 0.3373
+skin 622 Spine02 0.0431 NeckTwist02 0.1529 L_Clavicle 0.2745 R_Clavicle 0.5294
+skin 623 Spine02 0.0510 NeckTwist02 0.1412 L_Clavicle 0.2980 R_Clavicle 0.5098
+skin 624 Head 1.0000
+skin 625 Spine01 0.2549 Spine02 0.0941 Head 0.0745 L_Clavicle 0.5765
+skin 626 Spine01 0.0941 Spine02 0.1059 Head 0.3255 R_Clavicle 0.4745
+skin 627 Head 0.9961 R_Clavicle 0.0039
+skin 628 Head 0.6471 R_Clavicle 0.3529
+skin 629 Spine02 0.0549 NeckTwist02 0.1059 L_Clavicle 0.4549 R_Clavicle 0.3843
+skin 630 Spine01 0.1137 Spine02 0.0980 Head 0.2118 R_Clavicle 0.5765
+skin 631 Spine01 0.0902 Spine02 0.1098 Head 0.3294 L_Clavicle 0.4706
+skin 632 Spine02 0.0588 NeckTwist02 0.1059 L_Clavicle 0.4549 R_Clavicle 0.3804
+skin 633 Spine02 0.0431 NeckTwist02 0.1569 L_Clavicle 0.2706 R_Clavicle 0.5294
+skin 634 Spine02 0.0510 NeckTwist02 0.1216 L_Clavicle 0.3882 R_Clavicle 0.4392
+skin 635 Spine02 0.0510 NeckTwist02 0.1176 L_Clavicle 0.3961 R_Clavicle 0.4353
+skin 636 Head 0.8941 R_Clavicle 0.1059
+skin 637 Head 0.9608 L_Clavicle 0.0392
+skin 638 NeckTwist02 0.0980 Head 0.0627 L_Clavicle 0.4941 R_Clavicle 0.3451
+skin 639 Spine02 0.0510 NeckTwist02 0.1176 L_Clavicle 0.4078 R_Clavicle 0.4235
+skin 640 R_ThighTwist01 0.6078 Waist 0.1882 Spine01 0.2039
+skin 641 NeckTwist02 0.1529 L_Clavicle 0.2118 R_Clavicle 0.5765 R_UpperarmTwist01 0.0588
+skin 642 NeckTwist02 0.1373 L_Clavicle 0.2000 R_Clavicle 0.5843 R_UpperarmTwist01 0.0784
+skin 643 Head 0.9765 L_Clavicle 0.0235
+skin 644 NeckTwist02 0.0980 Head 0.0627 L_Clavicle 0.4902 R_Clavicle 0.3490
+skin 645 Spine02 0.0510 NeckTwist02 0.1216 L_Clavicle 0.3961 R_Clavicle 0.4314
+skin 646 Head 1.0000
+skin 647 Spine02 0.0588 NeckTwist02 0.1333 L_Clavicle 0.3255 R_Clavicle 0.4824
+skin 648 NeckTwist02 0.1451 L_Clavicle 0.2039 R_Clavicle 0.5843 R_UpperarmTwist01 0.0667
+skin 649 Spine01 0.2745 Spine02 0.0863 Head 0.0824 R_Clavicle 0.5569
+skin 650 Head 0.8549 R_Clavicle 0.1451
+skin 651 Spine02 0.0431 NeckTwist02 0.1608 L_Clavicle 0.2667 R_Clavicle 0.5294
+skin 652 L_ThighTwist01 0.5961 Waist 0.0549 Spine01 0.3137 L_Clavicle 0.0353
+skin 653 NeckTwist02 0.1569 L_Clavicle 0.2196 R_Clavicle 0.5725 R_UpperarmTwist01 0.0510
+skin 654 Head 0.5882 R_Clavicle 0.4118
+skin 655 NeckTwist02 0.0980 Head 0.0588 L_Clavicle 0.4902 R_Clavicle 0.3529
+skin 656 Spine02 0.0471 NeckTwist02 0.1490 L_Clavicle 0.2745 R_Clavicle 0.5294
+skin 657 Spine02 0.0510 NeckTwist02 0.1137 L_Clavicle 0.4275 R_Clavicle 0.4078
+skin 658 Spine02 0.0510 NeckTwist02 0.1216 L_Clavicle 0.3922 R_Clavicle 0.4353
+skin 659 NeckTwist02 0.1569 L_Clavicle 0.2118 R_Clavicle 0.5765 R_UpperarmTwist01 0.0549
+skin 660 NeckTwist02 0.1490 L_Clavicle 0.2157 R_Clavicle 0.5686 R_UpperarmTwist01 0.0667
+skin 661 L_ThighTwist01 0.5020 Waist 0.0275 Spine01 0.3922 L_Clavicle 0.0784
+skin 662 L_ThighTwist01 0.2980 L_ThighTwist02 0.0510 Waist 0.4353 Spine01 0.2157
+skin 663 Spine01 0.0784 Spine02 0.0980 Head 0.4118 L_Clavicle 0.4118
+skin 664 NeckTwist02 0.1059 Head 0.0627 L_Clavicle 0.4510 R_Clavicle 0.3804
+skin 665 Head 0.7373 R_Clavicle 0.2627
+skin 666 NeckTwist02 0.1529 L_Clavicle 0.2275 R_Clavicle 0.5608 R_UpperarmTwist01 0.0588
+skin 667 Head 0.9882 L_Clavicle 0.0118
+skin 668 Head 0.9255 R_Clavicle 0.0745
+skin 669 Spine01 0.0863 Spine02 0.1059 Head 0.4314 R_Clavicle 0.3765
+skin 670 NeckTwist02 0.1529 L_Clavicle 0.2157 R_Clavicle 0.5725 R_UpperarmTwist01 0.0588
+skin 671 R_ThighTwist01 0.1882 Spine01 0.5333 Spine02 0.0431 R_Clavicle 0.2353
+skin 672 Head 0.9098 L_Clavicle 0.0902
+skin 673 Spine02 0.0510 NeckTwist02 0.1216 L_Clavicle 0.3922 R_Clavicle 0.4353
+skin 674 R_ThighTwist01 0.0941 Spine01 0.4353 Spine02 0.0745 R_Clavicle 0.3961
+skin 675 NeckTwist02 0.1020 Head 0.0667 L_Clavicle 0.4667 R_Clavicle 0.3647
+skin 676 NeckTwist02 0.1569 L_Clavicle 0.2314 R_Clavicle 0.5529 R_UpperarmTwist01 0.0588
+skin 677 R_ThighTwist01 0.3529 Spine01 0.5216 Spine02 0.0039 R_Clavicle 0.1216
+skin 678 Spine01 0.0196 Spine02 0.0118 Head 0.5059 L_Clavicle 0.4627
+skin 679 Spine02 0.0510 NeckTwist02 0.1216 L_Clavicle 0.3922 R_Clavicle 0.4353
+skin 680 Head 0.9176 R_Clavicle 0.0824
+skin 681 Spine01 0.0353 Spine02 0.0314 Head 0.4863 R_Clavicle 0.4471
+skin 682 Spine02 0.1804 NeckTwist01 0.1686 Head 0.4314 R_Clavicle 0.2196
+skin 683 NeckTwist02 0.1059 Head 0.0549 L_Clavicle 0.4588 R_Clavicle 0.3804
+skin 684 Head 0.9020 R_Clavicle 0.0980
+skin 685 R_ThighTwist01 0.3059 Waist 0.4510 Spine01 0.2431
+skin 686 L_ThighTwist01 0.5843 Waist 0.0941 Spine01 0.3176 L_Clavicle 0.0039
+skin 687 Spine02 0.0588 NeckTwist02 0.1255 L_Clavicle 0.3686 R_Clavicle 0.4471
+skin 688 Spine01 0.1255 Spine02 0.1529 Head 0.2314 L_Clavicle 0.4902
+skin 689 Spine02 0.1765 NeckTwist01 0.1608 Head 0.4314 L_Clavicle 0.2314
+skin 690 Spine02 0.0510 NeckTwist02 0.1137 L_Clavicle 0.4314 R_Clavicle 0.4039
+skin 691 L_ThighTwist01 0.3569 Waist 0.0078 Spine01 0.5176 L_Clavicle 0.1176
+skin 692 Head 0.8902 L_Clavicle 0.1098
+skin 693 L_ThighTwist01 0.1843 Spine01 0.5373 Spine02 0.0549 L_Clavicle 0.2235
+skin 694 Spine02 0.1412 NeckTwist01 0.1098 Head 0.4667 L_Clavicle 0.2824
+skin 695 Spine02 0.0510 NeckTwist02 0.1216 L_Clavicle 0.3922 R_Clavicle 0.4353
+skin 696 Head 0.9765 R_Clavicle 0.0235
+skin 697 L_ThighTwist01 0.0588 R_ThighTwist01 0.1373 Waist 0.6000 Spine01 0.2039
+skin 698 Head 1.0000
+skin 699 Spine01 0.1373 Spine02 0.1765 Head 0.2510 R_Clavicle 0.4353
+skin 700 L_ThighTwist01 0.1529 R_ThighTwist01 0.0510 Waist 0.5843 Spine01 0.2118
+skin 701 Spine01 0.2392 Spine02 0.1608 Head 0.1020 L_Clavicle 0.4980
+skin 702 Spine02 0.0510 NeckTwist02 0.1255 L_Clavicle 0.3804 R_Clavicle 0.4431
+skin 703 Spine01 0.2667 Spine02 0.1294 Head 0.1020 R_Clavicle 0.5020
+skin 704 Head 0.7412 L_Clavicle 0.2588
+skin 705 Head 0.8784 L_Clavicle 0.1216
+skin 706 Spine02 0.1608 Head 0.5020 L_Clavicle 0.1490 R_Clavicle 0.1882
+skin 707 Spine02 0.0471 NeckTwist02 0.1490 L_Clavicle 0.2863 R_Clavicle 0.5176
+skin 708 Head 0.7882 R_Clavicle 0.2118
+skin 709 Spine02 0.0431 NeckTwist02 0.1569 L_Clavicle 0.2627 R_Clavicle 0.5373
+skin 710 Spine02 0.0471 NeckTwist02 0.1294 L_Clavicle 0.3608 R_Clavicle 0.4627
+skin 711 Head 1.0000
+skin 712 Spine02 0.0471 NeckTwist02 0.1255 L_Clavicle 0.3765 R_Clavicle 0.4510
+skin 713 L_ThighTwist01 0.0941 R_ThighTwist01 0.0824 Waist 0.6157 Spine01 0.2078
+skin 714 Spine02 0.0510 NeckTwist02 0.1294 L_Clavicle 0.3529 R_Clavicle 0.4667
+skin 715 Spine01 0.1843 Spine02 0.1686 Head 0.1647 R_Clavicle 0.4824
+skin 716 NeckTwist02 0.1569 L_Clavicle 0.2510 R_Clavicle 0.5451 R_UpperarmTwist01 0.0471
+skin 717 Head 0.9647 R_Clavicle 0.0353
+skin 718 R_ThighTwist01 0.5608 Waist 0.1098 Spine01 0.3294
+skin 719 Spine02 0.0431 NeckTwist02 0.1529 L_Clavicle 0.2627 R_Clavicle 0.5412
+skin 720 Spine02 0.0471 NeckTwist02 0.1451 L_Clavicle 0.3020 R_Clavicle 0.5059
+skin 721 Spine02 0.0431 NeckTwist02 0.1569 L_Clavicle 0.2667 R_Clavicle 0.5333
+skin 722 NeckTwist02 0.1137 Head 0.0588 L_Clavicle 0.4275 R_Clavicle 0.4000
+skin 723 Spine02 0.0510 NeckTwist02 0.1294 L_Clavicle 0.3569 R_Clavicle 0.4627
+skin 724 Head 1.0000
+skin 725 R_ThighTwist01 0.5412 Waist 0.0784 Spine01 0.3608 R_Clavicle 0.0196
+skin 726 L_ThighTwist01 0.0941 Spine01 0.4824 Spine02 0.1059 L_Clavicle 0.3176
+skin 727 NeckTwist02 0.1216 Head 0.0510 L_Clavicle 0.3961 R_Clavicle 0.4314
+skin 728 Spine02 0.0471 NeckTwist02 0.1451 L_Clavicle 0.2941 R_Clavicle 0.5137
+skin 729 Spine02 0.0471 NeckTwist02 0.1294 L_Clavicle 0.3569 R_Clavicle 0.4667
+skin 730 R_ThighTwist01 0.4314 Waist 0.0471 Spine01 0.4588 R_Clavicle 0.0627
+skin 731 R_ThighTwist01 0.1412 Spine01 0.5490 Spine02 0.0667 R_Clavicle 0.2431
+skin 732 Head 0.9333 L_Clavicle 0.0667
+skin 733 Spine02 0.0510 NeckTwist02 0.1333 L_Clavicle 0.3412 R_Clavicle 0.4745
+skin 734 NeckTwist02 0.1176 Head 0.0549 L_Clavicle 0.4118 R_Clavicle 0.4157
+skin 735 Head 1.0000
+skin 736 Spine01 0.1529 Spine02 0.2196 Head 0.2549 L_Clavicle 0.3725
+skin 737 Head 0.6314 L_Clavicle 0.3686
+skin 738 Head 0.9216 L_Clavicle 0.0784
+skin 739 Head 0.9529 L_Clavicle 0.0471
+skin 740 L_ThighTwist01 0.4000 Waist 0.1922 Spine01 0.4078
+skin 741 Spine02 0.0431 NeckTwist02 0.1451 L_Clavicle 0.2941 R_Clavicle 0.5176
+skin 742 Head 0.9216 R_Clavicle 0.0784
+skin 743 Head 0.9412 R_Clavicle 0.0588
+skin 744 NeckTwist02 0.1176 Head 0.0510 L_Clavicle 0.4118 R_Clavicle 0.4196
+skin 745 Spine02 0.0471 NeckTwist02 0.1412 L_Clavicle 0.3137 R_Clavicle 0.4980
+skin 746 Head 1.0000
+skin 747 R_ThighTwist01 0.0824 Spine01 0.4784 Spine02 0.1059 R_Clavicle 0.3333
+skin 748 Spine01 0.2157 Spine02 0.2667 Head 0.1412 L_Clavicle 0.3765
+skin 749 Head 0.9529 R_Clavicle 0.0471
+skin 750 Head 0.8980 L_Clavicle 0.1020
+skin 751 R_ThighTwist01 0.2078 Spine01 0.5922 Spine02 0.0392 R_Clavicle 0.1608
+skin 752 Head 1.0000
+skin 753 Head 0.8667 R_Clavicle 0.1333
+skin 754 L_ThighTwist01 0.3961 Waist 0.0627 Spine01 0.4863 L_Clavicle 0.0549
+skin 755 L_ThighTwist01 0.3098 L_ThighTwist02 0.0039 Waist 0.2706 Spine01 0.4157
+skin 756 L_ThighTwist01 0.1961 Spine01 0.5922 Spine02 0.0510 L_Clavicle 0.1608
+skin 757 Spine01 0.1922 Spine02 0.3412 Head 0.2157 R_Clavicle 0.2510
+skin 758 Head 0.7216 R_Clavicle 0.2784
+skin 759 L_ThighTwist01 0.4196 Waist 0.1020 Spine01 0.4627 L_Clavicle 0.0157
+skin 760 Head 0.6824 R_Clavicle 0.3176
+skin 761 L_ThighTwist01 0.2039 R_ThighTwist01 0.0275 Waist 0.4314 Spine01 0.3373
+skin 762 Head 0.9255 L_Clavicle 0.0745
+skin 763 Head 1.0000
+skin 764 Head 0.9020 R_Clavicle 0.0980
+skin 765 Spine01 0.2471 Spine02 0.2824 Head 0.1412 R_Clavicle 0.3294
+skin 766 Head 0.8549 L_Clavicle 0.1451
+skin 767 L_ThighTwist01 0.0039 R_ThighTwist01 0.2863 Waist 0.2980 Spine01 0.4118
+skin 768 L_ThighTwist01 0.0431 R_ThighTwist01 0.1647 Waist 0.4784 Spine01 0.3137
+skin 769 Head 0.8000 L_Clavicle 0.2000
+skin 770 Head 0.9412 L_Clavicle 0.0588
+skin 771 Spine01 0.0078 Spine02 0.0078 Head 0.6353 R_Clavicle 0.3490
+skin 772 Head 0.9373 R_Clavicle 0.0627
+skin 773 L_ThighTwist01 0.2824 Waist 0.0275 Spine01 0.5882 L_Clavicle 0.1020
+skin 774 Head 0.9216 L_Clavicle 0.0784
+skin 775 Spine01 0.3765 Spine02 0.2196 Head 0.0784 L_Clavicle 0.3255
+skin 776 Head 0.9333 R_Clavicle 0.0667
+skin 777 Head 0.9412 R_Clavicle 0.0588
+skin 778 Head 0.7020 L_Clavicle 0.2980
+skin 779 Spine01 0.2078 Spine02 0.3961 Head 0.2275 L_Clavicle 0.1686
+skin 780 Head 0.8431 R_Clavicle 0.1569
+skin 781 Head 0.9804 L_Clavicle 0.0196
+skin 782 Head 0.8235 R_Clavicle 0.1765
+skin 783 Head 1.0000
+skin 784 Head 0.9098 L_Clavicle 0.0902
+skin 785 Head 0.8157 L_Clavicle 0.1843
+skin 786 Spine01 0.0078 Spine02 0.0078 Head 0.6235 L_Clavicle 0.3608
+skin 787 L_ThighTwist01 0.1412 R_ThighTwist01 0.0588 Waist 0.4784 Spine01 0.3216
+skin 788 R_ThighTwist01 0.3686 Waist 0.1804 Spine01 0.4510
+skin 789 Head 0.7373 L_Clavicle 0.2627
+skin 790 Head 1.0000
+skin 791 Head 0.9176 R_Clavicle 0.0824
+skin 792 Spine01 0.2431 Spine02 0.3333 Head 0.1451 L_Clavicle 0.2784
+skin 793 R_ThighTwist01 0.3608 Waist 0.0627 Spine01 0.5216 R_Clavicle 0.0549
+skin 794 Spine02 0.0667 Head 0.5725 L_Clavicle 0.0588 R_Clavicle 0.3020
+skin 795 Head 0.9333 L_Clavicle 0.0667
+skin 796 Head 0.9294 R_Clavicle 0.0706
+skin 797 Spine01 0.0549 Spine02 0.0667 Head 0.5569 L_Clavicle 0.3216
+skin 798 Head 0.9216 L_Clavicle 0.0784
+skin 799 Head 0.9647 L_Clavicle 0.0353
+skin 800 Head 0.9529 R_Clavicle 0.0471
+skin 801 Head 0.8275 L_Clavicle 0.1725
+skin 802 L_ThighTwist01 0.1412 Spine01 0.6000 Spine02 0.0784 L_Clavicle 0.1804
+skin 803 Head 0.9490 L_Clavicle 0.0510
+skin 804 Head 0.9882 R_Clavicle 0.0118
+skin 805 Spine02 0.0902 Head 0.5725 L_Clavicle 0.2588 R_Clavicle 0.0784
+skin 806 Head 0.8627 R_Clavicle 0.1373
+skin 807 Spine01 0.3647 Spine02 0.2549 Head 0.0941 R_Clavicle 0.2863
+skin 808 Spine01 0.2392 Spine02 0.3843 Head 0.1765 L_Clavicle 0.2000
+skin 809 Head 0.9020 L_Clavicle 0.0980
+skin 810 Head 0.8431 L_Clavicle 0.1569
+skin 811 L_ThighTwist01 0.0745 Spine01 0.5059 Spine02 0.1686 L_Clavicle 0.2510
+skin 812 Head 1.0000
+skin 813 R_ThighTwist01 0.2431 Waist 0.0275 Spine01 0.6235 R_Clavicle 0.1059
+skin 814 Head 0.9451 R_Clavicle 0.0549
+skin 815 Head 0.9176 R_Clavicle 0.0824
+skin 816 Spine02 0.1020 Head 0.6000 L_Clavicle 0.1569 R_Clavicle 0.1412
+skin 817 R_ThighTwist01 0.1098 Spine01 0.6039 Spine02 0.0902 R_Clavicle 0.1961
+skin 818 Head 0.9961 L_Clavicle 0.0039
+skin 819 Head 0.8902 R_Clavicle 0.1098
+skin 820 Head 0.9059 L_Clavicle 0.0941
+skin 821 Spine01 0.5020 Spine02 0.1765 Head 0.0706 R_Clavicle 0.2510
+skin 822 R_ThighTwist01 0.3451 Waist 0.1216 Spine01 0.5255 R_Clavicle 0.0078
+skin 823 Head 0.8745 L_Clavicle 0.1255
+skin 824 Head 0.9686 R_Clavicle 0.0314
+skin 825 Spine02 0.0471 Head 0.6157 L_Clavicle 0.0392 R_Clavicle 0.2980
+skin 826 Head 0.9451 L_Clavicle 0.0549
+skin 827 R_ThighTwist01 0.1647 Spine01 0.6314 Spine02 0.0627 R_Clavicle 0.1412
+skin 828 L_ThighTwist01 0.2941 Waist 0.0784 Spine01 0.5765 L_Clavicle 0.0510
+skin 829 L_ThighTwist01 0.0902 R_ThighTwist01 0.0824 Waist 0.4510 Spine01 0.3765
+skin 830 Spine02 0.0863 Head 0.6039 L_Clavicle 0.1020 R_Clavicle 0.2078
+skin 831 L_ThighTwist01 0.1804 R_ThighTwist01 0.0314 Waist 0.3216 Spine01 0.4667
+skin 832 R_ThighTwist01 0.2627 Waist 0.0549 Spine01 0.6078 R_Clavicle 0.0745
+skin 833 Head 0.9451 L_Clavicle 0.0549
+skin 834 L_ThighTwist01 0.2196 Waist 0.0392 Spine01 0.6431 L_Clavicle 0.0980
+skin 835 L_ThighTwist01 0.2627 Waist 0.1765 Spine01 0.5608
+skin 836 NeckTwist02 0.0039 Head 0.9059 R_Clavicle 0.0902
+skin 837 Spine01 0.3961 Spine02 0.2980 Head 0.0824 L_Clavicle 0.2235
+skin 838 Head 1.0000
+skin 839 Head 0.6941 L_Clavicle 0.3059
+skin 840 Head 0.8510 R_Clavicle 0.1490
+skin 841 L_ThighTwist01 0.0431 R_ThighTwist01 0.1529 Waist 0.3137 Spine01 0.4902
+skin 842 Spine01 0.0275 Spine02 0.0431 Head 0.6353 L_Clavicle 0.2941
+skin 843 Head 0.9843 R_Clavicle 0.0157
+skin 844 Head 0.9020 L_Clavicle 0.0980
+skin 845 Head 0.9255 L_Clavicle 0.0745
+skin 846 Head 0.9137 R_Clavicle 0.0863
+skin 847 R_ThighTwist01 0.2745 Waist 0.0941 Spine01 0.6000 R_Clavicle 0.0314
+skin 848 NeckTwist02 0.0039 Head 0.8863 R_Clavicle 0.1098
+skin 849 Head 0.7843 R_Clavicle 0.2157
+skin 850 Head 0.8000 R_Clavicle 0.2000
+skin 851 Head 1.0000
+skin 852 L_ThighTwist01 0.1059 Spine01 0.6314 Spine02 0.1059 L_Clavicle 0.1569
+skin 853 Spine01 0.3961 Spine02 0.3294 Head 0.0902 R_Clavicle 0.1843
+skin 854 L_ThighTwist01 0.2431 Waist 0.1255 Spine01 0.6157 L_Clavicle 0.0157
+skin 855 Spine01 0.3882 Spine02 0.3373 Head 0.0941 L_Clavicle 0.1804
+skin 856 Head 0.9569 R_Clavicle 0.0431
+skin 857 L_ThighTwist01 0.0118 R_ThighTwist01 0.2118 Waist 0.2039 Spine01 0.5725
+skin 858 Head 0.9647 R_Clavicle 0.0353
+skin 859 Head 0.7922 L_Clavicle 0.2078
+skin 860 L_ThighTwist01 0.1647 R_ThighTwist01 0.0314 Waist 0.2431 Spine01 0.5608
+skin 861 Spine01 0.3725 Spine02 0.3843 Head 0.1137 L_Clavicle 0.1294
+skin 862 Head 0.8471 L_Clavicle 0.1529
+skin 863 Head 0.9059 L_Clavicle 0.0941
+skin 864 Head 1.0000
+skin 865 Head 0.9373 R_Clavicle 0.0627
+skin 866 Head 0.9686 R_Clavicle 0.0314
+skin 867 Head 0.9804 L_Clavicle 0.0196
+skin 868 L_ThighTwist01 0.1412 Spine01 0.6745 Spine02 0.0706 L_Clavicle 0.1137
+skin 869 NeckTwist02 0.0078 Head 0.8667 L_Clavicle 0.1255
+skin 870 Head 0.9333 L_Clavicle 0.0667
+skin 871 NeckTwist02 0.0078 Head 0.8588 R_Clavicle 0.1333
+skin 872 Head 1.0000
+skin 873 Head 0.9490 L_Clavicle 0.0510
+skin 874 NeckTwist02 0.0157 Head 0.9020 R_Clavicle 0.0824
+skin 875 R_ThighTwist01 0.2039 Waist 0.0667 Spine01 0.6667 R_Clavicle 0.0627
+skin 876 Head 0.9608 L_Clavicle 0.0392
+skin 877 L_ThighTwist01 0.1059 R_ThighTwist01 0.0667 Waist 0.2745 Spine01 0.5529
+skin 878 Head 0.8275 L_Clavicle 0.1725
+skin 879 Head 0.8392 L_Clavicle 0.1608
+skin 880 L_ThighTwist01 0.0667 R_ThighTwist01 0.1020 Waist 0.2706 Spine01 0.5608
+skin 881 Head 0.7647 R_Clavicle 0.2353
+skin 882 Head 0.9216 L_Clavicle 0.0784
+skin 883 Head 0.7490 L_Clavicle 0.2510
+skin 884 L_ThighTwist01 0.1922 Waist 0.0784 Spine01 0.6745 L_Clavicle 0.0549
+skin 885 NeckTwist02 0.0118 Head 0.9059 R_Clavicle 0.0824
+skin 886 Head 1.0000
+skin 887 R_ThighTwist01 0.1412 Spine01 0.6980 Spine02 0.0627 R_Clavicle 0.0980
+skin 888 Head 0.9294 R_Clavicle 0.0706
+skin 889 R_ThighTwist01 0.0745 Spine01 0.6471 Spine02 0.1333 R_Clavicle 0.1451
+skin 890 Head 0.9922 L_Clavicle 0.0078
+skin 891 NeckTwist02 0.0039 Head 0.8549 R_Clavicle 0.1412
+skin 892 Head 0.9490 R_Clavicle 0.0510
+skin 893 Head 0.9412 L_Clavicle 0.0588
+skin 894 Head 0.9608 R_Clavicle 0.0392
+skin 895 Head 0.7373 L_Clavicle 0.0078 R_Clavicle 0.2549
+skin 896 R_ThighTwist01 0.1922 Waist 0.1294 Spine01 0.6667 R_Clavicle 0.0118
+skin 897 NeckTwist02 0.0078 Head 0.9020 L_Clavicle 0.0902
+skin 898 L_ThighTwist01 0.0627 Spine01 0.6275 Spine02 0.1725 L_Clavicle 0.1373
+skin 899 L_ThighTwist01 0.1529 R_ThighTwist01 0.0235 Waist 0.1647 Spine01 0.6588
+skin 900 Head 0.9961 R_Clavicle 0.0039
+skin 901 Head 0.7765 L_Clavicle 0.2235
+skin 902 Head 0.9490 L_Clavicle 0.0510
+skin 903 Head 0.9765 L_Clavicle 0.0235
+skin 904 L_ThighTwist01 0.1294 Spine01 0.7176 Spine02 0.0667 L_Clavicle 0.0863
+skin 905 L_ThighTwist01 0.0392 R_ThighTwist01 0.1333 Waist 0.1804 Spine01 0.6471
+skin 906 Head 1.0000
+skin 907 Spine01 0.5843 Spine02 0.2314 L_Clavicle 0.0902 R_Clavicle 0.0941
+skin 908 Head 0.9608 L_Clavicle 0.0392
+skin 909 Spine01 0.6039 Spine02 0.2196 L_Clavicle 0.1059 R_Clavicle 0.0706
+skin 910 Spine02 0.0392 Head 0.6863 L_Clavicle 0.0588 R_Clavicle 0.2157
+skin 911 NeckTwist02 0.0157 Head 0.8392 L_Clavicle 0.1451
+skin 912 Head 1.0000
+skin 913 Head 0.9608 R_Clavicle 0.0392
+skin 914 L_ThighTwist01 0.0824 Spine01 0.6980 Spine02 0.1137 L_Clavicle 0.1059
+skin 915 Spine02 0.0275 Head 0.7020 L_Clavicle 0.2392 R_Clavicle 0.0314
+skin 916 L_ThighTwist01 0.0745 R_ThighTwist01 0.0863 Waist 0.1961 Spine01 0.6431
+skin 917 L_ThighTwist01 0.1059 R_ThighTwist01 0.0588 Waist 0.1804 Spine01 0.6549
+skin 918 Head 0.9333 L_Clavicle 0.0667
+skin 919 Head 0.7490 L_Clavicle 0.2471 R_Clavicle 0.0039
+skin 920 R_ThighTwist01 0.0902 Spine01 0.7137 Spine02 0.0980 R_Clavicle 0.0980
+skin 921 Head 0.9451 L_Clavicle 0.0549
+skin 922 Head 0.8235 R_Clavicle 0.1765
+skin 923 NeckTwist02 0.0314 Head 0.8392 R_Clavicle 0.1294
+skin 924 NeckTwist02 0.0118 Head 0.9176 R_Clavicle 0.0706
+skin 925 Spine02 0.0706 Head 0.6745 L_Clavicle 0.1373 R_Clavicle 0.1176
+skin 926 Spine02 0.0627 Head 0.6745 L_Clavicle 0.1765 R_Clavicle 0.0863
+skin 927 L_ThighTwist01 0.1373 R_ThighTwist01 0.0196 Waist 0.1255 Spine01 0.7176
+skin 928 Head 0.9216 L_Clavicle 0.0784
+skin 929 Head 0.9451 R_Clavicle 0.0549
+skin 930 Spine01 0.6745 Spine02 0.1686 L_Clavicle 0.0588 R_Clavicle 0.0980
+skin 931 R_ThighTwist01 0.1451 Waist 0.0784 Spine01 0.7294 R_Clavicle 0.0471
+skin 932 NeckTwist02 0.0039 Head 0.9176 L_Clavicle 0.0784
+skin 933 Spine02 0.0235 Head 0.7216 L_Clavicle 0.0392 R_Clavicle 0.2157
+skin 934 Head 0.9373 R_Clavicle 0.0627
+skin 935 L_ThighTwist01 0.1294 Waist 0.0863 Spine01 0.7412 L_Clavicle 0.0431
+skin 936 Head 1.0000
+skin 937 Head 0.9804 R_Clavicle 0.0196
+skin 938 NeckTwist02 0.0118 Head 0.8353 L_Clavicle 0.1529
+skin 939 Head 0.9412 L_Clavicle 0.0588
+skin 940 Spine02 0.0588 Head 0.6863 L_Clavicle 0.0824 R_Clavicle 0.1725
+skin 941 Head 1.0000
+skin 942 Head 0.9686 L_Clavicle 0.0314
+skin 943 R_ThighTwist01 0.1059 Spine01 0.7529 Spine02 0.0706 R_Clavicle 0.0706
+skin 944 NeckTwist02 0.0235 Head 0.8392 R_Clavicle 0.1373
+skin 945 Head 0.9333 L_Clavicle 0.0667
+skin 946 Head 0.9490 R_Clavicle 0.0510
+skin 947 Head 1.0000
+skin 948 L_ThighTwist01 0.1098 Waist 0.0706 Spine01 0.7569 L_Clavicle 0.0627
+skin 949 NeckTwist02 0.0039 Head 0.9373 R_Clavicle 0.0588
+skin 950 Head 0.9412 L_Clavicle 0.0588
+skin 951 Spine02 0.0431 Head 0.6902 L_Clavicle 0.2078 R_Clavicle 0.0588
+skin 952 L_ThighTwist01 0.0471 R_ThighTwist01 0.1059 Waist 0.1373 Spine01 0.7098
+skin 953 Head 0.7843 L_Clavicle 0.0039 R_Clavicle 0.2118
+skin 954 Head 0.9882 R_Clavicle 0.0118
+skin 955 NeckTwist02 0.0471 Head 0.8314 L_Clavicle 0.1216
+skin 956 NeckTwist02 0.0549 Head 0.8353 R_Clavicle 0.1098
+skin 957 L_ThighTwist01 0.0627 Spine01 0.7569 Spine02 0.1059 L_Clavicle 0.0745
+skin 958 NeckTwist02 0.0078 Head 0.8392 R_Clavicle 0.1529
+skin 959 R_ThighTwist01 0.1098 Waist 0.0941 Spine01 0.7647 Spine02 0.0314
+skin 960 L_ThighTwist01 0.0706 R_ThighTwist01 0.0706 Waist 0.1255 Spine01 0.7333
+skin 961 Head 0.9961 L_Clavicle 0.0039
+skin 962 Head 0.8353 R_Clavicle 0.1647
+skin 963 Head 0.8118 L_Clavicle 0.1882
+skin 964 R_ThighTwist01 0.0745 Spine01 0.7843 Spine02 0.0824 R_Clavicle 0.0588
+skin 965 L_ThighTwist01 0.0824 R_ThighTwist01 0.0510 Waist 0.1020 Spine01 0.7647
+skin 966 Head 0.8039 R_Clavicle 0.1961
+skin 967 L_ThighTwist01 0.0824 Waist 0.0706 Spine01 0.7804 Spine02 0.0667
+skin 968 Spine01 0.7922 Spine02 0.1059 L_Clavicle 0.0549 R_Clavicle 0.0471
+skin 969 Head 0.7843 L_Clavicle 0.2157
+skin 970 R_ThighTwist01 0.0667 Waist 0.0784 Spine01 0.7961 Spine02 0.0588
+skin 971 Head 0.9725 L_Clavicle 0.0275
+skin 972 Head 0.9843 R_Clavicle 0.0157
+skin 973 Head 0.8314 L_Clavicle 0.1686
+skin 974 NeckTwist02 0.0196 Head 0.8275 L_Clavicle 0.1529
+skin 975 NeckTwist02 0.0510 Head 0.8314 R_Clavicle 0.1176
+skin 976 Head 0.8235 R_Clavicle 0.1765
+skin 977 Head 1.0000
+skin 978 Head 1.0000
+skin 979 Head 1.0000
+skin 980 Head 1.0000
+skin 981 Head 0.8118 L_Clavicle 0.1882
+skin 982 Head 0.9922 L_Clavicle 0.0078
+skin 983 NeckTwist02 0.0118 Head 0.9255 R_Clavicle 0.0627
+skin 984 Head 0.9843 R_Clavicle 0.0157
+skin 985 NeckTwist02 0.0471 Head 0.8627 R_Clavicle 0.0902
+skin 986 Head 0.9804 R_Clavicle 0.0196
+skin 987 Head 0.9686 L_Clavicle 0.0314
+skin 988 NeckTwist02 0.0078 Head 0.9176 L_Clavicle 0.0745
+skin 989 NeckTwist02 0.0510 Head 0.8314 L_Clavicle 0.1176
+skin 990 Head 0.9686 R_Clavicle 0.0314
+skin 991 NeckTwist02 0.0431 Head 0.8549 L_Clavicle 0.1020
+skin 992 Head 0.9882 R_Clavicle 0.0118
+skin 993 Head 0.9765 L_Clavicle 0.0235
+skin 994 Head 0.9843 L_Clavicle 0.0157
+skin 995 Head 0.9804 R_Clavicle 0.0196
+skin 996 Spine02 0.0078 Head 0.7843 L_Clavicle 0.0392 R_Clavicle 0.1686
+skin 997 Head 0.9765 R_Clavicle 0.0235
+skin 998 NeckTwist02 0.0549 Head 0.8471 R_Clavicle 0.0980
+skin 999 Head 0.9686 R_Clavicle 0.0314
+skin 1000 Head 0.9569 L_Clavicle 0.0431
+skin 1001 Head 1.0000
+skin 1002 Head 0.9725 L_Clavicle 0.0275
+skin 1003 NeckTwist02 0.0314 Head 0.8549 R_Clavicle 0.1137
+skin 1004 Head 0.9843 R_Clavicle 0.0157
+skin 1005 NeckTwist02 0.0078 Head 0.9373 R_Clavicle 0.0549
+skin 1006 Head 0.9569 R_Clavicle 0.0431
+skin 1007 Head 1.0000
+skin 1008 Head 0.9451 L_Clavicle 0.0549
+skin 1009 NeckTwist02 0.0235 Head 0.8863 L_Clavicle 0.0902
+skin 1010 Spine02 0.0039 Head 0.7961 L_Clavicle 0.1686 R_Clavicle 0.0314
+skin 1011 NeckTwist02 0.0275 Head 0.8941 R_Clavicle 0.0784
+skin 1012 NeckTwist02 0.0078 Head 0.8510 L_Clavicle 0.1412
+skin 1013 Spine02 0.0392 Head 0.7529 L_Clavicle 0.1059 R_Clavicle 0.1020
+skin 1014 Head 0.9922 L_Clavicle 0.0078
+skin 1015 Head 0.9961 R_Clavicle 0.0039
+skin 1016 Spine02 0.0353 Head 0.7569 L_Clavicle 0.0902 R_Clavicle 0.1176
+skin 1017 Spine02 0.0353 Head 0.7569 L_Clavicle 0.1294 R_Clavicle 0.0784
+skin 1018 NeckTwist02 0.0196 Head 0.8549 L_Clavicle 0.0039 R_Clavicle 0.1216
+skin 1019 Head 0.9373 L_Clavicle 0.0627
+skin 1020 Head 0.8549 L_Clavicle 0.1451
+skin 1021 Head 1.0000
+skin 1022 NeckTwist02 0.0235 Head 0.8627 L_Clavicle 0.1137
+skin 1023 Head 0.8392 L_Clavicle 0.0196 R_Clavicle 0.1412
+skin 1024 Head 0.9686 L_Clavicle 0.0314
+skin 1025 Head 0.9804 L_Clavicle 0.0196
+skin 1026 Head 0.8392 L_Clavicle 0.1490 R_Clavicle 0.0118
+skin 1027 Spine02 0.0235 Head 0.7765 L_Clavicle 0.0745 R_Clavicle 0.1255
+skin 1028 Head 0.9922 R_Clavicle 0.0078
+skin 1029 NeckTwist02 0.0078 Head 0.8549 L_Clavicle 0.0118 R_Clavicle 0.1255
+skin 1030 Head 0.9765 R_Clavicle 0.0235
+skin 1031 Head 0.9922 L_Clavicle 0.0078
+skin 1032 NeckTwist02 0.0078 Head 0.8588 L_Clavicle 0.1294 R_Clavicle 0.0039
+skin 1033 Head 1.0000
+skin 1034 Head 0.8353 L_Clavicle 0.0471 R_Clavicle 0.1176
+skin 1035 NeckTwist02 0.0039 Head 0.9490 R_Clavicle 0.0471
+skin 1036 Head 0.8314 L_Clavicle 0.1294 R_Clavicle 0.0392
+skin 1037 Spine02 0.0078 Head 0.8039 L_Clavicle 0.0627 R_Clavicle 0.1255
+skin 1038 NeckTwist02 0.0196 Head 0.8667 L_Clavicle 0.0078 R_Clavicle 0.1059
+skin 1039 Head 0.9961 L_Clavicle 0.0039
+skin 1040 Head 0.8275 L_Clavicle 0.1373 R_Clavicle 0.0353
+skin 1041 Head 1.0000
+skin 1042 Head 0.8353 L_Clavicle 0.0392 R_Clavicle 0.1255
+skin 1043 Spine02 0.0196 Head 0.7922 L_Clavicle 0.1216 R_Clavicle 0.0667
+skin 1044 Head 0.9804 L_Clavicle 0.0196
+skin 1045 Head 0.9608 L_Clavicle 0.0392
+skin 1046 Head 0.9882 R_Clavicle 0.0118
+skin 1047 NeckTwist02 0.0157 Head 0.9059 L_Clavicle 0.0784
+skin 1048 Head 0.8275 L_Clavicle 0.0588 R_Clavicle 0.1137
+skin 1049 Spine02 0.0039 Head 0.8196 L_Clavicle 0.0588 R_Clavicle 0.1176
+skin 1050 Head 0.9882 L_Clavicle 0.0118
+skin 1051 Spine02 0.0078 Head 0.8157 L_Clavicle 0.1216 R_Clavicle 0.0549
+skin 1052 Head 1.0000
+skin 1053 Head 0.8431 L_Clavicle 0.1255 R_Clavicle 0.0314
+skin 1054 NeckTwist02 0.0235 Head 0.9020 L_Clavicle 0.0039 R_Clavicle 0.0706
+skin 1055 Head 0.9686 R_Clavicle 0.0314
+skin 1056 Head 0.8588 L_Clavicle 0.1255 R_Clavicle 0.0157
+skin 1057 NeckTwist02 0.0275 Head 0.8863 L_Clavicle 0.0039 R_Clavicle 0.0824
+skin 1058 NeckTwist02 0.0039 Head 0.9451 L_Clavicle 0.0510
+skin 1059 Spine02 0.0039 Head 0.8275 L_Clavicle 0.1137 R_Clavicle 0.0549
+skin 1060 Head 0.8431 L_Clavicle 0.0431 R_Clavicle 0.1137
+skin 1061 Spine02 0.0157 Head 0.8078 L_Clavicle 0.0902 R_Clavicle 0.0863
+skin 1062 Head 0.8353 L_Clavicle 0.1176 R_Clavicle 0.0471
+skin 1063 NeckTwist02 0.0078 Head 0.8549 L_Clavicle 0.0275 R_Clavicle 0.1098
+skin 1064 Spine02 0.0078 Head 0.8196 L_Clavicle 0.0706 R_Clavicle 0.1020
+skin 1065 Spine02 0.0078 Head 0.8196 L_Clavicle 0.1098 R_Clavicle 0.0627
+skin 1066 Spine02 0.0039 Head 0.8275 L_Clavicle 0.0667 R_Clavicle 0.1020
+skin 1067 Head 0.9843 L_Clavicle 0.0118 R_Clavicle 0.0039
+skin 1068 NeckTwist02 0.0157 Head 0.8902 L_Clavicle 0.0902 R_Clavicle 0.0039
+skin 1069 Head 0.9686 L_Clavicle 0.0314
+skin 1070 NeckTwist02 0.0078 Head 0.9490 L_Clavicle 0.0078 R_Clavicle 0.0353
+skin 1071 Head 0.9765 L_Clavicle 0.0078 R_Clavicle 0.0157
+skin 1072 NeckTwist02 0.0235 Head 0.8784 L_Clavicle 0.0118 R_Clavicle 0.0863
+skin 1073 Spine02 0.0039 Head 0.8314 L_Clavicle 0.1020 R_Clavicle 0.0627
+skin 1074 Head 0.8392 L_Clavicle 0.0588 R_Clavicle 0.1020
+skin 1075 Head 0.8431 L_Clavicle 0.0549 R_Clavicle 0.1020
+skin 1076 NeckTwist02 0.0039 Head 0.8706 L_Clavicle 0.1098 R_Clavicle 0.0157
+skin 1077 NeckTwist02 0.0078 Head 0.9490 L_Clavicle 0.0392 R_Clavicle 0.0039
+skin 1078 NeckTwist02 0.0118 Head 0.8824 L_Clavicle 0.0980 R_Clavicle 0.0078
+skin 1079 NeckTwist02 0.0039 Head 0.9608 L_Clavicle 0.0275 R_Clavicle 0.0078
+skin 1080 NeckTwist02 0.0039 Head 0.9608 L_Clavicle 0.0196 R_Clavicle 0.0157
+skin 1081 Head 0.8431 L_Clavicle 0.1059 R_Clavicle 0.0510
+skin 1082 NeckTwist02 0.0078 Head 0.9569 L_Clavicle 0.0118 R_Clavicle 0.0235
+skin 1083 Spine02 0.0039 Head 0.8314 L_Clavicle 0.0863 R_Clavicle 0.0784
+skin 1084 NeckTwist02 0.0157 Head 0.9137 L_Clavicle 0.0667 R_Clavicle 0.0039
+skin 1085 Head 0.8353 L_Clavicle 0.0980 R_Clavicle 0.0667
+skin 1086 Spine02 0.0039 Head 0.8314 L_Clavicle 0.0784 R_Clavicle 0.0863
+skin 1087 NeckTwist02 0.0196 Head 0.9137 L_Clavicle 0.0118 R_Clavicle 0.0549
+skin 1088 Head 0.8431 L_Clavicle 0.0627 R_Clavicle 0.0941
+skin 1089 Head 0.8431 L_Clavicle 0.0824 R_Clavicle 0.0745
+skin 1090 Head 0.8392 L_Clavicle 0.0980 R_Clavicle 0.0627
+skin 1091 NeckTwist02 0.0157 Head 0.8745 L_Clavicle 0.0235 R_Clavicle 0.0863
+skin 1092 NeckTwist02 0.0196 Head 0.9137 L_Clavicle 0.0588 R_Clavicle 0.0078
+skin 1093 NeckTwist02 0.0275 Head 0.8941 L_Clavicle 0.0157 R_Clavicle 0.0627
+skin 1094 Head 0.8471 L_Clavicle 0.0745 R_Clavicle 0.0784
+skin 1095 NeckTwist02 0.0235 Head 0.8863 L_Clavicle 0.0196 R_Clavicle 0.0706
+skin 1096 NeckTwist02 0.0235 Head 0.9176 L_Clavicle 0.0196 R_Clavicle 0.0392
+skin 1097 NeckTwist02 0.0078 Head 0.8627 L_Clavicle 0.0941 R_Clavicle 0.0353
+skin 1098 Head 0.8549 L_Clavicle 0.0784 R_Clavicle 0.0667
+skin 1099 NeckTwist02 0.0275 Head 0.8863 L_Clavicle 0.0706 R_Clavicle 0.0157
+skin 1100 NeckTwist02 0.0157 Head 0.8745 L_Clavicle 0.0863 R_Clavicle 0.0235
+skin 1101 NeckTwist02 0.0235 Head 0.9216 L_Clavicle 0.0275 R_Clavicle 0.0275
+skin 1102 NeckTwist02 0.0039 Head 0.8510 L_Clavicle 0.0745 R_Clavicle 0.0706
+skin 1103 NeckTwist02 0.0235 Head 0.9176 L_Clavicle 0.0431 R_Clavicle 0.0157
+skin 1104 NeckTwist02 0.0314 Head 0.8941 L_Clavicle 0.0196 R_Clavicle 0.0549
+skin 1105 NeckTwist02 0.0275 Head 0.9137 L_Clavicle 0.0353 R_Clavicle 0.0235
+skin 1106 NeckTwist02 0.0314 Head 0.8980 L_Clavicle 0.0549 R_Clavicle 0.0157
+skin 1107 NeckTwist02 0.0078 Head 0.8549 L_Clavicle 0.0863 R_Clavicle 0.0510
+skin 1108 NeckTwist02 0.0157 Head 0.8667 L_Clavicle 0.0431 R_Clavicle 0.0745
+skin 1109 NeckTwist02 0.0118 Head 0.8549 L_Clavicle 0.0549 R_Clavicle 0.0784
+skin 1110 NeckTwist02 0.0078 Head 0.8510 L_Clavicle 0.0667 R_Clavicle 0.0745
+skin 1111 NeckTwist02 0.0392 Head 0.8941 L_Clavicle 0.0275 R_Clavicle 0.0392
+skin 1112 NeckTwist02 0.0471 Head 0.8706 L_Clavicle 0.0275 R_Clavicle 0.0549
+skin 1113 NeckTwist02 0.0118 Head 0.8588 L_Clavicle 0.0745 R_Clavicle 0.0549
+skin 1114 NeckTwist02 0.0471 Head 0.8706 L_Clavicle 0.0588 R_Clavicle 0.0235
+skin 1115 NeckTwist02 0.0118 Head 0.8667 L_Clavicle 0.0784 R_Clavicle 0.0431
+skin 1116 NeckTwist02 0.0353 Head 0.8667 L_Clavicle 0.0353 R_Clavicle 0.0627
+skin 1117 NeckTwist02 0.0314 Head 0.8784 L_Clavicle 0.0667 R_Clavicle 0.0235
+skin 1118 NeckTwist02 0.0392 Head 0.8941 L_Clavicle 0.0353 R_Clavicle 0.0314
+skin 1119 NeckTwist02 0.0157 Head 0.8588 L_Clavicle 0.0549 R_Clavicle 0.0706
+skin 1120 NeckTwist02 0.0157 Head 0.8627 L_Clavicle 0.0627 R_Clavicle 0.0588
+skin 1121 NeckTwist02 0.0157 Head 0.8588 L_Clavicle 0.0627 R_Clavicle 0.0627
+skin 1122 NeckTwist02 0.0275 Head 0.8706 L_Clavicle 0.0706 R_Clavicle 0.0314
+skin 1123 NeckTwist02 0.0549 Head 0.8627 L_Clavicle 0.0353 R_Clavicle 0.0471
+skin 1124 NeckTwist02 0.0196 Head 0.8588 L_Clavicle 0.0667 R_Clavicle 0.0549
+skin 1125 NeckTwist02 0.0392 Head 0.8706 L_Clavicle 0.0627 R_Clavicle 0.0275
+skin 1126 NeckTwist02 0.0275 Head 0.8667 L_Clavicle 0.0431 R_Clavicle 0.0627
+skin 1127 NeckTwist02 0.0353 Head 0.8706 L_Clavicle 0.0353 R_Clavicle 0.0588
+skin 1128 NeckTwist02 0.0549 Head 0.8667 L_Clavicle 0.0510 R_Clavicle 0.0275
+skin 1129 NeckTwist02 0.0196 Head 0.8627 L_Clavicle 0.0588 R_Clavicle 0.0588
+skin 1130 NeckTwist02 0.0235 Head 0.8667 L_Clavicle 0.0667 R_Clavicle 0.0431
+skin 1131 NeckTwist02 0.0510 Head 0.8627 L_Clavicle 0.0588 R_Clavicle 0.0275
+skin 1132 NeckTwist02 0.0353 Head 0.8706 L_Clavicle 0.0627 R_Clavicle 0.0314
+skin 1133 NeckTwist02 0.0549 Head 0.8667 L_Clavicle 0.0431 R_Clavicle 0.0353
+skin 1134 NeckTwist02 0.0235 Head 0.8627 L_Clavicle 0.0627 R_Clavicle 0.0510
+skin 1135 NeckTwist02 0.0196 Head 0.8627 L_Clavicle 0.0588 R_Clavicle 0.0588
+skin 1136 NeckTwist02 0.0314 Head 0.8667 L_Clavicle 0.0431 R_Clavicle 0.0588
+skin 1137 NeckTwist02 0.0275 Head 0.8627 L_Clavicle 0.0510 R_Clavicle 0.0588
+skin 1138 NeckTwist02 0.0314 Head 0.8627 L_Clavicle 0.0510 R_Clavicle 0.0549
+skin 1139 NeckTwist02 0.0314 Head 0.8627 L_Clavicle 0.0627 R_Clavicle 0.0431
+skin 1140 NeckTwist02 0.0314 Head 0.8667 L_Clavicle 0.0667 R_Clavicle 0.0353
+skin 1141 NeckTwist02 0.0510 Head 0.8627 L_Clavicle 0.0353 R_Clavicle 0.0510
+skin 1142 NeckTwist02 0.0510 Head 0.8667 L_Clavicle 0.0549 R_Clavicle 0.0275
+skin 1143 NeckTwist02 0.0549 Head 0.8588 L_Clavicle 0.0392 R_Clavicle 0.0471
+skin 1144 NeckTwist02 0.0431 Head 0.8627 L_Clavicle 0.0392 R_Clavicle 0.0549
+skin 1145 NeckTwist02 0.0431 Head 0.8667 L_Clavicle 0.0588 R_Clavicle 0.0314
+skin 1146 NeckTwist02 0.0314 Head 0.8588 L_Clavicle 0.0549 R_Clavicle 0.0549
+skin 1147 NeckTwist02 0.0275 Head 0.8627 L_Clavicle 0.0588 R_Clavicle 0.0510
+skin 1148 NeckTwist02 0.0392 Head 0.8588 L_Clavicle 0.0471 R_Clavicle 0.0549
+skin 1149 NeckTwist02 0.0549 Head 0.8549 L_Clavicle 0.0392 R_Clavicle 0.0510
+skin 1150 NeckTwist02 0.0392 Head 0.8667 L_Clavicle 0.0588 R_Clavicle 0.0353
+skin 1151 NeckTwist02 0.0314 Head 0.8627 L_Clavicle 0.0549 R_Clavicle 0.0510
+skin 1152 NeckTwist02 0.0471 Head 0.8627 L_Clavicle 0.0549 R_Clavicle 0.0353
+skin 1153 NeckTwist02 0.0549 Head 0.8549 L_Clavicle 0.0510 R_Clavicle 0.0392
+skin 1154 NeckTwist02 0.0431 Head 0.8588 L_Clavicle 0.0471 R_Clavicle 0.0510
+skin 1155 NeckTwist02 0.0471 Head 0.8588 L_Clavicle 0.0510 R_Clavicle 0.0431
+skin 1156 NeckTwist02 0.0431 Head 0.8588 L_Clavicle 0.0549 R_Clavicle 0.0431
+skin 1157 L_ForearmTwist01 0.7529 L_ForearmTwist02 0.1922 L_UpperarmTwist02 0.0549
+skin 1158 R_ThighTwist02 0.5608 R_Foot 0.1333 R_CalfTwist01 0.2353 Waist 0.0706
+skin 1159 L_ThighTwist01 0.9059 Spine01 0.0784 L_Clavicle 0.0157
+skin 1160 R_ThighTwist01 0.2078 R_ThighTwist02 0.5882 R_Foot 0.1098 R_CalfTwist02 0.0941
+skin 1161 Head 0.4510 L_Clavicle 0.4706 L_UpperarmTwist01 0.0784
+skin 1162 Head 0.0863 R_Clavicle 0.7373 R_UpperarmTwist01 0.1765
+skin 1163 R_ForearmTwist01 0.2745 R_ForearmTwist02 0.6627 R_Hand 0.0627
+skin 1164 L_Clavicle 0.0275 L_ForearmTwist01 0.0314 L_UpperarmTwist01 0.6431 L_UpperarmTwist02 0.2980
+skin 1165 L_ForearmTwist02 0.6039 L_Hand 0.3961
+skin 1166 R_ThighTwist01 0.1373 R_ThighTwist02 0.5176 R_CalfTwist01 0.1020 Waist 0.2431
+skin 1167 L_ForearmTwist02 0.0745 L_Hand 0.9255
+skin 1168 R_Clavicle 0.1216 R_UpperarmTwist01 0.8078 R_UpperarmTwist02 0.0706
+skin 1169 R_UpperarmTwist02 0.0627 R_ForearmTwist01 0.6275 R_ForearmTwist02 0.2941 R_Hand 0.0157
+skin 1170 Head 0.8000 L_Clavicle 0.1961 L_UpperarmTwist01 0.0039
+skin 1171 Head 0.9882 R_Clavicle 0.0118
+skin 1172 Head 0.9922 R_Clavicle 0.0078
+skin 1173 R_Clavicle 0.0745 R_UpperarmTwist01 0.1137 R_UpperarmTwist02 0.7255 R_ForearmTwist01 0.0863
+skin 1174 L_Clavicle 0.0863 L_ForearmTwist01 0.0824 L_UpperarmTwist01 0.1412 L_UpperarmTwist02 0.6902
+skin 1175 L_ThighTwist01 0.9373 L_ThighTwist02 0.0627
+skin 1176 R_UpperarmTwist02 0.1020 R_ForearmTwist01 0.7961 R_ForearmTwist02 0.1020
+skin 1177 R_ForearmTwist02 0.2706 R_Hand 0.7294
+skin 1178 R_ThighTwist01 0.2275 R_Clavicle 0.2157 R_UpperarmTwist01 0.2157 R_UpperarmTwist02 0.3412
+skin 1179 L_Clavicle 0.2118 L_UpperarmTwist01 0.6980 L_UpperarmTwist02 0.0902
+skin 1180 Head 0.9882 L_Clavicle 0.0118
+skin 1181 Head 0.9647 L_Clavicle 0.0353
+skin 1182 L_ThighTwist01 0.7216 Spine01 0.1451 L_Clavicle 0.0745 L_UpperarmTwist02 0.0588
+skin 1183 Head 0.9804 L_Clavicle 0.0196
+skin 1184 R_ThighTwist02 0.2275 R_Foot 0.2118 R_CalfTwist01 0.5059 R_CalfTwist02 0.0549
+skin 1185 Head 0.9922 R_Clavicle 0.0078
+skin 1186 Head 0.2667 R_Clavicle 0.5922 R_UpperarmTwist01 0.1373 R_UpperarmTwist02 0.0039
+skin 1187 L_ForearmTwist02 0.4667 L_Hand 0.5333
+skin 1188 Head 0.9765 L_Clavicle 0.0235
+skin 1189 R_UpperarmTwist01 0.1137 R_UpperarmTwist02 0.7961 R_ForearmTwist01 0.0902
+skin 1190 R_ForearmTwist02 0.0902 R_Hand 0.9098
+skin 1191 Head 0.9843 L_Clavicle 0.0157
+skin 1192 Head 0.9922 L_Clavicle 0.0078
+skin 1193 R_ForearmTwist01 0.0863 R_ForearmTwist02 0.7608 R_Hand 0.1529
+skin 1194 L_Foot 0.1961 L_CalfTwist01 0.6549 L_ThighTwist02 0.1490
+skin 1195 R_UpperarmTwist02 0.0353 R_ForearmTwist01 0.6471 R_ForearmTwist02 0.3176
+skin 1196 L_ForearmTwist02 0.0941 L_Hand 0.9059
+skin 1197 R_ForearmTwist02 0.5608 R_Hand 0.4392
+skin 1198 Head 0.9804 L_Clavicle 0.0196
+skin 1199 Head 0.9804 L_Clavicle 0.0196
+skin 1200 Head 0.9922 R_Clavicle 0.0078
+skin 1201 R_ForearmTwist02 0.1647 R_Hand 0.8353
+skin 1202 Head 0.7922 R_Clavicle 0.1804 R_UpperarmTwist01 0.0275
+skin 1203 R_UpperarmTwist01 0.0039 R_UpperarmTwist02 0.6980 R_ForearmTwist01 0.2980
+skin 1204 Head 0.9961 R_Clavicle 0.0039
+skin 1205 L_ForearmTwist01 0.2431 L_UpperarmTwist01 0.0824 L_UpperarmTwist02 0.6745
+skin 1206 Head 1.0000
+skin 1207 R_UpperarmTwist02 0.3098 R_ForearmTwist01 0.6588 R_ForearmTwist02 0.0314
+skin 1208 Head 1.0000
+skin 1209 L_ForearmTwist01 0.6667 L_ForearmTwist02 0.0471 L_UpperarmTwist02 0.2863
+skin 1210 L_ForearmTwist01 0.6902 L_ForearmTwist02 0.2667 L_UpperarmTwist02 0.0431
+skin 1211 L_Foot 0.2510 L_CalfTwist01 0.2902 L_CalfTwist02 0.1294 L_ThighTwist02 0.3294
+skin 1212 L_ForearmTwist02 0.1059 L_Hand 0.8941
+skin 1213 Head 0.6275 R_Clavicle 0.3020 R_UpperarmTwist01 0.0706
+skin 1214 L_ForearmTwist01 0.6784 L_ForearmTwist02 0.1922 L_UpperarmTwist02 0.1294
+skin 1215 L_ForearmTwist02 0.1059 L_Hand 0.8941
+skin 1216 R_ForearmTwist02 0.1216 R_Hand 0.8784
+skin 1217 Head 0.9412 R_Clavicle 0.0588
+skin 1218 L_ThighTwist01 0.9647 L_ThighTwist02 0.0196 Spine01 0.0157
+skin 1219 Head 1.0000
+skin 1220 L_ThighTwist01 0.1647 L_Clavicle 0.2902 L_UpperarmTwist01 0.2275 L_UpperarmTwist02 0.3176
+skin 1221 L_ForearmTwist01 0.2196 L_ForearmTwist02 0.6980 L_Hand 0.0824
+skin 1222 Head 0.9804 L_Clavicle 0.0196
+skin 1223 L_ThighTwist01 0.8431 L_ThighTwist02 0.1569
+skin 1224 L_ThighTwist01 0.1529 L_ThighTwist02 0.3216 R_ThighTwist02 0.0824 Waist 0.4431
+skin 1225 R_ThighTwist01 0.1765 R_Clavicle 0.1882 R_UpperarmTwist01 0.2314 R_UpperarmTwist02 0.4039
+skin 1226 L_ForearmTwist02 0.0549 L_Hand 0.9451
+skin 1227 Head 0.1569 L_Clavicle 0.6784 L_UpperarmTwist01 0.1647
+skin 1228 Head 0.9922 R_Clavicle 0.0078
+skin 1229 R_ThighTwist01 0.6471 Spine01 0.1686 R_Clavicle 0.0824 R_UpperarmTwist02 0.1020
+skin 1230 Head 0.9843 L_Clavicle 0.0157
+skin 1231 L_ForearmTwist01 0.1294 L_ForearmTwist02 0.7529 L_Hand 0.1176
+skin 1232 R_ThighTwist01 0.1725 R_ThighTwist02 0.6196 R_Foot 0.1098 R_CalfTwist02 0.0980
+skin 1233 R_ThighTwist02 0.1020 R_Foot 0.5294 R_CalfTwist01 0.0745 R_CalfTwist02 0.2941
+skin 1234 R_ThighTwist01 0.8471 Spine01 0.0980 R_Clavicle 0.0235 R_UpperarmTwist02 0.0314
+skin 1235 R_ForearmTwist02 0.0784 R_Hand 0.9216
+skin 1236 L_Hand 1.0000
+skin 1237 R_ForearmTwist01 0.2275 R_ForearmTwist02 0.6627 R_Hand 0.1098
+skin 1238 Head 0.8824 L_Clavicle 0.1176
+skin 1239 Head 0.9922 R_Clavicle 0.0078
+skin 1240 Head 0.9961 R_Clavicle 0.0039
+skin 1241 R_ThighTwist02 0.1098 R_Foot 0.4902 R_CalfTwist01 0.0824 R_CalfTwist02 0.3176
+skin 1242 R_ForearmTwist02 0.0902 R_Hand 0.9098
+skin 1243 L_Foot 0.2078 L_CalfTwist01 0.6863 L_ThighTwist02 0.1059
+skin 1244 L_ForearmTwist02 0.4706 L_Hand 0.5294
+skin 1245 Head 0.6784 L_Clavicle 0.2824 L_UpperarmTwist01 0.0392
+skin 1246 Head 0.5569 L_Clavicle 0.3765 L_UpperarmTwist01 0.0667
+skin 1247 Head 0.5059 R_Clavicle 0.3922 R_UpperarmTwist01 0.1020
+skin 1248 R_ThighTwist01 0.8784 R_ThighTwist02 0.1216
+skin 1249 R_Clavicle 0.0314 R_UpperarmTwist01 0.2118 R_UpperarmTwist02 0.5843 R_ForearmTwist01 0.1725
+skin 1250 Head 0.0784 L_Clavicle 0.5647 L_UpperarmTwist01 0.2980 L_UpperarmTwist02 0.0588
+skin 1251 Head 0.9922 R_Clavicle 0.0078
+skin 1252 Head 0.9725 L_Clavicle 0.0275
+skin 1253 Head 0.9608 L_Clavicle 0.0392
+skin 1254 Head 0.8667 R_Clavicle 0.1294 R_UpperarmTwist01 0.0039
+skin 1255 Head 0.9294 L_Clavicle 0.0706
+skin 1256 Head 0.9686 R_Clavicle 0.0314
+skin 1257 Head 0.9843 R_Clavicle 0.0157
+skin 1258 R_ForearmTwist01 0.0235 R_ForearmTwist02 0.4392 R_Hand 0.5373
+skin 1259 L_ForearmTwist01 0.0902 L_ForearmTwist02 0.7176 L_Hand 0.1922
+skin 1260 L_Foot 0.1451 L_CalfTwist01 0.6471 L_ThighTwist02 0.2078
+skin 1261 L_ForearmTwist01 0.1725 L_UpperarmTwist01 0.2078 L_UpperarmTwist02 0.6196
+skin 1262 Head 0.9765 R_Clavicle 0.0235
+skin 1263 L_ForearmTwist02 0.2941 L_Hand 0.7059
+skin 1264 Head 1.0000
+skin 1265 R_ThighTwist01 0.9725 R_ThighTwist02 0.0196 Spine01 0.0078
+skin 1266 R_ForearmTwist01 0.0941 R_ForearmTwist02 0.6980 R_Hand 0.2078
+skin 1267 Head 1.0000
+skin 1268 Head 0.9490 L_Clavicle 0.0510
+skin 1269 Head 0.7490 L_Clavicle 0.2314 L_UpperarmTwist01 0.0196
+skin 1270 R_ThighTwist02 0.4784 R_Foot 0.0980 R_CalfTwist01 0.3647 Waist 0.0588
+skin 1271 L_ForearmTwist01 0.6235 L_ForearmTwist02 0.0549 L_UpperarmTwist01 0.0078 L_UpperarmTwist02 0.3137
+skin 1272 R_UpperarmTwist02 0.2706 R_ForearmTwist01 0.6157 R_ForearmTwist02 0.1137
+skin 1273 Head 0.8392 L_Clavicle 0.1608
+skin 1274 R_ForearmTwist02 0.1294 R_Hand 0.8706
+skin 1275 L_ForearmTwist01 0.6235 L_ForearmTwist02 0.2980 L_Hand 0.0275 L_UpperarmTwist02 0.0510
+skin 1276 L_ForearmTwist01 0.0471 L_ForearmTwist02 0.6314 L_Hand 0.3216
+skin 1277 L_ForearmTwist02 0.1137 L_Hand 0.8863
+skin 1278 R_UpperarmTwist02 0.0392 R_ForearmTwist01 0.5725 R_ForearmTwist02 0.3765 R_Hand 0.0118
+skin 1279 Head 0.9961 L_Clavicle 0.0039
+skin 1280 Head 0.9882 L_Clavicle 0.0118
+skin 1281 L_ForearmTwist02 0.0627 L_Hand 0.9373
+skin 1282 L_CalfTwist01 0.1137 L_ThighTwist01 0.1176 L_ThighTwist02 0.5020 Waist 0.2667
+skin 1283 Head 0.7216 R_Clavicle 0.2235 R_UpperarmTwist01 0.0549
+skin 1284 R_ForearmTwist02 0.0902 R_Hand 0.9098
+skin 1285 Head 0.1922 R_Clavicle 0.5686 R_UpperarmTwist01 0.2000 R_UpperarmTwist02 0.0392
+skin 1286 Head 0.2471 L_Clavicle 0.6118 L_UpperarmTwist01 0.1412
+skin 1287 L_Clavicle 0.1255 L_ForearmTwist01 0.1333 L_UpperarmTwist01 0.1333 L_UpperarmTwist02 0.6078
+skin 1288 L_Foot 0.0745 L_CalfTwist01 0.3882 L_ThighTwist02 0.4745 Waist 0.0627
+skin 1289 Head 0.9804 L_Clavicle 0.0196
+skin 1290 R_UpperarmTwist02 0.3412 R_ForearmTwist01 0.5961 R_ForearmTwist02 0.0627
+skin 1291 Head 0.9804 L_Clavicle 0.0196
+skin 1292 R_ThighTwist02 0.5843 R_Foot 0.0745 R_CalfTwist01 0.2157 Waist 0.1255
+skin 1293 Head 0.9569 L_Clavicle 0.0431
+skin 1294 R_ThighTwist02 0.2157 R_Foot 0.1961 R_CalfTwist01 0.5608 R_CalfTwist02 0.0275
+skin 1295 L_ThighTwist01 0.1294 L_ThighTwist02 0.2745 R_ThighTwist02 0.1098 Waist 0.4863
+skin 1296 L_Foot 0.1137 L_CalfTwist01 0.1294 L_ThighTwist01 0.1647 L_ThighTwist02 0.5922
+skin 1297 Head 0.9765 L_Clavicle 0.0235
+skin 1298 Head 1.0000
+skin 1299 L_Foot 0.1098 L_CalfTwist01 0.6000 L_ThighTwist02 0.2745 Waist 0.0157
+skin 1300 R_Clavicle 0.0784 R_UpperarmTwist01 0.0863 R_UpperarmTwist02 0.6941 R_ForearmTwist01 0.1412
+skin 1301 L_CalfTwist01 0.2275 L_ThighTwist01 0.0706 L_ThighTwist02 0.5725 Waist 0.1294
+skin 1302 Head 0.9843 L_Clavicle 0.0157
+skin 1303 Head 1.0000
+skin 1304 R_ForearmTwist02 0.1059 R_Hand 0.8941
+skin 1305 R_ForearmTwist01 0.0275 R_ForearmTwist02 0.3843 R_Hand 0.5882
+skin 1306 L_ThighTwist02 0.1137 R_ThighTwist01 0.1412 R_ThighTwist02 0.2588 Waist 0.4863
+skin 1307 L_ForearmTwist02 0.0863 L_Hand 0.9137
+skin 1308 Head 1.0000
+skin 1309 Head 1.0000
+skin 1310 L_ForearmTwist02 0.0392 L_Hand 0.9608
+skin 1311 R_ThighTwist02 0.2196 R_Foot 0.3647 R_CalfTwist01 0.1569 R_CalfTwist02 0.2588
+skin 1312 Head 0.0196 R_Clavicle 0.1294 R_UpperarmTwist01 0.6235 R_UpperarmTwist02 0.2275
+skin 1313 Head 0.9882 L_Clavicle 0.0118
+skin 1314 Head 0.9765 L_Clavicle 0.0235
+skin 1315 Head 1.0000
+skin 1316 R_ThighTwist01 0.1098 R_ThighTwist02 0.6039 R_Foot 0.1569 R_CalfTwist02 0.1294
+skin 1317 L_ForearmTwist02 0.0706 L_Hand 0.9294
+skin 1318 L_ForearmTwist01 0.4039 L_ForearmTwist02 0.5882 L_UpperarmTwist02 0.0078
+skin 1319 L_ThighTwist01 0.3922 Spine01 0.2431 L_Clavicle 0.1725 L_UpperarmTwist02 0.1922
+skin 1320 R_ForearmTwist02 0.0980 R_Hand 0.9020
+skin 1321 Head 0.9569 R_Clavicle 0.0431
+skin 1322 L_ForearmTwist01 0.0314 L_ForearmTwist02 0.5020 L_Hand 0.4667
+skin 1323 R_ThighTwist01 0.4000 Spine01 0.2431 R_Clavicle 0.1373 R_UpperarmTwist02 0.2196
+skin 1324 L_ThighTwist01 0.5961 Spine01 0.1843 L_Clavicle 0.1098 L_UpperarmTwist02 0.1098
+skin 1325 Head 0.9882 R_Clavicle 0.0118
+skin 1326 Head 1.0000
+skin 1327 Head 0.9647 R_Clavicle 0.0353
+skin 1328 R_ForearmTwist01 0.0314 R_ForearmTwist02 0.2039 R_Hand 0.7647
+skin 1329 Head 0.9961 R_Clavicle 0.0039
+skin 1330 Head 0.9765 R_Clavicle 0.0235
+skin 1331 Head 0.9451 L_Clavicle 0.0549
+skin 1332 R_UpperarmTwist02 0.0824 R_ForearmTwist01 0.2627 R_ForearmTwist02 0.5765 R_Hand 0.0784
+skin 1333 L_ForearmTwist01 0.0745 L_ForearmTwist02 0.5686 L_Hand 0.3569
+skin 1334 Head 0.9961 R_Clavicle 0.0039
+skin 1335 Head 0.9882 R_Clavicle 0.0118
+skin 1336 R_ThighTwist01 0.1176 R_ThighTwist02 0.5098 R_CalfTwist01 0.1176 Waist 0.2549
+skin 1337 Head 0.9843 R_Clavicle 0.0157
+skin 1338 Head 0.9882 R_Clavicle 0.0118
+skin 1339 L_ThighTwist01 0.9333 L_ThighTwist02 0.0667
+skin 1340 Head 0.9725 R_Clavicle 0.0275
+skin 1341 R_ForearmTwist01 0.0667 R_ForearmTwist02 0.5490 R_Hand 0.3843
+skin 1342 L_ForearmTwist02 0.0627 L_Hand 0.9373
+skin 1343 R_ForearmTwist02 0.1412 R_Hand 0.8588
+skin 1344 Head 0.9804 R_Clavicle 0.0196
+skin 1345 L_Clavicle 0.0431 L_ForearmTwist01 0.1412 L_UpperarmTwist01 0.2392 L_UpperarmTwist02 0.5765
+skin 1346 L_Foot 0.2784 L_CalfTwist01 0.2275 L_CalfTwist02 0.2824 L_ThighTwist02 0.2118
+skin 1347 Head 0.9843 L_Clavicle 0.0157
+skin 1348 Head 0.9765 L_Clavicle 0.0235
+skin 1349 Head 1.0000
+skin 1350 Head 0.9922 R_Clavicle 0.0078
+skin 1351 Head 0.9529 L_Clavicle 0.0471
+skin 1352 R_ThighTwist02 0.2941 R_Foot 0.1333 R_CalfTwist01 0.5529 Waist 0.0196
+skin 1353 Head 0.9725 L_Clavicle 0.0275
+skin 1354 L_ThighTwist01 0.2000 L_Clavicle 0.2549 L_UpperarmTwist01 0.1804 L_UpperarmTwist02 0.3647
+skin 1355 L_Clavicle 0.0549 L_ForearmTwist01 0.3843 L_UpperarmTwist01 0.0706 L_UpperarmTwist02 0.4902
+skin 1356 L_ThighTwist01 0.8078 Spine01 0.1059 L_Clavicle 0.0510 L_UpperarmTwist02 0.0353
+skin 1357 R_ForearmTwist02 0.1098 R_Hand 0.8902
+skin 1358 Head 0.9686 L_Clavicle 0.0314
+skin 1359 Head 0.9725 L_Clavicle 0.0275
+skin 1360 R_UpperarmTwist02 0.3569 R_ForearmTwist01 0.5294 R_ForearmTwist02 0.1137
+skin 1361 Head 0.9608 L_Clavicle 0.0392
+skin 1362 L_ThighTwist02 0.1059 R_ThighTwist01 0.1569 R_ThighTwist02 0.3176 Waist 0.4196
+skin 1363 R_ThighTwist01 0.2118 Spine01 0.1608 R_Clavicle 0.2039 R_UpperarmTwist02 0.4235
+skin 1364 L_ForearmTwist01 0.6667 L_ForearmTwist02 0.1529 L_Hand 0.0039 L_UpperarmTwist02 0.1765
+skin 1365 R_UpperarmTwist02 0.1922 R_ForearmTwist01 0.6392 R_ForearmTwist02 0.1686
+skin 1366 R_ForearmTwist01 0.0196 R_ForearmTwist02 0.2941 R_Hand 0.6863
+skin 1367 Head 0.9882 R_Clavicle 0.0118
+skin 1368 Head 0.9804 L_Clavicle 0.0196
+skin 1369 R_ForearmTwist02 0.1098 R_Hand 0.8902
+skin 1370 Head 0.0588 R_Clavicle 0.2000 R_UpperarmTwist01 0.5882 R_UpperarmTwist02 0.1529
+skin 1371 L_ThighTwist01 0.9333 L_ThighTwist02 0.0157 Spine01 0.0510
+skin 1372 Head 0.9843 R_Clavicle 0.0157
+skin 1373 L_Foot 0.3490 L_CalfTwist01 0.2510 L_CalfTwist02 0.1961 L_ThighTwist02 0.2039
+skin 1374 Head 0.9725 L_Clavicle 0.0275
+skin 1375 Head 0.0863 L_Clavicle 0.4078 L_UpperarmTwist01 0.2902 L_UpperarmTwist02 0.2157
+skin 1376 Head 0.1804 L_Clavicle 0.6196 L_UpperarmTwist01 0.1843 L_UpperarmTwist02 0.0157
+skin 1377 R_ThighTwist01 0.9333 R_ThighTwist02 0.0157 Spine01 0.0510
+skin 1378 Head 0.9059 R_Clavicle 0.0941
+skin 1379 Head 0.9843 R_Clavicle 0.0157
+skin 1380 Head 0.9804 R_Clavicle 0.0196
+skin 1381 Head 0.9686 L_Clavicle 0.0314
+skin 1382 Head 0.9843 R_Clavicle 0.0157
+skin 1383 Head 0.9765 L_Clavicle 0.0235
+skin 1384 Head 0.9725 L_Clavicle 0.0275
+skin 1385 L_Foot 0.0510 L_CalfTwist01 0.0784 L_ThighTwist01 0.4196 L_ThighTwist02 0.4510
+skin 1386 Head 0.9686 R_Clavicle 0.0314
+skin 1387 L_ForearmTwist02 0.2549 L_Hand 0.7451
+skin 1388 R_ThighTwist01 0.7961 Spine01 0.1137 R_Clavicle 0.0353 R_UpperarmTwist02 0.0549
+skin 1389 Head 0.9922 R_Clavicle 0.0078
+skin 1390 L_ForearmTwist02 0.0706 L_Hand 0.9294
+skin 1391 R_ForearmTwist02 0.1176 R_Hand 0.8824
+skin 1392 Head 0.9804 R_Clavicle 0.0196
+skin 1393 Head 0.9686 L_Clavicle 0.0314
+skin 1394 Head 0.9882 L_Clavicle 0.0118
+skin 1395 Head 0.3020 R_Clavicle 0.4824 R_UpperarmTwist01 0.1804 R_UpperarmTwist02 0.0353
+skin 1396 R_ThighTwist01 0.9137 R_ThighTwist02 0.0863
+skin 1397 Head 0.9961 R_Clavicle 0.0039
+skin 1398 L_Foot 0.1059 L_CalfTwist01 0.1804 L_ThighTwist01 0.1333 L_ThighTwist02 0.5804
+skin 1399 Head 0.9961 R_Clavicle 0.0039
+skin 1400 L_ForearmTwist01 0.4118 L_ForearmTwist02 0.1765 L_UpperarmTwist01 0.1020 L_UpperarmTwist02 0.3098
+skin 1401 R_ThighTwist01 0.6196 Spine01 0.1725 R_Clavicle 0.0863 R_UpperarmTwist02 0.1216
+skin 1402 L_Foot 0.1569 L_CalfTwist01 0.3176 L_CalfTwist02 0.1294 L_ThighTwist02 0.3961
+skin 1403 L_ForearmTwist02 0.0667 L_Hand 0.9333
+skin 1404 Head 0.9647 L_Clavicle 0.0353
+skin 1405 Head 0.9765 R_Clavicle 0.0235
+skin 1406 L_CalfTwist01 0.0157 L_ThighTwist01 0.7843 L_ThighTwist02 0.2000
+skin 1407 L_Foot 0.2588 L_CalfTwist01 0.2980 L_CalfTwist02 0.2118 L_ThighTwist02 0.2314
+skin 1408 Head 0.9843 L_Clavicle 0.0157
+skin 1409 L_ForearmTwist02 0.1255 L_Hand 0.8745
+skin 1410 R_UpperarmTwist02 0.0431 R_ForearmTwist01 0.2863 R_ForearmTwist02 0.5725 R_Hand 0.0980
+skin 1411 R_Clavicle 0.0392 R_UpperarmTwist01 0.0549 R_UpperarmTwist02 0.6353 R_ForearmTwist01 0.2706
+skin 1412 Head 0.9882 L_Clavicle 0.0118
+skin 1413 R_ForearmTwist01 0.0196 R_ForearmTwist02 0.1804 R_Hand 0.8000
+skin 1414 R_ThighTwist01 0.1961 R_ThighTwist02 0.6549 R_Foot 0.0784 R_CalfTwist01 0.0706
+skin 1415 Head 0.9412 L_Clavicle 0.0588
+skin 1416 L_ForearmTwist02 0.0902 L_Hand 0.9098
+skin 1417 Head 0.9765 L_Clavicle 0.0235
+skin 1418 Head 0.9843 R_Clavicle 0.0157
+skin 1419 Head 0.9922 L_Clavicle 0.0078
+skin 1420 Head 0.9529 L_Clavicle 0.0471
+skin 1421 Head 0.8314 R_Clavicle 0.1490 R_UpperarmTwist01 0.0196
+skin 1422 L_ForearmTwist01 0.4824 L_ForearmTwist02 0.4471 L_UpperarmTwist02 0.0706
+skin 1423 Head 0.9647 R_Clavicle 0.0353
+skin 1424 Head 0.2667 L_Clavicle 0.5725 L_UpperarmTwist01 0.1412 L_UpperarmTwist02 0.0196
+skin 1425 R_ThighTwist02 0.5686 R_Foot 0.0667 R_CalfTwist01 0.2784 Waist 0.0863
+skin 1426 Head 0.7765 R_Clavicle 0.1804 R_UpperarmTwist01 0.0431
+skin 1427 Head 1.0000
+skin 1428 R_ThighTwist02 0.1725 R_Foot 0.2078 R_CalfTwist01 0.6000 R_CalfTwist02 0.0196
+skin 1429 Head 1.0000
+skin 1430 L_Clavicle 0.0627 L_ForearmTwist01 0.3176 L_UpperarmTwist01 0.0824 L_UpperarmTwist02 0.5373
+skin 1431 Head 0.9961 L_Clavicle 0.0039
+skin 1432 L_ForearmTwist01 0.0235 L_ForearmTwist02 0.1725 L_Hand 0.8039
+skin 1433 Head 0.6745 L_Clavicle 0.2784 L_UpperarmTwist01 0.0471
+skin 1434 L_ForearmTwist01 0.0588 L_ForearmTwist02 0.5922 L_Hand 0.3490
+skin 1435 L_ForearmTwist02 0.0784 L_Hand 0.9216
+skin 1436 Head 0.4314 L_Clavicle 0.4627 L_UpperarmTwist01 0.1020 L_UpperarmTwist02 0.0039
+skin 1437 Head 0.9451 R_Clavicle 0.0549
+skin 1438 R_ForearmTwist01 0.0157 R_ForearmTwist02 0.1608 R_Hand 0.8235
+skin 1439 R_ThighTwist02 0.2824 R_Foot 0.2745 R_CalfTwist01 0.2353 R_CalfTwist02 0.2078
+skin 1440 Head 0.9882 R_Clavicle 0.0118
+skin 1441 R_ThighTwist01 0.7647 R_ThighTwist02 0.2314 R_CalfTwist01 0.0039
+skin 1442 R_ForearmTwist01 0.0157 R_ForearmTwist02 0.1529 R_Hand 0.8314
+skin 1443 R_ThighTwist01 0.3882 Spine01 0.2431 R_Clavicle 0.1333 R_UpperarmTwist02 0.2353
+skin 1444 Head 0.9647 L_Clavicle 0.0353
+skin 1445 L_CalfTwist01 0.3020 L_ThighTwist01 0.0549 L_ThighTwist02 0.5608 Waist 0.0824
+skin 1446 L_Foot 0.0902 L_CalfTwist01 0.6549 L_ThighTwist02 0.2471 Waist 0.0078
+skin 1447 L_ForearmTwist02 0.0784 L_Hand 0.9216
+skin 1448 L_ForearmTwist01 0.3216 L_ForearmTwist02 0.5333 L_Hand 0.0902 L_UpperarmTwist02 0.0549
+skin 1449 Head 0.9725 L_Clavicle 0.0275
+skin 1450 R_ThighTwist02 0.4039 R_Foot 0.1765 R_CalfTwist01 0.2667 R_CalfTwist02 0.1529
+skin 1451 R_UpperarmTwist02 0.1373 R_ForearmTwist01 0.3882 R_ForearmTwist02 0.4314 R_Hand 0.0431
+skin 1452 R_UpperarmTwist01 0.1255 R_UpperarmTwist02 0.3922 R_ForearmTwist01 0.4039 R_ForearmTwist02 0.0784
+skin 1453 R_ForearmTwist01 0.0118 R_ForearmTwist02 0.1412 R_Hand 0.8471
+skin 1454 Head 0.9608 L_Clavicle 0.0392
+skin 1455 Head 0.9961 R_Clavicle 0.0039
+skin 1456 Head 0.9529 R_Clavicle 0.0471
+skin 1457 L_CalfTwist01 0.1412 L_ThighTwist01 0.1059 L_ThighTwist02 0.5255 Waist 0.2275
+skin 1458 R_ForearmTwist01 0.0902 R_ForearmTwist02 0.5216 R_Hand 0.3882
+skin 1459 Head 0.4627 R_Clavicle 0.3843 R_UpperarmTwist01 0.1373 R_UpperarmTwist02 0.0157
+skin 1460 Head 0.0824 R_Clavicle 0.2314 R_UpperarmTwist01 0.5569 R_UpperarmTwist02 0.1294
+skin 1461 L_ThighTwist01 0.8157 Spine01 0.1059 L_Clavicle 0.0431 L_UpperarmTwist02 0.0353
+skin 1462 Head 1.0000
+skin 1463 Head 0.9216 L_Clavicle 0.0784
+skin 1464 Head 1.0000
+skin 1465 Head 0.9843 R_Clavicle 0.0157
+skin 1466 R_ForearmTwist01 0.0510 R_ForearmTwist02 0.2510 R_Hand 0.6980
+skin 1467 L_ForearmTwist02 0.0902 L_Hand 0.9098
+skin 1468 Head 0.9843 L_Clavicle 0.0157
+skin 1469 Head 0.9843 L_Clavicle 0.0157
+skin 1470 Head 0.9765 R_Clavicle 0.0235
+skin 1471 R_ForearmTwist01 0.0196 R_ForearmTwist02 0.1490 R_Hand 0.8314
+skin 1472 Head 1.0000
+skin 1473 Head 0.9294 R_Clavicle 0.0706
+skin 1474 Head 0.8745 R_Clavicle 0.1176 R_UpperarmTwist01 0.0078
+skin 1475 L_ThighTwist01 0.3882 Spine01 0.2314 L_Clavicle 0.1686 L_UpperarmTwist02 0.2118
+skin 1476 Head 0.2510 R_Clavicle 0.4627 R_UpperarmTwist01 0.2275 R_UpperarmTwist02 0.0588
+skin 1477 Head 0.6392 R_Clavicle 0.2784 R_UpperarmTwist01 0.0824
+skin 1478 R_ForearmTwist01 0.0275 R_ForearmTwist02 0.1647 R_Hand 0.8078
+skin 1479 L_ForearmTwist02 0.1216 L_Hand 0.8784
+skin 1480 R_ThighTwist01 0.9059 R_ThighTwist02 0.0118 Spine01 0.0784 R_UpperarmTwist02 0.0039
+skin 1481 Head 0.8235 L_Clavicle 0.1725 L_UpperarmTwist01 0.0039
+skin 1482 L_ForearmTwist02 0.1059 L_Hand 0.8941
+skin 1483 Head 0.9961 R_Clavicle 0.0039
+skin 1484 R_ThighTwist01 0.1098 R_ThighTwist02 0.6118 R_Foot 0.1137 R_CalfTwist01 0.1647
+skin 1485 Head 0.9843 L_Clavicle 0.0157
+skin 1486 Head 0.9961 R_Clavicle 0.0039
+skin 1487 L_ThighTwist01 0.1725 L_Clavicle 0.1843 L_UpperarmTwist01 0.2078 L_UpperarmTwist02 0.4353
+skin 1488 R_ForearmTwist01 0.0314 R_ForearmTwist02 0.1882 R_Hand 0.7804
+skin 1489 Head 0.2078 L_Clavicle 0.5882 L_UpperarmTwist01 0.1569 L_UpperarmTwist02 0.0471
+skin 1490 R_ForearmTwist01 0.0510 R_ForearmTwist02 0.2314 R_Hand 0.7176
+skin 1491 L_Clavicle 0.1255 L_ForearmTwist01 0.1451 L_UpperarmTwist01 0.2157 L_UpperarmTwist02 0.5137
+skin 1492 L_ForearmTwist02 0.0980 L_Hand 0.9020
+skin 1493 L_ForearmTwist01 0.0196 L_ForearmTwist02 0.2392 L_Hand 0.7412
+skin 1494 Head 0.9922 R_Clavicle 0.0078
+skin 1495 Head 0.9882 R_Clavicle 0.0118
+skin 1496 Head 0.9725 R_Clavicle 0.0275
+skin 1497 R_ThighTwist02 0.2824 R_Foot 0.0980 R_CalfTwist01 0.6039 Waist 0.0157
+skin 1498 Head 0.9804 L_Clavicle 0.0196
+skin 1499 Head 0.9686 L_Clavicle 0.0314
+skin 1500 L_ThighTwist01 0.2431 L_Clavicle 0.2314 L_UpperarmTwist01 0.1765 L_UpperarmTwist02 0.3490
+skin 1501 L_ForearmTwist01 0.4510 L_ForearmTwist02 0.4196 L_Hand 0.0549 L_UpperarmTwist02 0.0745
+skin 1502 L_ThighTwist01 0.8941 L_ThighTwist02 0.0980 Spine01 0.0078
+skin 1503 Head 0.8627 L_Clavicle 0.1373
+skin 1504 Head 1.0000
+skin 1505 L_ForearmTwist02 0.0980 L_Hand 0.9020
+skin 1506 R_ForearmTwist01 0.0667 R_ForearmTwist02 0.3294 R_Hand 0.6039
+skin 1507 Head 1.0000
+skin 1508 Head 1.0000
+skin 1509 Head 0.9647 L_Clavicle 0.0353
+skin 1510 Head 0.2941 L_Clavicle 0.5373 L_UpperarmTwist01 0.1294 L_UpperarmTwist02 0.0392
+skin 1511 R_ThighTwist01 0.8863 R_ThighTwist02 0.0902 Spine01 0.0235
+skin 1512 Head 0.7373 R_Clavicle 0.2039 R_UpperarmTwist01 0.0588
+skin 1513 L_ForearmTwist01 0.4471 L_ForearmTwist02 0.1647 L_UpperarmTwist01 0.0980 L_UpperarmTwist02 0.2902
+skin 1514 Head 0.9686 R_Clavicle 0.0314
+skin 1515 R_ThighTwist01 0.2314 Spine01 0.1882 R_Clavicle 0.1725 R_UpperarmTwist02 0.4078
+skin 1516 L_ForearmTwist01 0.1765 L_ForearmTwist02 0.5608 L_Hand 0.2549 L_UpperarmTwist02 0.0078
+skin 1517 L_ForearmTwist02 0.1176 L_Hand 0.8824
+skin 1518 Head 0.7490 L_Clavicle 0.2235 L_UpperarmTwist01 0.0275
+skin 1519 R_ThighTwist01 0.1098 R_ThighTwist02 0.5294 R_CalfTwist01 0.1490 Waist 0.2118
+skin 1520 R_ForearmTwist01 0.0588 R_ForearmTwist02 0.2431 R_Hand 0.6980
+skin 1521 R_ThighTwist02 0.2235 R_Foot 0.1216 R_CalfTwist01 0.6549
+skin 1522 Head 0.9412 L_Clavicle 0.0588
+skin 1523 Head 0.5412 L_Clavicle 0.3804 L_UpperarmTwist01 0.0784
+skin 1524 L_ThighTwist01 0.1373 L_ThighTwist02 0.2980 R_ThighTwist02 0.1333 Waist 0.4314
+skin 1525 Head 0.9922 R_Clavicle 0.0078
+skin 1526 Head 0.9765 L_Clavicle 0.0235
+skin 1527 Head 0.9804 L_Clavicle 0.0196
+skin 1528 Head 0.9882 L_Clavicle 0.0118
+skin 1529 L_ThighTwist01 0.8863 L_ThighTwist02 0.0549 Spine01 0.0588
+skin 1530 R_ThighTwist01 0.8039 R_ThighTwist02 0.1961
+skin 1531 Head 0.9804 R_Clavicle 0.0196
+skin 1532 R_UpperarmTwist02 0.0824 R_ForearmTwist01 0.2392 R_ForearmTwist02 0.4902 R_Hand 0.1882
+skin 1533 L_Foot 0.0667 L_CalfTwist01 0.6314 L_ThighTwist02 0.2824 Waist 0.0196
+skin 1534 L_ForearmTwist01 0.0314 L_ForearmTwist02 0.2510 L_Hand 0.7176
+skin 1535 R_UpperarmTwist01 0.0510 R_UpperarmTwist02 0.5686 R_ForearmTwist01 0.3098 R_ForearmTwist02 0.0706
+skin 1536 R_UpperarmTwist02 0.1294 R_ForearmTwist01 0.5608 R_ForearmTwist02 0.2510 R_Hand 0.0588
+skin 1537 L_ThighTwist01 0.6314 Spine01 0.1686 L_Clavicle 0.0980 L_UpperarmTwist02 0.1020
+skin 1538 Head 0.9725 L_Clavicle 0.0275
+skin 1539 R_ThighTwist01 0.0588 R_ThighTwist02 0.5725 R_CalfTwist01 0.2824 Waist 0.0863
+skin 1540 Head 1.0000
+skin 1541 L_ForearmTwist01 0.5294 L_ForearmTwist02 0.2667 L_Hand 0.0627 L_UpperarmTwist02 0.1412
+skin 1542 Head 0.9569 L_Clavicle 0.0431
+skin 1543 L_ForearmTwist01 0.3647 L_ForearmTwist02 0.0784 L_UpperarmTwist01 0.0627 L_UpperarmTwist02 0.4941
+skin 1544 L_Foot 0.0627 L_CalfTwist01 0.1569 L_ThighTwist01 0.2039 L_ThighTwist02 0.5765
+skin 1545 R_ForearmTwist01 0.0510 R_ForearmTwist02 0.2000 R_Hand 0.7490
+skin 1546 R_ThighTwist01 0.2627 Spine01 0.2118 R_Clavicle 0.1647 R_UpperarmTwist02 0.3608
+skin 1547 L_Foot 0.0784 L_CalfTwist01 0.6941 L_ThighTwist01 0.0039 L_ThighTwist02 0.2235
+skin 1548 L_CalfTwist01 0.3020 L_ThighTwist01 0.0627 L_ThighTwist02 0.5490 Waist 0.0863
+skin 1549 L_CalfTwist01 0.0588 L_ThighTwist01 0.6431 L_ThighTwist02 0.2980
+skin 1550 R_ThighTwist01 0.1451 R_Clavicle 0.1255 R_UpperarmTwist02 0.5608 R_ForearmTwist01 0.1686
+skin 1551 R_ForearmTwist01 0.0824 R_ForearmTwist02 0.3098 R_Hand 0.6078
+skin 1552 Head 0.9843 R_Clavicle 0.0157
+skin 1553 L_ThighTwist01 0.1529 L_ThighTwist02 0.3569 R_ThighTwist02 0.1176 Waist 0.3725
+skin 1554 Head 0.9529 L_Clavicle 0.0471
+skin 1555 Head 0.9922 R_Clavicle 0.0078
+skin 1556 Head 0.9922 L_Clavicle 0.0078
+skin 1557 R_UpperarmTwist01 0.0902 R_UpperarmTwist02 0.3373 R_ForearmTwist01 0.4471 R_ForearmTwist02 0.1255
+skin 1558 L_ThighTwist02 0.1373 R_ThighTwist01 0.1490 R_ThighTwist02 0.3059 Waist 0.4078
+skin 1559 Head 0.1569 R_Clavicle 0.3686 R_UpperarmTwist01 0.3804 R_UpperarmTwist02 0.0941
+skin 1560 Head 0.9608 R_Clavicle 0.0392
+skin 1561 L_ForearmTwist01 0.0039 L_ForearmTwist02 0.1216 L_Hand 0.8745
+skin 1562 Head 0.3490 R_Clavicle 0.4314 R_UpperarmTwist01 0.1765 R_UpperarmTwist02 0.0431
+skin 1563 R_ThighTwist02 0.4863 R_Foot 0.1294 R_CalfTwist01 0.2706 R_CalfTwist02 0.1137
+skin 1564 R_ForearmTwist01 0.0510 R_ForearmTwist02 0.2275 R_Hand 0.7216
+skin 1565 R_ThighTwist01 0.1804 R_ThighTwist02 0.6510 R_Foot 0.0549 R_CalfTwist01 0.1137
+skin 1566 Head 0.8941 L_Clavicle 0.1059
+skin 1567 L_CalfTwist01 0.1608 L_ThighTwist01 0.1137 L_ThighTwist02 0.5216 Waist 0.2039
+skin 1568 L_ForearmTwist01 0.4000 L_ForearmTwist02 0.4392 L_Hand 0.0941 L_UpperarmTwist02 0.0667
+skin 1569 Head 1.0000
+skin 1570 L_ThighTwist02 0.1137 R_ThighTwist01 0.1686 R_ThighTwist02 0.3608 Waist 0.3569
+skin 1571 Head 1.0000
+skin 1572 L_ForearmTwist01 0.0039 L_ForearmTwist02 0.1137 L_Hand 0.8824
+skin 1573 R_ForearmTwist01 0.0431 R_ForearmTwist02 0.1843 R_Hand 0.7725
+skin 1574 L_Foot 0.0784 L_CalfTwist01 0.2353 L_ThighTwist01 0.1216 L_ThighTwist02 0.5647
+skin 1575 L_Foot 0.1569 L_CalfTwist01 0.4000 L_CalfTwist02 0.1294 L_ThighTwist02 0.3137
+skin 1576 L_Foot 0.1333 L_CalfTwist01 0.2941 L_CalfTwist02 0.1137 L_ThighTwist02 0.4588
+skin 1577 Head 0.3216 R_Clavicle 0.4431 R_UpperarmTwist01 0.1882 R_UpperarmTwist02 0.0471
+skin 1578 Head 0.9843 L_Clavicle 0.0157
+skin 1579 R_ForearmTwist01 0.0471 R_ForearmTwist02 0.1882 R_Hand 0.7647
+skin 1580 Head 0.9490 L_Clavicle 0.0510
+skin 1581 Head 0.9961 R_Clavicle 0.0039
+skin 1582 R_Clavicle 0.1569 R_UpperarmTwist01 0.4706 R_UpperarmTwist02 0.2353 R_ForearmTwist01 0.1373
+skin 1583 Head 0.9804 R_Clavicle 0.0196
+skin 1584 L_ForearmTwist01 0.0549 L_ForearmTwist02 0.2039 L_Hand 0.7412
+skin 1585 L_Foot 0.1490 L_CalfTwist01 0.3490 L_CalfTwist02 0.1216 L_ThighTwist02 0.3804
+skin 1586 Head 0.9569 R_Clavicle 0.0431
+skin 1587 R_ThighTwist01 0.8667 R_ThighTwist02 0.0784 Spine01 0.0549
+skin 1588 L_ForearmTwist01 0.0157 L_ForearmTwist02 0.1412 L_Hand 0.8431
+skin 1589 Head 0.8039 L_Clavicle 0.1843 L_UpperarmTwist01 0.0118
+skin 1590 R_ThighTwist01 0.6784 Spine01 0.1647 R_Clavicle 0.0667 R_UpperarmTwist02 0.0902
+skin 1591 Head 0.9843 L_Clavicle 0.0157
+skin 1592 Head 0.9647 L_Clavicle 0.0353
+skin 1593 Head 0.6196 L_Clavicle 0.3176 L_UpperarmTwist01 0.0627
+skin 1594 R_ThighTwist02 0.4314 R_Foot 0.1647 R_CalfTwist01 0.2863 R_CalfTwist02 0.1176
+skin 1595 L_Foot 0.0824 L_CalfTwist01 0.7216 L_ThighTwist01 0.0039 L_ThighTwist02 0.1922
+skin 1596 Head 0.2431 L_Clavicle 0.5529 L_UpperarmTwist01 0.1373 L_UpperarmTwist02 0.0667
+skin 1597 R_ForearmTwist01 0.0510 R_ForearmTwist02 0.1922 R_Hand 0.7569
+skin 1598 Head 0.9922 L_Clavicle 0.0078
+skin 1599 Head 0.9686 L_Clavicle 0.0314
+skin 1600 L_ForearmTwist01 0.0157 L_ForearmTwist02 0.1216 L_Hand 0.8627
+skin 1601 Head 0.9765 R_Clavicle 0.0235
+skin 1602 R_ForearmTwist01 0.0510 R_ForearmTwist02 0.1882 R_Hand 0.7608
+skin 1603 Head 0.1725 L_Clavicle 0.5333 L_UpperarmTwist01 0.1765 L_UpperarmTwist02 0.1176
+skin 1604 Head 0.7961 R_Clavicle 0.1647 R_UpperarmTwist01 0.0392
+skin 1605 Head 1.0000
+skin 1606 Head 0.9882 R_Clavicle 0.0118
+skin 1607 R_ThighTwist01 0.3569 Spine01 0.2627 R_Clavicle 0.1373 R_UpperarmTwist02 0.2431
+skin 1608 R_ThighTwist02 0.2824 R_Foot 0.0784 R_CalfTwist01 0.6235 Waist 0.0157
+skin 1609 Head 0.9765 L_Clavicle 0.0235
+skin 1610 L_ForearmTwist01 0.4510 L_ForearmTwist02 0.1647 L_UpperarmTwist01 0.0941 L_UpperarmTwist02 0.2902
+skin 1611 L_Clavicle 0.1765 L_ForearmTwist01 0.1529 L_UpperarmTwist01 0.1882 L_UpperarmTwist02 0.4824
+skin 1612 L_Clavicle 0.1569 L_ForearmTwist01 0.1922 L_UpperarmTwist01 0.1804 L_UpperarmTwist02 0.4706
+skin 1613 Head 0.2980 L_Clavicle 0.5255 L_UpperarmTwist01 0.1216 L_UpperarmTwist02 0.0549
+skin 1614 Head 0.9765 L_Clavicle 0.0235
+skin 1615 L_ForearmTwist01 0.1098 L_ForearmTwist02 0.5373 L_Hand 0.3529
+skin 1616 Head 0.9961 R_Clavicle 0.0039
+skin 1617 Head 0.9725 L_Clavicle 0.0275
+skin 1618 R_ThighTwist02 0.2078 R_Foot 0.1059 R_CalfTwist01 0.6863
+skin 1619 Head 0.6941 L_Clavicle 0.2588 L_UpperarmTwist01 0.0471
+skin 1620 Head 0.9922 R_Clavicle 0.0078
+skin 1621 Head 0.9804 L_Clavicle 0.0196
+skin 1622 Head 0.9882 R_Clavicle 0.0118
+skin 1623 Head 0.9804 L_Clavicle 0.0196
+skin 1624 R_UpperarmTwist02 0.0902 R_ForearmTwist01 0.2275 R_ForearmTwist02 0.4902 R_Hand 0.1922
+skin 1625 L_ThighTwist01 0.8667 L_ThighTwist02 0.0314 Spine01 0.0902 L_Clavicle 0.0118
+skin 1626 L_ForearmTwist01 0.0314 L_ForearmTwist02 0.1451 L_Hand 0.8235
+skin 1627 L_Foot 0.0392 L_CalfTwist01 0.1490 L_ThighTwist01 0.2431 L_ThighTwist02 0.5686
+skin 1628 R_ThighTwist01 0.1255 R_ThighTwist02 0.6471 R_Foot 0.0588 R_CalfTwist01 0.1686
+skin 1629 Head 0.9686 R_Clavicle 0.0314
+skin 1630 Head 0.9843 L_Clavicle 0.0157
+skin 1631 Head 0.9922 R_Clavicle 0.0078
+skin 1632 Head 0.9451 L_Clavicle 0.0549
+skin 1633 Head 0.9961 R_Clavicle 0.0039
+skin 1634 R_ThighTwist02 0.4627 R_Foot 0.1098 R_CalfTwist01 0.3333 R_CalfTwist02 0.0941
+skin 1635 R_UpperarmTwist01 0.0784 R_UpperarmTwist02 0.5608 R_ForearmTwist01 0.2863 R_ForearmTwist02 0.0745
+skin 1636 Head 0.9882 L_Clavicle 0.0118
+skin 1637 R_ThighTwist01 0.1176 R_ThighTwist02 0.5333 R_CalfTwist01 0.1647 Waist 0.1843
+skin 1638 Head 0.9922 R_Clavicle 0.0078
+skin 1639 Head 0.7020 R_Clavicle 0.2275 R_UpperarmTwist01 0.0706
+skin 1640 L_ForearmTwist01 0.3882 L_ForearmTwist02 0.0941 L_UpperarmTwist01 0.0706 L_UpperarmTwist02 0.4471
+skin 1641 Head 0.8745 R_Clavicle 0.1176 R_UpperarmTwist01 0.0078
+skin 1642 R_ForearmTwist01 0.0824 R_ForearmTwist02 0.2706 R_Hand 0.6471
+skin 1643 Head 0.9725 R_Clavicle 0.0275
+skin 1644 R_ThighTwist01 0.7608 R_ThighTwist02 0.2157 R_CalfTwist01 0.0157 Spine01 0.0078
+skin 1645 R_UpperarmTwist02 0.2784 R_ForearmTwist01 0.4392 R_ForearmTwist02 0.2275 R_Hand 0.0549
+skin 1646 L_ForearmTwist01 0.1569 L_ForearmTwist02 0.5059 L_Hand 0.3255 L_UpperarmTwist02 0.0118
+skin 1647 Head 0.9569 L_Clavicle 0.0431
+skin 1648 L_ThighTwist01 0.8392 L_ThighTwist02 0.1294 Spine01 0.0314
+skin 1649 Head 0.2902 R_Clavicle 0.4471 R_UpperarmTwist01 0.2039 R_UpperarmTwist02 0.0588
+skin 1650 R_ThighTwist01 0.1294 R_UpperarmTwist01 0.1373 R_UpperarmTwist02 0.5451 R_ForearmTwist01 0.1882
+skin 1651 L_Foot 0.0431 L_CalfTwist01 0.6157 L_ThighTwist01 0.0314 L_ThighTwist02 0.3098
+skin 1652 Head 0.9843 R_Clavicle 0.0157
+skin 1653 L_CalfTwist01 0.3137 L_ThighTwist01 0.0706 L_ThighTwist02 0.5333 Waist 0.0824
+skin 1654 R_ForearmTwist01 0.0627 R_ForearmTwist02 0.2157 R_Hand 0.7216
+skin 1655 Head 0.9255 R_Clavicle 0.0745
+skin 1656 Head 0.9608 L_Clavicle 0.0392
+skin 1657 R_ForearmTwist01 0.0588 R_ForearmTwist02 0.2353 R_Hand 0.7059
+skin 1658 L_ForearmTwist01 0.4706 L_ForearmTwist02 0.3333 L_Hand 0.0863 L_UpperarmTwist02 0.1098
+skin 1659 L_ThighTwist01 0.3569 Spine01 0.2471 L_Clavicle 0.1765 L_UpperarmTwist02 0.2196
+skin 1660 Head 0.9137 R_Clavicle 0.0863
+skin 1661 R_ForearmTwist01 0.0706 R_ForearmTwist02 0.3137 R_Hand 0.6157
+skin 1662 Head 0.0980 R_Clavicle 0.2471 R_UpperarmTwist01 0.4902 R_UpperarmTwist02 0.1647
+skin 1663 L_ForearmTwist01 0.0588 L_ForearmTwist02 0.1961 L_Hand 0.7451
+skin 1664 Head 1.0000
+skin 1665 Head 1.0000
+skin 1666 Head 1.0000
+skin 1667 Head 0.9451 R_Clavicle 0.0549
+skin 1668 L_ThighTwist01 0.1255 L_ThighTwist02 0.2196 R_ThighTwist02 0.2000 Waist 0.4549
+skin 1669 R_UpperarmTwist02 0.2157 R_ForearmTwist01 0.5294 R_ForearmTwist02 0.1922 R_Hand 0.0627
+skin 1670 Head 0.9373 L_Clavicle 0.0627
+skin 1671 R_ThighTwist01 0.8235 Spine01 0.1255 R_Clavicle 0.0196 R_UpperarmTwist02 0.0314
+skin 1672 Head 0.9725 L_Clavicle 0.0275
+skin 1673 R_Clavicle 0.0941 R_UpperarmTwist01 0.2863 R_UpperarmTwist02 0.3686 R_ForearmTwist01 0.2510
+skin 1674 L_ForearmTwist01 0.0235 L_ForearmTwist02 0.1451 L_Hand 0.8314
+skin 1675 L_ForearmTwist01 0.4824 L_ForearmTwist02 0.2863 L_Hand 0.0902 L_UpperarmTwist02 0.1412
+skin 1676 L_ThighTwist01 0.7765 Spine01 0.1255 L_Clavicle 0.0549 L_UpperarmTwist02 0.0431
+skin 1677 Head 0.9490 L_Clavicle 0.0510
+skin 1678 R_ThighTwist01 0.8235 R_ThighTwist02 0.1216 Spine01 0.0549
+skin 1679 Head 0.5961 R_Clavicle 0.2980 R_UpperarmTwist01 0.1020 R_UpperarmTwist02 0.0039
+skin 1680 L_ForearmTwist01 0.0235 L_ForearmTwist02 0.1333 L_Hand 0.8431
+skin 1681 R_ThighTwist01 0.2314 Spine01 0.2196 R_Clavicle 0.1882 R_UpperarmTwist02 0.3608
+skin 1682 Head 0.9804 L_Clavicle 0.0196
+skin 1683 L_ThighTwist01 0.2510 Spine01 0.1961 L_Clavicle 0.2353 L_UpperarmTwist02 0.3176
+skin 1684 L_CalfTwist01 0.1725 L_ThighTwist01 0.1333 L_ThighTwist02 0.5137 Waist 0.1804
+skin 1685 Head 1.0000
+skin 1686 Head 1.0000
+skin 1687 Head 0.4745 L_Clavicle 0.4157 L_UpperarmTwist01 0.0902 L_UpperarmTwist02 0.0196
+skin 1688 Head 0.9686 R_Clavicle 0.0314
+skin 1689 L_Foot 0.0980 L_CalfTwist01 0.4157 L_CalfTwist02 0.0863 L_ThighTwist02 0.4000
+skin 1690 Head 0.1373 L_Clavicle 0.4706 L_UpperarmTwist01 0.2196 L_UpperarmTwist02 0.1725
+skin 1691 L_CalfTwist01 0.0588 L_ThighTwist01 0.6706 L_ThighTwist02 0.2667 Spine01 0.0039
+skin 1692 L_ThighTwist01 0.1725 L_ThighTwist02 0.3255 R_ThighTwist02 0.1255 Waist 0.3765
+skin 1693 Head 0.9804 R_Clavicle 0.0196
+skin 1694 Head 0.9216 L_Clavicle 0.0784
+skin 1695 R_ThighTwist01 0.0118 R_ThighTwist02 0.2431 R_Foot 0.0784 R_CalfTwist01 0.6667
+skin 1696 Head 0.9804 L_Clavicle 0.0196
+skin 1697 L_Foot 0.0549 L_CalfTwist01 0.6863 L_ThighTwist01 0.0196 L_ThighTwist02 0.2392
+skin 1698 R_ThighTwist01 0.0667 R_ThighTwist02 0.5373 R_CalfTwist01 0.3255 Waist 0.0706
+skin 1699 R_UpperarmTwist02 0.0392 R_ForearmTwist01 0.1647 R_ForearmTwist02 0.4706 R_Hand 0.3255
+skin 1700 Head 0.9647 R_Clavicle 0.0353
+skin 1701 Head 0.9804 L_Clavicle 0.0196
+skin 1702 Head 0.9569 L_Clavicle 0.0431
+skin 1703 Head 0.8392 R_Clavicle 0.1373 R_UpperarmTwist01 0.0235
+skin 1704 Head 0.9686 L_Clavicle 0.0314
+skin 1705 Head 0.9882 R_Clavicle 0.0118
+skin 1706 Head 0.8980 L_Clavicle 0.1020
+skin 1707 Head 0.9922 R_Clavicle 0.0078
+skin 1708 L_Foot 0.0039 L_CalfTwist01 0.1216 L_ThighTwist01 0.3961 L_ThighTwist02 0.4784
+skin 1709 R_UpperarmTwist02 0.0667 R_ForearmTwist01 0.1765 R_ForearmTwist02 0.5020 R_Hand 0.2549
+skin 1710 L_ForearmTwist01 0.0980 L_ForearmTwist02 0.3765 L_Hand 0.5255
+skin 1711 Head 0.9922 R_Clavicle 0.0078
+skin 1712 Head 0.9882 R_Clavicle 0.0118
+skin 1713 Head 0.9765 L_Clavicle 0.0235
+skin 1714 Head 0.9765 R_Clavicle 0.0235
+skin 1715 L_ForearmTwist01 0.0510 L_ForearmTwist02 0.1961 L_Hand 0.7529
+skin 1716 Head 1.0000
+skin 1717 L_Foot 0.0392 L_CalfTwist01 0.2235 L_ThighTwist01 0.1647 L_ThighTwist02 0.5725
+skin 1718 L_ForearmTwist01 0.0314 L_ForearmTwist02 0.1412 L_Hand 0.8275
+skin 1719 R_ForearmTwist01 0.0627 R_ForearmTwist02 0.2235 R_Hand 0.7137
+skin 1720 R_ThighTwist01 0.3843 R_ThighTwist02 0.4902 R_Foot 0.0039 R_CalfTwist01 0.1216
+skin 1721 Head 0.9922 R_Clavicle 0.0078
+skin 1722 R_ForearmTwist01 0.0745 R_ForearmTwist02 0.2431 R_Hand 0.6824
+skin 1723 Head 0.9765 L_Clavicle 0.0235
+skin 1724 L_Clavicle 0.0824 L_ForearmTwist01 0.3098 L_UpperarmTwist01 0.1529 L_UpperarmTwist02 0.4549
+skin 1725 R_UpperarmTwist02 0.1098 R_ForearmTwist01 0.4431 R_ForearmTwist02 0.3137 R_Hand 0.1333
+skin 1726 Head 0.9922 R_Clavicle 0.0078
+skin 1727 Head 0.9804 L_Clavicle 0.0196
+skin 1728 R_ThighTwist01 0.1255 R_ThighTwist02 0.6549 R_Foot 0.0353 R_CalfTwist01 0.1843
+skin 1729 Head 0.9725 R_Clavicle 0.0275
+skin 1730 Head 0.9647 L_Clavicle 0.0353
+skin 1731 Head 0.9804 L_Clavicle 0.0196
+skin 1732 Head 0.3686 R_Clavicle 0.4196 R_UpperarmTwist01 0.1647 R_UpperarmTwist02 0.0471
+skin 1733 L_ThighTwist01 0.5922 Spine01 0.1961 L_Clavicle 0.1059 L_UpperarmTwist02 0.1059
+skin 1734 L_ForearmTwist01 0.4549 L_ForearmTwist02 0.3255 L_Hand 0.1059 L_UpperarmTwist02 0.1137
+skin 1735 L_ThighTwist02 0.1216 R_ThighTwist01 0.1725 R_ThighTwist02 0.3294 Waist 0.3765
+skin 1736 Head 0.8588 L_Clavicle 0.1412
+skin 1737 R_ThighTwist01 0.1333 R_ThighTwist02 0.5294 R_CalfTwist01 0.1686 Waist 0.1686
+skin 1738 Head 0.9804 L_Clavicle 0.0196
+skin 1739 Head 1.0000
+skin 1740 L_Clavicle 0.1137 L_ForearmTwist01 0.2667 L_UpperarmTwist01 0.1529 L_UpperarmTwist02 0.4667
+skin 1741 L_Foot 0.0275 L_CalfTwist01 0.6275 L_CalfTwist02 0.0784 L_ThighTwist02 0.2667
+skin 1742 Head 0.9569 L_Clavicle 0.0431
+skin 1743 Head 0.4039 R_Clavicle 0.4000 R_UpperarmTwist01 0.1569 R_UpperarmTwist02 0.0392
+skin 1744 L_Foot 0.0706 L_CalfTwist01 0.4431 L_ThighTwist01 0.0784 L_ThighTwist02 0.4078
+skin 1745 Head 0.9843 R_Clavicle 0.0157
+skin 1746 Head 0.9922 R_Clavicle 0.0078
+skin 1747 R_ThighTwist01 0.5961 Spine01 0.2118 R_Clavicle 0.0824 R_UpperarmTwist02 0.1098
+skin 1748 R_ThighTwist02 0.4118 R_Foot 0.0824 R_CalfTwist01 0.4392 R_CalfTwist02 0.0667
+skin 1749 R_ThighTwist01 0.0667 R_ThighTwist02 0.4431 R_Foot 0.0706 R_CalfTwist01 0.4196
+skin 1750 Head 0.9608 L_Clavicle 0.0392
+skin 1751 Head 0.7373 R_Clavicle 0.2000 R_UpperarmTwist01 0.0627
+skin 1752 R_UpperarmTwist01 0.1176 R_UpperarmTwist02 0.3961 R_ForearmTwist01 0.3451 R_ForearmTwist02 0.1412
+skin 1753 R_ForearmTwist01 0.0667 R_ForearmTwist02 0.2275 R_Hand 0.7059
+skin 1754 L_Foot 0.0510 L_CalfTwist01 0.7098 L_ThighTwist01 0.0196 L_ThighTwist02 0.2196
+skin 1755 R_ThighTwist02 0.3451 R_Foot 0.0941 R_CalfTwist01 0.4941 R_CalfTwist02 0.0667
+skin 1756 Head 0.2941 L_Clavicle 0.5255 L_UpperarmTwist01 0.1137 L_UpperarmTwist02 0.0667
+skin 1757 Head 1.0000
+skin 1758 Head 0.7333 L_Clavicle 0.2314 L_UpperarmTwist01 0.0353
+skin 1759 Head 0.9765 R_Clavicle 0.0235
+skin 1760 R_ThighTwist01 0.0118 R_ThighTwist02 0.2392 R_Foot 0.0667 R_CalfTwist01 0.6824
+skin 1761 Head 0.9882 R_Clavicle 0.0118
+skin 1762 R_UpperarmTwist02 0.0196 R_ForearmTwist01 0.1137 R_ForearmTwist02 0.3333 R_Hand 0.5333
+skin 1763 Head 0.7804 L_Clavicle 0.2000 L_UpperarmTwist01 0.0196
+skin 1764 L_CalfTwist01 0.3216 L_ThighTwist01 0.0863 L_ThighTwist02 0.5216 Waist 0.0706
+skin 1765 Head 0.9725 L_Clavicle 0.0275
+skin 1766 Head 0.9647 L_Clavicle 0.0353
+skin 1767 R_Clavicle 0.2078 R_UpperarmTwist01 0.4784 R_UpperarmTwist02 0.2275 R_ForearmTwist01 0.0863
+skin 1768 Head 0.9686 L_Clavicle 0.0314
+skin 1769 Head 0.9843 R_Clavicle 0.0157
+skin 1770 Head 1.0000
+skin 1771 R_Clavicle 0.0824 R_UpperarmTwist01 0.1137 R_UpperarmTwist02 0.5412 R_ForearmTwist01 0.2627
+skin 1772 Spine01 0.1804 R_Clavicle 0.1804 R_UpperarmTwist01 0.2196 R_UpperarmTwist02 0.4196
+skin 1773 R_ThighTwist01 0.0353 R_ThighTwist02 0.3255 R_Foot 0.0471 R_CalfTwist01 0.5922
+skin 1774 Head 0.9922 R_Clavicle 0.0078
+skin 1775 R_UpperarmTwist01 0.0549 R_UpperarmTwist02 0.3137 R_ForearmTwist01 0.4784 R_ForearmTwist02 0.1529
+skin 1776 R_ThighTwist01 0.2824 Spine01 0.2824 R_Clavicle 0.1725 R_UpperarmTwist02 0.2627
+skin 1777 Head 0.9608 L_Clavicle 0.0392
+skin 1778 R_ThighTwist01 0.6549 R_ThighTwist02 0.2588 R_CalfTwist01 0.0549 Spine01 0.0314
+skin 1779 L_ForearmTwist01 0.0549 L_ForearmTwist02 0.1765 L_Hand 0.7686
+skin 1780 Head 1.0000
+skin 1781 R_ForearmTwist01 0.0745 R_ForearmTwist02 0.2667 R_Hand 0.6588
+skin 1782 Head 0.9804 R_Clavicle 0.0196
+skin 1783 Head 0.9725 L_Clavicle 0.0275
+skin 1784 L_ForearmTwist01 0.3961 L_ForearmTwist02 0.1176 L_UpperarmTwist01 0.0745 L_UpperarmTwist02 0.4118
+skin 1785 Head 0.9804 R_Clavicle 0.0196
+skin 1786 Head 0.3765 L_Clavicle 0.4745 L_UpperarmTwist01 0.0941 L_UpperarmTwist02 0.0549
+skin 1787 Head 0.9765 L_Clavicle 0.0235
+skin 1788 Head 0.9882 R_Clavicle 0.0118
+skin 1789 Head 0.3608 L_Clavicle 0.4863 L_UpperarmTwist01 0.0980 L_UpperarmTwist02 0.0549
+skin 1790 L_ForearmTwist01 0.0392 L_ForearmTwist02 0.1569 L_Hand 0.8039
+skin 1791 Head 0.3373 R_Clavicle 0.4431 R_UpperarmTwist01 0.1647 R_UpperarmTwist02 0.0549
+skin 1792 Head 0.8235 L_Clavicle 0.1686 L_UpperarmTwist01 0.0078
+skin 1793 L_ForearmTwist01 0.3255 L_ForearmTwist02 0.3686 L_Hand 0.2039 L_UpperarmTwist02 0.1020
+skin 1794 Head 0.9765 R_Clavicle 0.0235
+skin 1795 L_ForearmTwist01 0.0745 L_ForearmTwist02 0.2471 L_Hand 0.6784
+skin 1796 L_ForearmTwist01 0.0431 L_ForearmTwist02 0.1569 L_Hand 0.8000
+skin 1797 Head 0.9725 L_Clavicle 0.0275
+skin 1798 Head 0.9804 R_Clavicle 0.0196
+skin 1799 L_Foot 0.0353 L_CalfTwist01 0.7255 L_ThighTwist01 0.0196 L_ThighTwist02 0.2196
+skin 1800 Head 0.2784 R_Clavicle 0.4627 R_UpperarmTwist01 0.1961 R_UpperarmTwist02 0.0627
+skin 1801 Head 0.9765 L_Clavicle 0.0235
+skin 1802 R_ThighTwist02 0.2510 R_Foot 0.0392 R_CalfTwist01 0.6863 R_CalfTwist02 0.0235
+skin 1803 L_CalfTwist01 0.0824 L_ThighTwist01 0.5529 L_ThighTwist02 0.3490 Spine01 0.0157
+skin 1804 L_ForearmTwist01 0.4431 L_ForearmTwist02 0.2118 L_UpperarmTwist01 0.0745 L_UpperarmTwist02 0.2706
+skin 1805 Head 0.9765 L_Clavicle 0.0235
+skin 1806 L_ForearmTwist01 0.1373 L_ForearmTwist02 0.4588 L_Hand 0.3765 L_UpperarmTwist02 0.0275
+skin 1807 L_CalfTwist01 0.6078 L_ThighTwist01 0.0549 L_ThighTwist02 0.3176 Waist 0.0196
+skin 1808 L_CalfTwist01 0.1686 L_ThighTwist01 0.1725 L_ThighTwist02 0.4980 Waist 0.1608
+skin 1809 Head 0.9686 L_Clavicle 0.0314
+skin 1810 Head 0.9882 R_Clavicle 0.0118
+skin 1811 L_CalfTwist01 0.6039 L_CalfTwist02 0.0627 L_ThighTwist01 0.0392 L_ThighTwist02 0.2941
+skin 1812 L_Foot 0.0588 L_CalfTwist01 0.5451 L_CalfTwist02 0.0627 L_ThighTwist02 0.3333
+skin 1813 R_ForearmTwist01 0.0824 R_ForearmTwist02 0.2588 R_Hand 0.6588
+skin 1814 Head 0.9882 R_Clavicle 0.0118
+skin 1815 L_ForearmTwist01 0.0510 L_ForearmTwist02 0.1765 L_Hand 0.7725
+skin 1816 R_ThighTwist01 0.0235 R_ThighTwist02 0.2745 R_Foot 0.0549 R_CalfTwist01 0.6471
+skin 1817 L_ForearmTwist01 0.1020 L_ForearmTwist02 0.3098 L_Hand 0.5882
+skin 1818 L_Clavicle 0.1922 L_ForearmTwist01 0.1725 L_UpperarmTwist01 0.2549 L_UpperarmTwist02 0.3804
+skin 1819 Head 0.9922 L_Clavicle 0.0078
+skin 1820 L_ThighTwist01 0.8196 L_ThighTwist02 0.0980 Spine01 0.0824
+skin 1821 Head 0.9647 L_Clavicle 0.0353
+skin 1822 R_UpperarmTwist02 0.0471 R_ForearmTwist01 0.1569 R_ForearmTwist02 0.4157 R_Hand 0.3804
+skin 1823 Head 0.9020 R_Clavicle 0.0980
+skin 1824 Head 0.9843 R_Clavicle 0.0157
+skin 1825 Head 0.6431 L_Clavicle 0.2980 L_UpperarmTwist01 0.0588
+skin 1826 Head 0.8039 R_Clavicle 0.1569 R_UpperarmTwist01 0.0392
+skin 1827 Head 0.0980 L_Clavicle 0.3529 L_UpperarmTwist01 0.3176 L_UpperarmTwist02 0.2314
+skin 1828 R_ThighTwist01 0.6980 Spine01 0.1804 R_Clavicle 0.0549 R_UpperarmTwist02 0.0667
+skin 1829 R_ThighTwist02 0.3490 R_Foot 0.0745 R_CalfTwist01 0.5176 R_CalfTwist02 0.0588
+skin 1830 R_UpperarmTwist02 0.0314 R_ForearmTwist01 0.1098 R_ForearmTwist02 0.3882 R_Hand 0.4706
+skin 1831 L_ForearmTwist01 0.1137 L_ForearmTwist02 0.3569 L_Hand 0.5216 L_UpperarmTwist02 0.0078
+skin 1832 L_Foot 0.0118 L_CalfTwist01 0.2235 L_ThighTwist01 0.1843 L_ThighTwist02 0.5804
+skin 1833 R_ForearmTwist01 0.0745 R_ForearmTwist02 0.2471 R_Hand 0.6784
+skin 1834 Head 0.9843 R_Clavicle 0.0157
+skin 1835 R_UpperarmTwist02 0.0196 R_ForearmTwist01 0.1098 R_ForearmTwist02 0.3176 R_Hand 0.5529
+skin 1836 R_UpperarmTwist02 0.1412 R_ForearmTwist01 0.2863 R_ForearmTwist02 0.4196 R_Hand 0.1529
+skin 1837 Head 0.9882 R_Clavicle 0.0118
+skin 1838 R_ThighTwist01 0.0863 R_ThighTwist02 0.5373 R_CalfTwist01 0.3059 Waist 0.0706
+skin 1839 Head 0.9725 L_Clavicle 0.0275
+skin 1840 L_ThighTwist01 0.2353 L_ThighTwist02 0.3216 Waist 0.3098 Spine01 0.1333
+skin 1841 Head 0.9843 R_Clavicle 0.0157
+skin 1842 R_ThighTwist01 0.0118 R_ThighTwist02 0.2510 R_Foot 0.0510 R_CalfTwist01 0.6863
+skin 1843 Head 0.9725 L_Clavicle 0.0275
+skin 1844 L_Foot 0.0275 L_CalfTwist01 0.6667 L_ThighTwist01 0.0392 L_ThighTwist02 0.2667
+skin 1845 Head 0.9725 L_Clavicle 0.0275
+skin 1846 Head 0.2353 L_Clavicle 0.5373 L_UpperarmTwist01 0.1373 L_UpperarmTwist02 0.0902
+skin 1847 L_ForearmTwist01 0.0941 L_ForearmTwist02 0.2863 L_Hand 0.6196
+skin 1848 R_ThighTwist01 0.7804 R_ThighTwist02 0.0392 Spine01 0.1529 R_UpperarmTwist02 0.0275
+skin 1849 L_ForearmTwist01 0.4314 L_ForearmTwist02 0.2510 L_Hand 0.1176 L_UpperarmTwist02 0.2000
+skin 1850 R_UpperarmTwist02 0.0235 R_ForearmTwist01 0.1137 R_ForearmTwist02 0.3255 R_Hand 0.5373
+skin 1851 R_ThighTwist01 0.3373 R_ThighTwist02 0.5255 R_CalfTwist01 0.1294 Spine01 0.0078
+skin 1852 R_UpperarmTwist02 0.0392 R_ForearmTwist01 0.1412 R_ForearmTwist02 0.3765 R_Hand 0.4431
+skin 1853 L_ForearmTwist01 0.0941 L_ForearmTwist02 0.2824 L_Hand 0.6235
+skin 1854 L_ThighTwist01 0.2314 L_Clavicle 0.2667 L_UpperarmTwist01 0.2235 L_UpperarmTwist02 0.2784
+skin 1855 Head 1.0000
+skin 1856 L_ThighTwist01 0.8000 L_ThighTwist02 0.0353 Spine01 0.1333 L_Clavicle 0.0314
+skin 1857 Head 0.9451 L_Clavicle 0.0549
+skin 1858 R_UpperarmTwist02 0.0353 R_ForearmTwist01 0.1137 R_ForearmTwist02 0.3961 R_Hand 0.4549
+skin 1859 L_Foot 0.0431 L_CalfTwist01 0.5020 L_ThighTwist01 0.0824 L_ThighTwist02 0.3725
+skin 1860 L_ThighTwist01 0.2667 Spine01 0.2471 L_Clavicle 0.2392 L_UpperarmTwist02 0.2471
+skin 1861 R_ThighTwist01 0.7569 R_ThighTwist02 0.1490 R_CalfTwist01 0.0078 Spine01 0.0863
+skin 1862 L_ForearmTwist01 0.0667 L_ForearmTwist02 0.2078 L_Hand 0.7255
+skin 1863 Head 1.0000
+skin 1864 R_ThighTwist01 0.1765 R_ThighTwist02 0.5020 R_CalfTwist01 0.1647 Waist 0.1569
+skin 1865 R_UpperarmTwist01 0.0980 R_UpperarmTwist02 0.3373 R_ForearmTwist01 0.3647 R_ForearmTwist02 0.2000
+skin 1866 R_UpperarmTwist02 0.0118 R_ForearmTwist01 0.0863 R_ForearmTwist02 0.3020 R_Hand 0.6000
+skin 1867 R_ThighTwist01 0.2275 R_ThighTwist02 0.4000 R_CalfTwist01 0.1255 Waist 0.2471
+skin 1868 Head 0.9569 R_Clavicle 0.0431
+skin 1869 R_ThighTwist01 0.1412 R_ThighTwist02 0.5843 R_Foot 0.0157 R_CalfTwist01 0.2588
+skin 1870 L_CalfTwist01 0.2980 L_ThighTwist01 0.1059 L_ThighTwist02 0.5294 Waist 0.0667
+skin 1871 Head 0.9412 R_Clavicle 0.0588
+skin 1872 Head 0.9333 L_Clavicle 0.0667
+skin 1873 R_ThighTwist01 0.7882 R_ThighTwist02 0.1020 Spine01 0.1098
+skin 1874 R_Clavicle 0.1725 R_UpperarmTwist01 0.2431 R_UpperarmTwist02 0.4235 R_ForearmTwist01 0.1608
+skin 1875 L_ForearmTwist01 0.0706 L_ForearmTwist02 0.2275 L_Hand 0.7020
+skin 1876 L_ForearmTwist01 0.4157 L_ForearmTwist02 0.1412 L_UpperarmTwist01 0.0941 L_UpperarmTwist02 0.3490
+skin 1877 Head 0.4627 R_Clavicle 0.3882 R_UpperarmTwist01 0.1216 R_UpperarmTwist02 0.0275
+skin 1878 R_UpperarmTwist02 0.0196 R_ForearmTwist01 0.0980 R_ForearmTwist02 0.3373 R_Hand 0.5451
+skin 1879 R_UpperarmTwist02 0.1569 R_ForearmTwist01 0.4431 R_ForearmTwist02 0.2745 R_Hand 0.1255
+skin 1880 R_ThighTwist01 0.3608 Spine01 0.3216 R_Clavicle 0.1412 R_UpperarmTwist02 0.1765
+skin 1881 Head 0.8549 R_Clavicle 0.1255 R_UpperarmTwist01 0.0196
+skin 1882 L_ForearmTwist01 0.1098 L_ForearmTwist02 0.3333 L_Hand 0.5569
+skin 1883 L_CalfTwist01 0.1216 L_ThighTwist01 0.4039 L_ThighTwist02 0.4588 Spine01 0.0157
+skin 1884 R_Clavicle 0.0980 R_UpperarmTwist01 0.1490 R_UpperarmTwist02 0.5098 R_ForearmTwist01 0.2431
+skin 1885 L_ForearmTwist01 0.0588 L_ForearmTwist02 0.1922 L_Hand 0.7490
+skin 1886 R_ThighTwist01 0.0549 R_ThighTwist02 0.3725 R_Foot 0.0588 R_CalfTwist01 0.5137
+skin 1887 Head 0.5569 L_Clavicle 0.3569 L_UpperarmTwist01 0.0706 L_UpperarmTwist02 0.0157
+skin 1888 L_ForearmTwist01 0.0706 L_ForearmTwist02 0.2157 L_Hand 0.7137
+skin 1889 L_CalfTwist01 0.6706 L_CalfTwist02 0.0353 L_ThighTwist01 0.0353 L_ThighTwist02 0.2588
+skin 1890 Head 0.6745 R_Clavicle 0.2431 R_UpperarmTwist01 0.0824
+skin 1891 R_UpperarmTwist02 0.0157 R_ForearmTwist01 0.0980 R_ForearmTwist02 0.3020 R_Hand 0.5843
+skin 1892 R_ThighTwist01 0.6157 R_ThighTwist02 0.2627 R_CalfTwist01 0.0627 Spine01 0.0588
+skin 1893 R_UpperarmTwist02 0.2392 R_ForearmTwist01 0.4941 R_ForearmTwist02 0.1922 R_Hand 0.0745
+skin 1894 L_ThighTwist01 0.6667 Spine01 0.1882 L_Clavicle 0.0784 L_UpperarmTwist02 0.0667
+skin 1895 R_ThighTwist01 0.1647 R_ThighTwist02 0.2431 Waist 0.4118 Spine01 0.1804
+skin 1896 R_Clavicle 0.1137 R_UpperarmTwist01 0.2588 R_UpperarmTwist02 0.4118 R_ForearmTwist01 0.2157
+skin 1897 L_Clavicle 0.1804 L_ForearmTwist01 0.1647 L_UpperarmTwist01 0.2784 L_UpperarmTwist02 0.3765
+skin 1898 Head 0.4431 R_Clavicle 0.4039 R_UpperarmTwist01 0.1255 R_UpperarmTwist02 0.0275
+skin 1899 L_ForearmTwist01 0.1176 L_ForearmTwist02 0.3255 L_Hand 0.5451 L_UpperarmTwist02 0.0118
+skin 1900 R_ThighTwist02 0.3255 R_Foot 0.0588 R_CalfTwist01 0.5804 R_CalfTwist02 0.0353
+skin 1901 R_ThighTwist01 0.2118 R_ThighTwist02 0.3176 Waist 0.3137 Spine01 0.1569
+skin 1902 Head 0.5882 R_Clavicle 0.3020 R_UpperarmTwist01 0.1020 R_UpperarmTwist02 0.0078
+skin 1903 L_ForearmTwist01 0.4431 L_ForearmTwist02 0.1412 L_UpperarmTwist01 0.0706 L_UpperarmTwist02 0.3451
+skin 1904 L_Foot 0.0196 L_CalfTwist01 0.6902 L_ThighTwist01 0.0392 L_ThighTwist02 0.2510
+skin 1905 R_ThighTwist01 0.2863 R_ThighTwist02 0.5529 R_CalfTwist01 0.1451 Spine01 0.0157
+skin 1906 Head 0.2157 R_Clavicle 0.4549 R_UpperarmTwist01 0.2353 R_UpperarmTwist02 0.0941
+skin 1907 Head 0.4078 L_Clavicle 0.4627 L_UpperarmTwist01 0.0863 L_UpperarmTwist02 0.0431
+skin 1908 R_ThighTwist01 0.0235 R_ThighTwist02 0.2784 R_Foot 0.0314 R_CalfTwist01 0.6667
+skin 1909 L_ForearmTwist01 0.1451 L_ForearmTwist02 0.4118 L_Hand 0.4275 L_UpperarmTwist02 0.0157
+skin 1910 L_Clavicle 0.3020 L_ForearmTwist01 0.1059 L_UpperarmTwist01 0.3373 L_UpperarmTwist02 0.2549
+skin 1911 Head 0.1098 R_Clavicle 0.2941 R_UpperarmTwist01 0.4157 R_UpperarmTwist02 0.1804
+skin 1912 R_UpperarmTwist02 0.0745 R_ForearmTwist01 0.2275 R_ForearmTwist02 0.4235 R_Hand 0.2745
+skin 1913 L_ForearmTwist01 0.2471 L_ForearmTwist02 0.4196 L_Hand 0.2627 L_UpperarmTwist02 0.0706
+skin 1914 R_ThighTwist01 0.0706 R_ThighTwist02 0.4157 R_Foot 0.0392 R_CalfTwist01 0.4745
+skin 1915 Spine01 0.2392 R_Clavicle 0.2588 R_UpperarmTwist01 0.2157 R_UpperarmTwist02 0.2863
+skin 1916 R_ThighTwist01 0.0549 R_ThighTwist02 0.3333 R_Foot 0.0235 R_CalfTwist01 0.5882
+skin 1917 Head 0.9176 L_Clavicle 0.0824
+skin 1918 R_ThighTwist01 0.1020 R_ThighTwist02 0.5333 R_CalfTwist01 0.3020 Waist 0.0627
+skin 1919 L_Clavicle 0.1255 L_ForearmTwist01 0.3137 L_UpperarmTwist01 0.1843 L_UpperarmTwist02 0.3765
+skin 1920 R_UpperarmTwist02 0.0510 R_ForearmTwist01 0.1608 R_ForearmTwist02 0.3961 R_Hand 0.3922
+skin 1921 R_ThighTwist01 0.0275 R_ThighTwist02 0.2706 R_Foot 0.0353 R_CalfTwist01 0.6667
+skin 1922 L_ForearmTwist01 0.2902 L_ForearmTwist02 0.3765 L_Hand 0.2627 L_UpperarmTwist02 0.0706
+skin 1923 R_UpperarmTwist02 0.0314 R_ForearmTwist01 0.1216 R_ForearmTwist02 0.3373 R_Hand 0.5098
+skin 1924 L_CalfTwist01 0.2353 L_ThighTwist01 0.2000 L_ThighTwist02 0.5647
+skin 1925 Head 0.3843 L_Clavicle 0.4745 L_UpperarmTwist01 0.0902 L_UpperarmTwist02 0.0510
+skin 1926 L_CalfTwist01 0.6039 L_ThighTwist01 0.0667 L_ThighTwist02 0.3216 Waist 0.0078
+skin 1927 L_ForearmTwist01 0.0902 L_ForearmTwist02 0.2667 L_Hand 0.6431
+skin 1928 L_ThighTwist01 0.3373 Spine01 0.3098 L_Clavicle 0.1882 L_UpperarmTwist02 0.1647
+skin 1929 L_CalfTwist01 0.1686 L_ThighTwist01 0.2510 L_ThighTwist02 0.4510 Waist 0.1294
+skin 1930 L_Foot 0.0196 L_CalfTwist01 0.5294 L_ThighTwist01 0.0824 L_ThighTwist02 0.3686
+skin 1931 Head 0.9255 R_Clavicle 0.0745
+skin 1932 R_UpperarmTwist02 0.0235 R_ForearmTwist01 0.1098 R_ForearmTwist02 0.3255 R_Hand 0.5412
+skin 1933 R_UpperarmTwist01 0.0902 R_UpperarmTwist02 0.3451 R_ForearmTwist01 0.4039 R_ForearmTwist02 0.1608
+skin 1934 L_CalfTwist01 0.0549 L_ThighTwist01 0.6510 L_ThighTwist02 0.2157 Spine01 0.0784
+skin 1935 Head 0.8902 L_Clavicle 0.1098
+skin 1936 R_UpperarmTwist01 0.1333 R_UpperarmTwist02 0.3686 R_ForearmTwist01 0.3176 R_ForearmTwist02 0.1804
+skin 1937 R_ThighTwist01 0.0431 R_ThighTwist02 0.2941 R_Foot 0.0275 R_CalfTwist01 0.6353
+skin 1938 R_ThighTwist01 0.2196 R_ThighTwist02 0.4863 R_CalfTwist01 0.1608 Waist 0.1333
+skin 1939 L_CalfTwist01 0.6118 L_CalfTwist02 0.0275 L_ThighTwist01 0.0588 L_ThighTwist02 0.3020
+skin 1940 L_ThighTwist01 0.2980 L_ThighTwist02 0.3608 Waist 0.2039 Spine01 0.1373
+skin 1941 L_Foot 0.0118 L_CalfTwist01 0.6745 L_ThighTwist01 0.0471 L_ThighTwist02 0.2667
+skin 1942 R_UpperarmTwist02 0.0627 R_ForearmTwist01 0.1569 R_ForearmTwist02 0.4510 R_Hand 0.3294
+skin 1943 R_ThighTwist01 0.6588 R_ThighTwist02 0.2078 R_CalfTwist01 0.0431 Spine01 0.0902
+skin 1944 Head 1.0000
+skin 1945 L_ForearmTwist01 0.0784 L_ForearmTwist02 0.2392 L_Hand 0.6824
+skin 1946 Head 1.0000
+skin 1947 R_ThighTwist01 0.2588 Spine01 0.3294 R_Clavicle 0.1961 R_UpperarmTwist02 0.2157
+skin 1948 Head 1.0000
+skin 1949 Head 0.2000 L_Clavicle 0.5451 L_UpperarmTwist01 0.1569 L_UpperarmTwist02 0.0980
+skin 1950 R_ThighTwist01 0.5961 Spine01 0.2471 R_Clavicle 0.0745 R_UpperarmTwist02 0.0824
+skin 1951 R_ThighTwist01 0.2941 R_ThighTwist02 0.5216 R_CalfTwist01 0.1451 Spine01 0.0392
+skin 1952 Head 0.9804 R_Clavicle 0.0196
+skin 1953 L_Foot 0.0078 L_CalfTwist01 0.6588 L_ThighTwist01 0.0549 L_ThighTwist02 0.2784
+skin 1954 L_ThighTwist01 0.2039 L_ThighTwist02 0.2275 Waist 0.3608 Spine01 0.2078
+skin 1955 L_CalfTwist01 0.0039 L_ThighTwist01 0.7647 L_ThighTwist02 0.1176 Spine01 0.1137
+skin 1956 L_CalfTwist01 0.1176 L_ThighTwist01 0.3922 L_ThighTwist02 0.4392 Spine01 0.0510
+skin 1957 R_UpperarmTwist02 0.0275 R_ForearmTwist01 0.1137 R_ForearmTwist02 0.3333 R_Hand 0.5255
+skin 1958 L_CalfTwist01 0.3255 L_ThighTwist01 0.1216 L_ThighTwist02 0.5098 Waist 0.0431
+skin 1959 L_Clavicle 0.0980 L_ForearmTwist01 0.3216 L_UpperarmTwist01 0.1529 L_UpperarmTwist02 0.4275
+skin 1960 L_ForearmTwist01 0.0824 L_ForearmTwist02 0.2549 L_Hand 0.6627
+skin 1961 Head 0.7529 L_Clavicle 0.2196 L_UpperarmTwist01 0.0275
+skin 1962 R_ThighTwist01 0.0588 R_ThighTwist02 0.3608 R_Foot 0.0314 R_CalfTwist01 0.5490
+skin 1963 R_ThighTwist01 0.2824 R_ThighTwist02 0.3765 Waist 0.1961 Spine01 0.1451
+skin 1964 Head 0.9961 L_Clavicle 0.0039
+skin 1965 L_ThighTwist01 0.2706 L_ThighTwist02 0.2824 Waist 0.2667 Spine01 0.1804
+skin 1966 Spine01 0.0353 Head 0.4510 R_Clavicle 0.4078 R_UpperarmTwist01 0.1059
+skin 1967 L_ForearmTwist01 0.4078 L_ForearmTwist02 0.2314 L_Hand 0.1255 L_UpperarmTwist02 0.2353
+skin 1968 Head 0.3647 L_Clavicle 0.4902 L_UpperarmTwist01 0.0902 L_UpperarmTwist02 0.0549
+skin 1969 Head 1.0000
+skin 1970 Head 0.9569 R_Clavicle 0.0431
+skin 1971 R_ThighTwist01 0.7451 R_ThighTwist02 0.0627 Spine01 0.1765 R_Clavicle 0.0157
+skin 1972 R_UpperarmTwist02 0.1882 R_ForearmTwist01 0.3608 R_ForearmTwist02 0.3216 R_Hand 0.1294
+skin 1973 R_ThighTwist01 0.0431 R_ThighTwist02 0.2941 R_Foot 0.0235 R_CalfTwist01 0.6392
+skin 1974 Head 0.9647 L_Clavicle 0.0353
+skin 1975 R_Clavicle 0.1333 R_UpperarmTwist01 0.2196 R_UpperarmTwist02 0.4667 R_ForearmTwist01 0.1804
+skin 1976 L_ForearmTwist01 0.1490 L_ForearmTwist02 0.3529 L_Hand 0.4706 L_UpperarmTwist02 0.0275
+skin 1977 R_ThighTwist01 0.0784 R_ThighTwist02 0.4667 R_Foot 0.0078 R_CalfTwist01 0.4471
+skin 1978 R_ThighTwist01 0.1176 R_ThighTwist02 0.5216 R_CalfTwist01 0.3176 Waist 0.0431
+skin 1979 L_CalfTwist01 0.4784 L_ThighTwist01 0.0980 L_ThighTwist02 0.4235
+skin 1980 Spine01 0.0235 Head 0.4824 L_Clavicle 0.4235 L_UpperarmTwist01 0.0706
+skin 1981 L_CalfTwist01 0.5765 L_CalfTwist02 0.0078 L_ThighTwist01 0.0745 L_ThighTwist02 0.3412
+skin 1982 L_Clavicle 0.2118 L_ForearmTwist01 0.1569 L_UpperarmTwist01 0.3137 L_UpperarmTwist02 0.3176
+skin 1983 L_CalfTwist01 0.2549 L_ThighTwist01 0.1922 L_ThighTwist02 0.5451 Spine01 0.0078
+skin 1984 L_ForearmTwist01 0.3961 L_ForearmTwist02 0.2196 L_Hand 0.1176 L_UpperarmTwist02 0.2667
+skin 1985 L_CalfTwist01 0.1647 L_ThighTwist01 0.3412 L_ThighTwist02 0.3922 Waist 0.1020
+skin 1986 R_UpperarmTwist02 0.0314 R_ForearmTwist01 0.1137 R_ForearmTwist02 0.3608 R_Hand 0.4941
+skin 1987 R_ThighTwist01 0.0471 R_ThighTwist02 0.3137 R_Foot 0.0235 R_CalfTwist01 0.6157
+skin 1988 R_UpperarmTwist02 0.0667 R_ForearmTwist01 0.2000 R_ForearmTwist02 0.4039 R_Hand 0.3294
+skin 1989 R_ThighTwist01 0.2667 R_ThighTwist02 0.4667 R_CalfTwist01 0.1608 Waist 0.1059
+skin 1990 R_UpperarmTwist01 0.1922 R_UpperarmTwist02 0.4039 R_ForearmTwist01 0.2706 R_ForearmTwist02 0.1333
+skin 1991 Head 0.5490 L_Clavicle 0.3686 L_UpperarmTwist01 0.0667 L_UpperarmTwist02 0.0157
+skin 1992 L_ThighTwist01 0.7608 L_ThighTwist02 0.0706 Spine01 0.1490 L_Clavicle 0.0196
+skin 1993 R_Clavicle 0.2588 R_UpperarmTwist01 0.4078 R_UpperarmTwist02 0.2549 R_ForearmTwist01 0.0784
+skin 1994 Head 0.8157 R_Clavicle 0.1490 R_UpperarmTwist01 0.0353
+skin 1995 R_ThighTwist01 0.1843 R_ThighTwist02 0.5020 R_CalfTwist01 0.2941 Spine01 0.0196
+skin 1996 Head 0.8353 L_Clavicle 0.1608 L_UpperarmTwist01 0.0039
+skin 1997 R_UpperarmTwist02 0.0902 R_ForearmTwist01 0.2078 R_ForearmTwist02 0.4471 R_Hand 0.2549
+skin 1998 L_Clavicle 0.2588 L_ForearmTwist01 0.1294 L_UpperarmTwist01 0.3686 L_UpperarmTwist02 0.2431
+skin 1999 L_ForearmTwist01 0.2431 L_ForearmTwist02 0.4235 L_Hand 0.2706 L_UpperarmTwist02 0.0627
+skin 2000 Head 0.1529 L_Clavicle 0.5216 L_UpperarmTwist01 0.2000 L_UpperarmTwist02 0.1255
+skin 2001 Head 0.7569 R_Clavicle 0.1843 R_UpperarmTwist01 0.0588
+skin 2002 R_ThighTwist01 0.6980 Spine01 0.2157 R_Clavicle 0.0431 R_UpperarmTwist02 0.0431
+skin 2003 L_ForearmTwist01 0.2667 L_ForearmTwist02 0.4000 L_Hand 0.2549 L_UpperarmTwist02 0.0784
+skin 2004 Head 0.1961 R_Clavicle 0.4824 R_UpperarmTwist01 0.2196 R_UpperarmTwist02 0.1020
+skin 2005 L_ForearmTwist01 0.1373 L_ForearmTwist02 0.4000 L_Hand 0.4510 L_UpperarmTwist02 0.0118
+skin 2006 L_ForearmTwist01 0.0863 L_ForearmTwist02 0.2588 L_Hand 0.6549
+skin 2007 Spine01 0.2000 L_Clavicle 0.3294 L_UpperarmTwist01 0.2431 L_UpperarmTwist02 0.2275
+skin 2008 Head 0.9451 L_Clavicle 0.0549
+skin 2009 R_ThighTwist01 0.0706 R_ThighTwist02 0.3569 R_Foot 0.0078 R_CalfTwist01 0.5647
+skin 2010 Head 1.0000
+skin 2011 R_UpperarmTwist02 0.0431 R_ForearmTwist01 0.1412 R_ForearmTwist02 0.3608 R_Hand 0.4549
+skin 2012 L_CalfTwist01 0.1490 L_ThighTwist01 0.3333 L_ThighTwist02 0.4588 Spine01 0.0588
+skin 2013 L_ForearmTwist01 0.3137 L_ForearmTwist02 0.1176 L_UpperarmTwist01 0.1412 L_UpperarmTwist02 0.4275
+skin 2014 L_CalfTwist01 0.6157 L_ThighTwist01 0.0667 L_ThighTwist02 0.3176
+skin 2015 L_CalfTwist01 0.2863 L_ThighTwist01 0.1686 L_ThighTwist02 0.5176 Waist 0.0275
+skin 2016 Spine01 0.2196 L_Clavicle 0.3333 L_UpperarmTwist01 0.2314 L_UpperarmTwist02 0.2157
+skin 2017 R_UpperarmTwist02 0.2118 R_ForearmTwist01 0.4275 R_ForearmTwist02 0.2510 R_Hand 0.1098
+skin 2018 R_ThighTwist01 0.3098 R_ThighTwist02 0.4941 R_CalfTwist01 0.1333 Spine01 0.0627
+skin 2019 R_ThighTwist01 0.5647 R_ThighTwist02 0.2667 R_CalfTwist01 0.0706 Spine01 0.0980
+skin 2020 R_ThighTwist01 0.1412 R_ThighTwist02 0.5294 R_CalfTwist01 0.3059 Waist 0.0235
+skin 2021 L_CalfTwist01 0.5725 L_ThighTwist01 0.0784 L_ThighTwist02 0.3490
+skin 2022 L_CalfTwist01 0.2627 L_ThighTwist01 0.1882 L_ThighTwist02 0.5333 Spine01 0.0157
+skin 2023 Head 0.9294 L_Clavicle 0.0706
+skin 2024 R_Clavicle 0.1686 R_UpperarmTwist01 0.2863 R_UpperarmTwist02 0.3961 R_ForearmTwist01 0.1490
+skin 2025 L_ForearmTwist01 0.1882 L_ForearmTwist02 0.3922 L_Hand 0.3725 L_UpperarmTwist02 0.0471
+skin 2026 Spine01 0.0392 Head 0.5059 R_Clavicle 0.3647 R_UpperarmTwist01 0.0902
+skin 2027 R_UpperarmTwist02 0.0353 R_ForearmTwist01 0.1255 R_ForearmTwist02 0.3490 R_Hand 0.4902
+skin 2028 R_ThighTwist01 0.1882 R_ThighTwist02 0.5294 R_CalfTwist01 0.2431 Spine01 0.0392
+skin 2029 R_ThighTwist01 0.2863 R_ThighTwist02 0.3216 Waist 0.2118 Spine01 0.1804
+skin 2030 L_CalfTwist01 0.0824 L_ThighTwist01 0.5412 L_ThighTwist02 0.2824 Spine01 0.0941
+skin 2031 R_UpperarmTwist02 0.0980 R_ForearmTwist01 0.2784 R_ForearmTwist02 0.4039 R_Hand 0.2196
+skin 2032 L_CalfTwist01 0.4902 L_ThighTwist01 0.0941 L_ThighTwist02 0.4157
+skin 2033 Head 0.9765 L_Clavicle 0.0235
+skin 2034 R_ThighTwist01 0.0667 R_ThighTwist02 0.3725 R_Foot 0.0118 R_CalfTwist01 0.5490
+skin 2035 Head 0.1098 L_Clavicle 0.4314 L_UpperarmTwist01 0.2902 L_UpperarmTwist02 0.1686
+skin 2036 Head 0.9843 L_Clavicle 0.0157
+skin 2037 Spine01 0.0549 Head 0.4039 R_Clavicle 0.4392 R_UpperarmTwist01 0.1020
+skin 2038 L_CalfTwist01 0.1373 L_ThighTwist01 0.4039 L_ThighTwist02 0.3608 Spine01 0.0980
+skin 2039 L_Clavicle 0.0941 L_ForearmTwist01 0.3098 L_UpperarmTwist01 0.1451 L_UpperarmTwist02 0.4510
+skin 2040 Head 0.8667 L_Clavicle 0.1333
+skin 2041 R_ThighTwist01 0.3765 R_ThighTwist02 0.3882 R_CalfTwist01 0.1216 Spine01 0.1137
+skin 2042 Spine01 0.2392 R_Clavicle 0.3137 R_UpperarmTwist01 0.2235 R_UpperarmTwist02 0.2235
+skin 2043 L_ThighTwist01 0.3961 L_ThighTwist02 0.3176 Waist 0.1373 Spine01 0.1490
+skin 2044 R_ThighTwist01 0.3216 Spine01 0.3804 R_Clavicle 0.1529 R_UpperarmTwist02 0.1451
+skin 2045 L_ThighTwist01 0.6941 Spine01 0.2039 L_Clavicle 0.0667 L_UpperarmTwist02 0.0353
+skin 2046 Spine01 0.1765 R_Clavicle 0.2706 R_UpperarmTwist01 0.2784 R_UpperarmTwist02 0.2745
+skin 2047 R_UpperarmTwist02 0.0314 R_ForearmTwist01 0.1176 R_ForearmTwist02 0.3569 R_Hand 0.4941
+skin 2048 L_ForearmTwist01 0.0980 L_ForearmTwist02 0.2824 L_Hand 0.6196
+skin 2049 L_ThighTwist01 0.3569 L_ThighTwist02 0.2941 Waist 0.1765 Spine01 0.1725
+skin 2050 L_ForearmTwist01 0.0980 L_ForearmTwist02 0.2784 L_Hand 0.6235
+skin 2051 R_Clavicle 0.2118 R_UpperarmTwist01 0.3725 R_UpperarmTwist02 0.3137 R_ForearmTwist01 0.1020
+skin 2052 Head 0.9333 R_Clavicle 0.0667
+skin 2053 R_UpperarmTwist02 0.2863 R_ForearmTwist01 0.3725 R_ForearmTwist02 0.2431 R_Hand 0.0980
+skin 2054 L_CalfTwist01 0.1176 L_ThighTwist01 0.4431 L_ThighTwist02 0.3373 Spine01 0.1020
+skin 2055 L_CalfTwist01 0.1020 L_ThighTwist01 0.4863 L_ThighTwist02 0.3098 Spine01 0.1020
+skin 2056 Spine01 0.0471 Head 0.4392 L_Clavicle 0.4471 L_UpperarmTwist01 0.0667
+skin 2057 R_ThighTwist01 0.3608 R_ThighTwist02 0.3490 Waist 0.1373 Spine01 0.1529
+skin 2058 R_ThighTwist01 0.7176 R_ThighTwist02 0.1176 Spine01 0.1647
+skin 2059 R_UpperarmTwist02 0.0471 R_ForearmTwist01 0.1294 R_ForearmTwist02 0.3961 R_Hand 0.4275
+skin 2060 L_ForearmTwist01 0.3804 L_ForearmTwist02 0.2353 L_Hand 0.1294 L_UpperarmTwist02 0.2549
+skin 2061 Head 1.0000
+skin 2062 L_ThighTwist01 0.1804 L_ThighTwist02 0.1765 Waist 0.3647 Spine01 0.2784
+skin 2063 R_ThighTwist01 0.4471 R_ThighTwist02 0.3451 R_CalfTwist01 0.0941 Spine01 0.1137
+skin 2064 L_ForearmTwist01 0.2118 L_ForearmTwist02 0.4196 L_Hand 0.3137 L_UpperarmTwist02 0.0549
+skin 2065 R_UpperarmTwist02 0.1137 R_ForearmTwist01 0.2627 R_ForearmTwist02 0.4235 R_Hand 0.2000
+skin 2066 L_ThighTwist01 0.3294 Spine01 0.3569 L_Clavicle 0.1843 L_UpperarmTwist02 0.1294
+skin 2067 L_Clavicle 0.2392 L_ForearmTwist01 0.1333 L_UpperarmTwist01 0.3765 L_UpperarmTwist02 0.2510
+skin 2068 L_ThighTwist01 0.2784 L_ThighTwist02 0.2471 Waist 0.2510 Spine01 0.2235
+skin 2069 R_UpperarmTwist01 0.1451 R_UpperarmTwist02 0.4235 R_ForearmTwist01 0.2941 R_ForearmTwist02 0.1373
+skin 2070 L_ForearmTwist01 0.0902 L_ForearmTwist02 0.2627 L_Hand 0.6471
+skin 2071 Head 0.1255 R_Clavicle 0.4471 R_UpperarmTwist01 0.2706 R_UpperarmTwist02 0.1569
+skin 2072 L_ForearmTwist01 0.3882 L_ForearmTwist02 0.2745 L_Hand 0.1569 L_UpperarmTwist02 0.1804
+skin 2073 L_ForearmTwist01 0.2431 L_ForearmTwist02 0.4196 L_Hand 0.2706 L_UpperarmTwist02 0.0667
+skin 2074 L_ThighTwist01 0.5608 Spine01 0.2627 L_Clavicle 0.1020 L_UpperarmTwist02 0.0745
+skin 2075 R_UpperarmTwist02 0.0314 R_ForearmTwist01 0.1216 R_ForearmTwist02 0.3569 R_Hand 0.4902
+skin 2076 L_Clavicle 0.2510 L_ForearmTwist01 0.1294 L_UpperarmTwist01 0.3373 L_UpperarmTwist02 0.2824
+skin 2077 L_CalfTwist01 0.0196 L_ThighTwist01 0.7020 L_ThighTwist02 0.1373 Spine01 0.1412
+skin 2078 Head 0.9098 R_Clavicle 0.0902
+skin 2079 Head 0.6745 R_Clavicle 0.2510 R_UpperarmTwist01 0.0745
+skin 2080 R_ThighTwist01 0.5373 Spine01 0.3020 R_Clavicle 0.0824 R_UpperarmTwist02 0.0784
+skin 2081 R_UpperarmTwist02 0.0431 R_ForearmTwist01 0.1373 R_ForearmTwist02 0.3569 R_Hand 0.4627
+skin 2082 R_UpperarmTwist02 0.2275 R_ForearmTwist01 0.3843 R_ForearmTwist02 0.2706 R_Hand 0.1176
+skin 2083 R_ThighTwist01 0.2275 Spine01 0.3765 R_Clavicle 0.2157 R_UpperarmTwist02 0.1804
+skin 2084 R_Clavicle 0.1569 R_UpperarmTwist01 0.2902 R_UpperarmTwist02 0.3725 R_ForearmTwist01 0.1804
+skin 2085 L_ForearmTwist01 0.2941 L_ForearmTwist02 0.1059 L_UpperarmTwist01 0.1451 L_UpperarmTwist02 0.4549
+skin 2086 Head 0.8745 R_Clavicle 0.1137 R_UpperarmTwist01 0.0118
+skin 2087 Head 0.5804 L_Clavicle 0.0235 R_Clavicle 0.3137 R_UpperarmTwist01 0.0824
+skin 2088 R_UpperarmTwist02 0.2745 R_ForearmTwist01 0.3608 R_ForearmTwist02 0.2588 R_Hand 0.1059
+skin 2089 R_ThighTwist01 0.1961 R_ThighTwist02 0.2157 Waist 0.3216 Spine01 0.2667
+skin 2090 Head 0.7020 L_Clavicle 0.2588 L_UpperarmTwist01 0.0392
+skin 2091 R_Clavicle 0.1922 R_UpperarmTwist01 0.3373 R_UpperarmTwist02 0.3333 R_ForearmTwist01 0.1373
+skin 2092 L_Clavicle 0.1922 L_ForearmTwist01 0.1765 L_UpperarmTwist01 0.2824 L_UpperarmTwist02 0.3490
+skin 2093 R_UpperarmTwist02 0.1176 R_ForearmTwist01 0.2941 R_ForearmTwist02 0.3961 R_Hand 0.1922
+skin 2094 L_ForearmTwist01 0.3412 L_ForearmTwist02 0.1098 L_UpperarmTwist01 0.1137 L_UpperarmTwist02 0.4353
+skin 2095 Head 0.9882 R_Clavicle 0.0118
+skin 2096 R_UpperarmTwist02 0.0667 R_ForearmTwist01 0.1882 R_ForearmTwist02 0.3804 R_Hand 0.3647
+skin 2097 L_ForearmTwist01 0.0902 L_ForearmTwist02 0.2667 L_Hand 0.6431
+skin 2098 R_ThighTwist01 0.4235 R_ThighTwist02 0.3216 Waist 0.1020 Spine01 0.1529
+skin 2099 Head 0.1020 L_Clavicle 0.4588 L_UpperarmTwist01 0.2745 L_UpperarmTwist02 0.1647
+skin 2100 R_UpperarmTwist01 0.1647 R_UpperarmTwist02 0.3961 R_ForearmTwist01 0.2941 R_ForearmTwist02 0.1451
+skin 2101 Head 0.9725 R_Clavicle 0.0275
+skin 2102 Head 0.9098 L_Clavicle 0.0902
+skin 2103 R_UpperarmTwist01 0.1725 R_UpperarmTwist02 0.4196 R_ForearmTwist01 0.2863 R_ForearmTwist02 0.1216
+skin 2104 Spine01 0.1608 R_Clavicle 0.3294 R_UpperarmTwist01 0.2784 R_UpperarmTwist02 0.2314
+skin 2105 R_UpperarmTwist02 0.0392 R_ForearmTwist01 0.1255 R_ForearmTwist02 0.3725 R_Hand 0.4627
+skin 2106 L_ForearmTwist01 0.3569 L_ForearmTwist02 0.2745 L_Hand 0.1569 L_UpperarmTwist02 0.2118
+skin 2107 L_ForearmTwist01 0.3216 L_ForearmTwist02 0.1216 L_UpperarmTwist01 0.1176 L_UpperarmTwist02 0.4392
+skin 2108 L_ForearmTwist01 0.2667 L_ForearmTwist02 0.4157 L_Hand 0.2471 L_UpperarmTwist02 0.0706
+skin 2109 L_Clavicle 0.2196 L_ForearmTwist01 0.1451 L_UpperarmTwist01 0.3529 L_UpperarmTwist02 0.2824
+skin 2110 L_ThighTwist01 0.2275 Spine01 0.3137 L_Clavicle 0.2863 L_UpperarmTwist01 0.1725
+skin 2111 Head 0.7451 L_Clavicle 0.2275 L_UpperarmTwist01 0.0275
+skin 2112 R_UpperarmTwist02 0.1137 R_ForearmTwist01 0.2706 R_ForearmTwist02 0.4118 R_Hand 0.2039
+skin 2113 R_Clavicle 0.1961 R_UpperarmTwist01 0.3412 R_UpperarmTwist02 0.3255 R_ForearmTwist01 0.1373
+skin 2114 L_Clavicle 0.2667 L_ForearmTwist01 0.1255 L_UpperarmTwist01 0.3490 L_UpperarmTwist02 0.2588
+skin 2115 L_CalfTwist01 0.0745 L_ThighTwist01 0.5451 L_ThighTwist02 0.2431 Spine01 0.1373
+skin 2116 L_ForearmTwist01 0.1176 L_ForearmTwist02 0.3255 L_Hand 0.5529 L_UpperarmTwist02 0.0039
+skin 2117 R_Clavicle 0.2980 R_UpperarmTwist01 0.3529 R_UpperarmTwist02 0.2588 R_ForearmTwist01 0.0902
+skin 2118 Spine01 0.1490 L_Clavicle 0.3765 L_UpperarmTwist01 0.2863 L_UpperarmTwist02 0.1882
+skin 2119 R_UpperarmTwist02 0.1333 R_ForearmTwist01 0.3137 R_ForearmTwist02 0.3882 R_Hand 0.1647
+skin 2120 L_ForearmTwist01 0.2392 L_ForearmTwist02 0.4196 L_Hand 0.2745 L_UpperarmTwist02 0.0667
+skin 2121 L_ForearmTwist01 0.1059 L_ForearmTwist02 0.2824 L_Hand 0.6078 L_UpperarmTwist02 0.0039
+skin 2122 Head 1.0000
+skin 2123 R_ThighTwist01 0.2784 R_ThighTwist02 0.2588 Waist 0.2275 Spine01 0.2353
+skin 2124 Spine01 0.0627 Head 0.4118 L_Clavicle 0.4706 L_UpperarmTwist01 0.0549
+skin 2125 Head 0.4902 L_Clavicle 0.0706 R_Clavicle 0.3647 R_UpperarmTwist01 0.0745
+skin 2126 L_ThighTwist01 0.4471 L_ThighTwist02 0.2706 Waist 0.1137 Spine01 0.1686
+skin 2127 Head 0.1490 L_Clavicle 0.5569 L_UpperarmTwist01 0.1804 L_UpperarmTwist02 0.1137
+skin 2128 Head 0.1059 R_Clavicle 0.4510 R_UpperarmTwist01 0.2667 R_UpperarmTwist02 0.1765
+skin 2129 Spine01 0.0980 L_Clavicle 0.3765 L_UpperarmTwist01 0.3333 L_UpperarmTwist02 0.1922
+skin 2130 R_ThighTwist01 0.6941 R_ThighTwist02 0.0784 Spine01 0.2157 R_Clavicle 0.0118
+skin 2131 Head 1.0000
+skin 2132 Head 0.9451 R_Clavicle 0.0549
+skin 2133 L_ForearmTwist01 0.1529 L_ForearmTwist02 0.3333 L_Hand 0.4824 L_UpperarmTwist02 0.0314
+skin 2134 R_UpperarmTwist02 0.0510 R_ForearmTwist01 0.1412 R_ForearmTwist02 0.3765 R_Hand 0.4314
+skin 2135 Spine01 0.1490 R_Clavicle 0.3843 R_UpperarmTwist01 0.2627 R_UpperarmTwist02 0.2039
+skin 2136 R_UpperarmTwist02 0.0667 R_ForearmTwist01 0.1804 R_ForearmTwist02 0.3765 R_Hand 0.3765
+skin 2137 Spine01 0.0706 Head 0.2941 L_Clavicle 0.5412 L_UpperarmTwist01 0.0941
+skin 2138 Head 0.8902 L_Clavicle 0.1098
+skin 2139 L_CalfTwist01 0.0863 L_ThighTwist01 0.4941 L_ThighTwist02 0.2588 Spine01 0.1608
+skin 2140 Spine01 0.2000 L_Clavicle 0.4196 L_UpperarmTwist01 0.2235 L_UpperarmTwist02 0.1569
+skin 2141 R_UpperarmTwist02 0.0353 R_ForearmTwist01 0.1216 R_ForearmTwist02 0.3608 R_Hand 0.4824
+skin 2142 R_UpperarmTwist02 0.0431 R_ForearmTwist01 0.1333 R_ForearmTwist02 0.3529 R_Hand 0.4706
+skin 2143 Head 0.6588 L_Clavicle 0.2980 L_UpperarmTwist01 0.0431
+skin 2144 Spine01 0.1333 R_Clavicle 0.4235 R_UpperarmTwist01 0.2549 R_UpperarmTwist02 0.1882
+skin 2145 Head 1.0000
+skin 2146 L_CalfTwist01 0.0392 L_ThighTwist01 0.6314 L_ThighTwist02 0.1686 Spine01 0.1608
+skin 2147 L_ForearmTwist01 0.0980 L_ForearmTwist02 0.2941 L_Hand 0.6078
+skin 2148 Spine01 0.0549 Head 0.5451 L_Clavicle 0.3569 R_Clavicle 0.0431
+skin 2149 L_ForearmTwist01 0.0980 L_ForearmTwist02 0.2784 L_Hand 0.6235
+skin 2150 R_UpperarmTwist02 0.0667 R_ForearmTwist01 0.1725 R_ForearmTwist02 0.3765 R_Hand 0.3843
+skin 2151 Head 0.9412 L_Clavicle 0.0588
+skin 2152 Spine01 0.2118 R_Clavicle 0.4157 R_UpperarmTwist01 0.2039 R_UpperarmTwist02 0.1686
+skin 2153 R_ThighTwist01 0.6275 R_ThighTwist02 0.1490 Waist 0.0314 Spine01 0.1922
+skin 2154 L_ThighTwist01 0.3608 L_ThighTwist02 0.2353 Waist 0.1765 Spine01 0.2275
+skin 2155 L_ThighTwist01 0.6980 L_ThighTwist02 0.1059 Waist 0.0078 Spine01 0.1882
+skin 2156 Head 0.9765 L_Clavicle 0.0235
+skin 2157 R_UpperarmTwist02 0.0471 R_ForearmTwist01 0.1373 R_ForearmTwist02 0.3647 R_Hand 0.4510
+skin 2158 L_ForearmTwist01 0.1176 L_ForearmTwist02 0.3020 L_Hand 0.5725 L_UpperarmTwist02 0.0078
+skin 2159 Head 0.9294 R_Clavicle 0.0706
+skin 2160 L_ThighTwist01 0.6745 L_ThighTwist02 0.0667 Spine01 0.2157 L_Clavicle 0.0431
+skin 2161 Spine01 0.0824 Head 0.4314 L_Clavicle 0.0784 R_Clavicle 0.4078
+skin 2162 R_ThighTwist01 0.5608 R_ThighTwist02 0.1882 Waist 0.0588 Spine01 0.1922
+skin 2163 Spine01 0.0667 Head 0.4941 L_Clavicle 0.3765 R_Clavicle 0.0627
+skin 2164 R_ThighTwist01 0.6039 R_ThighTwist02 0.0471 Spine01 0.2902 R_Clavicle 0.0588
+skin 2165 Spine01 0.0902 Head 0.3020 R_Clavicle 0.5059 R_UpperarmTwist01 0.1020
+skin 2166 Spine01 0.1216 Head 0.1333 L_Clavicle 0.5647 L_UpperarmTwist01 0.1804
+skin 2167 Spine01 0.0235 Head 0.6196 L_Clavicle 0.3216 L_UpperarmTwist01 0.0353
+skin 2168 L_ThighTwist01 0.6902 L_ThighTwist02 0.0824 Spine01 0.2039 L_Clavicle 0.0235
+skin 2169 Spine01 0.0627 Head 0.5804 L_Clavicle 0.0863 R_Clavicle 0.2706
+skin 2170 Spine01 0.1490 L_Clavicle 0.5255 L_UpperarmTwist01 0.1961 L_UpperarmTwist02 0.1294
+skin 2171 Head 0.9961 L_Clavicle 0.0039
+skin 2172 Spine01 0.0745 Head 0.5216 L_Clavicle 0.1020 R_Clavicle 0.3020
+skin 2173 R_ThighTwist01 0.2588 Spine01 0.4471 R_Clavicle 0.1725 R_UpperarmTwist02 0.1216
+skin 2174 Head 0.9647 L_Clavicle 0.0353
+skin 2175 Head 0.8235 L_Clavicle 0.1686 L_UpperarmTwist01 0.0078
+skin 2176 Spine01 0.1412 R_Clavicle 0.5333 R_UpperarmTwist01 0.1922 R_UpperarmTwist02 0.1333
+skin 2177 Head 0.8353 R_Clavicle 0.1373 R_UpperarmTwist01 0.0275
+skin 2178 L_ThighTwist01 0.2941 Spine01 0.4157 L_Clavicle 0.1882 L_UpperarmTwist02 0.1020
+skin 2179 Head 0.8588 L_Clavicle 0.1412
+skin 2180 Spine01 0.1176 Head 0.1961 R_Clavicle 0.5333 R_UpperarmTwist01 0.1529
+skin 2181 Head 0.7922 R_Clavicle 0.1647 R_UpperarmTwist01 0.0431
+skin 2182 Head 0.9882 R_Clavicle 0.0118
+skin 2183 Head 0.9255 L_Clavicle 0.0745
+skin 2184 R_ThighTwist01 0.3608 R_ThighTwist02 0.2314 Waist 0.1529 Spine01 0.2549
+skin 2185 R_ThighTwist01 0.4627 R_ThighTwist02 0.2157 Waist 0.0941 Spine01 0.2275
+skin 2186 L_ThighTwist01 0.5804 Spine01 0.2980 L_Clavicle 0.0824 L_UpperarmTwist02 0.0392
+skin 2187 Head 1.0000
+skin 2188 L_ThighTwist01 0.5451 L_ThighTwist02 0.1804 Waist 0.0667 Spine01 0.2078
+skin 2189 R_ThighTwist01 0.1804 Spine01 0.4039 R_Clavicle 0.2745 R_UpperarmTwist02 0.1412
+skin 2190 Head 0.9961 R_Clavicle 0.0039
+skin 2191 Spine01 0.0863 Head 0.4392 L_Clavicle 0.3922 R_Clavicle 0.0824
+skin 2192 L_ThighTwist01 0.4431 L_ThighTwist02 0.2078 Waist 0.1098 Spine01 0.2392
+skin 2193 Spine01 0.0667 Head 0.5843 L_Clavicle 0.2588 R_Clavicle 0.0902
+skin 2194 L_ThighTwist01 0.1961 Spine01 0.3882 L_Clavicle 0.2824 L_UpperarmTwist01 0.1333
+skin 2195 Spine01 0.0784 Head 0.5373 L_Clavicle 0.2863 R_Clavicle 0.0980
+skin 2196 Head 0.7569 L_Clavicle 0.0039 R_Clavicle 0.1882 R_UpperarmTwist01 0.0510
+skin 2197 Head 0.9569 R_Clavicle 0.0431
+skin 2198 Spine01 0.0824 Head 0.5529 L_Clavicle 0.1529 R_Clavicle 0.2118
+skin 2199 Spine01 0.0667 Head 0.6078 L_Clavicle 0.1373 R_Clavicle 0.1882
+skin 2200 Spine01 0.0471 Head 0.6353 L_Clavicle 0.0745 R_Clavicle 0.2431
+skin 2201 Spine01 0.0431 Head 0.6196 L_Clavicle 0.2824 R_Clavicle 0.0549
+skin 2202 Head 1.0000
+skin 2203 R_ThighTwist01 0.6235 R_ThighTwist02 0.1020 Waist 0.0235 Spine01 0.2510
+skin 2204 R_ThighTwist01 0.6157 R_ThighTwist02 0.0745 Spine01 0.2824 R_Clavicle 0.0275
+skin 2205 Head 0.9843 L_Clavicle 0.0157
+skin 2206 Head 0.6902 L_Clavicle 0.0314 R_Clavicle 0.2235 R_UpperarmTwist01 0.0549
+skin 2207 Spine01 0.0706 Head 0.6078 L_Clavicle 0.1882 R_Clavicle 0.1333
+skin 2208 Spine01 0.1216 Head 0.2824 R_Clavicle 0.5059 R_UpperarmTwist01 0.0902
+skin 2209 Spine01 0.1137 Head 0.2431 L_Clavicle 0.5647 L_UpperarmTwist01 0.0784
+skin 2210 Spine01 0.1059 Head 0.4588 L_Clavicle 0.1608 R_Clavicle 0.2745
+skin 2211 R_ThighTwist01 0.4118 Spine01 0.4235 R_Clavicle 0.0941 R_UpperarmTwist02 0.0706
+skin 2212 L_ThighTwist01 0.2196 L_ThighTwist02 0.1529 Waist 0.2235 Spine01 0.4039
+skin 2213 Spine01 0.1059 Head 0.3216 L_Clavicle 0.5137 R_Clavicle 0.0588
+skin 2214 Spine01 0.1765 Head 0.1255 L_Clavicle 0.5647 L_UpperarmTwist01 0.1333
+skin 2215 Spine01 0.1333 Head 0.1922 L_Clavicle 0.5765 L_UpperarmTwist01 0.0980
+skin 2216 Head 0.8863 R_Clavicle 0.1059 R_UpperarmTwist01 0.0078
+skin 2217 Spine01 0.1059 Head 0.4510 L_Clavicle 0.3137 R_Clavicle 0.1294
+skin 2218 NeckTwist01 0.1137 Head 0.4627 L_Clavicle 0.2431 R_Clavicle 0.1804
+skin 2219 Head 0.9765 R_Clavicle 0.0235
+skin 2220 Spine01 0.2000 Head 0.1451 R_Clavicle 0.5216 R_UpperarmTwist01 0.1333
+skin 2221 Head 1.0000
+skin 2222 L_ThighTwist01 0.6196 L_ThighTwist02 0.1098 Waist 0.0314 Spine01 0.2392
+skin 2223 Head 0.9255 R_Clavicle 0.0745
+skin 2224 Head 1.0000
+skin 2225 R_ThighTwist01 0.5412 R_ThighTwist02 0.1333 Waist 0.0549 Spine01 0.2706
+skin 2226 Head 0.8863 L_Clavicle 0.1137
+skin 2227 Spine01 0.1216 Head 0.3569 L_Clavicle 0.1255 R_Clavicle 0.3961
+skin 2228 Head 0.9373 L_Clavicle 0.0627
+skin 2229 Head 0.9529 L_Clavicle 0.0471
+skin 2230 Head 1.0000
+skin 2231 Head 0.8118 L_Clavicle 0.1804 L_UpperarmTwist01 0.0078
+skin 2232 L_ThighTwist01 0.2510 Spine01 0.4667 L_Clavicle 0.1922 L_UpperarmTwist01 0.0902
+skin 2233 Head 0.9098 R_Clavicle 0.0902
+skin 2234 R_ThighTwist01 0.2549 R_ThighTwist02 0.1843 Waist 0.1804 Spine01 0.3804
+skin 2235 Head 0.6941 L_Clavicle 0.0627 R_Clavicle 0.2078 R_UpperarmTwist01 0.0353
+skin 2236 Head 0.7725 L_Clavicle 0.2157 L_UpperarmTwist01 0.0118
+skin 2237 Spine01 0.1765 Head 0.2078 R_Clavicle 0.5216 R_UpperarmTwist01 0.0941
+skin 2238 Head 0.9137 L_Clavicle 0.0863
+skin 2239 L_ThighTwist01 0.5843 L_ThighTwist02 0.0667 Spine01 0.2941 L_Clavicle 0.0549
+skin 2240 R_ThighTwist01 0.2275 Spine01 0.5137 R_Clavicle 0.1686 R_UpperarmTwist02 0.0902
+skin 2241 L_ThighTwist01 0.1608 Spine01 0.4157 Spine02 0.1137 L_Clavicle 0.3098
+skin 2242 Head 0.7255 L_Clavicle 0.2392 L_UpperarmTwist01 0.0118 R_Clavicle 0.0235
+skin 2243 L_ThighTwist01 0.1490 R_ThighTwist01 0.1608 Waist 0.2275 Spine01 0.4627
+skin 2244 Head 1.0000
+skin 2245 L_ThighTwist01 0.4275 Spine01 0.4196 L_Clavicle 0.1059 L_UpperarmTwist02 0.0471
+skin 2246 Spine01 0.0549 Head 0.6667 L_Clavicle 0.1529 R_Clavicle 0.1255
+skin 2247 Spine01 0.0431 Head 0.6706 L_Clavicle 0.2039 R_Clavicle 0.0824
+skin 2248 R_ThighTwist01 0.1529 Spine01 0.4863 R_Clavicle 0.2588 R_UpperarmTwist01 0.1020
+skin 2249 Head 0.9922 L_Clavicle 0.0078
+skin 2250 Head 0.9725 L_Clavicle 0.0275
+skin 2251 L_ThighTwist01 0.4118 L_ThighTwist02 0.1608 Waist 0.1020 Spine01 0.3255
+skin 2252 Head 0.8392 R_Clavicle 0.1373 R_UpperarmTwist01 0.0235
+skin 2253 R_ThighTwist01 0.5451 R_ThighTwist02 0.0784 Spine01 0.3490 R_Clavicle 0.0275
+skin 2254 Spine01 0.1686 Head 0.2784 L_Clavicle 0.1451 R_Clavicle 0.4078
+skin 2255 Spine01 0.2118 Head 0.1529 L_Clavicle 0.5529 L_UpperarmTwist01 0.0824
+skin 2256 Spine01 0.1569 Head 0.3529 L_Clavicle 0.2510 R_Clavicle 0.2392
+skin 2257 Spine01 0.1647 Head 0.2392 L_Clavicle 0.5137 R_Clavicle 0.0824
+skin 2258 Spine01 0.1490 Head 0.3255 L_Clavicle 0.3804 R_Clavicle 0.1451
+skin 2259 L_ThighTwist01 0.4941 L_ThighTwist02 0.0353 Spine01 0.3843 L_Clavicle 0.0863
+skin 2260 Head 0.9412 R_Clavicle 0.0588
+skin 2261 Spine01 0.0235 Head 0.7059 L_Clavicle 0.2157 R_Clavicle 0.0549
+skin 2262 L_ThighTwist01 0.4471 L_ThighTwist02 0.1451 Waist 0.0824 Spine01 0.3255
+skin 2263 L_ThighTwist01 0.5333 L_ThighTwist02 0.1137 Waist 0.0627 Spine01 0.2902
+skin 2264 L_ThighTwist01 0.2941 L_ThighTwist02 0.1529 Waist 0.1529 Spine01 0.4000
+skin 2265 R_ThighTwist01 0.3098 R_ThighTwist02 0.1686 Waist 0.1333 Spine01 0.3882
+skin 2266 Head 1.0000
+skin 2267 R_ThighTwist01 0.4000 R_ThighTwist02 0.1529 Waist 0.0902 Spine01 0.3569
+skin 2268 Head 0.9961 R_Clavicle 0.0039
+skin 2269 Head 0.9020 L_Clavicle 0.0980
+skin 2270 Head 0.9608 R_Clavicle 0.0392
+skin 2271 Head 0.8784 R_Clavicle 0.1137 R_UpperarmTwist01 0.0078
+skin 2272 R_ThighTwist01 0.5020 R_ThighTwist02 0.1059 Waist 0.0549 Spine01 0.3373
+skin 2273 Head 0.9843 R_Clavicle 0.0157
+skin 2274 Spine01 0.3255 Head 0.1412 L_Clavicle 0.0863 R_Clavicle 0.4471
+skin 2275 L_ThighTwist01 0.5569 L_ThighTwist02 0.0863 Waist 0.0392 Spine01 0.3176
+skin 2276 R_ThighTwist01 0.4157 R_ThighTwist02 0.1333 Waist 0.0824 Spine01 0.3686
+skin 2277 L_ThighTwist01 0.1569 Spine01 0.5098 Spine02 0.0824 L_Clavicle 0.2510
+skin 2278 Head 0.8706 L_Clavicle 0.1294
+skin 2279 Spine01 0.2706 Head 0.1804 L_Clavicle 0.1373 R_Clavicle 0.4118
+skin 2280 Spine01 0.2353 Head 0.1843 L_Clavicle 0.4824 R_Clavicle 0.0980
+skin 2281 Head 0.9451 L_Clavicle 0.0549
+skin 2282 Spine01 0.0275 Head 0.7333 L_Clavicle 0.1059 R_Clavicle 0.1333
+skin 2283 R_ThighTwist01 0.4039 R_ThighTwist02 0.0510 Spine01 0.4745 R_Clavicle 0.0706
+skin 2284 Spine01 0.2118 Head 0.2314 L_Clavicle 0.3922 R_Clavicle 0.1647
+skin 2285 R_ThighTwist01 0.3137 Spine01 0.5373 R_Clavicle 0.1020 R_UpperarmTwist02 0.0471
+skin 2286 R_ThighTwist01 0.1373 Spine01 0.5451 Head 0.0745 R_Clavicle 0.2431
+skin 2287 Spine01 0.0157 Head 0.7569 L_Clavicle 0.0745 R_Clavicle 0.1529
+skin 2288 Spine01 0.2627 Head 0.2235 L_Clavicle 0.2510 R_Clavicle 0.2627
+skin 2289 Head 0.8235 L_Clavicle 0.0235 R_Clavicle 0.1373 R_UpperarmTwist01 0.0157
+skin 2290 Head 0.9765 R_Clavicle 0.0235
+skin 2291 L_ThighTwist01 0.2196 Spine01 0.5569 L_Clavicle 0.1725 L_UpperarmTwist01 0.0510
+skin 2292 Head 0.9569 L_Clavicle 0.0431
+skin 2293 Head 0.9059 R_Clavicle 0.0941
+skin 2294 Head 0.7922 L_Clavicle 0.0510 R_Clavicle 0.1451 R_UpperarmTwist01 0.0118
+skin 2295 Head 1.0000
+skin 2296 Head 0.9333 R_Clavicle 0.0667
+skin 2297 Head 1.0000
+skin 2298 Head 1.0000
+skin 2299 Head 0.9922 R_Clavicle 0.0078
+skin 2300 Head 0.9922 L_Clavicle 0.0078
+skin 2301 R_ThighTwist01 0.2863 R_ThighTwist02 0.1333 Waist 0.1216 Spine01 0.4588
+skin 2302 R_ThighTwist01 0.2078 R_ThighTwist02 0.1255 Waist 0.1569 Spine01 0.5098
+skin 2303 Head 0.8353 L_Clavicle 0.1569 R_Clavicle 0.0078
+skin 2304 Head 0.9216 L_Clavicle 0.0784
+skin 2305 Head 0.9373 L_Clavicle 0.0627
+skin 2306 Spine01 0.0157 Head 0.7647 L_Clavicle 0.1529 R_Clavicle 0.0667
+skin 2307 Head 0.9843 L_Clavicle 0.0157
+skin 2308 Head 0.8784 L_Clavicle 0.0078 R_Clavicle 0.1098 R_UpperarmTwist01 0.0039
+skin 2309 L_ThighTwist01 0.3333 L_ThighTwist02 0.1216 Waist 0.1098 Spine01 0.4353
+skin 2310 Head 1.0000
+skin 2311 L_ThighTwist01 0.4039 L_ThighTwist02 0.0471 Spine01 0.4706 L_Clavicle 0.0784
+skin 2312 Spine01 0.0039 Head 0.7961 L_Clavicle 0.1608 R_Clavicle 0.0392
+skin 2313 Head 0.9686 L_Clavicle 0.0314
+skin 2314 Spine01 0.0196 Head 0.7647 L_Clavicle 0.1255 R_Clavicle 0.0902
+skin 2315 L_ThighTwist01 0.3961 L_ThighTwist02 0.1098 Waist 0.0863 Spine01 0.4078
+skin 2316 R_ThighTwist01 0.1882 Spine01 0.6314 R_Clavicle 0.1412 R_UpperarmTwist02 0.0392
+skin 2317 L_ThighTwist01 0.4627 L_ThighTwist02 0.0863 Waist 0.0667 Spine01 0.3843
+skin 2318 L_ThighTwist01 0.2667 L_ThighTwist02 0.1176 Waist 0.1373 Spine01 0.4784
+skin 2319 L_ThighTwist01 0.3255 Waist 0.0275 Spine01 0.5373 L_Clavicle 0.1098
+skin 2320 L_ThighTwist01 0.1647 R_ThighTwist01 0.1333 Waist 0.1686 Spine01 0.5333
+skin 2321 L_ThighTwist01 0.1373 Spine01 0.5922 Head 0.0627 L_Clavicle 0.2078
+skin 2322 Spine01 0.5608 Head 0.0980 L_Clavicle 0.0902 R_Clavicle 0.2510
+skin 2323 Head 0.9216 R_Clavicle 0.0784
+skin 2324 R_ThighTwist01 0.2863 Waist 0.0275 Spine01 0.5922 R_Clavicle 0.0941
+skin 2325 R_ThighTwist01 0.3647 R_ThighTwist02 0.1020 Waist 0.0784 Spine01 0.4549
+skin 2326 R_ThighTwist01 0.3216 R_ThighTwist02 0.1176 Waist 0.0980 Spine01 0.4627
+skin 2327 R_ThighTwist01 0.3804 R_ThighTwist02 0.0784 Waist 0.0627 Spine01 0.4784
+skin 2328 Head 0.9569 R_Clavicle 0.0431
+skin 2329 Head 0.9137 L_Clavicle 0.0863
+skin 2330 Spine01 0.5961 Head 0.0941 L_Clavicle 0.1216 R_Clavicle 0.1882
+skin 2331 L_ThighTwist01 0.1098 Spine01 0.6118 Head 0.0745 L_Clavicle 0.2039
+skin 2332 Spine01 0.5804 Head 0.1059 L_Clavicle 0.1725 R_Clavicle 0.1412
+skin 2333 Spine01 0.0039 Head 0.8118 L_Clavicle 0.0706 R_Clavicle 0.1137
+skin 2334 R_ThighTwist01 0.3216 R_ThighTwist02 0.0549 Spine01 0.5569 R_Clavicle 0.0667
+skin 2335 Head 0.8824 L_Clavicle 0.1176
+skin 2336 R_ThighTwist01 0.1451 Spine01 0.6745 L_Clavicle 0.0549 R_Clavicle 0.1255
+skin 2337 Head 0.9843 R_Clavicle 0.0157
+skin 2338 L_ThighTwist01 0.0824 Spine01 0.6471 L_Clavicle 0.1725 R_Clavicle 0.0980
+skin 2339 Head 0.9725 R_Clavicle 0.0275
+skin 2340 R_ThighTwist01 0.2353 R_ThighTwist02 0.1098 Waist 0.1255 Spine01 0.5294
+skin 2341 Head 0.9961 L_Clavicle 0.0039
+skin 2342 Head 0.8549 L_Clavicle 0.0392 R_Clavicle 0.1059
+skin 2343 Head 0.8784 L_Clavicle 0.0196 R_Clavicle 0.1020
+skin 2344 Spine01 0.0039 Head 0.8196 L_Clavicle 0.0941 R_Clavicle 0.0824
+skin 2345 Head 0.9059 L_Clavicle 0.0941
+skin 2346 L_ThighTwist01 0.2235 Waist 0.0510 Spine01 0.6118 L_Clavicle 0.1137
+skin 2347 Head 0.8549 L_Clavicle 0.1255 R_Clavicle 0.0196
+skin 2348 Head 0.9451 L_Clavicle 0.0549
+skin 2349 Head 1.0000
+skin 2350 L_ThighTwist01 0.1294 R_ThighTwist01 0.1647 Waist 0.1529 Spine01 0.5529
+skin 2351 R_ThighTwist01 0.1216 Spine01 0.6824 L_Clavicle 0.0745 R_Clavicle 0.1216
+skin 2352 L_ThighTwist01 0.1922 R_ThighTwist01 0.1059 Waist 0.1490 Spine01 0.5529
+skin 2353 L_ThighTwist01 0.2745 L_ThighTwist02 0.0941 Waist 0.1176 Spine01 0.5137
+skin 2354 Head 0.9725 L_Clavicle 0.0275
+skin 2355 R_ThighTwist01 0.0824 Spine01 0.6863 L_Clavicle 0.1137 R_Clavicle 0.1176
+skin 2356 R_ThighTwist01 0.2118 Waist 0.0588 Spine01 0.6392 R_Clavicle 0.0902
+skin 2357 Head 0.9961 R_Clavicle 0.0039
+skin 2358 L_ThighTwist01 0.1529 Waist 0.0510 Spine01 0.6588 L_Clavicle 0.1373
+skin 2359 R_ThighTwist01 0.2510 Waist 0.0667 Spine01 0.6118 R_Clavicle 0.0706
+skin 2360 L_ThighTwist01 0.3176 L_ThighTwist02 0.0824 Waist 0.0941 Spine01 0.5059
+skin 2361 L_ThighTwist01 0.2745 Waist 0.0667 Spine01 0.5725 L_Clavicle 0.0863
+skin 2362 R_ThighTwist01 0.2784 R_ThighTwist02 0.0824 Waist 0.0902 Spine01 0.5490
+skin 2363 Head 1.0000
+skin 2364 Head 0.9333 L_Clavicle 0.0667
+skin 2365 Head 0.9333 R_Clavicle 0.0667
+skin 2366 R_ThighTwist01 0.2431 R_ThighTwist02 0.0941 Waist 0.1098 Spine01 0.5529
+skin 2367 L_ThighTwist01 0.3137 Waist 0.0784 Spine01 0.5451 L_Clavicle 0.0627
+skin 2368 Head 0.9059 L_Clavicle 0.0118 R_Clavicle 0.0824
+skin 2369 Head 0.9843 L_Clavicle 0.0157
+skin 2370 R_ThighTwist01 0.2627 R_ThighTwist02 0.0667 Waist 0.0784 Spine01 0.5922
+skin 2371 Head 0.8627 L_Clavicle 0.0471 R_Clavicle 0.0902
+skin 2372 Head 0.9608 L_Clavicle 0.0392
+skin 2373 Head 0.8471 L_Clavicle 0.1020 R_Clavicle 0.0510
+skin 2374 L_ThighTwist01 0.1490 R_ThighTwist01 0.1451 Waist 0.1529 Spine01 0.5529
+skin 2375 L_ThighTwist01 0.1765 R_ThighTwist01 0.1216 Waist 0.1529 Spine01 0.5490
+skin 2376 L_ThighTwist01 0.1098 R_ThighTwist01 0.1843 Waist 0.1373 Spine01 0.5686
+skin 2377 Head 0.8510 L_Clavicle 0.0667 R_Clavicle 0.0824
+skin 2378 Head 0.8902 L_Clavicle 0.1020 R_Clavicle 0.0078
+skin 2379 Head 0.9490 R_Clavicle 0.0510
+skin 2380 Head 0.9804 R_Clavicle 0.0196
+skin 2381 L_ThighTwist01 0.2157 R_ThighTwist01 0.0902 Waist 0.1373 Spine01 0.5569
+skin 2382 L_ThighTwist01 0.1255 R_ThighTwist01 0.1686 Waist 0.1451 Spine01 0.5608
+skin 2383 L_ThighTwist01 0.2627 L_ThighTwist02 0.0667 Waist 0.1059 Spine01 0.5647
+skin 2384 Head 0.8745 L_Clavicle 0.0980 R_Clavicle 0.0275
+skin 2385 Head 0.9333 L_Clavicle 0.0667
+skin 2386 Head 0.9647 R_Clavicle 0.0353
+skin 2387 Head 0.9922 L_Clavicle 0.0078
+skin 2388 L_ThighTwist01 0.2000 R_ThighTwist01 0.0980 Waist 0.1451 Spine01 0.5569
+skin 2389 L_ThighTwist01 0.1765 Waist 0.0902 Spine01 0.6431 L_Clavicle 0.0902
+skin 2390 L_ThighTwist01 0.0706 R_ThighTwist01 0.1843 Waist 0.0941 Spine01 0.6510
+skin 2391 Head 0.9176 L_Clavicle 0.0824
+skin 2392 L_ThighTwist01 0.2118 Waist 0.1020 Spine01 0.6118 L_Clavicle 0.0745
+skin 2393 Head 0.8588 L_Clavicle 0.0784 R_Clavicle 0.0627
+skin 2394 Head 0.9922 R_Clavicle 0.0078
+skin 2395 L_ThighTwist01 0.0745 R_ThighTwist01 0.1647 Waist 0.0941 Spine01 0.6667
+skin 2396 L_ThighTwist01 0.0941 R_ThighTwist01 0.1176 Waist 0.1020 Spine01 0.6863
+skin 2397 L_ThighTwist01 0.0980 R_ThighTwist01 0.1843 Waist 0.1255 Spine01 0.5922
+skin 2398 Head 0.9020 L_Clavicle 0.0275 R_Clavicle 0.0706
+skin 2399 Head 0.9961 L_Clavicle 0.0039
+skin 2400 L_ThighTwist01 0.2039 R_ThighTwist01 0.0824 Waist 0.1412 Spine01 0.5725
+skin 2401 L_ThighTwist01 0.1294 R_ThighTwist01 0.0863 Waist 0.1059 Spine01 0.6784
+skin 2402 L_ThighTwist01 0.1098 R_ThighTwist01 0.1765 Waist 0.1333 Spine01 0.5804
+skin 2403 Head 0.8824 L_Clavicle 0.0510 R_Clavicle 0.0667
+skin 2404 Head 0.9569 L_Clavicle 0.0431
+skin 2405 L_ThighTwist01 0.2000 R_ThighTwist01 0.0902 Waist 0.1412 Spine01 0.5686
+skin 2406 Head 0.9294 L_Clavicle 0.0118 R_Clavicle 0.0588
+skin 2407 L_ThighTwist01 0.0980 R_ThighTwist01 0.1608 Waist 0.1333 Spine01 0.6078
+skin 2408 L_ThighTwist01 0.1451 R_ThighTwist01 0.1412 Waist 0.1529 Spine01 0.5608
+skin 2409 Head 0.9765 L_Clavicle 0.0235
+skin 2410 L_ThighTwist01 0.1804 R_ThighTwist01 0.0824 Waist 0.1412 Spine01 0.5961
+skin 2411 Head 0.9098 L_Clavicle 0.0784 R_Clavicle 0.0118
+skin 2412 Head 0.8863 L_Clavicle 0.0784 R_Clavicle 0.0353
+skin 2413 L_ThighTwist01 0.1255 R_ThighTwist01 0.1020 Waist 0.1333 Spine01 0.6392
+skin 2414 L_ThighTwist01 0.1059 R_ThighTwist01 0.1255 Waist 0.1373 Spine01 0.6314
+skin 2415 L_ThighTwist01 0.1529 R_ThighTwist01 0.0863 Waist 0.1412 Spine01 0.6196
+skin 2416 L_ThighTwist01 0.1059 R_ThighTwist01 0.1686 Waist 0.1333 Spine01 0.5922
+skin 2417 Head 0.9843 L_Clavicle 0.0157
+skin 2418 Head 0.9765 L_Clavicle 0.0039 R_Clavicle 0.0196
+skin 2419 Head 0.9412 L_Clavicle 0.0588
+skin 2420 L_ThighTwist01 0.1922 R_ThighTwist01 0.0863 Waist 0.1451 Spine01 0.5765
+skin 2421 L_ThighTwist01 0.1725 R_ThighTwist01 0.1137 Waist 0.1529 Spine01 0.5608
+skin 2422 Head 0.9569 L_Clavicle 0.0078 R_Clavicle 0.0353
+skin 2423 Head 0.9882 L_Clavicle 0.0078 R_Clavicle 0.0039
+skin 2424 L_ThighTwist01 0.1608 R_ThighTwist01 0.1255 Waist 0.1529 Spine01 0.5608
+skin 2425 L_ThighTwist01 0.1333 R_ThighTwist01 0.1490 Waist 0.1490 Spine01 0.5686
+skin 2426 Head 0.8980 L_Clavicle 0.0588 R_Clavicle 0.0431
+skin 2427 Head 0.9137 L_Clavicle 0.0353 R_Clavicle 0.0510
+skin 2428 L_ThighTwist01 0.1843 R_ThighTwist01 0.1020 Waist 0.1490 Spine01 0.5647
+skin 2429 Head 0.9255 L_Clavicle 0.0627 R_Clavicle 0.0118
+skin 2430 Head 0.9608 L_Clavicle 0.0392
+skin 2431 L_ThighTwist01 0.1059 R_ThighTwist01 0.1373 Waist 0.1412 Spine01 0.6157
+skin 2432 L_ThighTwist01 0.1255 R_ThighTwist01 0.1569 Waist 0.1490 Spine01 0.5686
+skin 2433 L_ThighTwist01 0.1647 R_ThighTwist01 0.0902 Waist 0.1490 Spine01 0.5961
+skin 2434 Head 0.9490 L_Clavicle 0.0196 R_Clavicle 0.0314
+skin 2435 L_ThighTwist01 0.1843 R_ThighTwist01 0.0980 Waist 0.1490 Spine01 0.5686
+skin 2436 L_ThighTwist01 0.1333 R_ThighTwist01 0.0980 Waist 0.1451 Spine01 0.6235
+skin 2437 Head 0.9255 L_Clavicle 0.0471 R_Clavicle 0.0275
+skin 2438 Head 0.9373 L_Clavicle 0.0510 R_Clavicle 0.0118
+skin 2439 Head 0.9608 L_Clavicle 0.0275 R_Clavicle 0.0118
+skin 2440 L_ThighTwist01 0.1216 R_ThighTwist01 0.1608 Waist 0.1412 Spine01 0.5765
+skin 2441 L_ThighTwist01 0.1294 R_ThighTwist01 0.1059 Waist 0.1451 Spine01 0.6196
+skin 2442 L_ThighTwist01 0.1451 R_ThighTwist01 0.1333 Waist 0.1529 Spine01 0.5686
+skin 2443 L_ThighTwist01 0.1216 R_ThighTwist01 0.1529 Waist 0.1451 Spine01 0.5804
+skin 2444 L_ThighTwist01 0.1137 R_ThighTwist01 0.1333 Waist 0.1490 Spine01 0.6039
+skin 2445 L_ThighTwist01 0.1137 R_ThighTwist01 0.1451 Waist 0.1490 Spine01 0.5922
+skin 2446 L_ThighTwist01 0.1765 R_ThighTwist01 0.1020 Waist 0.1529 Spine01 0.5686
+skin 2447 L_ThighTwist01 0.1647 R_ThighTwist01 0.0941 Waist 0.1569 Spine01 0.5843
+skin 2448 L_ThighTwist01 0.1686 R_ThighTwist01 0.1098 Waist 0.1569 Spine01 0.5647
+skin 2449 L_ThighTwist01 0.1412 R_ThighTwist01 0.1020 Waist 0.1529 Spine01 0.6039
+skin 2450 L_ThighTwist01 0.1608 R_ThighTwist01 0.1176 Waist 0.1569 Spine01 0.5647
+skin 2451 L_ThighTwist01 0.1216 R_ThighTwist01 0.1216 Waist 0.1569 Spine01 0.6000
+skin 2452 L_ThighTwist01 0.1569 R_ThighTwist01 0.0980 Waist 0.1569 Spine01 0.5882
+skin 2453 L_ThighTwist01 0.1294 R_ThighTwist01 0.1451 Waist 0.1529 Spine01 0.5725
+skin 2454 L_ThighTwist01 0.1686 R_ThighTwist01 0.1059 Waist 0.1569 Spine01 0.5686
+skin 2455 L_ThighTwist01 0.1373 R_ThighTwist01 0.1333 Waist 0.1569 Spine01 0.5725
+skin 2456 L_ThighTwist01 0.1255 R_ThighTwist01 0.1412 Waist 0.1569 Spine01 0.5765
+skin 2457 L_ThighTwist01 0.1294 R_ThighTwist01 0.1137 Waist 0.1647 Spine01 0.5922
+skin 2458 L_ThighTwist01 0.1647 R_ThighTwist01 0.1059 Waist 0.1608 Spine01 0.5686
+skin 2459 L_ThighTwist01 0.1490 R_ThighTwist01 0.1216 Waist 0.1569 Spine01 0.5725
+skin 2460 L_ThighTwist01 0.1294 R_ThighTwist01 0.1412 Waist 0.1569 Spine01 0.5725
+skin 2461 L_ThighTwist01 0.1451 R_ThighTwist01 0.1020 Waist 0.1686 Spine01 0.5843
+skin 2462 L_ThighTwist01 0.1412 R_ThighTwist01 0.1294 Waist 0.1569 Spine01 0.5725
+skin 2463 L_ThighTwist01 0.1216 R_ThighTwist01 0.1294 Waist 0.1647 Spine01 0.5843
+skin 2464 L_ThighTwist01 0.1569 R_ThighTwist01 0.1098 Waist 0.1608 Spine01 0.5725
+skin 2465 L_ThighTwist01 0.1569 R_ThighTwist01 0.1020 Waist 0.1686 Spine01 0.5725
+skin 2466 L_ThighTwist01 0.1333 R_ThighTwist01 0.1333 Waist 0.1569 Spine01 0.5765
+skin 2467 L_ThighTwist01 0.1255 R_ThighTwist01 0.1176 Waist 0.1725 Spine01 0.5843
+skin 2468 L_ThighTwist01 0.1373 R_ThighTwist01 0.1059 Waist 0.1725 Spine01 0.5843
+skin 2469 L_ThighTwist01 0.1569 R_ThighTwist01 0.1059 Waist 0.1647 Spine01 0.5725
+skin 2470 L_ThighTwist01 0.1294 R_ThighTwist01 0.1294 Waist 0.1647 Spine01 0.5765
+skin 2471 L_ThighTwist01 0.1451 R_ThighTwist01 0.1176 Waist 0.1608 Spine01 0.5765
+skin 2472 L_ThighTwist01 0.1529 R_ThighTwist01 0.1098 Waist 0.1647 Spine01 0.5725
+skin 2473 L_ThighTwist01 0.1294 R_ThighTwist01 0.1294 Waist 0.1647 Spine01 0.5765
+skin 2474 L_ThighTwist01 0.1412 R_ThighTwist01 0.1216 Waist 0.1608 Spine01 0.5765
+skin 2475 L_ThighTwist01 0.1333 R_ThighTwist01 0.1294 Waist 0.1608 Spine01 0.5765
+skin 2476 L_ThighTwist01 0.1294 R_ThighTwist01 0.1137 Waist 0.1843 Spine01 0.5725
+skin 2477 L_ThighTwist01 0.1333 R_ThighTwist01 0.1098 Waist 0.1843 Spine01 0.5725
+skin 2478 L_ThighTwist01 0.1255 R_ThighTwist01 0.1216 Waist 0.1804 Spine01 0.5725
+skin 2479 L_ThighTwist01 0.1490 R_ThighTwist01 0.1059 Waist 0.1765 Spine01 0.5686
+skin 2480 L_ThighTwist01 0.1451 R_ThighTwist01 0.1137 Waist 0.1608 Spine01 0.5804
+skin 2481 L_ThighTwist01 0.1451 R_ThighTwist01 0.1020 Waist 0.1843 Spine01 0.5686
+skin 2482 L_ThighTwist01 0.1294 R_ThighTwist01 0.1255 Waist 0.1647 Spine01 0.5804
+skin 2483 L_ThighTwist01 0.1333 R_ThighTwist01 0.1216 Waist 0.1608 Spine01 0.5843
+skin 2484 L_ThighTwist01 0.1255 R_ThighTwist01 0.1216 Waist 0.1843 Spine01 0.5686
+skin 2485 L_ThighTwist01 0.1373 R_ThighTwist01 0.1176 Waist 0.1647 Spine01 0.5804
+skin 2486 L_ThighTwist01 0.1373 R_ThighTwist01 0.1059 Waist 0.1882 Spine01 0.5686
+skin 2487 L_ThighTwist01 0.1333 R_ThighTwist01 0.1059 Waist 0.1922 Spine01 0.5686
+skin 2488 L_ThighTwist01 0.1451 R_ThighTwist01 0.1098 Waist 0.1686 Spine01 0.5765
+skin 2489 L_ThighTwist01 0.1294 R_ThighTwist01 0.1255 Waist 0.1765 Spine01 0.5686
+skin 2490 L_ThighTwist01 0.1412 R_ThighTwist01 0.1137 Waist 0.1647 Spine01 0.5804
+skin 2491 L_ThighTwist01 0.1451 R_ThighTwist01 0.1059 Waist 0.1843 Spine01 0.5647
+skin 2492 L_ThighTwist01 0.1294 R_ThighTwist01 0.1137 Waist 0.1922 Spine01 0.5647
+skin 2493 L_ThighTwist01 0.1294 R_ThighTwist01 0.1216 Waist 0.1686 Spine01 0.5804
+skin 2494 L_ThighTwist01 0.1451 R_ThighTwist01 0.1059 Waist 0.1765 Spine01 0.5725
+skin 2495 L_ThighTwist01 0.1294 R_ThighTwist01 0.1176 Waist 0.1882 Spine01 0.5647
+skin 2496 L_ThighTwist01 0.1294 R_ThighTwist01 0.1176 Waist 0.1922 Spine01 0.5608
+skin 2497 L_ThighTwist01 0.1333 R_ThighTwist01 0.1176 Waist 0.1686 Spine01 0.5804
+skin 2498 L_ThighTwist01 0.1373 R_ThighTwist01 0.1059 Waist 0.1922 Spine01 0.5647
+skin 2499 L_ThighTwist01 0.1373 R_ThighTwist01 0.1098 Waist 0.1686 Spine01 0.5843
+skin 2500 L_ThighTwist01 0.1294 R_ThighTwist01 0.1098 Waist 0.1961 Spine01 0.5647
+skin 2501 L_ThighTwist01 0.1294 R_ThighTwist01 0.1176 Waist 0.1804 Spine01 0.5725
+skin 2502 L_ThighTwist01 0.1333 R_ThighTwist01 0.1098 Waist 0.1961 Spine01 0.5608
+skin 2503 L_ThighTwist01 0.1333 R_ThighTwist01 0.1137 Waist 0.1725 Spine01 0.5804
+skin 2504 L_ThighTwist01 0.1294 R_ThighTwist01 0.1137 Waist 0.1922 Spine01 0.5647
+skin 2505 L_ThighTwist01 0.1373 R_ThighTwist01 0.1098 Waist 0.1804 Spine01 0.5725
+skin 2506 L_ThighTwist01 0.1294 R_ThighTwist01 0.1137 Waist 0.1882 Spine01 0.5686
+hier Root Hip
+hier Hip Pelvis
+hier Hip Waist
+hier Pelvis L_Thigh
+hier Pelvis R_Thigh
+hier L_Thigh L_Calf
+hier L_Thigh L_ThighTwist01
+hier L_Calf L_Foot
+hier L_Calf L_CalfTwist01
+hier L_CalfTwist01 L_CalfTwist02
+hier L_ThighTwist01 L_ThighTwist02
+hier R_Thigh R_ThighTwist01
+hier R_Thigh R_Calf
+hier R_ThighTwist01 R_ThighTwist02
+hier R_Calf R_Foot
+hier R_Calf R_CalfTwist01
+hier R_CalfTwist01 R_CalfTwist02
+hier Waist Spine01
+hier Spine01 Spine02
+hier Spine02 NeckTwist01
+hier Spine02 L_Clavicle
+hier Spine02 R_Clavicle
+hier NeckTwist01 NeckTwist02
+hier NeckTwist02 Head
+hier L_Clavicle L_Upperarm
+hier L_Upperarm L_Forearm
+hier L_Upperarm L_UpperarmTwist01
+hier L_Forearm L_ForearmTwist01
+hier L_Forearm L_Hand
+hier L_ForearmTwist01 L_ForearmTwist02
+hier L_UpperarmTwist01 L_UpperarmTwist02
+hier R_Clavicle R_Upperarm
+hier R_Upperarm R_UpperarmTwist01
+hier R_Upperarm R_Forearm
+hier R_UpperarmTwist01 R_UpperarmTwist02
+hier R_Forearm R_ForearmTwist01
+hier R_Forearm R_Hand
+hier R_ForearmTwist01 R_ForearmTwist02
