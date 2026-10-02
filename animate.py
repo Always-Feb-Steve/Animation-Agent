@@ -60,6 +60,8 @@ from rendering.renderer import Renderer
 from rendering.camera import get_camera
 import agent_fb_07 as fb07
 import director
+import export
+import memory as mem
 
 
 KLING_ENDPOINT = "fal-ai/kling-video/v2.5-turbo/pro/image-to-video"
@@ -301,16 +303,33 @@ def check_claude(client, claude_model):
                          f"{type(e).__name__}: {e}")
 
 
-def run_direct(args, model, renderer, camera, lights, client, out_dir, log=print):
-    """Direct mode, command -> animation.mp4. Leaves the model at rest so a
-    caller (agent.py) can reuse it for the next command."""
+def character_name(mesh_path):
+    """asset/panda_texture_obj/panda_texture.obj -> panda"""
+    return os.path.basename(mesh_path).replace("_texture.obj", "").replace(".obj", "")
+
+
+def load_previous(run_dir):
+    """{'command', 'plan'} of an earlier run, for an edit like 'bow deeper'."""
+    with open(os.path.join(run_dir, "plan.json"), encoding="utf-8") as f:
+        plan = json.load(f)
+    with open(os.path.join(run_dir, "command.txt"), encoding="utf-8") as f:
+        command = f.read().strip()
+    return {"command": command, "plan": plan}
+
+
+def run_direct(args, model, renderer, camera, lights, client, out_dir, log=print,
+               memory=None, lessons=None, previous=None):
+    """Direct mode, command -> animation.mp4 (+ .glb, + .fbx when Blender is
+    installed). Leaves the model at rest so a caller (agent.py) can reuse it
+    for the next command."""
     with open(os.path.join(out_dir, "command.txt"), "w", encoding="utf-8") as f:
         f.write(args.command + "\n")
     rest = fb07.save_joint_state(model)
     try:
         keys, film_azim = director.direct(model, lights, client, args.claude_model,
                                           args.command, out_dir, args.cam_dist,
-                                          args.device, max_steps=args.max_steps, log=log)
+                                          args.device, max_steps=args.max_steps, log=log,
+                                          memory=memory, lessons=lessons, previous=previous)
         torch.save({"keys": [(t, s[0], s[1]) for t, s in keys], "video_path": ""},
                    os.path.join(out_dir, "poses.pt"))
         cameras = None
@@ -319,6 +338,16 @@ def run_direct(args, model, renderer, camera, lights, client, out_dir, log=print
                                                 film_azim, args.cam_elev, args.device, rest)
         render_sequence(model, renderer, camera, lights, keys, out_dir, args.fps,
                         cameras=cameras)
+        if getattr(args, "export", True):
+            name = character_name(args.mesh_path)
+            try:
+                glb = export.export_glb(model, keys, interpolate_state, args.fps,
+                                        os.path.join(out_dir, "animation.glb"), name)
+                fbx = export.glb_to_fbx(glb, os.path.join(out_dir, "animation.fbx"))
+                log("exported animation.glb" + (" + animation.fbx" if fbx else
+                                                " (no Blender found: FBX skipped)"))
+            except Exception as e:                  # the video is the product; export is extra
+                log(f"export failed: {type(e).__name__}: {e}")
     finally:
         fb07.restore_joint_state(model, rest)
     return os.path.abspath(os.path.join(out_dir, "animation.mp4"))
@@ -330,6 +359,13 @@ def main():
     p.add_argument("--command", default="",
                    help="what the character should do, in English, e.g. \"wave hello, then bow\"")
     p.add_argument("--mode", default="direct", choices=["direct", "video"])
+    p.add_argument("--previous", default="",
+                   help="direct mode: an earlier run dir to edit, e.g. runs/panda_x "
+                        "with --command \"make the wave bigger\"")
+    p.add_argument("--no_memory", action="store_true",
+                   help="direct mode: ignore and do not update memory/")
+    p.add_argument("--no_export", dest="export", action="store_false",
+                   help="skip animation.glb / animation.fbx")
     p.add_argument("--max_steps", type=int, default=14,
                    help="direct mode: tool turns Claude gets to preview and submit")
     p.add_argument("--mesh_path", default="asset/ultraman_texture_obj/ultraman_texture.obj")
@@ -390,7 +426,14 @@ def main():
         if args.mode == "direct":
             if not args.command:
                 raise SystemExit("Pass --command.")
-            video = run_direct(args, model, renderer, camera, lights, client, out_dir)
+            memory = lessons = None
+            if not args.no_memory:
+                memory = mem.CharacterMemory(character_name(args.mesh_path),
+                                             args.mesh_path, args.rig_path)
+                lessons = mem.Lessons()
+            previous = load_previous(args.previous) if args.previous else None
+            video = run_direct(args, model, renderer, camera, lights, client, out_dir,
+                               memory=memory, lessons=lessons, previous=previous)
             print(f"\nDone: {video}")
             return
 

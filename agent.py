@@ -10,10 +10,18 @@ Repeat as often as you like; the character stays loaded between commands.
   python agent.py
 
 At the command prompt:
-  <text>    animate the current character, e.g. "wave hello, then bow"
+  <text>    animate the current character, e.g. "wave hello, then bow".
+            Follow-ups like "bow deeper" or "now slower" edit the last
+            animation instead of starting over.
+  :n        start fresh (forget the last animation)
   :c        choose another character
   :o        open the last video
   :q        quit
+
+The agent remembers each character (facing, bone names, a library of poses
+it verified) and general lessons in memory/, so it gets faster and better
+with use. Each run also exports animation.glb (and .fbx if Blender is
+installed) next to animation.mp4.
 """
 
 import os
@@ -27,6 +35,7 @@ import torch
 import anthropic
 
 import animate
+import memory as mem
 import agent_fb_07 as fb07
 
 
@@ -124,6 +133,7 @@ def main():
     p.add_argument("--cam_elev", type=float, default=10)
     base = p.parse_args()
     base.cam_azim = None
+    base.export = True
 
     fb07.set_seed(42)
     chars = find_characters()
@@ -139,19 +149,29 @@ def main():
     name = choose_character(chars)
     scene = None
     last_video = None
+    last_run = None            # run dir of the last animation of THIS character
+    lessons = mem.Lessons()
 
     while True:
         if scene is None or scene[0] != name:
             print(f"Loading {name} ...")
             args = make_args(*chars[name], base)
             scene = (name, args, *animate.build_scene(args))
+            memory = mem.CharacterMemory(name, *chars[name])
+            last_run = None
+            if memory.poses:
+                print(f"  remembered poses: {', '.join(memory.poses)}")
         _, args, model, renderer, camera, lights = scene
 
-        raw = ask(f"\n[{name}] command (:c character, :o open last, :q quit) > ")
+        raw = ask(f"\n[{name}] command (:n fresh, :c character, :o open, :q quit) > ")
         if not raw:
             continue
         if raw.lower() in (":q", ":quit", "exit", "quit"):
             break
+        if raw.lower() == ":n":
+            last_run = None
+            print("  starting fresh")
+            continue
         if raw.lower() == ":c":
             name = choose_character(chars, current=name)
             continue
@@ -171,9 +191,13 @@ def main():
         print(f"Animating ... (usually 1-3 minutes; Ctrl+C to cancel)")
         t0 = time.time()
         try:
+            previous = animate.load_previous(last_run) if last_run else None
             last_video = animate.run_direct(args, model, renderer, camera, lights,
                                             client, out_dir,
-                                            log=lambda m: print(f"  {m}"))
+                                            log=lambda m: print(f"  {m}"),
+                                            memory=memory, lessons=lessons,
+                                            previous=previous)
+            last_run = out_dir
         except KeyboardInterrupt:
             print("\n  cancelled")
             continue

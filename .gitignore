@@ -17,3 +17,6 @@ asset/sam_vit_h_4b8939.pth
 agent_output*/
 output*/
 runs/
+
+# per-user agent memory (memory.py)
+memory/

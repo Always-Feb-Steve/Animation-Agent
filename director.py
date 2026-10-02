@@ -37,6 +37,7 @@ from pytorch3d.transforms import axis_angle_to_matrix, matrix_to_rotation_6d
 from rendering.renderer import Renderer
 from rendering.camera import get_camera
 import agent_fb_07 as fb07
+import measure
 
 
 UP = np.array([0.0, 1.0, 0.0])    # rig files are written Y-up by blender_read_fbx.py
@@ -392,14 +393,28 @@ passing through the body).
 robotic.
 
 WORKFLOW
-You can SEE your work before committing to it, with three tools:
+You can SEE and MEASURE your work before committing to it:
 - preview_pose(joints, root, grounded, label): renders ONE pose. Get the hard \
 poses right first: anything beyond ~60 degrees, or combining two axes on one \
 joint, is hard to predict from the table (it was measured at 30 degrees) -- \
 check it instead of guessing.
+- solve_ik(effector, target, chain, base): when you know WHERE a hand/paw/ \
+head/tail tip should be ("right hand 20% of body height above the head"), \
+let the solver find the angles instead of guessing them. It returns the full \
+joints dict and a preview.
+- mirror_pose(joints, mode): "copy" makes a pose symmetric (left arm -> both \
+arms), "swap" mirrors it (sway right -> sway left). Left/right are paired for \
+you, also on bone_N rigs.
 - preview_plan(plan): renders every keyframe of a full plan.
+- save_pose(name, joints, root, note): store a pose that worked (especially \
+one that took several tries) in this character's pose library for future \
+commands.
 - submit_plan(plan, check): your final answer. Only submit a plan whose \
 preview_plan passed the strict check below.
+
+Every preview also reports MEASURED problems: body parts inside each other \
+("R_Forearm is inside Spine02") and a centre of mass outside the feet. Treat \
+an intersection as a FAIL unless the parts merely touch on purpose.
 
 Every image shows two views per pose: TOP / LEFT = the camera the final \
 video uses, BOTTOM / RIGHT = side view from the character's own left (it \
@@ -434,7 +449,43 @@ _POSE_SCHEMA = {
     "required": ["joints"],
 }
 
+_TARGET = {
+    "type": "object",
+    "description": "where the effector should go: offsets in body heights from "
+                   "`relative_to` (a joint name; default: the effector's own position "
+                   "in the base pose), in the character's frame",
+    "properties": {"relative_to": {"type": "string"}, "forward": {"type": "number"},
+                   "up": {"type": "number"}, "left": {"type": "number"}},
+}
+
 TOOLS = [
+    {"name": "solve_ik",
+     "description": "Find angles that put `effector` (any joint, e.g. a hand) at a "
+                    "target point, by rotating up to `chain` joints above it (default 3). "
+                    "Starts from `base` (a pose: joints/root/grounded) and changes only "
+                    "the chain. Returns the full joints dict, the residual and a preview.",
+     "input_schema": {"type": "object",
+                      "properties": {"effector": {"type": "string"}, "target": _TARGET,
+                                     "chain": {"type": "integer"},
+                                     "base": _POSE_SCHEMA},
+                      "required": ["effector", "target"]}},
+    {"name": "mirror_pose",
+     "description": "Mirror a pose across the character's left/right plane. mode 'copy' "
+                    "keeps the input and adds the other side; 'swap' mirrors everything "
+                    "(also root left/turn). Returns the joints dict and a preview.",
+     "input_schema": {"type": "object",
+                      "properties": {"joints": {"type": "object"},
+                                     "root": {"type": "object"},
+                                     "mode": {"type": "string", "enum": ["copy", "swap"]}},
+                      "required": ["joints", "mode"]}},
+    {"name": "save_pose",
+     "description": "Save a verified pose to this character's pose library.",
+     "input_schema": {"type": "object",
+                      "properties": {"name": {"type": "string"},
+                                     "joints": {"type": "object"},
+                                     "root": {"type": "object"},
+                                     "note": {"type": "string"}},
+                      "required": ["name", "joints"]}},
     {"name": "preview_pose",
      "description": "Render ONE pose: the video camera next to a side view.",
      "input_schema": _POSE_SCHEMA},
@@ -604,8 +655,21 @@ def tracking_cameras(model, keys, fps, interpolate, film_azim, elev, device,
 # DRIVER
 # ==============================================================================
 
+REFLECT = """The plan is accepted. Before you go, two things for next time:
+1. lessons: what did you learn in this session that would help animate OTHER \
+characters -- an axis or angle pitfall, a body-type trick, a tool habit that \
+paid off? 0-2 short strings (max 25 words each); none if nothing goes beyond \
+the LESSONS you were given.
+2. poses: up to 2 keyframes of your submitted plan worth keeping in THIS \
+character's pose library -- distinctive or hard-won poses you would want to \
+reuse (not the rest pose).
+Reply with ONLY a JSON object:
+{"lessons": ["..."], "poses": [{"t": <keyframe time>, "name": "short_snake_case", \
+"note": "what it shows"}]}"""
+
+
 def direct(model, lights, client, claude_model, command, out_dir, dist, device,
-           max_steps=14, log=print):
+           max_steps=14, log=print, memory=None, lessons=None, previous=None):
     """Returns (keys, film_azim). Planning is a tool-use loop: Claude previews
     single poses and whole plans, and submits when its own strict check
     passes. The earlier plan -> review -> rewrite loop stalled: the reviewer
@@ -614,9 +678,15 @@ def direct(model, lights, client, claude_model, command, out_dir, dist, device,
     rest_state = fb07.save_joint_state(model)
     adjustable = fb07.get_adjustable_joints(model)
 
-    front_azim, grid = detect_front_azimuth(model, lights, client, claude_model,
-                                            dist, device, log)
-    cv2.imwrite(f"{out_dir}/facing_views.png", grid)
+    front_azim = memory.get("front_azim") if memory else None
+    if front_azim is None:
+        front_azim, grid = detect_front_azimuth(model, lights, client, claude_model,
+                                                dist, device, log)
+        cv2.imwrite(f"{out_dir}/facing_views.png", grid)
+        if memory:
+            memory.set("front_azim", front_azim)
+    else:
+        log(f"front view: azim {front_azim} (memory)")
     frame = body_frame(front_azim)
     check_left_right(model, frame, log)
 
@@ -625,8 +695,14 @@ def direct(model, lights, client, claude_model, command, out_dir, dist, device,
 
     semantics = {}
     if has_generic_names(adjustable):
-        semantics = name_bones(model, lights, client, claude_model, front_azim, dist,
-                               device, adjustable, out_dir, log)
+        semantics = memory.get("bone_names") if memory else None
+        if semantics:
+            log(f"bone naming: {len(semantics)} names (memory)")
+        else:
+            semantics = name_bones(model, lights, client, claude_model, front_azim, dist,
+                                   device, adjustable, out_dir, log)
+            if memory and semantics:
+                memory.set("bone_names", semantics)
 
     table = motion_table(model, frame, adjustable)
     text = table_text(table, semantics)
@@ -636,6 +712,8 @@ def direct(model, lights, client, claude_model, command, out_dir, dist, device,
     with torch.no_grad():
         v = model().verts_packed().cpu().numpy() @ UP
     height = float(v.max() - v.min())
+    checks = measure.BodyChecks(model, adjustable, height, semantics)
+    mirror = measure.Mirror(model, frame, adjustable, height)
 
     renderer = Renderer(image_size=512, device=device)
     names = sorted(table)
@@ -655,11 +733,26 @@ def direct(model, lights, client, claude_model, command, out_dir, dist, device,
         f"toward the front-{side}.")
 
     system = PLAN_SYSTEM + "\n\nMOTION TABLE\n" + text
+    context = [camera_note]
+    if lessons and lessons.text():
+        context.append(lessons.text())
+    if memory and memory.poses_text():
+        context.append(memory.poses_text())
+    if previous:
+        context.append(
+            "PREVIOUS ANIMATION of this character -- the user's last command was "
+            f"\"{previous['command']}\" and this plan was rendered:\n"
+            f"{json.dumps(previous['plan'])}\n"
+            "If the new COMMAND modifies that animation (\"deeper\", \"slower\", "
+            "\"add a spin at the end\", \"now with the other arm\"), start from this "
+            "plan: preview_plan it, change only what is asked, keep the rest. If the "
+            "COMMAND is a different action, ignore it.")
     messages = [{"role": "user", "content": [
         _img_block(labeled),
         {"type": "text", "text": "The character at rest with its joints labeled "
                                  "(left: front view, right: side view, facing left).\n\n"
-                                 f"{camera_note}\n\nCOMMAND: {command}\n\n"
+                                 + "\n\n".join(context)
+                                 + f"\n\nCOMMAND: {command}\n\n"
                                  f"You have {max_steps} tool turns."},
     ]}]
 
@@ -667,22 +760,92 @@ def direct(model, lights, client, claude_model, command, out_dir, dist, device,
     agent_log = open(f"{out_dir}/agent_log.md", "w", encoding="utf-8")
     state = {"n": 0, "last_plan": None, "final": None}
 
+    def problems(state_, grounded):
+        """Measured issues of one posed state, as short lines."""
+        fb07.restore_joint_state(model, state_)
+        out = checks.collisions()
+        if grounded:
+            b = checks.balance(frame)
+            if b:
+                out.append(b)
+        fb07.restore_joint_state(model, rest_state)
+        return out
+
+    def pose_result(pose, label, tag, kind):
+        """Pose + root + grounded -> preview image and measured problems."""
+        one = {"grounded": pose.get("grounded", True),
+               "keyframes": [{"t": 0.0, "joints": pose.get("joints") or {},
+                              "root": pose.get("root") or {}}]}
+        bad = unknown_joints(one, adjustable)
+        keys = plan_to_keys(model, one, frame, adjustable, rest_state, height, log)
+        img = pose_sheet(model, keys[0][1], lights, film_azim, front_azim,
+                         rest_state, device, label)
+        cv2.imwrite(f"{out_dir}/previews/{tag}_{kind}.png", img)
+        probs = problems(keys[0][1], one["grounded"])
+        note = (f"pose '{label}' (left: video camera, right: side view). Measured: "
+                + ("; ".join(probs) if probs else "no intersections, balanced"))
+        if bad:
+            note += f". UNKNOWN joints ignored: {bad}"
+        return img, note
+
     def run_tool(name, inp):
         state["n"] += 1
         tag = f"{state['n']:02d}"
         if name == "preview_pose":
-            one = {"grounded": inp.get("grounded", True),
-                   "keyframes": [{"t": 0.0, "joints": inp.get("joints") or {},
-                                  "root": inp.get("root") or {}}]}
-            bad = unknown_joints(one, adjustable)
-            keys = plan_to_keys(model, one, frame, adjustable, rest_state, height, log)
-            img = pose_sheet(model, keys[0][1], lights, film_azim, front_azim,
-                             rest_state, device, inp.get("label", ""))
-            cv2.imwrite(f"{out_dir}/previews/{tag}_pose.png", img)
-            note = f"pose '{inp.get('label', '')}' (left: video camera, right: side view)"
-            if bad:
-                note += f". UNKNOWN joints ignored: {bad}"
+            img, note = pose_result(inp, inp.get("label", ""), tag, "pose")
             return [_img_block(img), {"type": "text", "text": note}]
+
+        if name == "solve_ik":
+            eff = inp["effector"]
+            if eff not in model.joints:
+                raise ValueError(f"unknown effector {eff!r}")
+            base = inp.get("base") or {}
+            one = {"grounded": base.get("grounded", True),
+                   "keyframes": [{"t": 0.0, "joints": base.get("joints") or {},
+                                  "root": base.get("root") or {}}]}
+            keys = plan_to_keys(model, one, frame, adjustable, rest_state, height, log)
+            fb07.restore_joint_state(model, keys[0][1])
+            tg = inp.get("target") or {}
+            pos = {k: v.detach().cpu().numpy() for k, v in model.get_joint_positions().items()}
+            ref = tg.get("relative_to") or eff
+            if ref not in pos:
+                raise ValueError(f"unknown relative_to joint {ref!r}")
+            target = pos[ref] + height * (float(tg.get("forward", 0)) * frame["forward"]
+                                          + float(tg.get("up", 0)) * UP
+                                          + float(tg.get("left", 0)) * frame["left"])
+            angles, res = measure.solve_ik(model, eff, target, int(inp.get("chain", 3)),
+                                           adjustable)
+            fb07.restore_joint_state(model, rest_state)
+            joints = dict(base.get("joints") or {})
+            joints.update(angles)
+            pose = dict(base, joints=joints)
+            img, note = pose_result(pose, f"IK {eff}", tag, "ik")
+            return [_img_block(img), {"type": "text", "text":
+                    f"residual {res / height * 100:.1f}% of body height. "
+                    f"joints: {json.dumps(joints)}. {note}"}]
+
+        if name == "mirror_pose":
+            mode = inp.get("mode", "copy")
+            joints = mirror.apply(inp.get("joints") or {}, mode)
+            root = dict(inp.get("root") or {})
+            if mode == "swap":
+                for k in ("left", "turn"):
+                    if k in root:
+                        root[k] = -float(root[k])
+            img, note = pose_result({"joints": joints, "root": root}, f"mirror {mode}",
+                                    tag, "mirror")
+            return [_img_block(img), {"type": "text", "text":
+                    f"joints: {json.dumps(joints)}; root: {json.dumps(root)}. {note}"}]
+
+        if name == "save_pose":
+            if memory is None:
+                return [{"type": "text", "text": "No memory for this run; not saved."}]
+            bad = [j for j in (inp.get("joints") or {}) if j not in adjustable]
+            if bad:
+                raise ValueError(f"unknown joints {bad}")
+            memory.save_pose(inp["name"], inp["joints"], inp.get("root"), inp.get("note", ""))
+            log(f"  saved pose '{inp['name']}'")
+            return [{"type": "text", "text": f"Saved '{inp['name']}'."}]
 
         plan = parse_plan(inp["plan"])
         bad = unknown_joints(plan, adjustable)
@@ -691,8 +854,12 @@ def direct(model, lights, client, claude_model, command, out_dir, dist, device,
             img = contact_sheet(model, keys, lights, film_azim, front_azim, rest_state, device)
             cv2.imwrite(f"{out_dir}/previews/{tag}_plan.png", img)
             state["last_plan"] = plan
+            grounded = plan.get("grounded", True)
+            measured = [f"t={t:.2f}s: " + "; ".join(p) for t, st in keys
+                        for p in [problems(st, grounded)] if p]
             note = (f"{len(plan['keyframes'])} keyframes, {plan.get('duration')}s "
-                    f"(top: video camera, bottom: side view)")
+                    f"(top: video camera, bottom: side view). Measured: "
+                    + (" | ".join(measured) if measured else "no intersections, balanced"))
             if bad:
                 note += f". UNKNOWN joints ignored: {bad}"
             return [_img_block(img), {"type": "text", "text": note}]
@@ -705,6 +872,41 @@ def direct(model, lights, client, claude_model, command, out_dir, dist, device,
             agent_log.write(f"### submitted, self-check\n\n{inp.get('check', '')}\n\n")
             return [{"type": "text", "text": "Plan accepted."}]
         raise ValueError(f"unknown tool {name}")
+
+    def learn(results):
+        """One extra turn: Claude writes down lessons that transfer to other
+        characters and picks keyframes for this character's pose library.
+        Picking happens here rather than through save_pose because, offered
+        as an optional tool, it was never called."""
+        try:
+            messages.append({"role": "user", "content": results +
+                             [{"type": "text", "text": REFLECT}]})
+            response = client.messages.create(model=claude_model, max_tokens=4000,
+                                              system=system, tools=TOOLS,
+                                              tool_choice={"type": "none"},
+                                              messages=messages)
+            said = fb07._answer_text(response)
+            reply = json.loads(said[said.find("{"): said.rfind("}") + 1])
+        except Exception as e:                      # memory is a bonus, never fatal
+            log(f"memory: skipped ({type(e).__name__})")
+            return
+        items = [str(i) for i in (reply.get("lessons") or [])][:2]
+        if items and lessons is not None:
+            lessons.add(items, memory.name if memory else "?")
+            log("lessons: " + " | ".join(items))
+        if memory is None:
+            return
+        for p in (reply.get("poses") or [])[:2]:
+            try:
+                kf = min(state["final"]["keyframes"],
+                         key=lambda k: abs(float(k["t"]) - float(p["t"])))
+                if not kf.get("joints"):
+                    continue
+                memory.save_pose(str(p["name"]), kf["joints"], kf.get("root"),
+                                 str(p.get("note", "")))
+                log(f"pose library: saved '{p['name']}'")
+            except (KeyError, TypeError, ValueError):
+                continue
 
     for step in range(max_steps):
         response = client.messages.create(model=claude_model, max_tokens=16000,
@@ -728,7 +930,12 @@ def direct(model, lights, client, claude_model, command, out_dir, dist, device,
             label = u.input.get("label", "") if isinstance(u.input, dict) else ""
             log(f"step {step}: {u.name} {label}".rstrip())
             agent_log.write(f"- tool `{u.name}` {label}\n")
+            for c in content:
+                if c.get("type") == "text":
+                    agent_log.write(f"  -> {c['text'][:800]}\n")
         if state["final"] is not None:
+            if lessons is not None or memory is not None:
+                learn(results)
             break
         left = max_steps - step - 1
         if left <= 2:
