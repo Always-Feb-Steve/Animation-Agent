@@ -16,3 +16,4 @@ asset/sam_vit_h_4b8939.pth
 # run outputs
 agent_output*/
 output*/
+runs/

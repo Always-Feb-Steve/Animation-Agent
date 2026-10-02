@@ -1,14 +1,15 @@
-matplotlib==3.10.1
-numpy==2.1.2
-pytorch3d @ git+https://github.com/facebookresearch/pytorch3d.git@06a76ef8ddd00b6c889768dfc990ae8cb07c6f2f
-tqdm==4.67.1
-opencv-python==4.11.0.86
-# warp-lang==1.8.0.dev20250425
-plyfile==1.1
-scikit-sparse==0.4.15
-icecream==2.1.4
-colorful==0.5.6
-pyvista==0.44.2
-meshio==5.3.5
-torch_scatter==2.1.2+pt23cu121
-sam2==0.4.1
+# Animation Agent (agent.py / animate.py / director.py)
+# Install PyTorch with CUDA for your GPU first: https://pytorch.org/get-started/locally/
+torch>=2.3
+pytorch3d>=0.7.8          # build from source if no wheel matches your torch/CUDA
+anthropic>=0.100
+numpy>=1.26
+opencv-python>=4.9
+pyvista>=0.44
+requests>=2.31
+
+# optional: --mode video (Kling reference videos via fal.ai, needs FAL_KEY)
+# fal-client>=0.5
+
+# Automatic rigging of new meshes uses UniRig in its own environment:
+# see rigging/UniRig/requirements.txt
